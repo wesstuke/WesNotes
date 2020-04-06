@@ -1,0 +1,9 @@
+---
+title: "VizNotes"
+Update: "April 2020"
+output: 
+  html_document:
+    theme: cosmo
+---
+
+[Tableau Public Page](https://public.tableau.com/profile/wes.stukenbroeker#!/)

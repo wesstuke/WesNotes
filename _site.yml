@@ -3,5 +3,9 @@ output_dir: "."
 navbar:
   title: "WesNotes"
   left:
-    - text: "WesNotes"
+    - text: "BookNotes"
       href: index.html
+    - text: "EconomistNotes"
+      href: economist.html
+    - text: "VizNotes"
+      href: viz.html
