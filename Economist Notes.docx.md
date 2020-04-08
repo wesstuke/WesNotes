@@ -1,5 +1,4 @@
 
-
 **March 21, 2020**
 
 -COVID-19 Containment Approach: Mitigation ("flattening the curve") curbs the pandemic, suppression (e.g. lockdowns) aims to stop it.  Keeping suppression low leaves many people susceptible to the virus, meaning cycles of lockdowns may be required. The keys are mass testing (which allows focused reactions), investing in healthcare surge capacity, and using technology (for lock-downs as well as tracking the spread).  
@@ -145,8 +144,6 @@
 -Scientists have long struggled to determine the age of fingerprints, but two scientists are measuring products associated with oxidation to get estimates within 24 hours.
 
 -Trump’s ME peace plan lets Israel formally annex the settlements, hand on the Jordan valley, maintain control of the holy sites and reject Palestinian refugees.  It gives greenlights Netanyahu (or Gantz) to take so much territory that a coherent two-state solution is all but impossible. That may soon leave Israel with a choice: give the Palestinians equal rights and watch as they multiply and outvote Jews, or treat them as second-class citizens and formally become an apartheid state.
-
-![image alt text](image_0.png)
 
 **January 25, 2020**
 
@@ -318,8 +315,6 @@ dispatched B-52s to Diego Garcia this week).  The Pentagon would like to keep it
 
 -Impeachment.  The facts: Trump withheld aid, and offered Zelensky a WH meeting if he announced an investigation.  The law: Impeachment was designed for violations of public trust which need not even be crimes.  Nonetheless, public opinion has been stagnant around 50% because Democrats chose to push forward over trying to use judicial branch to force key witnesses (Mulvaney, Bolton) to testify.  The President will be acquitted, continuing to benefit from the constitution’s pro-rural bias:
 
-![image alt text](image_1.png)
-
 **December 7, 2019**
 
 -Rather than a Russian-loving interventionist or Brexit-obsessed comedian, UK voters must vote for the Liberal Democrats on Dec 12 to signal voters still support free markets and liberal society.  "Post-truth" campaigning is driven by the candidates and political tribalism, but mostly by technology (social media lacks gatekeepers limited by professional ethics).
@@ -433,8 +428,6 @@ Only 3.5% of people live outside the country they were born.  Like Australia, re
 -Investing approaches: Warren Buffett looks for underpriced stocks.  George Soros bets on epoch-making events, like the fall of the Berlin Wall.  Renaissance Technologies’ Jim Simons was a mathematician code-breaker who looked for patterns.
 
 -Aircraft carriers remain popular despite increasing vulnerability in near-peer scenarios.   Britain, India, China, and ~Japan are all building carriers.  Carrier-jets flew 41% of sorties in Korean War and over half in Vietnam—plus Iraq and ISIS.  They also have symbolic value for power projection (only reason RUS keeps one).  But aircraft range has decreased as cruise missiles (e.g. DF-21D) increase.  They also cost $13B production/$726M operating, meaning smaller countries can’t afford support ships needed for missile defense.  Should consider drones (e.g. original X-47B concept) and smaller, more maneuverable carriers.
-
-![image alt text](image_2.png)
 
 **November 9, 2019**
 
@@ -620,8 +613,6 @@ and copyright protections.
 
 -In 1965, America’s Presidential Science Advisory Committee proposed trillions of ping-pong balls on the ocean’s surface to reflect sun’s rays back to space.  Newer (but unproven) ideas include growing plants to suck up CO2 and then burning them in power stations which store the carbon underground.
 
-![image alt text](image_3.png)
-
 **September 14, 2019**
 
 -While military victory is out of reach, an abrupt American pull-out would doom Afghanistan to an even bloodier civil war and destabilize the region.  Trump should keep negotiations alive and get the best deal possible by convincing the Taliban he is willing to stay.
@@ -766,8 +757,6 @@ and copyright protections.
 
 -While domestic right-wing extremists now make up around 70% of US ideological killings since 2009, the counter terrorism apparatus remains focused on foreign terrorists. 
 
-![image alt text](image_4.png)
-
 **August 3, 2019**
 
 -Since the 1970s, Brazil has lost 17% of its Amazon forest, causing extinctions of tens of thousands of species, changing weather patterns, and releasing carbon which worsens global warming.  Bolsonaro’s development-focused policies will expedite the desforestation past 20%, dangerously close to the threshold in which deforestation becomes a self-fulfilling cycle.
@@ -829,8 +818,6 @@ and copyright protections.
 * -Current law (1967 Treaty) presumes states will dominate space--not companies.  Key areas to mature are debris/collision liability (currently a gentleman's agreement) and resource extraction (probably a high seas model).
 
 * -Combined Space Operations Center (e.g. SSA): Vandenberg AFB (CA); National Space Defense Center (War): Schriever AFB (CO). ASAT (kinetic, laser, dazzling) capabilities from earth or space improving.  Shift toward constellations.  Should expand 1967 Outer Space Treaty to ban all weapons (currently just WMDs).
-
-![image alt text](image_5.png)![image alt text](image_6.png)![image alt text](image_7.png)
 
 **July 13, 2019**
 
@@ -921,8 +908,6 @@ and copyright protections.
 -A recent study found promotions are largely based on salesmanship skills which are actually a negative indicator of managerial and strategic success.  The "Dilbert Principle" suggests the worst people are promoted because they are least qualified to be doing actual work.  Constant promotion seeking means endlessly seeking favorable feedback; best to stick to what you enjoy.
 
 -Trump is the only president to never have reached 50% national approval rating.
-
-![image alt text](image_8.png)
 
 **June 15, 2019**
 
@@ -1438,7 +1423,7 @@ What should we do?
 
 **February 6, 2016**
 
--Because Germany and Sweden have been left to cope with the refugee crisis alone, their willingness is exhausted.  Unless Europe soon restores order, political pressure will force Mrs Merkel to clamp down unilaterally, starting a wave of border closures. More worrying, the migrant crisis is feeding xenophobia and political populism.  Need to (1) curb the "push" factors through aid and ceasefire in Syria; (2) Review asylum claims while refugees are still in centers in the Middle East or Greek/Italian hotspots; (3) Insist asylum-seekers stay put until their applications are processed.
+-Because Germany and Sweden have been left to cope with the refugee crisis alone, their willingness is exhausted.  Unless Europe soon restores order, political pressure will force Merkel to clamp down unilaterally, starting a wave of border closures. More worrying, the migrant crisis is feeding xenophobia and political populism.  Need to (1) curb the "push" factors through aid and ceasefire in Syria; (2) Review asylum claims while refugees are still in centers in the Middle East or Greek/Italian hotspots; (3) Insist asylum-seekers stay put until their applications are processed.
 
 -The U.S. Italy, France, and Britain should take action against the Islamic State in north-central Libya, where they are spreading out from Sirte.  They should train soldiers defending oil facilities, declare no-drive zones, and bomb IS units which get too close.  This would require few troops and could garner UN or NATO support.
 
@@ -1486,8 +1471,6 @@ What should we do?
 
 -Republican candidates’ tax plans have good ideas like deductions for investment and raising the standard deduction (max amount Americans can earn before paying income tax).  But huge cuts for high earners will be costly and exacerbate inequality.
 
--Backdoors in encryption software make life easier for authorities, but the internet less secure for everyone else.
-
 **December 17, 2015**
 
 -US public enthusiasm is waning for capital punishment.
@@ -1532,7 +1515,7 @@ What should we do?
 
 * Exemption from the goal of "ever closer union"
 
-To win his referendum, he needs more positive messaging about the perks of membership.
+To win his referendum, he needs more positive messaging about the benefits of membership.
 
 **November 5, 2015**
 
@@ -1792,8 +1775,6 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 -Cruz has an inspiring story and is a brilliant campaigner.  He won’t win the election but could drag the other Republican candidates to the right.
 
--US-Israeli relations haven’t been this poor since 1991, or perhaps even 1956.
-
 **March 21, 2015**
 
 -ISIS is uniquely brutal in its treatment of foes and competent in its propaganda.  But its cracks are beginning to show, as it loses ground (Kobani and Tikrit), money (bombed oil facilities), and the consent of the people it rules (begun killing its own followers).
@@ -1858,7 +1839,7 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 **January 17, 2015**
 
--The falling price of oil and advancing energy technology present an opportunity for policymakers to revolutionize the industry.  They should eliminate all subsidies (esp. on carbon products) and tax carbon. TAX OR PERMITS?
+-The falling price of oil and advancing energy technology present an opportunity for policymakers to revolutionize the industry.  They should eliminate all subsidies (esp. on carbon products) and tax carbon.
 
 -Three factors make the threat of terrorism as strong as since 9/11: the failed state in Syria/rise of ISIS, commando-style assaults like Paris are easy to plan, the post-Snowden backlash towards privacy has limited the IC’s technological edge.
 
@@ -1897,8 +1878,6 @@ To win his referendum, he needs more positive messaging about the perks of membe
 **November 22, 2014**
 
 -Russia’s biggest problem may just be its economy: falling oil prices (2/3 of exports) and western sanctions.  The falling rouble has made farming more competitive and Russia has a stash of foreign-exchange reserves, but the crisis could come sooner than expected.
-
--Recent violence in Israel risks moving the conflict into a religious dispute, which will be harder to resolve with a settlement than a political dispute.
 
 -Iran wants sanctions lightened, preserving a minimal enrichment capacity, and to be treated as a normal signatory of the Nuclear Non-Proliferation Treaty, with the right to a civil nuclear program.
 
@@ -1958,19 +1937,11 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 **September 13, 2014**
 
--Emerging governments are no longer catching up to developed countries as quickly as they used to be.
-
--Congress may be scared to hold a vote on Syria with midterm elections approaching.  But since the beheadings, public opinion has turned hawkish with 75% supporting strikes on Iraq and 66% on Syria.
+-There are countless actors in the Syrian conflict: Syrian government, Syrian opposition, Syrian Kurds, Turkey, US & EU, Israel, Saudi & Arab League, Iraqi government, Iraqi Kurds, Iraqi Shia militias, Iran, Al-Qaeda/Jabhat al-Nusra, Islamic State.  US Congress may be scared to hold a vote on Syria with midterm elections approaching.  But since the beheadings, public opinion has turned hawkish with 75% supporting strikes on Iraq and 66% on Syria.
 
 -Washington DC police have microphones in a quarter of the city to alert them of gunshots.  While many are accidents, they’ve discovered that many go unreported.
 
--In July, Thailand’s military junta appointed a parliament stuffed with cronies and former officers.  The streets of Bangkok are calm and relieved the unrest has subsided but the generals refuse to end martial law.
-
--There are countless actors in Syria: Syrian government, Syrian opposition, Syrian Kurds, Turkey, US & EU, Israel, Saudi & Arab League, Iraqi government, Iraqi Kurds, Iraqi Shia militias, Iran, Al-Qaeda/Jabhat al-Nusra, Islamic State.
-
 **September 6, 2014**
-
--Marina Silva, the original VP of Eduardo Campos is neck and neck with incumbent Dilma Rousseff for the October Brazilian election.
 
 -For the first time, citizens will vote for Hong Kong’s territorial leader, but all candidates must be approved by the Communist Party.  It is a missed opportunity for Beijing as discontent is growing.
 
@@ -1980,23 +1951,19 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 -Netanyahu ordered the biggest land grab in a generation just south of Jerusalem, though the Israeli mayor wanted even more.  The more Netanyahu indulges the right, the more he alienates the outside world eliminates prospects for peace talks.
 
--Putin is devoted to reversing the post-Cold War trend of Western humiliation of Russia.  His end game in Ukraine is probably either a federation with the east heavily influenced by Russia or continuing low-intensity conflict.  Sanctions have hurt the Russian economy but lack full force without commitment from the EU (especially on oil).
+-Putin is devoted to reversing the post-Cold War trend of Western humiliation of Russia.  His end game in Ukraine is probably either a federation with the east heavily influenced by Russia or continuing low-intensity conflict.  Sanctions have hurt the Russian economy, but lack full force without commitment from the EU (especially on oil).
 
--Germany’s opposition to American tech companies (Uber, Google) is misguided and they should seek a more friendly start-up culture.
+-Germany’s opposition to American tech companies (Uber, Google) is misguided.  They should seek a more friendly start-up culture.
 
 **August 30, 2014**
-
--Since the 1960s, civil "class action suits" have taught executives to seek rapid, discreet settlements to avoid long, expensive and embarrassing trials.  Argues this behind doors dealing is unfair to companies (BUT THEY COULD GO TO TRIAL IF THEY WANT)
 
 -South Dakota has no oil industry and no large military base.  But it keeps a 3.7% jobless rate through low taxes attracting hospitals, financial companies, and manufacturing.
 
 -In recent years, the US has increased the number of F-1 student visas (mostly for Chinese) but held steady the number of H-1B employment visas, sending increasing numbers of bright foreigners home after graduation.
 
--The second-in-command of Colombia’s armed forces met with FARC officials.  Santos wants a deal by the end of the year, but the FARC has warned it will take longer.
-
 -Modi is finally reviving India’s foreign policy with visits to Japan (civilian nuclear cooperation, U-2 spy planes), Australia (joint naval exercises), and China (border dispute).
 
--Thousands of Westerners have traveled to Syria through Turkey to join IS, which now controls a swath of land with the territory and population of Jordan.  Many want to help fellow Muslims, some are more extreme, and some just want to escape home to find an identity.  .
+-Thousands of Westerners have traveled to Syria through Turkey to join IS, which now controls a swath of land with the territory and population of Jordan.  Many want to help fellow Muslims, some are more extreme, and some just want to escape home.
 
 -The Euro Crisis which started four as a banking and sovereign-debt crisis has decayed into a growth crisis that is now enveloping its three biggest economies (Germany, France, Italy).  Hollande and Renzi need to stay true to structural reform to allow Merkel to tolerate an easier fiscal stance and monetary policy.
 
@@ -2004,29 +1971,19 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 **August 23, 2014**
 
--To avoid war with China, the US should only make promises it is prepared to keep (no red lines on islands in South China Sea but protect Taiwan).  It should welcome Chinese participation in military exercises.  Finally, it will find it easier to include China in new projects than to give ground on old ones.
+-To avoid war with China, the US should only make promises it is prepared to keep (e.g. no red lines on islands in South China Sea, but protect Taiwan).  It should welcome Chinese participation in military exercises. It may find it easier to include China in new projects than to give ground on old ones.
 
--Nobody knows what happened in Ferguson but the riots need to stop.  The police should be less militarized, more diverse, and should wear cameras.
-
--Rick Perry’s indictment on coercion and abuse of office is a stretch, and has not slowed his campaigning.
+-Nobody knows what happened in Ferguson but the riots need to stop.  The police should be less militarized, more diverse, and wear cameras.
 
 -Mexico is launching the gendarmerie, a 5,000-strong police force.  But it is more for optics than operational value.
 
--The untimely death of Brazilian candidate Eduardo Campos has launched his running-mate, Marina Silva into third place as a third way forward.
-
 -Argentina boasts the second-largest shale gas reserves in the world, but investment is slowed by price controls, export taxes, and its recent default on debt.
-
--Modi has made progress on scrapping the Planning Commission, a vestige of centralized economic thinking, but fatefully rejected a global deal by the WTO.
 
 -Kazakhstan is launching a successful beef industry, and is aided by high demand in Russia due to its recent ban on Western produce.
 
 -China has made progress sending rural children to school, but in order to create the knowledge economy it seeks, it must improve quality.  Many students quit school because of the cost, others fail the test, and most lack parental supervision at boarding schools.
 
--A series of air raids have helped put IS on the defensive, but it is far from contained.  It remains strong in Syria and its membership is still expanding.  In order to turn Sunni tribal leaders back against IS, they will need to feel they are included in the government.
-
--Haider Al-Abadi is the same party as Maliki, and thus acceptable to most Shias.  But with 30 years in exile in Britain,  he is seen as closer to the West than Iran, which reassures Sunnis and the US.  He speaks fluent English and has a reputation as a reformer.  Still, he may not be too warm to the Sunnis as the Baathists executed two of his brothers.
-
--Ukrainian forces are recapturing territory and closing in on rebel forces in the east.  Putin must now decide whether to offer more support to the rebels or pursue a negotiated end to fighting.  Ukraine must decide whether to destroy the insurgency or end it through diplomacy.
+-Iraqi President Haider Al-Abadi is the same party as Maliki, and thus acceptable to most Shias.  But with 30 years in exile in Britain,  he is seen as closer to the West than Iran, which reassures Sunnis and the US.  He speaks fluent English and has a reputation as a reformer.  Still, he may not be too warm to the Sunnis as the Baathists executed two of his brothers.
 
 **August 9, 2014**
 
@@ -2034,17 +1991,11 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 -The WTO tends to pursue grand bargains over smaller agreements.  The more regional and bilateral trade agreements, the less likely global pacts are.  Modi refused to sign the latest deal because it wouldn’t let him expand India’s already enormous food subsidies.
 
--Despite a few reforms, Cuba is once again going to China and Russia for foreign investment to prop up its stalled economy.
-
--The legislative phase of Mexico’s reform is complete; now the burden is on implementation.  Regulations have spooked the economy and Nieto must make sure the benefits are shared by all.
-
 -Indians are protesting civil-service exams administered in English (the national language) for discriminating against those who did not attend English-language schools.
 
 -Xinjiang is becoming China’s Chechnya as separatist attacks continue.  China has encouraged Han migration and poured money into infrastructure but needs to boost education and employment among Uighurs.
 
 -As incomes have shot up over the past 35 years, Chinese alcohol intake has skyrocketed.
-
--Egypt is hosting Israeli and Palestinian negotiators during a three-day ceasefire but a deal is unlikely to hold.  Both sides claim victory, but the war is not popular on either side.  Israel may loosen the blockade but refuses to allow the Palestinian Authority to reassert itself in Gaza.
 
 -Despite a string of blunders (corruption, beating protestors), Recep Tayyip Erdogan appears destined for victory in the upcoming Presidential election.  He is a manipulative autocrat, but has also eased Muslim restrictions, negotiated with the Kurds, and made Turkey a richer, freer, and happier place.
 
@@ -2052,17 +2003,13 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 -Africans like the US better than China, but Obama could do more to promote American investment (currently just 1% of overall foreign direct investment).  Europe also wants the US/NATO to contribute more military support in the Maghreb.  
 
--An effort to hold all state primaries on one day could increase interest and voting turnout.
-
 -Latin America’s term limits have loosened over the past two decades, which is concerning given the dominance of incumbents (though this has much to do with a decade of commodity-fueled economic growth). 
-
--Maduro’s hold on power remains tenuous as the radical left accuses him of betraying Chavez, though the opposition party is equally splintered.
 
 -Japan has restarted its nuclear program.  While unpopular, it is critical to provide jobs and revenue to create an array of sports and cultural facilities.
 
--Less than 30% of Chinese airspace is open to civil aviation, compared to 85% in the US.  The rest is dedicated to military exercises which have exacerbated already dreadful airline delays.
+-Less than 30% of Chinese airspace is open to civil aviation (compare to 85% in the US).  The rest is dedicated to military exercises which have exacerbated already dreadful airline delays.
 
--Israel is winning its battle against Hamas/Gaza but losing in the war for world opinion.  Favorable opinion of Israel is at -26% (below Russia and above only North Korea, Pakistan, and Iran).  While it may be held to too high a standard, continued killing of civilians and opposition to a two-state solution will only erode its popularity further.
+-Israel is winning its battle against Hamas/Gaza but losing in the war for world opinion.  Favorable opinion of Israel is at 26% (below Russia and above only North Korea, Pakistan, and Iran).  While it may be held to too high a standard, continued killing of civilians and opposition to a two-state solution will only erode its popularity further.
 
 -The US and Europe finally put together a tough and coordinated package of sanctions targeting state-owned banks and forbidding the export of technologies needed by Russia’s oil and defense industries.  But Putin’s political survival depends less on economic growth than on wages, which may remain stable longer thanks to energy exports.
 
@@ -2070,19 +2017,11 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 -More American companies are merging with foreign partners to avoid the American corporate tax.  Lawmakers have tried to respond with regulations, but really need to lower the tax from 35% (highest in OECD) and limit the tax to only income earned within the US.
 
--Democrats seem more concerned with 2016 than 2014, which threatens to ruin Obama’s last two years in office.
-
 -Since Brazil was eliminated from the World Cup, business confidence in the host nation has fallen as inflation is over 7%.  Dilma Rousseff is hoping government spending on infrastructure can help her odds in October.
 
--Jokowi’s victory in Indonesia is a triumph for democracy as he has emerged from the reformist movement that toppled Suharto.  He will need a broad coalition to tackle corruption as an outsider.
-
--A planned power line from Kyrgyzstan to Afghanistan and Pakistan was held up by war and corruption, but now is doomed by energy shortages in Kyrgyzstan caused by outdated infrastructure and state-run energy monopolies.  It could also generate friction with Tajikistan.
-
--When Gazprom took over Kyrgyzstan’s gas network, Uzbekistan stopped exporting to Kyrgyzstan’s south, saying it had no contract with Gazprom.  This cut off energy for hundreds of thousands.  Uzbekistan is negotiating with the Russian gas company while the government of Kyrgyzstan has been stuck in the middle.
+-A planned power line from Kyrgyzstan to Afghanistan and Pakistan was held up by war and corruption, but now is doomed by energy shortages in Kyrgyzstan caused by outdated infrastructure and state-run energy monopolies. 
 
 -Israel and Gaza will continue to fight war after war until a more permanent agreement is reached.  The last serious talks broke down primarily because Israel would not accept a Palestinian state--it’s time for them to accept a 2SS. 
-
--Putin continues to spin his web of lies as he blames the downing of the Malaysian flight on Ukraine when the missile was supplied by Russia and he started this war.  The Western response has been pitifully weak.
 
 -Berlusconi was acquitted of both his charges of sleeping with an underage girl and although he cannot run for office, he is still exerting influence over Italy, helping Renzi reform the upper house of Parliament.
 
@@ -2090,41 +2029,29 @@ To win his referendum, he needs more positive messaging about the perks of membe
 
 -Two-thirds of the West supports assisted suicide, but it remains illegal in most places.
 
--Expectations on the supply of workers and rise in productivity have fallen short and growth estimates have been cut.  Prescriptions: keep interests rate low to boost demand, increase spending on infrastructure, reduce corporate tax rate, reduce regulations, and reform immigration.
+-Expectations on the supply of workers and rise in productivity have fallen short and growth estimates have been cut.  Recommendations: keep interests rate low to boost demand, increase spending on infrastructure, reduce corporate tax rate, reduce regulations, and reform immigration.
 
--The turnover rate in Congress is less that most English monarchies.  Result of gerrymandering, intense partisan warfare, and voter identification trends.
-
--In 2003, Hugo Chavez fired 18,000 employees--almost half the workforce--of the state-run oil corporation for going on strike.  The PDVSA has never fully recovered; its productivity has sagged as the skilled workers went elsewhere and improved oil production in the US, Mexico, and the Persian Gulf.
+-The turnover rate in Congress is less than most English monarchies.  Result of gerrymandering, intense partisan warfare, and voter identification trends.
 
 -Modi is tackling the dire public sanitation in India, as 72% of rural people defecate outdoors, with grave concerns for public health and safety.  It will take more than just toilets, as many prefer to go outside.
 
--Abe’s popularity has fallen in response to his efforts to reinterpret Japan’s security policy to allow it to defend an ally.
-
--The easing of the one-child policy last year has not produced the expected increase in demand as it has been delayed by bureaucracy and lingering effects of one child families.
-
--The dispute over the Afghan election could turn out a positive, as the deal Kerry brokered gives the loser a powerful position as chief of the executive.  This breaks up the powerful Presidency Karzai built.
-
--Mr. Khamenei and Rouhani post updates on Twitter and Facebook even though they are both illegal in the country--Rouhani wants to ease the restrictions.
+-Mr. Khamenei and Rouhani post updates on Twitter and Facebook even though they are both illegal in Iran--Rouhani wants to ease the restrictions.
 
 -France is reorganizing troops in central Africa into a 3,000-strong CT force based in Chad.
 
--Russia took advantage of a summit to tour Latin America and sealed energy deals with Cuba, Argentina, and Brazil.
+-Russia took advantage of a summit to seal energy deals with Cuba, Argentina, and Brazil.
 
 **July 12, 2014**
 
-SPECIAL REPORT: CYBERSECURITY.  Data breaches are becoming bigger and more common (mostly cybercrime and online industrial espionage).  Securing cyberspace is hard because the internet was designed to promote connectivity rather than security.  Cybercrime includes crooks who are after money (e.g. spear phishing) and groups after fame (e.g. distributed denial of service).  More encryption and robust passwords are needed.  Companies are often reluctant to admit they’ve been hacked, but are starting to share information about attacks to prepare themselves.  As more machines/items contain web-enabled computers, there is greater danger (e.g. hacking into a car).
-
--Silicon Valley’s tactic of pumping out new software as fast as possible and issuing patches to fix security flaws is becoming increasingly risky.
+-Data breaches are becoming bigger and more common (mostly cybercrime and online industrial espionage).  Securing cyberspace is hard because the internet was designed to promote connectivity rather than security.  Cybercrime includes crooks who are after money (e.g. spearphishing) and groups after fame (e.g. distributed denial of service).  More encryption and robust passwords are needed.  Companies are often reluctant to admit they’ve been hacked, but are starting to share information about attacks to prepare themselves.  IoT will broaden threat surfaces.  Silicon Valley’s tactic of pumping out new software as fast as possible and issuing patches to fix security flaws is becoming increasingly risky.  SPECIAL REPORT.
 
 -Benefits of legalizing marijuana: stops government from wasting money locking up people who haven’t hurt anyone, raises tax revenues, puts criminals out of business.  Oregon, Alaska, and California are the next states to vote on legalizing it.
 
--Companies are now providing enormous searchable databases of what politicians have said that can automatically look for contradictions.
+-Companies are now providing enormous searchable databases of politicians statements.  The software can automatically look for contradictions.
 
 -A bulge of young men, high income inequality, and demand for drugs has made Latin America the most violent region.  It must reform its criminal justice system to prevent corruption and promote rehabilitation.  A male born in Honduras has a one-in-nine chance of being murdered.
 
 -Ashraf Ghani, a technocrat with the support of Karzai, won the runoff election but Abdullah Abdullah claimed ballot-stuffing given the much larger turnout in round two.  The sides agreed to audit the voting.
-
--For all firms, local or foreign, a tangle of regulations, local protectionism and corruption makes getting goods across China a problem.  Fortunately, the private sector hopes to develop a smart logistics network relying on big data.
 
 -Timeline of Gaza war: 3 Jews murdered in southern settlement.  Revenge killing of Palestinian.  Riots and rockets in Gaza.  Israeli missile strikes.  Hamas declined peace treaty.  Israel invasion.
 
@@ -2133,12 +2060,6 @@ SPECIAL REPORT: CYBERSECURITY.  Data breaches are becoming bigger and more commo
 -The Scots have a referendum on independence on September 18th.  An independent Scotland may be more democratic, as its people are more liberal, but it would suffer economically, as its population is older and it would have to set up a new army, welfare system, currency, etc.
 
 **July  5, 2014**
-
--Small businesses complain more about red tape than taxes.  The government needs to do a better job of considering the cost of compliance before passing regulation.
-
--Jakarta’s inexperienced mayor is the best candidate to open markets and improve living conditions, but he is losing his lead against a former general in the Indonesian presidential race.
-
--Since Modi came to power, the stock market is up and currency has settled.  But he will not make his goals for cuts in the budget.
 
 -Demonstrations in Hong Kong over political freedoms expanded.  Xi consolidated power by sacking a general for "corruption."
 
@@ -2158,9 +2079,7 @@ Yet none of these are unique to the Arab states.  Arab Spring gave hope, but the
 
 -ISIS expanded its goal and changed its name to just "IS."  But Iraqi forces are preparing to take back territory and the Kurds are beginning to fight them in the north.
 
--The French bank BNP was hammered for a year’s profit for funneling money to a deadly regime in Sudan.  While deserved, US regulators had incentive to increase the fines as they kept the spoils.
-
--After a ten-day ceasefire, fighting has resumed in East Ukraine.  Russians continue to drum up protests and back them up by force.
+-The French bank BNP was hammered a year’s profit for funneling money to a deadly regime in Sudan.  While deserved, US regulators had incentive to increase the fines as they kept the spoils.
 
 **June 28, 2014**
 
@@ -2168,33 +2087,23 @@ Yet none of these are unique to the Arab states.  Arab Spring gave hope, but the
 
 -The cost of college is rising just as the government decides it can no longer afford subsidies.  At the same time, a technological revolution is allowing more free online classes which will reach more people but have high dropout rates and lack personal touch.
 
--Since 1960, spending on public infrastructure has fallen to half European levels.
+-Since 1960, US spending on public infrastructure has fallen to half European levels.
 
--Jamaica decriminalized the possession of small quantities of marijuana, but as long as drugs remain illegal, the business will remain a criminal monopoly.
-
--Rising numbers of children are migrating the US because many falsely believe Obama has relaxed enforcement.  Still, the total number of people crossing the southwest border has fallen sharply.  
-
--Abe’s "third arrow" of structural reform may actually work this time due to desperation over an aging population, sluggish growth, and China’s rise.  
+-Abe’s "third arrow" of structural economic reform may actually work this time due to desperation over an aging population, sluggish growth, and China’s rise.  
 
 -Pakistan is finally launching an offensive against militants in the northwest, but it may be too late. NATO no longer has forces in Afghanistan to trap the insurgents and militant groups are no longer isolated to FATA.
 
--Suicide rates in China have dropped rapidly, primarily among rural women.  It is primarily due to migration to cities and the rise of an urban middle class.  Still, policies like one-child will cause the figure to skyrocket among the elderly.
+-Suicide rates in China have dropped rapidly, especially among rural women.  It is primarily due to migration to cities and the rise of an urban middle class.  Still, policies like one-child will cause the figure to skyrocket among the elderly.
 
 -While Sisi is popular for giving up half his salary and visiting a hospital, signs of growing authoritarianism are becoming increasingly obvious with sacking of opponents and a complex new law expanding the legislature to an unwieldy 567 members.
 
--While some Jordanians enjoy the increasing tourism due to conflict in Iraq and Syria, the rulers are becoming edgier as ISIS took control of the border town of Turabil.
-
--Poland’s economy has grown more than any other EU country since the end of the cold war due to its shock therapy transition to capitalism, effective use of EU membership, and continuous reforms.
+-Poland’s economy has grown more than any other EU country since the end of the Cold War due to its shock therapy transition to capitalism, effective use of EU membership, and continuous reforms.
 
 **June 14, 2014**
 
 -Amazon revolutionized online shopping, customer reviews, e-books, and a model for renting cloud-computing space.  Still, it risks becoming an unfair competitor amidst accusations of being a lousy employer, dodging taxes, and bullying its rivals.
 
--Juan Manuel Santos was narrowly re-elected in Colombia on a promise of peace.  Other priorities include health care reform and judicial reforms, as well as redistributing oil revenues.
-
 -Looking at the disaster in Ukraine, Kazakhstan is being careful not to anger its northern neighbor by forging ahead with the Eurasian Economic Union.
-
--Hong Kong is the most successful city in China due to its free press and financial capital.  Beijing still chooses its chief executive but protesters are demanding free elections.
 
 -Maliki governed Iraq disastrously by replacing competent army officers who posed a threat and repressing Sunnis and keeping them out of governments.  America can help with the Kurds, but it should focus on pulling the moderate Sunnis away from ISIS.  It must accelerate its process of training moderate Syrian rebels.
 
@@ -2202,55 +2111,35 @@ Yet none of these are unique to the Arab states.  Arab Spring gave hope, but the
 
 **June 14, 2014**
 
--The origin of the (traditional-tea party) divide in the Republican Party was when the Bush Administration found itself diverging from the three main tenets of Republicanism: defense hawks, social conservatives, and pro-business.  
+-The origins of the Traditional/Tea party divide in the Republican Party was when the Bush Administration began diverging from the three tenets of Republicanism: defense hawks, social conservatives, and pro-business.  
 
--Rahm Emanuel has made strides on education by lengthening the school day and increasing the graduation rate.  But the crime rate is creeping up and the biggest challenge will be tackling public pensions.
-
--The A-10 Warthog was designed for attacking Soviet tank columns, though it is actually popular with ground units in Afghanistan for flying low.  The House is considering scrapping it but it will be politically difficult.
+-The A-10 Warthog was designed for attacking Soviet tank columns, though it is popular with ground units in Afghanistan for low, loitering air cover.  The House is considering scrapping it but it will be politically difficult.
 
 -Sharif may finally be the leader to overshadow the Pakistani military generals.  His strong mandate, legislative majority, and independent media will help him, though the army was able to block attempts at peace talks with the Taliban.
 
--Japan’s government has been building hundreds of new seawalls post-2011.  But they look hideous enough to damage tourism, evidence for effectiveness is flimsy, and they destroy local ecosystems.
+-Japan’s government has been building hundreds of new seawalls post-2011.  But evidence for effectiveness is flimsy, they destroy local ecosystems, and they look hideous (may damage tourism).
 
 -About a third of poor Chinese children suffer from anaemia because of a lack of iron, which can stunt brain development.  Charities are promoting nutritional supplements, but local governments are hesitant to put money on childhood nutrition as the payoffs are years away.
 
--Over the past year, ISIS has gained large swaths of territory in Syria and Iraq.  It is already imposing taxes and set up an intelligence service.  It may be cooperating with a network of Sunni remnants from Saddam’s underground resistance.  Obama has refused to use drones thus far.  Their most likely downfall is their cruel tactics or if Maliki is able to align with the well-equipped Kurdish forces.
-
--As America retreats from the woes of the world, it may be time for European countries to step up and match their economic might with foreign policy influence.  But their relationship with Israel is not much better than that of the US.
+-Over the past year, ISIS has gained large swaths of territory in Syria and Iraq.  It is already imposing taxes and set up an intelligence service.  It may be cooperating with a network of Sunni remnants from Saddam’s underground resistance.  Obama has refused to use drones thus far.  Their biggest threat would be if Maliki is able to align with the well-equipped Kurdish forces.
 
 **June 7, 2014**
 
--The Capitol Power Plant in SE DC has been puffing away since 1910, pumping out over 100,000 tons of carbon dioxide per year.  Obama’s plan to cut emissions is welcome to reduce total emissions by around 5%, but falls short of a carbon tax or carbon market.
+-The Capitol Power Plant in SE DC has been puffing since 1910, pumping out over 100,000 tons of carbon dioxide per year.  Obama’s plan to cut emissions is welcome to reduce total emissions by around 5%, but falls short of a carbon tax or carbon market.
 
 -State programs to provide supervision and support for newly released criminals have reduced the recidivism rate and should be expanded.
 
--Medellin, Colombia’s second largest city, has experienced a tremendous social urbanist revival.  But it was largely due to windfall from utility companies and a unique political and economic culture and thus will be difficult to repeat in other cities.
-
--Shinzo Abe’s attempts to rewrite the constitution to allow Japan to defend allies is putting him at odds with his coalition partner and he may soon have to retreat given the pacifist population.
-
--Altaf Hussain, founder of the Muttahida Qaumi Movement (MQM) movement had been calling shots from a cozy estate in London but was recently arrested for money-laundering.  The Mohajirs (Urdu-speaking Muslim migrants) are upset and risk more chaos in Karachi.
-
--Hong Kong’s freedom to commemorate Tiananmen Square is a point of pride for many.
-
--Chinese officials are pushing back against the use of words such as MBA, CEO, and iPhone in Romanized Chinese.
-
--Assad has been buoyed by foreign support, brutal tactics and divisions amongst the rebels, who are distracted by the rise of ISIS.  But as ISIS gains the attention of the west, they may provide more weapons and support for rebels.  Otherwise, the battle lines will soon become entrenched.
-
 -The US has provided measured support for the new Palestinian government, which includes both Fatah and Hamas, though Israel is trying to sabotage it.  It has more technocrats than seven years ago, but maintains a military wing, cultural divides, and a lack of funds.
 
--Iran’s leaders, worried about declining population since the late 1980s, are encouraging women to have 5-12 babies, but it may not work on a better educated demography.  
+-Iran’s leaders, worried about declining population since the late 1980s, are encouraging women to have 5-12 babies, but it may not be effective with a better educated population.  
 
 -Qatar’s King Sheikh Hamad bin Khalifa oversaw population and GDP growth, increasing influence with Al Jazeera, and the winning of the 2022 World Cup.  But after abdicating last year, his son has been left with the Arab Spring, a football controversy, and angry neighbors.
-
--FIFA has been rocked by controversial leadership, financial/betting scandals, lagging technology, and drama over location selection.  While no one governs the body, the Swiss should demand a clean-up or withdraw its favorable tax status.
-
--Soccer’s simplicity has universal appeal, with FIFA having more members than the UN.  But it has not caught on in the rich countries because Americans are distracted by other sports, Indians love cricket and Chinese communists banned meetings of ten or more people.
 
 TECHNOLOGY QUARTERLY:
 
 * Microscopes are expensive but important for poor-world laboratories and clinics for identifying pathogens.  A new one has been made almost completely out of paper.
 
-* New technology will allow video chat directly through a browser, though Microsoft and Apple are dragging their feet as they own Skype and Facetime.
+* New technology will allow video chat directly through a browser, though Microsoft and Apple are dragging their feet as they own Skype and Facetime, respectively.
 
 * The camera business is facing tough times as more and more people use their smartphones.
 
@@ -2258,43 +2147,25 @@ TECHNOLOGY QUARTERLY:
 
 * Around 1,000 new nanosatellites are expected to join the 1,000 existing satellites in the next five years.  It provides countless startup opportunities, but could also increase space junk/be used for military purposes.
 
-* Companies have already started developing smartphones with more extensive controls on data collected to enhance privacy.  Obama is focusing on homomorphic encryption, which allows computations to be carried out on data while in an encrypted state and differential privacy, which uses algorithms to create noise to prevent use of open source data to match identities.
-
 **May 31, 2014**
 
--Over Obama’s two terms, the number of deployed soldiers will drop from 180,000 to under 10,000.  He vowed that when America’s direct interests are not threatened, America should not act alone and only use force if there is a good chance of victory. His foreign policy has been more reactive than based on principles (BUT THAT DIDN’T GO GREAT FOR BUSH!)
-
--A short supply of labor for construction has increased blue collar salaries and dropped the unemployment rate for high-school students faster than for college graduates.
+-Over Obama’s two terms, the number of deployed soldiers will drop from 180,000 to under 10,000.  He vowed that when America’s direct interests are not threatened, America should not act alone and only use force if there is a good chance of victory. His foreign policy has been more reactive than principled.
 
 -The US loses as much as $272 billion each year on healthcare fraud (wide variety of tactics).  Obamacare introduces tighter screening and data-crunching technology helps find fraud, but the system remains too complicated to enforce.
 
 -Protests in Brazil have become smaller and more radicalized, but the country is bringing in 100,000 policemen and 57,000 soldiers to keep peace during the World Cup.
 
--Santos lost the first round of the Colombian election, primarily because influential former President (and former ally) Alvaro Uribe backed his competitor, Oscar Zuluaga.  Uribe wants a more direct attack on the FARC.
-
--Asian businesses have lagged as massive state-controlled bodies, but they are being forced to become more innovative, nimble, and global for three reasons: labor costs are rising, middle class is becoming more demanding, and competition has increased from Western multinationals.  SPECIAL REPORT.
-
--A military general formally completed a coup in Thailand and disbanded the Senate.  The coup is popular for now but the last one in 2006 fell apart when soldiers made a mess of ruling.
-
--Both Karzai and Sharif came to Modi’s inauguration, a promising sign for deflating tension in the region.
-
--Japan’s population is on pace to shrink by a third.  They are easing immigration restrictions.
-
--Tiananmen Square demonstrates the unpredictability of China’s political stability.  Secretary Xi is the most powerful leader since Deng, but a slowing economy, huge middle class, large rural population, and booming social media always poses the threat for demonstrations.
-
 -Egyptian turnout in Sisi’s victory was much lower than expected, which makes his popularity hard to gage.  He should open up democracy to non-violent Islamists and embrace open-market economies.
 
 -Sierra Leone is one of the few places in Western Africa where religious tolerance is enforced.
 
--Riding nationalism, immigration concerns, and a down economy, anti-EU parties got 25% in France, 27% in England, and 40% in Greece.  The EU could survive the loss of England but not France.  The only solutions are economic prosperity and increased democracy.
+-Rising nationalism, immigration concerns, and a down economy drove anti-EU parties to get 25% in France, 27% in England, and 40% in Greece.  The EU could survive the loss of England but not France.  The only solutions are economic prosperity and increased democracy.
 
 -Ukraine’s new president, Petro Poroshenko, comes from the old corrupt system, but has laudable intentions, saying he will talk to non-violent separatists in the east.
 
 **May 24, 2014**
 
--That the Tea Party is losing primaries is actually more threatening to Democrats in the general elections.
-
--The Justice Department unveiled charges against 5 members of the PLA for cyberspying.  They won’t be captured, but their names were released.  China responded by pulling out of a bilateral working group on cyber security.  The line between national security and commercial spying is blurry and America is spying on Huawei anyway.
+-The Justice Department unveiled charges against 5 members of the PLA for cyberspying.  They won’t be arrested, but their names were released.  China responded by pulling out of a bilateral working group on cyber security.  The line between national security and commercial spying is blurry and America is spying on Huawei.
 
 -As South and Central America have stepped up drug enforcement, more trafficking is coming through the Caribbean, on speed boats or cargo ships.  This is bad news, as drug gangs become more entrenched.
 
@@ -2302,33 +2173,19 @@ TECHNOLOGY QUARTERLY:
 
 -A preference for sons has led to a serious imbalance of the sexes in South Korea, where men are marrying more foreigners.  A homogenous society, the government responded by requiring that brides speak Korean and are supported financially.
 
--Concern about gargantuan local debts led to a ban on borrowing but this just resulted in shady dealing, so local governments are once again allowed to sell bonds.
-
 -Sisi is posed to win election in Egypt with the support of the army, civil service, rich businessmen, and a dominating block of ordinary citizens who simply want a return to stability.
-
--China and Russia signed a major deal for Gazprom to sell China’s National Petroleum Corporation 38 billion cubic meters of natural gas per year between 2018 and 2048.  Commercial and geopolitical ties are growing, but Putin largely made this move out of desperation given tough relations with Europe.  China needs cleaner energy but still gets most from central Asia.
 
 **May 17, 2014**
 
--The electorate for November’s midterms are older and whiter than they have been since 1983.
+-The electorate for November’s US midterms are older and whiter than they have been since 1983.
 
--The US is looking into new missile defense programs which would use drones to shoot down missiles immediately upon takeoff (when they are most vulnerable).
+-The US is looking into new missile defense programs which would use high altitude drones to shoot down missiles immediately upon takeoff, when they are most vulnerable ("boost phase intercept").
 
 -Colombia’s economy is flourishing but the slow pace of peace talks with the FARC may doom Juan Manuel Santos’ re-election.
 
 -Latin America spends less than 2% of GDP on transportation infrastructure.  It also lacks people in the public sector with the training and experience to design, evaluate and supervise complex engineering projects.
 
--Abe unveiled new proposals which allow Japan to come to the defense of allies.  As long as they are accompanied by energetic diplomacy, this will make east Asia more stable.
-
--Modi must tackle India’s rotten banks, lower public borrowing, and create more decent jobs by restoring the country’s reputation as a place to do business.
-
--China introduced stiffer punishments against pollution, detention of negligent executives, protection for whistleblowers, and penalties for officials who fail to enforce laws.
-
 -Saudi women are beginning to break the glass ceiling, competing in the Olympics and becoming editor of a daily newspaper.  But education remains single sex.
-
--Iran seems to be sticking to the last agreement, and hopes are high that a new deal could be reached as talks resume this summer.
-
--A record number of Europeans will probably not bother to turn out.  The EU appears doomed by its need for integration and the voters’ rejection of it.  If the EU is to gain democratic legitimacy, it will not do so through the European Parliament but through greater fiscal flexibility and more national control over social policy.
 
 -The "right to be forgotten" sounds good but is difficult in practice.  Censoring Google in Europe will not censor it in the US and it undermines the internet’s neutrality.
 
@@ -2336,73 +2193,49 @@ TECHNOLOGY QUARTERLY:
 
 -Shadow banking (lending by institutions other than banks, mostly credit) is proliferating because of post-crisis regulations and higher capital requirements.  They are good because if the loan goes wrong the creditor loses money without being tangled in the complex banking system, but they are dangerous in China where they are not regulated at all.
 
--Vermont may pass a law requiring labeling foods with genetically-modified ingredients.  This will unnecessarily spook consumers.
-
--28% of the 8 million signed up for Obamacare are under 34, but the rate varies greatly by state (risk pool).
+-Vermont may pass a law requiring labeling food with genetically-modified ingredients.  This will unnecessarily spook consumers.
 
 -Bill de Blasio is trying to build more affordable housing units over the coming decade, but the real problem is a lack of land and Byzantine rules about what can be built since 2008.
 
 -DC Segway tour guides are required to pay up to $200 and take an exam for a permit.  Violators can be imprisoned up to 90 days, a system which raises prices and kills jobs.
 
--Panama City is trying to become a business hub, but the government cannot sustain its wild spending and should focus more on education than concrete.
-
--The Supreme Court forced Thailand’s President to step down, but it has only increased political divisions in the reeling country, as the opposition will likely continue to boycott the vote.
-
 -As Obama tried to reassure rivals, the South China Sea flared up when Chinese ships rammed and sprayed water canons at Vietnamese Coast Guard ships and the Philippines arrested 15 Chinese fisherman.
 
 -Polio is on the rise in Pakistan, where the Taliban claims vaccinations are anti-Muslim infertility drugs and they assassinate health workers.
 
--Boko Haram, founded in 2002 and turning violent in 2009, is increasing its attacks against soft targets like schools and markets.  While Nigeria has the strongest army in Africa, Jonathan’s indifferent response has done nothing to stop them.
+-Boko Haram, founded in 2002 and turning violent in 2009, is increasing its attacks against soft targets like schools and markets.  While Nigeria has the strongest army in Africa, President Jonathan’s indifferent response has done nothing to stop them.
 
 -In Kenya, the police are often as dangerous as the criminals.  While bail is easy to get and court dates are often missed, an increasing number of police shoot criminals on arrest.
-
--Putin has taken a step back, urging pro-Russian protesters to delay the secession vote.  He wants to keep foreign leaders guessing and keep Ukraine smouldering rather than a full-fledged civil war.
 
 **May 3, 2014**
 
 -Fund management was historically dominated by "active" funds in which a manager tried to select assets that will do better than average for a steep fee.  They are losing ground to “passive” funds which just replicate the market for a negligible fee.  Passive investing lends itself to economies of scale as 70% are controlled by BlackRock, State Street, and Vanguard.
 
--Other countries’ foreign policies are dependent the United States’ security umbrella.  After failed interventions in the Middle East and no interventions in Syria and Ukraine, already regional powers are keener to dominate their neighbors, international norms are weakening.  Credibility is easily lost and hard to rebuild.  America’s hard power still dominates but its lead is slipping.  GOOD STORY PAGE 23
+-Other countries’ foreign policies depend on the US security umbrella.  After failed interventions in the Middle East and no interventions in Syria and Ukraine, regional powers are keener to dominate their neighbors and international norms are weakening.  Credibility is easily lost and hard to rebuild.  America’s hard power still dominates but is slipping. 
 
 -One might think the abundance of data would help politicians understand reality and drive debate, but it has instead just provided more ammo for both sides.
 
--Canada weathered the financial crisis well but it has a "too big to fail problem," remains dependent on the US, and the employment rate is below pre-crisis.
-
--Mexico has the potential for as big a shale boom as the US but only two wells have been dug due to earthquakes and a lagging industry.
-
 -Outgoing Indian PM Manmohan Singh has been chastised by everybody in this extended election.  He was passive against corruption, but he is responsible for poverty reduction, rural job and food schemes, polio eradication, and the taming of a once terrifying AIDS epidemic.
 
--106 Indian candidates are illiterate and 17% face criminal charges, many for rape or murder.  Voters don’t seem to care, voting for wealthy celebrities over good candidates.
-
--Known more for generating asylum seekers than receiving them, Sri Lanka is attracting tons of Pakistani refugees who enter the country on 30-day tourist visas and can stay while their cases are examined by the UNHCR.
+-While known for generating asylum seekers more than receiving them, Sri Lanka is attracting Pakistani refugees who enter the country on 30-day tourist visas and can stay while their cases are examined by the UNHCR.
 
 -China’s billionaires are the least charitable in the world as they try not to identify themselves in a socialist country.  Xi should help by applauding charitable donations, promoting civil society, and clarifying charities’ legal status.
 
--The government’s lack of transparency about spending revenue from one-child penalties created corruption, while its failure to disclose information about the spread of SARS cost lives.  The State Council released new guidelines which make it more difficult for officials to keep secrets without good reason.
+-In the past year, the Central African Republic has seen its Christian government overthrown by Muslim rebels, which were overthrown by Christian militias.  The thousands of UN and French peacekeepers have been unable to stop the brutality, but more troops are on the way.
 
--The ANC will win the coming election and likely the one after that, but the country needs better education and business know-how from abroad.  The Democratic Alliance has fresher ideas than the corrupt Zuma.
-
--In the past year the CAR has seen its Christian government overthrown by Muslim rebels, which were overthrown by Christian militias.  The thousands of UN and French peacekeepers have been unable to stop the brutality, but more troops are on the way.
-
--Since January, Iraqi security forces have lost control of large chunks of Anbar province, west of Baghdad to aggrieved Sunni fighters.  ISIS holds Falluja and parts of Ramadi.  Maliki has sought to expand his power, but may be supporting sketchy Shia militias operating outside of the official army command.
+-Since January, Iraqi security forces have lost control of large chunks of Anbar province (west of Baghdad) to aggrieved Sunni fighters.  ISIS holds Fallujah and parts of Ramadi.  Maliki has sought to expand his power, but may be supporting sketchy Shia militias operating outside of the official army command.
 
 -Even the Ukrainian President has admitted that Ukrainian security forces are helpless in the east.  They are paid little, reluctant to shoot to kill, and many were sent to Kiev during anti-government protests last winter and were told they were fighting the very "fascists" they are now supposed to take orders from.  Sanctions are damaging the Russian economy, but Putin has no intent on slowing down given his domestic support.
 
 **April 26, 2014**
 
--In the next 20 years the population of 65+ will double to over a billion.  Problems: Working longer keeps jobs from younger, collect government welfare, accumulate savings which weakens demand.  Policy should impose higher inheritance taxes to encourage spending and remove generous pensions.
+-In the next 20 years the population of 65+ will double to over a billion.  Problems: Working longer keeps jobs from younger, collect government welfare, accumulate savings which weakens demand.  Policy should impose higher inheritance taxes to encourage spending and remove overly generous pensions.
 
--Warren Buffett's strategy has been to seek solid firms with good defenses against competitors, leave their managers to run them as before, and hang onto them for the long term.  He should sell Berkshire Hathaway to prevent a battle between his son and a powerful board of directors when he steps down.
+-Warren Buffett's strategy has been to seek solid firms with good defenses against competitors and hang onto them for the long term.  He should sell Berkshire Hathaway to prevent a battle between his son and a powerful board of directors when he steps down.
 
 -The US still has the death penalty because most people favor it, but support has dropped from 80% to 60% in the last 20 years.  Executions (with all appeals) are five times more expensive than life without parole and evidence of deterring murders is scant.
 
--Peru depends on a large southern oil reserve for its economic output but has developed the area with little regard for the isolated tribes in the area.
-
--Relations between Japan and South Korea appear to be thawing as diplomacy flourishes, but China remains tense.  Mongolia recently brokered a meeting between North Korean and Japanese officials.
-
--The Pakistani journalist Hamid Mir had long been popular with both militants and the government (he interviewed bin Laden a week after 9/11) but his growing dislike of violence brought a shooting on his car.
-
--Middle-class Chinese are increasingly leaving for Canada, Australia, and southern Europe to escape pollution and stressful city-living (NOT because of oppression)
+-Peru depends on a large southern oil reserve for its economic output but has developed the area with little regard for the isolated native tribes in the area.
 
 -The civil war in South Sudan risks becoming localized after a horrendous mass execution.  The roots lie in the failing state government and there is little the UN can do as neighboring states have taken sides.
 
@@ -2414,21 +2247,11 @@ TECHNOLOGY QUARTERLY:
 
 **April 19, 2014**
 
--The percent of stay-at-home mom’s is rising again, largely due to immigrants.  The 77 cents/dollar claims fail to account for men working longer hours in better-paid professions.  If employers could really get the same work done for cheaper, they would.
-
 -LA faces challenges ranging from dismal public schools, crumbling infrastructure, and rising retirement costs.
 
 -Parole boards tend to overestimate the likelihood a prisoner will reoffend, approving ~1% of requests.  Some are using data on age at first arrest, education, nature of crime, behavior in prison, and friends’ criminal records to study trends to help inform their decisions.
 
 -Brazilians are notoriously unproductive, primarily due to low investment in infrastructure, poor quality education, and poorly managed companies.
-
--Colombian President Santos appears surprisingly vulnerable without the support of Uribe; his failure to win reelection would derail peace talks.
-
--Maulana Abdul Aziz, a radical Islamist in Pakistan is re-emerging after being released from jail and nominated by the Taliban to participate in peace talks, which he abandoned.
-
--River erosion in Bangladesh displaces 64,000 people each year.  Efforts at stone spurs are ineffective and should be dropped in favor of sandbags.
-
--In the past three decades, China’s urban population has increased by more than 500m.  The government is expanding access to urban services but should give farmers property rights and the ability to sell their land.  SPECIAL REPORT
 
 -15-year President Abdelaziz Bouteflika is destined to win Algeria’s election again even though he’s been essentially invisible for the past 2 years.  Even if the Arab Spring has disappointed dreams of democracies, Algeria’s sham election proves that dictators are not the answer.
 
@@ -2438,45 +2261,31 @@ TECHNOLOGY QUARTERLY:
 
 -Pope Francis has rescued the Catholic Church by refocusing the church on helping the poor, toning back anti-gay rhetoric, and restructuring the church (using McKinsey consultants to overhaul the organization).
 
--A burst of optimism about the Greek economy is not yet luring voters back to the two mainstream parties.
-
 **April 12, 2014**
 
 -Healthy financial markets speed up an economy, channeling credit to firms which need it.  The urge to regulate and protect the financial industry leaves it depending too heavily on state support.  People no longer check a bank’s reliability because their deposits are government insured, and investors let financial firms borrow at lower rates since they know the government will bail them out.
 
--The World Bank has begun tying loans to supporting gay rights, but it should not be a place for political advocacy.
-
 -The Senate’s report on CIA interrogation includes 20 case studies in which the same intelligence could have been gained without EITs.
 
--For years, each of the military services have spent millions of dollars developing ludicrous uniform designs, many of which have been abandoned.
+-Each US military service has spent millions of dollars developing ludicrous uniform designs, many of which have been abandoned.
 
--The United States spent $10 billion trying to fight the opium trade in Afghanistan, shutting down the most farms in non-Taliban areas of the country.  But demand for Afghan opium is inelastic, meaning if supply falls, the price shoots up, funneling more money to the remaining Taliban suppliers.
-
--The world’s most powerful icebreaking cargo ship travels to a remote bay in northern Canada to collect $100m worth of nickel.
+-The United States spent $10 billion trying to fight the opium trade in Afghanistan, shutting down the most farms in non-Taliban areas of the country.  But demand for Afghan opium is inelastic, meaning if supply falls, the price shoots up, funneling more money to the remaining Taliban suppliers.  Drug production in Myanmar, Thailand, and Laos are rising at its steepest rate in years.  For many, it is the only financial option, and demand for yaba-style stimulants is growing, especially in China.
 
 -Peru has adopted the "Italian model" of economic success despite political weakness, but if the political system cannot respond to the wishes of the people, it will not last.  Confidence in government is historically low due to hyperinflation of the 1980s and the Shining Path violence.
 
--Drug production in Myanmar, Thailand, and Laos are rising at its steepest rate in years.  For many, it is the only financial option, and demand for yaba-style stimulants is growing, especially in China.
+-After three failed attempts at ruling Pakistan, the generals have tried to be seen as getting out of politics.  They still wield power, but the trial of Musharraf and the efforts for a peace deal with the Taliban defy them.  A feisty judiciary and media appear likely to prevent another coup.
 
--After three failed attempts at ruling Pakistan, the generals have tried to be seen as getting out of politics.  They still wield power, but the trial of Musharraf and the efforts for a peace deal with the Taliban defy them.  A feisty judiciary and media appear to prevent another coup.
+-After years of hassling NGOs, China is now trying to register them.  Human rights organizations are still banned, but natural disasters and the growing middle class are driving progress.  Still, some activists worry they are strengthening the Communist Party’s dictatorial hold on power by helping it solve governance problems.
 
--After years of hassling, NGOs, China is now trying to register them.  Human rights organizations are still banned, but it is significant progress from 1949 when nothing was allowed between state and individual.  Natural disasters and the growing middle class are fueling growth.  Still, some activists worry that by allowing themselves to be co-opted, they are strengthening the Communist Party’s dictatorial hold on power because they are helping it solve its biggest problems of governance.
-
--Israel must give the Palestinians a state of their own if they wish to remain both Jewish and a democracy.  Netanyahu briefly endorsed the idea five years ago and 75% of Israelis are okay with it, but too many in his party still refuse the 2SS.  GOOD MAP/ARTICLE PAGE 37
-
--Nigeria adjusted its measure of GDP and grew 89%, now far ahead of South Africa as Africa’s largest economy.  But it is still poor, has poor infrastructure, and an insurgency in the Muslim north.
+-Israel must give the Palestinians a state of their own if they wish to remain both Jewish and a democracy.  Netanyahu briefly endorsed the idea five years ago and 75% of Israelis are okay with it, but too many in his party still refuse the 2SS.
 
 -Russia continues to try to promote unrest in Ukraine by sending small invading groups to take over weak government buildings.  A new government faces the seemingly impossible task of making reforms without inflicting too much pain on the east or antagonizing the west.
 
--Renzi’s new economic plan reduces the income tax on the less well-off, cuts public spending, repays the state’s vast debts to private companies, and pays out financial forms for revaluing the stakes they hold in the Bank of Italy.  He is popular for suctioning off ministerial cars and capping salaries but not for massive health care cuts.
-
 **April 5, 2014**
 
--The embargo on Cuba in 1960, has shored up support for Cuba abroad and given an excuse for totalitarianism at home.  Politics have kept it alive--Cuban exiles in Florida block it while others don’t want to appear soft on communists.  Obama has softened the embargo, but now would be a good time to remove it: Cuba is becoming less communist, it can no longer rely on Venezuela’s crumbling economy, and younger Americans don’t feel the hatred of Fidel.
+-The 1960 embargo on Cuba is now counterproductive--shoring shored up support for Cuba abroad and providing an excuse for its domestic totalitarianism.  Politics have kept it alive--Cuban exiles in Florida block it while others don’t want to appear soft on communists.  Obama has softened the embargo, but now would be a good time to remove it: Cuba is becoming less communist, it can no longer rely on Venezuela’s crumbling economy, and younger Americans don’t feel the hatred of Fidel.
 
 -The cost of university per student has risen by almost five times the rate of inflation since 1983.  Nearly a third of those who take out such loans eventually drop out of college.
-
--The Canadian ruling PQ party is based on independence for Quebec, but the majority of Quebekers do not want another divisive referendum after railed votes in 1980 and 1995.
 
 -An Indian youth bulge, urbanization, and rising incomes should improve the next election.  Narendra Modi, a former tea seller propelled to the top on sheer ability, is the overwhelming favorite to win the month-long election starting April 7th.  But he has refused to come clean on his role in the Hindu rampage against Muslims in 2002 and his election could risk increased sectarian violence.
 
@@ -2484,35 +2293,19 @@ TECHNOLOGY QUARTERLY:
 
 -The International Court of Justice legally skewered Japan’s "scientific" whale hunts to the Antarctic Ocean.  The whaling industry is so desperate for funds, and so politically connected, that it claimed $28m in tsunami relief funds.
 
--Abdel Fattah al-Sisi, leader of the coup which toppled Morsi last year, will win the May election, but he faces challenges of growing poverty, electricity shortages, and radical judges and police which could turn on him as easily as they did on the Muslim Brotherhood.
-
 -While most European monarchies pass from generation to generation, Muslim monarchies tend to go between brothers.  Abdullah of Saudi Arabia recently named his third in command, his 69yo brother Muqrin, who is considered a steady hand.  Challenges include the Arab Spring, jihadists in Syria, and Iran’s nuclear program.
-
--While it appears Israeli-Palestinian talks are dead, leaders may simply be holding out for last minute better deals as the Israelis want a Jewish-American spy released and Palestinians want a complete freeze on settlements.
-
--Although Erdogan had a strong showing the election, his democratic credentials are looking weaker as he has vastly increased the government’s control over the judiciary and security services in response to recent demonstrations.
 
 **March 29, 2014**
 
 -Exponential growth in the power of silicon chips, digital sensors and high-bandwidth communications may mean that robots will soon take off.  R&D is getting easier, more companies are investing, and imagination is growing.   SPECIAL REPORT.
 
--The search has begun for a location for Obama’s Presidential Library.  Chicago, Columbia University, and Hawaii are the frontrunners.
-
--Chuck Hagel has launched a year-long review of military awards to address the controversy over awards for cyber warriors who are important but are not in harm’s way.  Awards have historically been used to raise morale in targeted parts of the economy.
-
--For the past 70 years, the IMF has been the world’s financial firefighter, but Congress refuses to support a reform which would raise emerging economies’ voting power.
+-DefSec Chuck Hagel has launched a year-long review of military awards to address the controversy over awards for cyber warriors who are important but are not in harm’s way.  Awards have historically been used to raise morale in targeted parts of the economy.
 
 -Brazil has proposed an internet bill of rights which would enshrine net neutrality and online privacy.  The US is concerned that it could penalize firms based in the US.
 
--Japan’s women are as educated as anywhere else in the world, but but female participation in the workforce is far too low.
-
 -Students occupied Taiwan’s legislature to protest a trade deal with China they believe will lead to an influx of Chinese businesses that will overwhelm Taiwanese competitors, threaten basic freedoms in areas such as publishing, and employ cheap mainland labor rather than Taiwanese.
 
--While China has a large economy, its GDP/capita is ranked behind Brazil, Mexico, and Botswana.
-
--China’s migrant workers live in overcrowded dormitories, even as many houses remain empty.  Landlords view flats as stores of value, not sources of rent.
-
--The US has had good relations with Saudi Arabia since WWII, trading security for oil.  But their outlooks have diverged over Iran’s nuclear program, Arab Spring, Egypt’s Muslim Brotherhood, and a lessening dependence on oil.
+-The US has had good relations with Saudi Arabia since WWII, trading security for oil.  But outlooks have diverged over Iran’s nuclear program, Arab Spring, Egypt’s Muslim Brotherhood, and a lessening dependence on oil.
 
 -Hamas remains the largest force in the Gaza Strip but it has lost regional partners such as Syria and Egypt, while Islamic Jihad is gaining appeal.
 
@@ -2522,11 +2315,7 @@ TECHNOLOGY QUARTERLY:
 
 -The world has a trillion dollar gap in spending on infrastructure, with investors and austere governments shying away from large and complex projects.  This could be improved by professional project management and more efficient politics.
 
--The police have become too militarized, with SWAT raids most commonly used to serve search warrants in non-violent drug cases.  Is a result of post-9/11 money for weapons and rules which encourage departments to seize assets.
-
--Prostitution is no longer as profitable as it used to be: Demand was higher before pre-marital hookup culture and women now have more job opportunities.
-
--While DC has forgiven corruption in the past (Marion Barry), it is more likely to punish Vincent Gray as it is no longer predominantly black and poor.
+-The US police have become too militarized, with SWAT raids most commonly used to serve search warrants in non-violent drug cases.  Is a result of post-9/11 money for weapons and rules which encourage departments to seize assets.
 
 -Unlike the pragmatic conservatives who long-dominated North Carolina state politics, the Republicans now in charge are culture warriors focused on banning sharia, restricting abortion, and introducing strict voter-identification rules.
 
@@ -2536,57 +2325,35 @@ TECHNOLOGY QUARTERLY:
 
 -Indonesian fires are started annually and intentionally to clear land created so much smoke it has closed schools in Singapore and Malaysia.  Government efforts to outlaw the fires are not enforced.
 
--Australian PM Tony Abbott has reignited an environmental battle by proposing deforesting 183K acres on Tazmania for economic development.
-
--After years under dictatorship, Burma tried its first census but caused uproar by asking about race and limiting it to only 135 options when there are so many mixtures.
-
--As sheets of people migrate to cities, China must go further in eliminating the current hukou system which only offers subsidies for those born in cities.
+-After years under dictatorship, Burma tried its first census but caused uproar by asking about race and limiting it to only 135 options (!) when there are so many mixtures.
 
 -Nuri al-Maliki is likely to win the April 30th Iraqi election, though he may struggle to form another coalition with bitter infighting and violence at highest levels since 2008.  With Sunni fighters bouncing between Anbar Province and Syria, the Shiite security forces are struggling to assert power.
 
 -Syria proudly announced the creation of a national space agency while 40% of its 23 million citizens remain homeless.  Assad has made advances but has been unable to capitalize on infighting between rebels in the north.  Meanwhile, rebels still control areas within striking distance of Damascus and overran a prison in the south.
 
--Palestinian President Mahmoud Abbas is under attack from his security chief, Mohammad Dahlan, who accused him of complicity in poisoning Arafat, promoting his sons, and engaging in futile talks with Israel.
-
--Russia’s aggression in Crimea poses a threat to the new world order for countries everywhere.  International law depends on governments inheriting the rights and duties of their predecessors.
-
 -While Italy has cut its budget deficit, its debt/GDP is rising due to a lack of growth.  New PM Renzi is trying to rally leniency in Europe to cut taxes and increase demand.
 
 **March 15, 2014**
 
--The success of Obamacare depends on how many of the newly enrolled 1) were previously uninsured 2) are sick and 3) are young.
-
--In response to a Congressional Oversight investigation of rendition, detention, and interrogation, the CIA provided 6.2 million pages of documents but took some back when Congress brought copies to office buildings.  The feud has finally gone public.
-
--Pentagon war games sometimes use actual board games like Persian Incursion that can be purchased online.  
+-The success of the Affordable Care Act will depend on how many of the newly enrolled 1) were previously uninsured 2) are sick and 3) are young.
 
 -The proportion of American households with guns has declined from 50% to 35%, but the number of guns is rising.  The US has .89 guns per person; the next highest is Yemen with .55.
 
 -Not a single Latin American constitution is older than 1978 and they change frequently.  Change is okay but stability will help people take rules more seriously.
 
--Brazilian opposition leaders are struggling to earn TV air time against the incumbent Rousseff so are increasingly relying on social media, which is growing rapidly.
-
 -Parts of rural Mexico are beginning to rely on vigilante groups.  Similar circumstances in Colombia led to the creation of the United Self-Defense Forces which killed 20,000 civilians in the 1980s.
-
--The two party system has failed to emerge in India, where regional parties use national clout to further local goals.
 
 -Events in Ukraine pose two worries for Central Asian autocrats: 1) anti-government protests could inspire their own citizens 2) the invasion of Crimean could be a blueprint for future Russian invasions.
 
 -China’s defense budget increased by double digits again this year.  It is closing the gap with the US, but its military spending is now outstripping GDP growth, defense inflation is growing, and the more China commits itself to sophisticated weapons systems, the more challenging it will be to make it all work together (especially with no combat experience).
 
--Rich and poor in Kenya are locked into a system of patronage and tribe.  President Kenyatta, distracted by his ICC indictment, is hamstrung by greedy old-timers.
-
 -Libya is still riven with regional and tribal faultlines three years after the ousting of Gaddafi.  Since July, a group has blockaded Libya’s main oil ports and recently sold $30m of oil to North Korea.  This could be a descent into deeper disorder.
-
--The new government of Ukraine should accept that, for now, Crimea is a loss, in fact though not in law.  The West must help Ukraine by easing tariffs and providing financial support.
 
 **March 8, 2014**
 
--Ohio politicians proposed a bill to make lying a crime punishable by six months in person.  But it’s a feckless idea to try to regulate subjective matters.
+-Ohio politicians proposed a bill to make lying a crime punishable by six months in prison.  While a noble effort, it’s not practical or enforceable.
 
--The Supreme Court ruled that the mentally retarded cannot be put to death but Florida has a low cut-off of 70 on IQ test so a criminal with a 71 IQ is eligible to die.
-
--With no elections until 2015, Venezuela will need pressure from outsiders such as Brazil to prevent the unstable politics and weak economy from collapsing.
+-The Supreme Court ruled that the mentally retarded cannot be put to death.  Florida defines this threshold as below 70 on an IQ test, generating incentives for prisoners to score worse.
 
 -Kim Jong Un may have executed another powerful statesman while simultaneously signaling economic reform through economic-development zones, a building boom, and welcoming more foreign visitors.
 
@@ -2594,15 +2361,11 @@ TECHNOLOGY QUARTERLY:
 
 -After a brutal knife attack at a train station, the Communist Party must alter its policies towards ethnic minorities such as the Uighurs and Tibetans by lifting bans on religious and cultural practices, and promoting economic development.
 
--Beijing recently declared the first "orange" smog alert which is supposed to suspend outdoor activities.
-
--Declining birth rates make populations more productive.  It has dropped everywhere except Sub-Saharan Africa due to less dense populations, communal social arrangements, and a lack of contraceptives.
+-Declining birth rates make populations more productive.  It has dropped everywhere (except Sub-Saharan Africa due to less dense populations, communal social arrangements, and a lack of contraceptives).
 
 -The recent diplomatic flare-up between Qatar and its neighbors (long time coming over Al Jazeera and Arab Spring), puts the US in an awkward spot given its large military dependence on Qatar.
 
 -Ukraine made mistakes by passing a bill to repeal the Russian language and failing to bring Eastern politicians into the new government.  But Russia has made more mistakes by acting unprovoked, reinvigorating NATO, and threatening vital European trade.  Risking war nuclear war with Russia is not worth it, but the West needs to stand up to it for its invasion of Ukraine through visa bans, asset freezes, stopping arms sales, and reducing dependence on gas.
-
--Cyprus tried holding bank creditors (rather than taxpayers) responsible for failed banks but it has not worked as the public lost faith in banks.
 
 TECHNOLOGY QUARTERLY
 
@@ -2610,13 +2373,11 @@ TECHNOLOGY QUARTERLY
 
 * The irregularity of many renewable energies requires a strong battery to conserve energy through droughts of wind, water, or sunlight.
 
-* Instead of building new power lines, Germany may try to incorporate new Direct Current lines which carry electricity faster.
-
 * For years, microprocessors made from silicon have been getting smaller but they are finally being limited by physics (misbehaving) and economics (more expensive).
 
 * 3D printers can now print human tissue, used for drug tests or biopsies.  Organs, however, remain elusive.
 
-* Aircraft carriers are experimenting with electromagnetic catapults to launch planes which would be smoother, simpler and silent.  It could also help save runway space and fuel on-land.  
+* Aircraft carriers are experimenting with electromagnetic catapults to launch planes which would be smoother, simpler and silent (e.g. General Atomics EMALS).  It could also help save runway space and fuel on-land.  
 
 **March 1, 2014**
 
@@ -2634,93 +2395,45 @@ TECHNOLOGY QUARTERLY
 
 -The Berry Amendment, passed in 1941, requires that nearly all food and equipment given to soldiers is from the US.  It is too strict and makes procurement expensive/hard to cut.
 
--Maduro has responded to protests with violence, blackouts, and arrests and may risk losing the support of the poor that Chavez relied on.  Regional powers like Brazil need to speak out against Maduro before he makes Venezuela’s misery permanent.
-
--Pena Nieto should focus on breaking up two giant telecom conglomerates to bring more competition to the industry.
-
 -El Chapo should be kept in a Mexican prison (not American) because Mexico bore the brunt of his crimes, the US has an iffy record with extraditions, and it could instill confidence in the Mexican legal system.
 
 -Four weeks after seeking dialogue with the Taliban, Sharif now seems ready to attack, increasing bombings and preparing for a ground invasion by April.  His political opponent opposes military action.
 
--Park Geun-Hye is popular for her policy towards North Korea but faces scandal over manipulating election results.
-
--700million people are exposed to second-hand smoke in China.  The government imposed a partial ban, but should focus on strict bans, education, and heavy taxation.
-
--Goodluck Jonathan sacked his central banker to eliminate a political threat but the removal of a steady hand will damage foreign investment.
-
--Civil War resumed from a weak armistice in South Sudan as the President and former Vice President clashed over rival communities.
+-700M people are exposed to second-hand smoke in China.  The government imposed a partial ban, but should focus on strict bans, education, and heavy taxation.
 
 -Diplomatic pressure was unable to stop the passage of a law in Uganda which imposes life imprisonment for homosexuality and requires Ugandans to report anyone they are suspicious of homosexuality.
 
 -The 76yo president of Algeria hasn’t been seen in over two months but wants to run for President again and will likely win due to a splintered opposition.
 
--Israel is under heavy criticism for not doing enough to protect Muslim heritage sites in Jerusalem.  They claim Jewish sites were damaged under Lebanese control.
-
--Ukraine needs a legitimate national government picked through a fair election but more urgently it needs money from IMF/the West.  Putin is not ignorant enough to start a war but he will do everything short of it to prevent a democratic Ukraine.
-
 **February 22, 2014**
 
--In order to prevent a tragedy of the commons, fishing subsidies should be expanded, all fishing vessels should be registered, and more marine reserves should be created (13% of land is protected but less than 1% of sea).
+-To prevent a tragedy of the commons, fishing subsidies should be expanded, all fishing vessels should be registered, and more marine reserves should be created (13% of land is protected but less than 1% of sea).
 
 -Prospects for a fast track option for free trade negotiations appear bleak as Democrats blame free trade for inequality and Republicans don’t want to give Obama any leeway.  It will be costly for global output.
 
 -Maine, Connecticut, New Jersey, Kentucky, Illinois, and Louisiana all have pension liabilities greater than 120% of their annual revenue.  Reform in Rhode Island was weakened due to pensioners’ legal challenges.
 
--Some neighborhoods are banning basketball hoops along the curb for both safety and aesthetics.
-
--A Venezuelan opposition leader was arrested and charged with terrorism after three people died in one of his party’s demonstrations.  The government remains strong, but its brutal crackdown against protesters quickly drew international condemnation.
-
 -Three major Colombian generals have been fired in the past couple weeks for controversial statements, though President Santos needs to preserve strong relations with the military to implement the FARC peace deal.
-
--China does not come off well in a UN Report of North Korean human rights abuses, and leaders are worried their people may denounce government support of the North, as well as the international community may initiate more scrutiny into Chinese abuses.
-
--In an effort to avoid confusion with its economically-backward neighbors, Kazakhstan’s president wants to change the name to Kazakh Yeli, or Land of the Kazakhs.
 
 -China’s local provinces are larger than most countries.  A new report also reveals that some of them have astronomical debts resulting from major infrastructural projects.  They are especially concerning given the low tax rates they bring in.
 
--A surging number of college students has created more competitive job markets so students are rushing to join the communist party to enhance their chances for government jobs.
-
 -Iranian PM Rohani has brought some optimism in Iran, but faces opposition on his diplomatic initiatives.  Nuclear decisions remain dependent on the Ayatollah Khomeini.
-
--On the three-year anniversary of the overthrow of Gaddafi, Libya remains paralyzed by factional, tribal, regional, and ideological divisions.
 
 -The West needs to stand up to Russia for meddling in Ukrainian affairs and setting the conditions for recent violence.  It should be ejected from the G8.
 
 -Matteo Renzi is taking over as Italian PM.  He is young and passionate for reform but will face the same obstacles as his predecessors: weak left-right coalition, entrenched opposition, radical partners in Berlusconi and Beppe Grillo.
 
--Should the Scots choose independence, they will lose the pound currency and are unlikely to be accepted into the EU.  While the decision is there’s these dangerous should give them serious pause.
-
 **February 15, 2014**
 
--US oil production peaked in 1970 but declined from then until 2008; now it has turned around.  It may have already surpassed Russia as the largest producer of oil and gas; by 2020 it will overtake Saudi Arabia as largest pumper of oil.  Although the oil boom should not affect US foreign policy, it should remove the ban of the export of crude oil, which only pads the pockets of the refineries.
+-US oil production peaked in 1970, declined until 2008, and now is increasing.  It may have already surpassed Russia as the largest producer of oil and gas; by 2020 it will overtake Saudi Arabia as largest pumper of oil.  Although the oil boom should not affect US foreign policy, it should remove the ban of the export of crude oil, which only pads the pockets of the refineries.
 
--Republicans are finally trying to come up with a few ideas of their own: Rubio wants to reform anti-poverty programs, Ryan wants to simplify welfare, and Thune proposed replacing unemployment benefits with tax cuts for companies that hire the long-term unemployed.
-
--Obama’s tinkering with Obamacare may undermine it.  Delaying individual mandate for those who lost their coverage will prevent healthy people from signing up.
-
--NYC Mayor de Blasio wants to curtail the growth of charter schools which are popular with parents and have helped support a poor school system in Chicago.
+-NYC Mayor de Blasio wants to curtail the growth of charter schools, which are popular with parents and have helped support the under-resourced school system in Chicago.
 
 -Argentina’s President Cristina Fernandez is just the latest in a string of economically illiterate populists who have wrecked the economy.  It’s 100-year decline has been a result of world wars that blocked trade, weak institutions (six military coups), nativist politicians (protecting inefficient industries), and lazy dependence on a few assets.
 
 -Brazil, which gets 80% of its electricity from hydropower is suffering from a dry summer, soaring consumption, and Rousseff’s electoral promises to keep prices low.
 
--As Cuba slowly liberalizes, the US maintains a strong embargo, the EU is gently pursuing "political dialogue," and Latin American countries are being friendly to Castro as a way to prove independence from the US.
-
 -The best way Pakistan could improve its economy is by providing more reliable electricity.  This will require sorting out a public-private mess of regulations that relies on imports of oil and gas.
-
--The US has begun to embrace Narendra Modi, the presumptive incoming PM of India who was once banned from the country for the killing of Muslim rioters in his district.
-
--Chinese and Taiwanese government officials met for the first time since 1949.  While just a photo shoot, it is a step in the right direction for an unstable region.  
-
--China has the world’s largest trade deficit in services, primarily due to a steady decline in tourism.
-
--Robert Mugabe’s government, free of its coalition partner, risks driving Zimbabwe back down a road to poverty and despair.
-
--Despite the presence of regional and French troops, the situation in the Central African Republic is deteriorating as Christians execute revenge attacks on Muslims who briefly seized power a year ago.
-
--Nigerian President Goodluck Jonathan is trying to rebrand his country, but it remains one of the most corrupt countries in the world.
-
--Both Janet Yellen and the UK Fed Chair used "forward guidance" by making commitments on future behavior pegged to economic performance.  Extenuating circumstances have forced both to adjust, Yellen by being vague and Britain by changing goals.  British way sends clearer message to markets.
 
 **February 8, 2014**
 
@@ -2728,29 +2441,17 @@ TECHNOLOGY QUARTERLY
 
 -Harry Reid is vowing to withhold the "trade promotion authority" or fast-track to allow President Obama to negotiate trade deals and present them to Congress for yes-no vote.  This could severely threaten prospects of the TPP, US-Japan, and US-Europe deals.
 
--The CBO suggested that Obamacare could lower full-time employment by 2.3m in 2021.  While this may decrease job-lock, it is outweighed by the burden of fewer people working.
+-The CBO suggested that Obamacare could lower full-time employment by 2.3m in 2021.  While it may decrease job-lock, it is outweighed by the burden of fewer people working.
 
 -Over the past two decades, many have come to favor tackling heroin abuse through harm reduction policies such as setting up safe sites where users can inject under supervision for free.  Results are promising.
 
 -In 2012, El Salvadoran President Mauricio Funes brokered a truce between the MS-13 and Barrio 18 gangs.  If the rightist party wins the upcoming runoff election it will abandon the treaty and adopt an iron fist policy against gangs.
 
--Canada can’t wait to start pumping oil through the middle of the US but Obama will take his time as he weighs his environmentalist pledges against increased jobs and investment.
-
 -Burmese leader Aung San Suu Kyi is a Nobel laureate and leads the country’s biggest opposition party, but she may not be able to run for President because of a congressional ban against those whose spouse or children are foreign citizens (her husband is British).
-
--PM Sharif tried to talk to the Taliban but the TTP (Pakistani Taliban) representatives seemed unlikely to agree to preconditions: a ceasefire and recognition of Pakistan’s constitution.  Both sides lack authority as the Taliban has become more fragmented.
-
--China emits nearly twice as much carbon dioxide as the next-biggest polluter, America.  New rules mandate that official data is published.  This is an important first step but polluters should be fined or sued.
 
 -China has five national schools for training Communist Party members, where students learn to be responsive to the growing press and public even as they toe the party line.
 
--A "Go West" campaign seeks to invest in more infrastructure in the west and address huge trade imbalances between provinces.
-
 -Those who cast doubt on Africa’s rise often point to the continent’s lack of manufacturing, but a quiet boom is already taking place.  It is fueled by the spread of retail, electricity, and education.
-
--Libya beat Ghana 4-3 on penalty kicks to win the African Cup.  Citizens hope the jubilation will fuel more political unity.
-
--The European Union will appoint a new executive in the coming months desperately needs a fresh perspective (like Christine Lagarde, head of the IMF).
 
 **February 1, 2014**
 
@@ -2762,17 +2463,9 @@ TECHNOLOGY QUARTERLY
 
 -Both Venezuela and Argentina are approaching a breaking point.  They both dish out proceeds of an unrepeatable commodity boom (oil, soya), use a mix of central-bank interventions and administrative controls to keep overvalued exchange rates from falling and inflation from rising.
 
--The International Court of Justice resolved a maritime border dispute between Peru and Chile by giving Peru more water but Chile the water most rich in fish.
-
--In Thailand, both sides must step down to avoid the country’s disintegration.  The government needs responsible policies rather than populist giveaways.  The opposition should embrace elections and honor their results.
-
 -Karzai risks Afghan security by continuing to vilify America: accusing them of psychological and insurgent warfare, blaming them for civilian deaths, and releasing dangerous detainees.  Obama seems likely to keep 10,000 troops in Afghanistan for about 2 years past 2014.  He’s hoping Karzai’s successor will sign the pact, but if the election goes two rounds it would be delayed until at least June.
 
 -After 46 years of conflict and 18 years of negotiations the Philippines and MILF signed a peace treaty that grants autonomy but not independence.
-
--The Chinese system inflates the cost of medicine.  Doctors are underpaid, so much of their income depends on how many drugs they prescribe.  Hospitals are allowed to charge a 15% markup on the drugs they sell, so the more expensive the better.  Scandals and incentives discourage cheap generic brand drugs.
-
--Zuma and the ANC face their most difficult election amid corruption scandals and a rough economy.  They’ll still probably win but anything less than 60% could accelerate the ANC’s decline.
 
 -Despite their wealth, the mood in Saudi Arabia is uneasy.  The government builds fancy new buildings and transportation systems but the people have no say in government--still they see the results of the Arab Spring and don’t want to rock the boat.  The successor to King Abdullah (90) is uncertain.
 
@@ -2784,37 +2477,19 @@ TECHNOLOGY QUARTERLY
 
 **January 25, 2014**
 
--Roads bring growth to poor countries but also kill 1.3m every year--projected to be more than AIDS by 2030.  But basic investments in things like footpaths and restrictions save countless lives.
-
 -California governor Jerry Brown has taken debt from $25.4b to a $4.2b surplus.  But taxes (narrow tax base), debt (pensions), and red tape (regulations) still pose lingering problems.
 
--Obama’s changes to NSA surveillance:
+-Obama’s changes to NSA surveillance: (1) Government will pay private firms to store the phone data; (2) Prevent agencies from obtaining information about companies without telling them (National Security Letters) (3) Listen to phones of friends and allies only "when necessary."
 
-* Government will pay private firms to store the phone data
+-La Salada in Buenos Aires is South America’s largest informal market.  Vendors sell around $40M of goods each day in cash.  Government efforts to collect taxes could be seen as an attack on the poor.
 
-* Prevent agencies from obtaining information about companies without telling them (National Security Letters)
-
-* Listen to phones of friends and allies only when necessary
-
--A legal battle has sprung up over a woman and Texas who is brain-dead and the family wants to put her down but she is 14 weeks pregnant.  Appears doctors will attempt to deliver the baby in a month.
-
--For the first time, Latin American investments in Spain exceed the vice versa, as Spain’s firms struggle and need credit from culturally-similar American banks.
-
--La Salada in Buenos Aires in South America’s largest informal market.  Vendors sell around $40m of goods each day, all in cash.  The government wants taxes but cracking down on the market could be seen as an attack on the poor.
-
--Thailand is slowly becoming divided with the north and east supporting Ms Khamsi and her exiled brother while the south west boycotted the most recent election.
-
--Pervez Musharraf has been trying to avoid his trial for high treason by claiming he was unsafe and sick.  He seems to be hoping PM Sharif will bundle him off to the United States for medical treatment.
+-Former Pakistani General and President Pervez Musharraf has been trying to avoid his trial for high treason by claiming he was unsafe and sick.  He seems to be hoping PM Sharif will bundle him off to the United States for medical treatment.
 
 -For the past three decades, multinational companies have poured into China.  But flagging growth, rising costs, increased restrictions, less labor, and soaring wages means that the golden age is over.
 
--Chinese consumers are quickly evolving to high-end products as the country seems poised to overtake America as the next consumption superpower.
-
--The Geneva conference will achieve nothing but buy Assad time and legitimacy--Assad has no incentive to budge while he thinks he is winning.  The west needs to arm the rebels (as Russia is arming Assad) to change the direction of the conflict (regardless, it can’t get any worse).
+-The Geneva conference will achieve nothing but buy Assad time and legitimacy--Assad has no incentive to budge while he thinks he is winning.  The west needs to arm the rebels (as Russia is arming Assad) to change the direction of the conflict.
 
 -An Egyptian referendum on the constitution received 30% turnout and 98% support but the Muslim Brotherhood remains dissatisfied in the face of mass arrests and disgruntlement at a return to the past.
-
--Yemen’s national reconciliation conference finally finished but two assassinations indicate that the country may never fully unite.
 
 -After two months of largely peaceful protests in Kiev, recent violence indicated that both sides are becoming radicalized.  Yanukovych is in trouble.
 
@@ -2824,17 +2499,13 @@ TECHNOLOGY QUARTERLY
 
 **January 18, 2014**
 
--Innovation has always cost jobs and increased the income gap.  Rather than taxes or minimum wage, governments must help their citizens with more education.  But as computers do increasingly complicated tasks, technology win in the race against education.
+-Innovation has always cost jobs and increased the income gap.  Rather than taxes or minimum wage, governments must help their citizens with more education.  But as computers do increasingly complicated tasks, technology will win in the race against education.
 
--SPECIAL REPORT ON TECH STARTUPS: explosion of tech startups resembles the dotcom boom but this one might last.  The availability of hosting, code, and platformization (combing) make them cheap to start.  The presence of accelerators (like grad schools for startups) has made them popular all around the world, though their true home is Silicon Valley (hardware is based in Shenzhen, China).
-
--Only a quarter of the 2.2 million people that signed up were between 18 and 34.  If there are too many sick, insurers may raise prices, making healthy people even less likely to sign up.  Also, 80% of applicants qualified for APTC. 
-
--The household survey job report is much gloomier than the more-trusted payroll survey, but much of the decline in unemployment rate is due to people retiring and dropping out of the work force.
+-Explosion of tech startups resembles the dotcom boom but this one might last.  The availability of hosting, code, and platformization (combing) make them cheap to start.  The presence of accelerators (like grad schools for startups) has made them popular all around the world, though their true home is Silicon Valley (hardware is based in Shenzhen, China).  SPECIAL REPORT.
 
 -California has added new tax credits for filmmakers to keep the movie industry in their state but many are taking their business elsewhere.
 
--A study found that "16 and pregnant" helped reduce teenage births in America by 5.7% in the 18 months following its release.
+-A study found that the reality TV show "16 and pregnant" helped reduce teenage births in America by 5.7% in the 18 months following its release.
 
 -Brazil’s hellish penal system is overcrowded, violent, and brutal.  Everyone wants to build hospitals and schools but the most urgent need is for more prisons and legal reforms (41% of inmates are awaiting trials).
 
@@ -2843,12 +2514,6 @@ TECHNOLOGY QUARTERLY
 -It is unclear whether Japan’s pacifist constitution prevents its Self-Defence Forces from striking back before its citizens are injured.  It is also unclear whether the US would go to war to protect the disputed Senkaku islands from China.  These uncertainties are dangerous because they could lure China into a miscalculation.
 
 -The young Congress party leader Rahul Gandhi (son of Sonia) could have PM if he wanted the job, but he is shy and keen on development work over politics.  The big threat is from the surging anti-corruption AAP party.
-
--Chinese bloggers are moving from microblogging app Weibo to the chatting app WeChat.  It is more private, so news doesn’t spread as quickly, but it is harder for Chinese authorities to censor.
-
--China’s southernmost provincial government passed a law requiring all fishing vessels in Hainan to get Chinese permission.  The Philippines and Vietnam strongly denounced the ruling.
-
--Ariel Sharon was a fighter but made concessions when necessary.  Netanyahu could learn a few lessons given the current dilemma:  If Israel wants to remain both Jewish and a democracy, the only workable alternative is to give the Palestinians a state of their own and vacate much of the West Bank.
 
 -The Iran deal is best understood as a 6-month deal to buy time--neither side made major concessions.  These sorts of extensions may be exactly Iran’s game plan as nuclear concessions are reversible but easing of sanctions could make them appear reasonable to the international community.
 
@@ -2862,17 +2527,9 @@ TECHNOLOGY QUARTERLY
 
 -Public opinion has begun tilting in favor of legalizing marijuana.  While marijuana is not good for you, if it displaces liquor drinking it could improve public health, but it needs to be regulated and taxed.  Its success in Colorado and Washington will determine whether it spreads further.  
 
--Robert Gates’ new memoir demonstrates his loathing for Congress and Biden.  His review of Obama is complex, saying he was willing to overrule political advisors to make hard decisions, but that he was reluctant to own those decisions.
-
--Positive discipline is catching on, which aims to teach children self-control and empathy by asking kids to suggest their own ways of tackling projects rather than screaming at them.
-
--The Argentine government is struggling as police forces across the country went on strike leading to a wave of looting, a heat wave knocked out power in Buenos Aires, and the economy remains fragile.
+-A parenting method of "positive discipline" is catching on, which aims to teach children self-control and empathy by asking kids to suggest their own ways of tackling projects rather than yelling at them.
 
 -Cuba allowed the purchase of modern cars but their enormous price tags demonstrate the economy is still controlled.
-
--Bangladesh voting turnout was a mere 40% with the main opposition party boycotting the election.  The corrupt government is explaining away political intimidation as an effort to stop violence.
-
--The new Aam Aadmi Party in New Delhi exceeded expectations with 30% of the vote.  It champions the little man, developing a platform of rights for rickshaw drivers and water subsidies for all families.
 
 -Many economists worry China will fall to a middle income trap by failing to transition from cheap labor and brute capital to a more sophisticated economy.  The wealthy coastline is far ahead of the poorer cities inland, which will need help from the Asian Development Bank.
 
@@ -2883,12 +2540,6 @@ TECHNOLOGY QUARTERLY
 * Iraq: The capture of Anbar province has given Maliki an excuse and international support to retake the cities.
 
 * Lebanon: ISIS has traded attacks with Hezbollah.
-
--John Kerry may be able to present within weeks a "framework agreement" for an Arab-Israeli peace deal.  It might dictate five years to prepare for a military withdrawal, ten for a final administrative handover to the Palestinians.
-
--An Egyptian referendum will determine the fate of a new constitution which could lead to elections.  It is likely to pass as most simply want stability in government, but the Muslim Brotherhood continues to protest as former leaders are locked up.
-
--Rural Iranians are running short on water and are frustrated with the government increasing funding to the Revolutionary Guard.  They want a deal to end sanctions.
 
 -France’s economy is one of the worst off in Europe and Hollande’s response has been hapless.  He has tried to raise taxes rather than cut public spending but the state is too big.
 
@@ -2904,19 +2555,11 @@ TECHNOLOGY QUARTERLY
 
 -The US current account has dropped by roughly 60% since 2002 for two reasons: 1) surge in domestically produced oil and gas 2) US manufacturers have stopped losing market share
 
--Utah, one of the most conservative states, legalized gay marriage, pending an appeal by state officials.
-
 -NAFTA has succeeded in increasing trade without stealing jobs.  But it should make shipping goods more efficient and embrace freer movement of people.
-
--Brazil’s upcoming election could be a close call.  June protests against Dilma Rousseff have died down, but her challenges have been slow to campaign and the World Cup will continue highlighting the contrast between pricey new stadiums and shoddy public infrastructure.
 
 -Mexico added a number of new taxes (VAT, metro fare, food) aimed at the rich but will end up clobbering the poor.
 
--Australian PM Tony Abbott has fallen from grace for a slow economy and his failure to deliver on promises to stop boats of asylum-seekers.
-
 -Shinzo Abe set off a diplomatic disaster by visiting a memorial to 14 high-ranking war criminals.  China, South Korea, and America all denounced the visit.
-
--Thousands of local auditors released the results of a year-long audit of local governments and the debts are high and diverse, especially compared to the central government.
 
 -The flimsy barriers that have held Lebanon together are wearing thin.  Iran’s revolutionary guard is trying to prop up the Shia party-cum militia Hezbollah, while the traditionally moderate Sunnis are being infiltrated by gangs from Syria.  Unless the parliament, which has not met in months, chooses a new president by the spring, the country will enter a dangerous political vacuum.
 
@@ -2926,113 +2569,63 @@ TECHNOLOGY QUARTERLY
 
 -Deaths linked to alcohol consumption have tripled since 1990 as booze have become more affordable.  The best way to tackle excessive drinking is to tax it based on alcohol content, as Scotland is considering.
 
--American hunting thrived because it shuns the elitism of the Old World.  Hunters spend more money as technologies improve but archery is catching on again in the spirit of the credo of fair chase.
-
--House Republicans have long been split between the elected and the ideologues in think tanks and lobby organizations.  Since the ideologues forced Boehner into a half-baked plan to shut down the government, Boehner is finally firing back.
-
 -Like mandatory minimums, zero tolerance policies in schools were intended to ensure that bad behavior drew uniform response, but they instead lead to wildly disproportionate punishment.
 
 -America’s current shale energy boom has plenty in common with the 1848 gold rush by luring young men to wild frontier towns in search of wealth.  There could be unforeseen consequences, as the gold rush may have spawned Silicon Valley via Stanford University.
 
 -Paraguay President Horacio Cartes is new to politics but has prudently chosen a technocratic cabinet, passed a fiscal-responsibility law, and reignited connections with MERCOSUR.  Still, he must restore faith in his historically corrupt party and rely on trickle-down economics in the most unequal nation in South America.
 
--Argentina has been lying on official inflation numbers for years.  The IMF challenged them on them but backed down.  Inflation numbers affect other statistics like poverty and GDP.
-
--The ruling Awami League in Bangladesh will win January’s election as the main opposition will boycott the election.  But the corrupt government will lack international legitimacy.
-
--North Korea’s execution of Kim Jong Un’s uncle may have been because he was too close with the Chinese.  Hist swift departure could shake up relations between the neighbors.
-
--Warming oceans, overfishing, and pollution threaten the diverse but fragile underwater ecosystems between Indonesia and Singapore.  The proliferation of Marine Protected Areas may help but are difficult to enforce.
+-North Korea’s execution of Kim Jong Un’s uncle may have been because he was too close with the Chinese.  His swift departure could shake up relations between the neighbors.
 
 -A Chinese rover made the first soft landing on the moon since 1976.  China’s actions across the board seem more assertive between offshore confrontations and domestic showdowns.
-
--Beijing is putting in a joint bid with Zhangjiakou for the 2022 Olympics, but residents are dreading additional traffic and security.  Most of the infrastructural benefits have already been reaped.
 
 -As jihadists gain strength in Syria, some western officials are quietly advocating re-engagement with Bashar Assad.  Others feel the only course left is to work with the last non-AQ opposition with real power, the Islamic Front.
 
 -Ghana is still west Africa’s biggest economic and political success, but president John Mahama will have to push additional austerity on an already squeezed population to keep the economy afloat.
 
--Factional violence has worsened in South Sudan where Juba has been rocked with fierce fighting between factions of the army, with the former vice president being accused of launching a coup.
-
--Merkel surprised some by nominating former minister of families and women and labor and welfare Ursula von der Leyen as the first ever woman defense minister.  Merkel, on her third term, may be setting her up to be her successor.
-
 -While Putin won over the corrupt Ukrainian leader, the country’s looming economic collapse may soon become Russia’s problem to bail out.  The domestic unrest has made Mr. Yanukovych a lame duck.
 
--Heathrow, the world’s biggest international airport (barely larger than Dubai) badly needs a third runway.  While there are no great options, the runway should be added just west of the other two.  Will require moving 1500 houses and a highway, but better than rebuilding airport.
+-Heathrow, the world’s busiest international airport (barely larger than Dubai), badly needs a third runway.  The best option will require moving 1500 houses and a highway, but better than rebuilding the airport.
 
 **December 15, 2013**
 
 -The WTO finalized its first deal, a trade facilitation deal that simplifies customs procedures and could raise annual global output by $400 billion.  While not drastic, the main lesson is not to repeat the all-or-nothing approach of the Doha round.  The WTO must use rise of regional partnerships (EU-Canada, TPP, TAT, EU-Mercosur) to help draw more nations into the global system.
 
--As income inequality rises and workers’ share of national income shrinks, the case for a minimum wage grows.  Because real labor markets are not perfectly competitive, a minimum wage could boost pay with no ill effect on jobs.  But politicians should keep it low and let technocrats set it.
+-As income inequality grows and workers’ share of national income shrinks, the case for a minimum wage grows.  Because real labor markets are not perfectly competitive, a minimum wage could boost pay with no ill effect on jobs.  But politicians should let technocrats set it.
 
 -Five American financial regulators approved the Volcker Rule which prohibits deposit-taking banks from trading on their own account.  But its complexity (1,000 pages) makes it unlikely to succeed.
 
 -The budget deal increases governmental fees on airline passengers rather than taxes.  Expiring stimulus measures mean the federal budget will remain a drag on the economy but lessen the impact.  It should keep the government open but does not address entitlement spending.
 
--Kentuckians can’t stand Barack Obama, but like the Affordable Care Act (least healthy state) and his education reform (dumbest state).
+-Kentuckians can’t stand Barack Obama, but they do like his policies: the Affordable Care Act (among the least healthy states) and his education reform (low in education).
 
--Texas’ new voter ID law brought about logistical challenges at polling places even for those with new IDs, including its most ardent supporter, Attorney General Gregory Wayne (who goes by Greg).
-
--Nicolas Maduro strengthened his grip on power by running unfair local elections (dominated the media, forced retailers to slash prices to boost support).
-
--Enrique Pena Nieto pushed through a constitutional reform which will give up an oil monopoly, much to the delight of markets.  The devil is in the details such as what contracts will be offered and what royalties will go to the government.
-
--The EU and Mercosur have a January deadline for opening bids in a trade deal that has been in the works since 2000.  While mutually beneficial, Brazil may want a more ambitious deal than Argentina.
-
--Narendra Modi (BJP) is likely to win India’s election due to his mix of economic efficiency and hardline Hindu nationalism as leader of Gujarat province.  But he refuses to apologize for mismanagement of days of bloodshed, rape and torture in 2002 that left over 1,000 Muslims dead and left him with a travel ban to the U.S.  He can win without Muslim support but will face greater constraints and fewer powers as PM then as chief minister of Gujarat.
-
--Thailand’s President called for an election, but the leader of the protesters is not satisfied.  He likely fears losing a national election as the government retains strong support in the rural north.
+-Texas’ new voter ID law brought about logistical challenges at polling places even for those with new IDs, including its most ardent supporter, Attorney General Greg Wayne.
 
 -Singapore, a usually peaceful city, was overcome with street violence after a bus driver accidentally ran over an immigrant.
 
 -Many Chinese protest genetically modified food because they fear American-owned biotech companies are trying to control the Chinese food supply.
 
--Authorities halted the annual visa-renewal process for at least 24 journalists working for American media after they wrote stories about the wealth accumulated by the families of China’s leaders.
+-Chinese authorities halted the annual visa-renewal process for at least 24 journalists working for American media after they wrote stories about the wealth accumulated by the families of China’s leaders.
 
 -Nelson Mandela’s two greatest accomplishments were his fortitude during 27 years in prison and his ability to engineer South Africa’s transformation from apartheid to free.  Since he left the presidency in 1999 the country has disappointed--Zuma is corrupt and the economy is ruined.  Some thought Mandela’s death would remind voters of the ANC’s crucial role, but it may also free voters from attachment to the party.
 
 -Bahrain, where a Sunni monarchy rules over a Shia majority, suppressed the Arab Spring with the help of Saudi troops.  But youth unrest is building and the government is framing it as a sectarian struggle.
 
--Sooner or later, protesters in Ukraine will get their way.  Without the Kremlin’s petro wealth, Mr. Yanukovych is less able to bribe and budgeon his countrymen and Ukraine’s economy is on the verge of collapse.
-
--Enrico Letta narrowly won a confidence vote, but his party (center-left PD) may soon replace him with the fresh 38-year-old mayor of Florence, Matteo Renzi.  He’ll need to join the center right NCD in opposition to Berlusconi.
-
 **December 8, 2013**
 
--With $4.1 trillion of directly controlled assets, BlackRock owns a stake in almost every listed company.  It has succeeded by offering cheap but safe funds.  Still, its dominance is concerning: as other firms rely on its analysis and this lack of diversity will be costly when it makes mistake.
+-With $4.1 trillion of directly controlled assets, BlackRock owns a stake in almost every listed company.  It has succeeded by offering cheap but safe funds.  Still, its dominance is concerning: other firms rely on its analysis and this lack of diversity will be costly when it makes mistake.
 
--Although the Afghan loya jirga unanimously supported the US Security Pact, Karzai refuses to sign.  He is putting the future of the country in jeopardy, but the US has no choice but to begin looking forward to working with candidates in this April’s election.
-
--Global asset prices are soaring, and central bankers are right to feed this growth through quantitative easing and low interest rates.  Governments should also favor new investment, cut investment red tape, and boost public investment.
-
--Greens argue genetically modified crops are dangerous, but developing countries like Kenya and India have turned their backs on technologies that could save citizens’ lives.
+-Although the Afghan loya jirga unanimously supported the US Security Pact, Karzai refuses to sign.  He is putting the future of the country in jeopardy, but the US has no choice but to begin looking forward to working with other candidates in April’s election.
 
 -A judge ruled Detroit’s filing for bankruptcy did not violate the constitution, meaning that pensions are not untouchable.  Other cities like Chicago may be next.
 
--Small-town US mayors are streaming into China to encourage investment in their towns.
-
--There are 610,000 homeless in the US, a third of which are on the streets.  It is down from last year but may go back up as rents increase and stimulus social programs expire.
-
--Canadian liberals may win back power behind Justin Trudeau, the son of a former PM who speaks his mind and emerged just as conservatives battle a Senate expense scandal.
-
 -Brazilian President Dilma Rousseff’s economic legacy is doomed as growth has averaged 2% and inflation 6%, government finances deteriorated, and a current account deficit emerged.
-
--For the second time in a year, Argentina has seen an outbreak of looting after the provincial police went on strike.
-
--Biden tried to ease tensions between China and Japan.  He said America does not recognize China’s new ADIZ but stopped short of calling for it to be abandoned.
 
 -Around the clock air refueling missions over Afghanistan cost the US military $200m per year but allow F-16 and A-10 to reach any point in Afghanistan within a few minutes.
 
--As it leaves Afghanistan, America’s strategic needs in central Asia (Turk, Uzbek, Tajik, Kazakh, Kyrgyz) are fading and aid budgets are shrinking.  China is taking advantage of the fact they are resource rich.
+-As it leaves Afghanistan, America’s strategic needs in central Asia (Turk, Uzbek, Tajik, Kazakh, Kyrgyz) are fading and aid budgets are shrinking.  China is exploiting these natural resource rich neighbors.
 
 -The Chinese are split between viewing Mao as tyrant or god.  President Xi has shown fondness for the great leader but is ideologically very different.
-
--China declared its criminal justice system should end false confessions gained by torture, abolish labor camps, reduce the number of crimes punishable by death, and be more transparent.
-
--Sarkozy shifted focus away from sub-Saharan Africa towards north Africa and the Gulf.  But after successfully working with local forces to fight back rebels in Mali, France appears to be gearing up to intervene in DRC as well.
-
--The leader of Mali who took power in coup last year and left it to be conquered by religious extremists is on trial for kidnapping and murder and conspiracy.
 
 -Egypt remains in trouble.  New batches of prisoners keep funneling in as power shifts.  A new constitution calling for elections in 60 days will likely pass, but the country is hurt by plummeting tourism revenues.
 
@@ -3042,7 +2635,7 @@ TECHNOLOGY QUARTERLY
 
 -If Iran shows restraint and the world rewards it, the current deal could generate sufficient goodwill to reach a more durable agreement soon.  While Iran has a reputation for breaking agreements, there is not much for the West to lose.  Bombing would set regime back a few years--long term deal could change region (less support for Hezbollah, Syria, etc.).
 
--The value of Bitcoin has all the telling signs of a bubble that will likely burst but excitement has already prompted other cryptic currencies, or altcoins.
+-The value of Bitcoin has all the telling signs of a bubble that will likely burst but excitement has already prompted other cryptic currencies ("altcoins").
 
 -Desperate for Russian loans/lack of oversight, the Ukrainian President decided against signing a trade deal with the EU.  May not be worst outcome: Ukraine would have reneged anyway and proved popular opinion in Ukraine wants EU membership.
 
@@ -3052,19 +2645,11 @@ TECHNOLOGY QUARTERLY
 
 -The Senate’s move to eliminate supermajority requirement to end filibuster reflects gloom at the prospect of getting anything done before the next electoral cycle and desperation to get some nominees approved.
 
--New proposed rules aim to close a loophole which allows "non-profit organizations" such as Karl Rove’s Crossroads Grassroots Policy Strategies to provide millions of dollars to candidates.
-
 -California’s poverty reached 22%.  Governor Jerry Brown has done little besides send more cash to low-income schools and approve a rise in the minimum wage.
 
 -Juan Orlando Hernandez won the presidency in Honduras, which has the world’s highest murder rate.  He must renew a standby facility with the IMF by cutting the budget deficit through electricity tariffs and eliminating VAT exemptions.
 
--Peru’s president is in hot water over a police scandal which has highlighted his poor record of fighting crime.  This has kept his approval rating at 27% despite successful free market economic policies.
-
--China’s new ADIZ which overlaps with Japan’s could be because China underestimated the impact of its actions or could have been a deliberate provocation.  Obama’s domestic troubles have distracted him from the pivot to Asia but Biden should reaffirm our commitment to the region.
-
 -Japan’s conservative government passed a new secrecy law which increases punishments for leaks and allows agencies to designate what counts as a state secret into defense, diplomacy, counter-espionage, or counter-terrorism.
-
--Thai protesters clash over amnesty bill.  The opposition should embrace more democratic tactics, the government should make reforms to fight corruption/promote business, and the monarchy should stop playing politics.
 
 TECHNOLOGY QUARTERLY:
 
@@ -3080,9 +2665,7 @@ TECHNOLOGY QUARTERLY:
 
 -There is a growing divide in Nigeria between the oil-rich south and the poor insurgent north. The north, infested by Boko Haram, is struggling with farming and fails to attract investment.
 
--A Kenyan plan to deport Somali refugees is harsh and ill-designed.  The refugees may seek haven somewhere else, but will not return to Somalia.
-
--Egypt’s Salafists backed the coup against Morsi, but fear the anti-Islamist government will come after them next.  Based in Alexandria, their Nour Party says it will not field a candidate for president.
+-Egypt’s Sunni Salafists backed the coup against Morsi, but still fear the anti-Islamist government may come after them next.  Based in Alexandria, their Nour Party says it will not field a candidate for president.
 
 -While decisive abroad (Algeria, Nigeria, and Central African Republic), Hollande is increasingly dithering at home as he backed down on an attempt to implement in eco-tax.
 
@@ -3090,159 +2673,63 @@ TECHNOLOGY QUARTERLY:
 
 **November 24, 2013**
 
--SPECIAL REPORT ON AMERICAN FOREIGN POLICY:
+-American Foreign Policy.  Americans are pessimistic following two wars, financial hardship, Chinese growth, disinterested European allies.  SPECIAL REPORT.  Elements of Power:
 
-* Americans are pessimistic for several reasons:
+* Military: Main threat is sequestration.  Military pay/benefits increased 57% from 2001 to 2011.  1989-2001, US intervened abroad once every 16 months--more frequently than any period in its history.  Learned waging war is political and COIN is difficult.  Need to fight less often and more wisely.
 
-    * Two foreign wars which proved more difficult than expected
+* Economic: American economy is clawing its way back.  With the dollar remaining the world’s reserve currency, it has unlimited access to credit so can fund anything if need to.  The deficit is a political problem.
 
-    * A gridlocked government prone to decadence
+* Values: Iraq War was perceived as unnecessary aggression, but US still has rich sources of soft power.  Obama laid out democracy, human rights and open markets as fundamental values to protect where possible.
 
-    * A financial disaster which left the country poorer
+* Primacy: Being on top lets US set the agenda.  Geography, History, and Political Ideology all benefit.
 
-    * China’s dramatic growth
-
-    * European allies appear to have lost geopolitical ambition
-
-    * Obama is thoughtful and conciliatory but also aloof and cautious
-
-* Elements of power
-
-    * Military
-
-        * Main threat is sequestration.  Military pay/benefits increased 57% from 2001 to 2011.  1989-2001, US intervened abroad once every 16 months--more frequently than any period in its history.  Learned war is more political and COIN is difficult.  Need to fight less often and more wisely.
-
-    * Economic
-
-        * American economy is clawing its way back.  With the dollar remaining the world’s reserve currency, it has unlimited access to credit so can fund anything if need to.  The deficit is a political problem.
-
-    * Values
-
-        * Iraq War was perceived as unnecessary aggression, but US still has rich sources of soft power.  Obama laid out democracy, human rights and open markets as fundamental values to protect where possible.
-
-    * Primacy: being on top lets us set the agenda
-
-        * Geography, History, Political Ideology all benefit
-
-* China: economic growth makes the more assertive and funds better army, but it is focused on Taiwan and A2/AD--challenge is not global but regional.  Will avoid war:
-
-    * Don’t want costly arms race with the United States (e.g. USSR)
-
-    * Dumping $1.3 trillion of US treasury bonds would damage own economy (recession, credibility, economy is Communist Party’s source of domestic legitimacy)
-
-    * Would also lose its primary customer in commerce
-
-    * Chinese military has not been tested in live combat
-
-    * Risks nuclear escalation
-
--India stands in the way of the Doha round of world trade talks (started 2001) because it has strong food security policies.  PM Singh wants deal but may block it to build support for next year’s election.
-
--The US Federal Reserve is expected to blockade US financial markets from international banks.  While European banks are slow to cleanup, this policy could cause them to reciprocate, thus increasing the costs of borrowing for all.
-
--Growing wealth and distrust of financial systems has led the world’s rich to increasingly invest in expensive goods (e.g. art) and store them in freeports--storage facilities near airports.  They provide security and confidentiality and an array of tax advantages.
+-Growing wealth and distrust of financial systems has led the world’s rich to increasingly invest in expensive goods (e.g. art) and store them in freeports--storage facilities near airports.  They provide security, confidentiality and an array of tax advantages.
 
 -The messy healthcare rollout has revealed Obama’s leadership weaknesses.  In the days before October 1, he was blithely unaware that anything was amiss.  He gives great speeches but fails to build relationships and seldom reaches out to political opponents.
 
 -Two-thirds of prisoners are back in prison within three years.  The Second Chance Act, up for renewal in Congress, has lowered recidivism by providing education to make ex-cons more employable.
 
--Despite Puerto Rico’s shaky finances, consumerism remains strong and people are too busy spending to join riots.  But the growing spiral of recession, austerity and population loss threaten its future.
-
 -Pena Nieto has passed a lot of reforms in education, telecoms, banking and energy but the larger test may be in implementation.
 
 -The son of Suriname’s president was arrested in Panama on suspicions of cocaine smuggling, passport fraud and aiding Hezbollah.  It has scarcely caused a ripple in Suriname.
-
--From May 2013 to May 2014, the governments in 6 of the 7 South Asian countries are likely to change (Pakistan, Bhutan, Bangladesh, India, Maldives, Nepal).
-
--The Commonwealth Summit in Sri Lanka brought mostly bad publicity for the country, as international coverage focused heavily on persistent allegations of war crimes.
 
 -Political implications of natural disasters can either be good (helped end violence in Aceh) or bad (sharpened conflict in Tamil).
 
 -The overview of China’s plenum was the most striking economic document in two decades, allowing for an insurance system to protect depositors and making its currency fully convertible.  Politically, it centralized power but also allowed "social organizations" (NGOs) and could create judicial systems independent from local governments (both could help make officials more accountable).  It made two concessions in human rights, abolishing labor camps and relaxing the one-child policy.
 
--The 9% white minority in South Africa has done surprisingly well post-apartheid.  While poverty is growing, there has been little violence and coalesce around the Democratic Alliance party which is beginning to challenge ANC dominance.
-
--Libyan Islamist militias have prevented the country from getting back on an even keel and led to more violence.  The West is trying to train several thousand seculars into an army to reclaim power.
-
--Rebel fighters in Syria are becoming increasingly Islamist as the US flow of arms to moderate rebels has slowed.  Moderate rebels are divided on whether to confront Islamists or not.
+-The white minority (9%) in South Africa has continued to do well post-apartheid.  While poverty is growing, there has been little violence and they are largely united around the Democratic Alliance party, which is beginning to challenge ANC dominance.
 
 -Dubai is recovering from a tremendous crash in the wake of the financial crisis  A new metro is efficient and popular, property prices are surging, and investors are pleased.
 
 **November 17, 2013**
 
--Cameras keep proliferating as they get cheaper and smaller.  They can do a lot of good by preserving memories and protecting liability.  But combined with social media and facial recognition they risk the ability to track movements at all time.  New laws are needed to preserve privacy.
-
 -Too many states have mandatory sentences for recidivism which ends up giving non-violent offenders life in prison without parole.  America should favor shorter sentences coupled with greater efforts to rehabilitate wrongdoers.  Legal fees in addition to fines are also getting out of hand and forcing poor offenders to go to prison when they cannot pay them.
 
 -The number of foreign students studying in the United States has increased 40% over the past decade.  The U.S. still has the greatest market share but other countries are catching up.  Many U.S. employers would like foreign labor to stay longer as they tend to study needed science skills.  Only 9% of Americans study abroad in undergrad and most go to Britain, Italy, Spain and France.
 
--Netanyahu thinks Obama is a feckless ally, but he has little other choices.  He is trying to rally popular support in the US but the American public is war-weary and Jews tend to support Democrats.
-
--Colombian President Juan Manuel Santos had hoped negotiations with the FARC would be complete before he launched his re-election bid this November.  Instead, they have only completed only two of six subjects and the most controversial will be the legal future of FARC commanders.
-
--In order to fight rampant inflation, Venezuelan President Nicolas Maduro decreed that prices of electronic appliances be cut to their level a month earlier, but he appears increasingly out of his depth.
-
 -The storm in the Philippines left 2300 dead and cost $15 billion.  Aid has remained focused around cities and tourist hubs.  Only 34 of 983 local policemen are reported to have shown up for duty after the storm.  Vietnam was much better prepared.
 
--The Congress party in Indian looks increasingly inept as it tried to ban opinion polls claiming they mislead voters.  The BJP Party should take control in the next elections.
+-Shinzo Abe has made progress on monetary policy and government spending but continues to lag on structural reform.  These should include the TPP, special economic zones, a policy on rice cultivation, and allowing firms to lay off regular employees more easily.
 
--Shinzo Abe has made progress on monetary policy and government spending but continues to lag on structural reform.  Should include the Trans Pacific Partnership, special economic zones, a policy on rice cultivation, and allowing firms to lay off regular employees more easily.
-
--The Fukushima cleanup is entering a dangerous phase just as Abe is pushing to restart the country’s 50 usable reactors but public opinion remains against.
-
--In the 4-day conclave of 370 party officials, Xi Jinping gave few specific policies but tightened his grip on power.  He called for markets to play a decisive role in allocation of resources, while also creating a state security committee and leading small group
+-Abe is pushing to restart Japan’s 50 usable reactors, but the Fukushima cleanup is entering a dangerous phase and public opinion remains against.
 
 -China’s presence is growing in Antarctica.  The Antarctic Treaty maintains the continent as a demilitarized science preserve and bans mining until 2048.
-
--Talks in Geneva about Iran’s nuclear program came tantalizingly close to the following deal:
-
-* Six month freeze on Iran’s uranium enrichment capacity
-
-* Agreement not to enrich beyond the 3.5% level needed to fuel civil reactors
-
-* Existing stockpile of 20% enriched uranium would be put under monitoring
-
-* Work could continue on Arak with promise not to load new fuel
-
-* Limited and reversible relief from economic sanctions
-
-* Unfreezing of foreign exchange reserves
-
-The French objected over the the de facto right for Iran to continue enrichment and blocked the deal.
 
 -The Saudi government is deporting 9 million foreign workers in an effort to fight unemployment but it has hurt vital services such as water delivery.  Many Saudis had become dependent on foreign labor and will feel they are overqualified for those jobs.
 
 -Most African healthcare systems are two-tier, with the rich receiving quality health care while the rest use the dysfunctional state sector.  Kenya is beginning to fill the middle with small private hospitals sometimes funded by international investors.
 
--Geert Wilders (Netherlands) and Marine Le Pen (France) came to power on anti-Islam and anti-Immigration themes but are now united against the EU.  Still, they differ in views of Jews and gays.
-
--Post-Afghanistan NATO is as united as it has been in a while, but it’s future may go back to balancing against Russia, whose military budget rose by 26% this year.  Still NATO spending is falling and developed a new NATO Response Force (NRF) of 13,000 technologically advanced troops to be ready to respond quickly.
-
--The Commonwealth, a conference of former British colonies, seeks to promote democracy, human rights, and rule of law.  But it has a timid record and the second tier members like South Africa and India need to provide new direction.
-
 **November 10, 2013**
 
 -Too little inflation risks deflation (increases burden on paying loans, causes people to delay spending).  Even ultra-low inflation slows nominal wages growth and makes it more difficult for countries with a single currency to pay off debt.  Should raise targets to 4% and loosen financial conditions.
 
--Though Britain has emerged from the Eurocrisis, its global standing is threatened by referendums on Scottish independence and withdrawal from the EU.
+-New York City has been well-run under Giuliani and Bloomberg for 20 years.  Bill de Blasio campaigned on fighting income inequality but NYC needs its top 1%ers to provide 43% of taxes.  He should instead focus on school reform allowing more development.
 
--New York City has been well-run under Giuliani and Bloomberg for 20 years.  Bill de Blasio campaigned on fighting income inequality but NYC needs its top 1%ers which provide 43% of taxes.  He should instead focus on school reform allowing more development.
-
--BRIEFING: CIVIL WARS.  Since the end of the Cold War, civil wars have been occurring less frequently and ending sooner, but they still spread quickly and are hard to end.  Letting fighting play out tends to destroy the institutions necessary for post-war stable government.  What is needed are security guarantees, power-sharing governments, and the acceptance among parties that they will not win.
-
--Gubernatorial elections in New Jersey and Virginia demonstrate that if the Republican Party wants to get back on track, it will have to abandon the Tea Party and move towards the center.
-
--As Chilean President Pinera struggles with youth protests, leftist Michelle Bachelet will win November election. She vows to reduce inequality by funding tuition for the poorest 70% funded through tax reform.
-
--A new amnesty bill in Thailand is just the latest effort by the PM to get her older brother and the former leader back into the country from his self-imposed exile in Dubai following a 2008 coup.  He was a reformist leader but had periods of brutality and war crimes.  The bill is unlikely to pass due to outrage over amnesty for those who committed war crimes.
+-CIVIL WARS.  Since the end of the Cold War, civil wars have been occurring less frequently and ending sooner, but they still spread quickly and are hard to end.  Letting the fighting play out tends to destroy the institutions necessary for post-war stable government.  What is needed are security guarantees, power-sharing governments, and the acceptance among parties that they will not win.
 
 -The US killed Hakimullah Mehsud in a drone strike.  The leader of the Tehreek-e-Taliban Pakistan was behind the Khost bombing and botched Times Square bombing. Pakistanis should celebrate but are upset because it came less than a week after PM Nawaz’s first visit to Washington in which he called for an end to drone strikes.
 
--China's 6,200 mile high-speed rail network is already longer than all Europe combined and is being expanded well into the northwest.  While these lines are unlikely to make much money, they are likely meant to help mesh the country together.  Tibet is likely to become only province without a high-speed line.
-
--Americans and Russians, despite being on opposite sides of the Syrian conflict, have both grown weary of the conflict and want compromise.  Meanwhile, Saudi Arabia and Iran remain dedicated to helping their side win the war.  The Syrian National Coalition is trying to decide whether to attend proposed talks in Geneva, demanding that Assad not be involved in a transition government.  NICE GRAPHIC
-
--The Israeli leader of the far-right populist Russian immigrant party was acquitted of a variety of crimes ranging from offshore companies, bribes, and business tangles.  The question is whether he will remain an ally of Netanyahu or a rival.
+-China's 6,200 mile high-speed rail network is already longer than all Europe combined and is being expanded well into the northwest.  While these lines are unlikely to make much money, they will help mesh the country together.  Tibet may be the only province without a high-speed line.
 
 -Jordan has remained surprisingly stable throughout the Arab Spring.  Ordinary Jordanians are relieved they have been kept out of neighboring conflicts, while the political opposition has been split over how to react to those conflicts.
 
@@ -3252,99 +2739,51 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -The Russian economy survived many years by pumping state oil revenue into the populace through pensions and such, but that model is beginning to fail as manufacturing and consumption slow.  Russians firms are struggling to compete on both quality and price, but the hope is that stagflation could bring about structural reform (red tape, courts, law enforcement, etc)
 
--The execution of two French journalists by AQIM militants in Mali demonstrates the continuing instability in the country and threatens to undercut one of Hollande’s few successes in office.
-
--Despite a few instances of masked gunmen storming polling places, the November election in Kosovo went well with no accusations of fraud and high voter turnout.
-
--Turkey may be adopting a softer stance with neighbors by embracing Israel’s stance on spies in Iran and agreeing not to take Kurdish oil.  But they still upset the West by buying Chinese (cheaper) missile defense and upset Saudi Arabia by calling for Morsi’s ouster.
-
 **November 3, 2013**
 
 -Labor’s share of national income has shrunk across the globe as the 99% of workers get a smaller morsel of a smaller slice of a slow-growing pie.  Governments should focus on spreading capital gains without hurting business, focusing on growth rather than employment protection.
 
--After the latest allegations of tapping Angela Merkel’s phone, the NSA needs a new start.  But people should also realize much of the European spying was on non-Europeans and spying on allies is not uncommon.
-
 -Though passed in 2010, the ACA took 2 years to write and the federal government was a chaotic boss for the 55 contractors which worked on the website.  Healthcare.gov is a complex system including a website to shop for insurance, a data center to store records, and an interface for insurance companies.  The late decision to require a long application before browsing was made by a DHHS deputy and the site was not tested until late September.  It is not impossible to fix, but time is running short.
 
--At least 70% of processed foods in the US contain genetically modified ingredients.  The technology boosts yields, reduces pesticide use, and is a crucial tool in the struggle against global hunger.  While safe, there is argument over requiring it to be labeled as a similar experiment in Europe spooked customers.
-
--Cristina Fernandez and her husband have led Argentina since 2003 under a booming economy but their luck is running out.  Midterm elections revealed she must build bridges with her opponents in order to survive.
-
--Mexico is trying to raise revenue in a country plagued with tax avoidance but a new mining tax is exceedingly unpopular.
-
--Latin America poll results reveal that over 75% are satisfied with life but only 40% are satisfied with the way democracy works in practice.  69% have a favorable view of the United States and 67% think drugs should remain banned.
+-At least 70% of processed foods in the US contain genetically modified ingredients.  The technology boosts yields, reduces pesticide use, and is a crucial tool in the struggle against global hunger.  While safe, there is argument over requiring it to be labeled--a similar experiment in Europe spooked customers.
 
 -After six years, the court trying perpetrators of the killing fields in Cambodia is likely to end up with just three convictions of men now in their 80s.  The trial cost $200 million, though some say it is important in coping with the Khmer Rouge era.
 
 -The glamorous elder daughter of the leader of Uzbekistan strives to be a glitzy socialite but does little to make herself appear sympathetic.  She may be hurting her chances to follow in her father’s footsteps.
 
--India launched a rocket at Mars, likely to prove itself to China and the rest of the world.
-
 -China’s upcoming party gathering could be the most important since 1978, which laid out the economic modernization.  Two areas which need the most reform are the state enterprises (which stifle competition and hog financial resources) and the countryside (which face a crisis in local government funding).  Mr. Xi should liberalize interest rates, exchange rates and capital flows, as well as give farmers full rights to their land and housing.  The government contains advocates of reform but dividing revenues is contentious.
 
 -As Iraq suffers its worst bloodshed since the U.S. left, President Maliki wants the US to provide Apache helicopters and Predator drones.  What he should do is compromise with Sunnis and Kurds who feel excluded and harassed.
-
--A snap offensive against rebels in Congo was surprisingly successful.
 
 -Britain’s plans for a high-speed railway between London and Manchester is overly costly and will not spread growth as they claim.  The 42 billion euros is better spent on improving the current system with longer trains and more efficient schedules.
 
 **October 27, 2013**
 
--More U.S. companies are using the "master limited partnership" which combines the limited liability of a corporation, the tax advantages of a partnership, and the governance of a private firm.  Finance has always played games to get around rules, but since the crisis regulations have expanded.  The rise of these partnerships has raised capital quickly, distributed profits, and breathed life into markets.  But they minimize tax payments and are difficult to analyze like normal corporations.  Policymakers should drive down the *corporate* tax rate and reduce the regulatory burden on all *firms*.
+-More U.S. companies are using the "master limited partnership" which combines the limited liability of a corporation, the tax advantages of a partnership, and the governance of a private firm.  Finance has always played games to get around rules, but since then crisis regulations have expanded.  The rise of these partnerships has raised capital quickly, distributed profits, and breathed life into markets.  But they minimize tax payments and are difficult to analyze like normal corporations.  Policymakers should drive down the *corporate* tax rate and reduce the regulatory burden on all *firms*.
 
 -With $70 billion in outstanding debt, Puerto Rico is a chronically uncompetitive place locked in a currency union with a richer, more productive neighbor.  Lessons from Greece tell that austerity alone is no route to solvency.  Debt should be restructured sooner rather than later and structural reforms should boost growth.
 
--The botched launch of healthcare.gov has many to blame.  Politics is part of the problem, as the health department stopped issuing much-needed guidance for the exchanges during Obama’s re-election campaign.  CMS also changed standards and failed to issue any warnings that the system would not be ready.  Lead developer CGI Federal led a very opaque development.  The administration said people would have an extra six weeks to buy health insurance before being fined, until March 31.
-
--A new book on President George W. Bush shows that he cared about setbacks more than outsiders knew, nearly becoming clinically depressed at some of the worst moments in the Iraq War.  It also reveals how by the end of his second term, he and Cheney were opposed on nearly every issue (North Korea, Israel, gun rights, climate change, secret surveillance, car industry bailout, CIA prisons in Syria)
+-A new book on President George W. Bush indicates he cared about setbacks more than outsiders knew, nearly becoming clinically depressed at some of the worst moments in the Iraq War.  It also reveals how by the end of his second term, he and Cheney were opposed on nearly every issue (North Korea, Israel, gun rights, climate change, secret surveillance, car industry bailout, CIA prisons in Syria)
 
 -Brazil finally auctioned off the rights to develop some of its deeply buried ocean-based oil.  It should increase output significantly. The government declared the auction a success, although there were much fewer participants than expected and only one offer.
 
--A protest by farmers in Colombia over expensive fertilizer draws attention to deeper issues caused by the conflict involving leftist guerrillas, right-wing paramilitaries, and the armed forces.  It caused a mass exodus of nearly 6 million people and resulted in inefficiencies such as planting short-term crops.
-
--Exclusive gated neighborhoods in Buenos Aires face a new 10% property tax to fight the wealth gap.
-
--Indian Prime Minister Manmohan Singh has been overseas a lot (most recently China) as his popularity slips at home (scandal, weak economy).  He is espousing a look-east foreign policy, focusing on a disputed border with China, but they need to settle claims and not just manage clashes.
-
 -Unlike Myanmar, Laos never had a western-educated opposition leader to remind outsiders of the nasty nature of the regime.  It is increasingly becoming a barren wasteland plagued by deforestation.  China and Vietnam have helped double the size of the economy in a decade, but health indicators are still dire.
 
--SPECIAL REPORT: the Koreas
+-The Koreas.  SPECIAL REPORT.
 
-* South Korean men are on average 8 cm taller and live 12 years longer than North Korean counterparts.  Reunification is becoming less likely as younger generations forget their Northern ties.
-
-* Kim Jong Un comically overstates his strength, but the rest of the world should not underestimate supplies of chemical and biological weapons.  Alaska, Guam, and Hawaii are within the longest nuclear range.  North Korea successfully launched a satellite although they have yet to prove they can launch a back down from it.
+* South Korean men are on average 8 cm taller and live 12 years longer than North Korean counterparts.  Reunification is becoming less likely as younger generations forget their Northern ties.  Kim Jong Un comically overstates his strength, but the rest of the world should not underestimate supplies of chemical and biological weapons.  Alaska, Guam, and Hawaii are within the longest nuclear range.  North Korea successfully launched a satellite although they have yet to prove they can launch a back down from it.
 
 * South Korean leaders tried a "Sunshine" policy, but turned tougher again when they thought the dictatorship might collapse.  Park Geun-hye has used carrots (aid) and sticks (sanctions).  But the toughest international sanctions have been blocked by China, which likes the North as a buffer and prefers a nuclear North to an unstable one.
 
-* South Korea is aging faster than any other OECD country and the burden is falling on taxpayers.  As technology replaces old jobs, the elderly need to learn new skills to keep them from retiring.  Another option would be to admit more immigrants.
+* South Korea is aging faster than any other OECD country and the burden is falling on taxpayers.  As technology replaces old jobs, the elderly need to learn new skills to keep them from retiring.  Another option would be to admit more immigrants.  The narrow South Korean notion of success gives the *chaebol* a disproportionate claim on the country’s talent which is de facto withheld to small business.  Large swaths of South Korea’s economy are surprisingly unproductive and the labor market is divided into two tiers.  Parents engage in an arms race of education spending to get children into the top tier, and the cost may explain a low fertility rate.
 
-* The narrow South Korean notion of success gives the *chaebol* a disproportionate claim on the country’s talent which is de facto withheld to small business.  Large swaths of South Korea’s economy are surprisingly unproductive and the labor market is divided into two tiers.  Parents engage in an arms race of education spending to get children into the top tier, and the cost may explain a low fertility rate.
-
--The number of juvenile criminals in China has doubled in recent years primarily due to rural poverty.
-
--Official policy calls for 95% of China’s grain demand to be met by domestic production even though it is cheaper to buy abroad.
-
--While Chinese garner the most attention in Africa, Indian businessmen are not far behind.  Private firms are joined by state energy companies and agricultural businesses.
-
--With a terrible education system, more and more South Africans are turning to private schooling, often aided by the use of computers.
-
--Saudi diplomats went from celebrating their selection for a two year membership on the UN Security Council to becoming the first ever country to renounce its seat.  It makes little sense to shun engagement with the very body it says it wants to change and had put months of lobbying into getting it.  But it is trying to snub the US over its Israel, Egypt, Iran, and Syria policies.  Still, the country needs friends and the Saud family has always preferred closed-door diplomacy to open forums.
-
--The European Court of Human Rights demanded the release of dozens of former ETA members, including one who killed ten people with a car bomb.  They were supposed to be released in 2008 for good behavior after 21 years but Rajoy wanted to extend their sentence.
-
--Mario Draghi began an inspection of the balance sheets of the region’s 128 biggest banks but the main dodgy assets that have been swept under the European carpet are private: bad loans made to households and companies.
+-Saudi diplomats went from celebrating their selection for a two year membership on the UN Security Council to becoming the first ever country to renounce its seat.  It is trying to snub the US over its Israel, Egypt, Iran, and Syria policies.  KSA needs friends but the Saud family has always preferred closed-door diplomacy to open forums.
 
 **October 20, 2013**
 
 -Modern science does too much trusting and not enough verifying.  The obligation to publish or perish has come to dominate academic life.  Careerism also encourages exaggeration and cherry-picking results.  Verifications or failures to prove a hypothesis are rarely even offered for publication, let alone accepted.  To fix it, scientists should get to grips with statistics, encourage repetition, and register research protocols.
 
--One of the economics Nobel Prize winners argued that markets are volatile because financial assets are unlike consumer goods in that when their prices rise, it creates more demand, not less.
-
--Iran could be within 9 months of the critical capability to produce nuclear weapons.  Netanyahu and several Republicans will only accept a deal that permanently dismantles every part of Iran’s nuclear program, but this is impossible.  More realistic would be a deal allowing Iran to keep some of its existing enrichment capability, but with strict limits on its nuclear program and a much fiercer inspections regime (access to undeclared sites).
-
--The Venezuelan economy requires emergency treatment, but Maduro has taken steps backward by removing his finance minister and asking for the power to rule by decree.  The un-democratic Venezuela should be thrown out of South American clubs by Brazilian President Dilma Rousseff.
-
--The US has historically paid for its roads through a gasoline tax, but this is no longer accurate as the tax fails to keep pace with prices, cars are becoming increasingly fuel efficient, and Americans are driving slightly less than they used to (true?).  Utah is experimenting with using GPS signals that track how many miles each car drives and charging them accordingly, but citizens have privacy concerns.
+-The US has historically paid for its roads through a gasoline tax, but this is no longer accurate as the tax fails to keep pace with prices, cars are becoming increasingly fuel efficient, and Americans are driving slightly less than they used to.  Utah is experimenting with using GPS signals that track how many miles each car drives and charging them accordingly, but citizens have privacy concerns.
 
 -With the growing rape problem in the US military, Congress is trying to take sexual assault cases from the army chain of command and put them in the hands of trained military prosecutors.
 
@@ -3352,73 +2791,39 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -Haiti is talking about reviving its army, although some question the purpose of an army in a country without an external threat and with so many people living off $2/day.
 
--Nicolas Maduro has continued Chavez’s battle against media, by creating state-owned sources and putting others out of business.  Newspapers and magazines continue to be more politically diverse, but their circulation is small.
-
--Shinzo Abe has proposed strict new secrecy laws for Japan, a country that is historically lenient against spies.  Critics warn it could let the government keep too many secrets or prevent government from talking to journalists at all.
-
--Negotiations over the TPP have clashed over how to deal with state-owned enterprises.  Many believe that privatizing SOEs would boost the economy.
-
--Xi Jinping used the APEC and ASEAN conferences to advance Chinese influence in the absence of President Obama.  While it improved once-tense relations with Vietnam, it is still on bad terms with the Philippines due to the South China Sea disputes.
-
 -The Egyptian state apparatus is resorting to its authoritarian habits of the past, with police back on the streets cracking down on dissidents while the government passes laws to tighten its grip.  Meanwhile, the profile of General Sisi continues rising.
-
--The difficulty of reporting in rebel areas in Syria has let the regime tell its own narrative.
 
 -The ANC party in South Africa faces a bitter challenger from the new Economic Freedom Fighters on the left.  They want to nationalize the mines and hand white farmland to blacks.
 
 **October 13, 2013**
 
--SPECIAL REPORT: Since the financial crisis, governments (esp. Russia, India, Brazil) have become choosier about whom they trade with, how much access they grant foreign investors and banks, and what sort of capital they admit. Capital controls make crises less damaging, but hurt competition.  Governments have developed new ways to avoid WTO enforcement of free trade.  There’s also been an increase in regional free-trade deals, which can boost liberalization but may divert trade rather than expand it.
+-Since the financial crisis, governments (esp. Russia, India, Brazil) have become choosier about whom they trade with, how much access they grant foreign investors and banks, and what sort of capital they admit. Capital controls make crises less damaging, but hurt competition.  Governments have developed new ways to avoid WTO enforcement of free trade.  There’s also been an increase in regional free-trade deals, which can boost liberalization but may divert trade rather than expand it.  SPECIAL REPORT.
 
 -The debt ceiling was introduced as a way to make financing WWI easier: before 1917, each new bond issue had to be voted on.  Usually, negotiations would end with a generic compromise.  But this time around, the radical Republicans are safe with their constituents and some don’t believe defaulting would be a disaster.
 
 - President Obama is beginning a tactical shift away from the controversial drone program towards special forces raids.  Republicans criticize the drone program for killing jihadists instead of capturing them for intelligence.  Drones have always been used sparingly in Somalia because it is not a direct threat to the US, the intelligence is less reliable, and the drones would be at the limits of their range.
 
--Some of the issues coming up in the new Supreme Court term: campaign finance, affirmative action, prayer at government meetings, abortion, and recess appointments.
-
 -The Foreign Account Tax Compliance Act (FATCA) is unusually stringent about collecting taxes from American expats overseas (even for several decades) and is causing some to renounce American citizenship.
-
--While the First Amendment protects street-performers, some want some regulation in order to keep themselves from being hassled by police for causing disturbances.
-
--Argentina’s President Cristina Fernandez underwent emergency surgery to drain blood near her brain.  It is only the latest health scare, and she did not help herself by consolidating power around herself, with an obsequious cabinet.
-
--The radical anti-government movement is beginning to gain steam in Canada, as a growing number of people are trying to avoid financial obligations by claiming to be Freemen or Detaxers.
 
 -Democracy is under attack in the Maldives, where masked men stormed a television studio, the Supreme Court annulled the first round of the Presidential election, and there are growing protests.
 
--The chief justice of the Indonesian Supreme Court is the latest official to be mired in scandal, accepting a nearly $300,000 bribe to rig a local election.
-
--Due to conflict in Washington, President Obama missed the Asia-Pacific Economic Co-operation (APEC) forum which promotes trade liberalization and the East Asia Summit, which irritated several leaders.
-
--China is dangerously short of water.  While the south is a lush, lake-filled region, the north is a desert.  The government has tried damming and diverting rivers, but should instead focus on demand by reducing consumption of water and fine polluters.
-
 -Many of Africa’s leaders have ruled too long (has half of the world’s 30 longest leaders).  This may change as technology slowly arrives in Africa and people have new platforms to complain.  Once admired across Africa and the West, Uganda’s tarnished president seems determined to hang on forever despite being the only decision-maker in government and mishandling the oil industry.
-
--Eritreans are increasingly fleeing the country by sea as they feel they are living in a prison camp under a brutal and corrupt army.
-
--Tunisia and Egypt have wobbled along oddly parallel trial-and-error paths, but Tunisia has been more stable as the armed forces are smaller and show no inclination to intervene.
-
--Syria has become an ideal base for jihadists as it gathers thousands of fighters and revenue from oil fields.  But the group has ruffled feathers by becoming increasingly aggressive and brutal.
 
 -Palestinian refugee camps have now existed for as long as 65 years and the UN is getting tired of running them.  People in the camps are beginning to fight back.
 
--Mariano Rajoy predicts an economic turnaround in Spain, but it still has a long with to go.  The recovery in the EU will help but the danger is relaxation.
-
 -The British government has tried saving failing towns through "enterprise zones with low taxes, but these towns are doomed and the government would be better to try and help the people move to big cities where there are jobs.
 
--BRIEFING: The growth of renewable energy has replaced European utilities with something less reliable and much more expensive.  The utilities’ demise is aggravated by an overinvestment in fossil fuels during the 2000s, the Fukushima disaster which panicked governments, and the shale-gas bonanza in America which has lessened demand.  Europeans see themselves as pioneers of eco-friendly energy but need to make the system more efficient.
+-The growth of renewable energy has replaced European utilities with something less reliable and much more expensive.  The utilities’ demise is aggravated by an overinvestment in fossil fuels during the 2000s, the Fukushima disaster which panicked governments, and the shale-gas bonanza in America which has lessened demand.  Europeans see themselves as pioneers of eco-friendly energy but need to make the system more efficient.
 
 **October 5, 2013**
 
--The economic damage of the U.S. government shutdown will be about .1-.2% off the fourth quarter growth rate for every week the government is closed.  Budget battles are not uncommon, but blocking funding because of an objection to an existing law is unheard of.  Two concerns: Delaying Obamacare could wreck the entire reform as the public option requires on young people to buy in for funding.  Republicans are setting a precedent which would allow a small faction to undermine any future reform.  The repercussions of a default on the debt would be global and unpredictable.  In the short term, Republicans should get their priorities straight; in the long term America needs to tackle polarization.
-
--Global surface temperatures have remained essentially flat since 1998, when El Nino (a warming of the Pacific) was unusually large.  The ocean, the earth’s primary heat sink, has seen increases in temperature but not the air.
+-The economic damage of the U.S. government shutdown will be about .1-.2% off the fourth quarter growth rate for every week the government is closed.  Budget battles are not uncommon, but blocking funding because of an objection to an existing law is unprecedented.  Two concerns: Delaying Obamacare could wreck the entire reform as the public option requires on young people to buy in for funding.  Republicans are setting a precedent which would allow a small faction to undermine any future reform.  The repercussions of a default on the debt would be global and unpredictable.  
 
 -Russia is trying to get Ukraine to join its Eurasian Customs Union, arguing that Russia remains the largest market for Ukrainian exports.  But Ukraine has more to gain by signing an association agreement with the bigger and richer European Union.  It appears to be learning westward—not so much for economic reasons but due to Russian bullying.
 
 -There are about 60,000 roundabouts in the world, half of which are in France.  They allow vehicles to swirl rather than stop at empty crossroads, but they don’t always work when faced with heavy congestion and poor lighting.
 
--BRIEFING: OBAMACARE.  The Affordable Care Act will have dramatically different effects from place to place and person to person.  The long term consequences are unpredictable.  It may help transform the richest nation’s dysfunctional health system, but for now the system is in turmoil.  Issues/Republican complaints:
+-The Affordable Care Act will have dramatically different effects from place to place and person to person.  The long term consequences are unpredictable.  It may help transform the richest nation’s dysfunctional health system, but for now the system is in turmoil.  Issues/Republican complaints:
 
 * *Confusing*: the law was never intended to be final version, but the death of Ted Kennedy forced House Democrats to pass the Senate’s first draft and series of fixes later
 
@@ -3436,8 +2841,6 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 * *Won’t work*: already are intense lobbying efforts to prevent young healthy people from joining the plans in order to undermine the law
 
--The federal government was reluctant to provide yet more financial assistance to Detroit, as it could set a precedent for other cities.  It eventually agreed but is having trouble even paying its own bills right now.
-
 -The Texas governor’s race features a Republican who was paralyzed by a falling tree when he was 26 against the pro-choice Democrat Wendy Davis.  No Democrat has won statewide office in Texas since 1994.
 
 -A Chinese businessman is planning a canal across Nicaragua three times as long as the Panama Canal.  But there are numerous environmental, social, economic and legal reasons it will not succeed.
@@ -3446,25 +2849,7 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -One of Fidel Castro’s first actions was the nationalization of baseball, leading to players until recently being paid the same $20/month as everyone else.  But Fidel’s brother Raul has begun to liberalize the country and announced he would let Cuban athletes compete in foreign leagues as long as they pay taxes and promise to play for their countries when needed.  The MLB, however, is unlikely to benefit as the U.S. embargo on Cuba prevents any transaction that would finance the Castro’s government.
 
--Shinzo Abe has planned to raise the unpopular consumption tax in an effort to fix Japan’s troubled finances.  But he needs to focus on the third arrow of his program—structural reforms which in the long run will raise Japan’s growth rate.
-
--Eight senior monks were caught smoking and boozing over a game of high-stakes poker in a hotel room last year.  The leader assured people that he would not run for election again, but he has belatedly entered the race and swiftly apologized for doing so.
-
--Australia’s new Prime Minister Tony Abbott visited Jakarta in an effort to make good on a promise to focus more on Asia and bilateral ties and less on historic Western links and multilateral bodies.
-
--Kolkata, India banned non-motorized vehicles from major roads in an effort to alleviate traffic.  But the ban has been unjust, making travel harder for the poorest residents for the sake of speedier journeys for the wealthy.  Officials insist they have safety interests (accidents and terrorism) in mind.
-
--China kicked off a new Shanghai free trade zone some considered as significant as the Shenzhen special economic zone which kicked off three decades of prosperity three decades ago.  But the launch was a letdown, short of reforms (several sectors are not included) and freedom (no open internet).  At home, soaring wages and an ageing workforce are pushing China towards the "middle-income trap."  Abroad, rivals are rushing into regional free trade deals such as the Trans-Pacific Partnership that will pry economies open.  To keep up, China must liberalize.
-
--Jonathan Goodluck’s People’s Democratic Party has won every election since Nigeria democratized in 1998.  But it is bitterly divided over Goodluck and has blocked needed economic reforms.
-
 -Sudanese President Omar al-Bashir was prepared for demonstrations in response to recent austerity measures, but an overreaction by his security forces has made the situation worse.
-
--Destroying a chemical arsenal in the midst of a Civil War is unprecedented and will require temporary truces on the ground.
-
--The Iraqi Kurds have carved out a zone of relative peace and prosperity as attention goes to violence in Baghdad and Syria.
-
--Enrico Letta’s left-right coalition faced a potentially disastrous vote of confidence vote but passed with a strong margin.  Berlusconi likely prompted the crisis at the impending personal humiliation of being ejected from the senate after his conviction for tax fraud, but he ended up bringing on himself greater mortification.
 
 **September 28, 2013**
 
@@ -3476,57 +2861,33 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -The enrollment and cost of SNAP has increased rapidly.  It is primarily due to the downturn and government bailout which made requirements more generous.  These are set to expire, but much of the program is left up to the states.  Republicans want deeper mandatory cuts, but their proposals will not get far.
 
--A major aquifer in Kansas is becoming increasingly depleted and farmers are beginning to voluntarily cut back on water usage as a gallon used in the future will likely be more efficient than one used now.
-
 -Coal miners in the Appalachians are struggling, primarily due to a decreasing demand for coal with the abundance of cheap and clean natural gas.  But they blame Obama and the EPA for new carbon emission caps.
 
--Some say Obama should learn a lesson from LBJ about dealing with a stubborn Republican Congress, but buying votes is harder today and party boundaries have become more rigid.
-
--SPECIAL REPORT: The Brazilian economy accelerated under Lula da Silva in the early 2000s and barely stumbled in 2008 recession.  But since 2012, growth has nearly halted and due to lack of reform: pensions are overly generous while it spends the lowest portion on infrastructure.  Brazil must also reform politically and make its businesses more competitive by removing protections.
+-The Brazilian economy accelerated under Lula da Silva in the early 2000s and barely stumbled in 2008 recession.  But since 2012, growth has nearly halted and due to lack of reform: pensions are overly generous while it spends the lowest portion on infrastructure.  Brazil must also reform politically and make its businesses more competitive by removing protections.  SPECIAL REPORT.
 
 -Amid the longest oil boom in history, Venezuela has been one of the worst-performing economies in South America.  The government blames scarcities on an "economic war" waged by the United States and its “fascist allies.”  President Maduro is caught in a trap left by Chavez: if he sticks to radicals, the economy will worsen while if he doesn’t, he may be labeled a traitor.
 
--Ecuador’s President Correa offered a deal that he would not drill in a national park if the rest of the world paid 3.6 billion.  When the world spurned this offer, Correa cancelled it and drilled saying the effects to the environment wouldn’t be as bad as initially stated and he would use the profits to fight poverty.
+-Ecuador’s President Correa offered a deal that he would not drill in a national park if the rest of the world paid $3.6B.  When the world spurned this offer, Correa drilled, saying he would use the profits to fight poverty.
 
--Violence in Pakistan undermines hopes of reconciliation with Islamists.
-
--Continuing repression of the Tamils in Sri Lanka suggest that reconciliation is still far away.
-
--Bo Xilai received a life sentence, a surprising end to one of the most sensational political dramas of the past 30 years.  He is entitled to an appeal, but is unlikely to succeed.
-
--Al Shabab is recruiting more foreign fighters than ever, AQAP was responsible for panic that led to closure of 19 U.S. embassies, and AQ’s core is already preparing for the departure of U.S. troops in Afghanistan.  Zawahiri still has substantial ideological and some practical influence over the group, which still publishes *Inspire*.  The failures of the Arab Spring have pushed more towards jihad.  Syria has revived AQI (as the Islamic State of Iraq and al-Sham), and has attracted jihadists from Europe and North America.  A greater emphasis should be focused on supporting weak governments in Yemen, Somalia, Iraq, Libya, Mali Niger and elsewhere.  NICE MAP PAGE 23
-
--The terrorist attack on the Kenyan mall helped bring the country together, with President Kenyatta’s own nephew being killed.  The country was swamped by an outpouring of worldwide goodwill.
-
--Islamist rebels in Syria severed ties with the political opposition, which makes a resolution to this civil war ever less likely.
+-Al Shabab is recruiting more foreign fighters than ever, AQAP was responsible for panic that led to closure of 19 U.S. embassies, and AQ’s core is already preparing for the departure of U.S. troops in Afghanistan.  Zawahiri still has substantial ideological and some practical influence over the group, which still publishes *Inspire*.  The failures of the Arab Spring have pushed more towards jihad.  Syria has revived AQI (as the Islamic State of Iraq and al-Sham), and has attracted jihadists from Europe and North America.  A greater emphasis should be focused on supporting weak governments in Yemen, Somalia, Iraq, Libya, Mali Niger and elsewhere.  
 
 -Merkel won a big victory but needs a new coalition partner.  Her first choice is the Social Democrats but they will demand a high minimum wage and new taxes on the rich.  Instead, she should look towards the Greens, who are eager for power after eight years in opposition.
 
 **September 21, 2013**
 
--While the West’s leaders are off the hook, the only reason the current Russian-led agreement on Syria looks good is because of the mess Obama got himself into.  The deal itself is flimsy and hard to enforce.  America’s credibility as an ally has been undermined—Russians stand firm behind Assad while American support for rebels (now largely AQ) wavers.  America’s credibility as an opponent suffers as red lines are no longer significant—Obama deferred to Congress.  But article admits another war would be even worse…
+-While the West’s leaders are off the hook, the only reason the current Russian-led agreement on Syria looks good is because of the mess Obama got himself into.  The deal itself is flimsy and hard to enforce.  America’s credibility as an ally has been undermined—Russians stand firm behind Assad while American support for rebels (now largely AQ) wavers.  America’s credibility as an opponent suffers as red lines are no longer significant—Obama deferred to Congress.
 
 -Prized artwork is a positional good—valuable largely because other people can’t have them.  The best artists should not make too many paintings or it will devalue their work.
 
 -America’s income equality is growing again: 95% of the gains from the recovery have gone to the richest 1%.  Few politicians offer constructive ways to fight this: Democrats turn to a higher minimum wage or another rise in tax rates on the rich while too many Republicans deny it is a problem.  Solution: fix tax loopholes on affluent (e.g. mortgage interest deduction, a huge subsidy for those who buy big houses), deregulation of industries like doctors and lawyers.  Investment should go to preschool to help disadvantaged children.
 
--Britain has historically focused on overall growth of its economy, but it currently caught up in a silly debate about rebalancing industries toward manufacturing and away from service.
+-In 2009, only 3 of the top 10 firms by market value were American.  Today, it is back up to 9.  Reasons: America’s mix of resilience and dynamism, Europe’s poor performance, and the collapse of state-controlled firms (e.g. Gazprom).  Still, not all countries need giant firms to be successful—Germany’s strength is in its medium-sized firms.  Part of these firms’ success is their global expansion (esp. Google).
 
--In 2009, only 3 of the top 10 firms by market value were American.  Today, it is back up to 9 (chart page 25).  Reasons: America’s mix of resilience and dynamism, Europe’s poor performance, and the collapse of state-controlled firms (e.g. Gazprom).  Still: Though not all countries need giant firms to be successful—Germany’s strength is in its medium-sized firms.  Part of these firms’ success is their global expansion (esp. Google).
-
--Obama admits he lost "style points" on his handling of Syria.  Polls still indicate the public is very much against war.
-
--The feds have traditionally cracked down hard on enforcing drug regulations but the DOJ has decided not to block experiments in Colorado and Washington—at least for now.  It simply reminds states to focus on eight priorities including keeping drugs away from children and borders.
+-The feds have traditionally cracked down hard on enforcing marijuana regulations but the DOJ has decided not to block experiments in Colorado and Washington—at least for now.  It has reminded states to focus on eight priorities including keeping drugs away from children and borders.
 
 -While the total number of gun-related murders is in decline, the number of high-profile killings has jumped, lending more attention to gun violence.
 
--Planes are dropping marshmallows laced with rabies vaccines to fight the spread of the disease.
-
 -A struggle between the unpopular Taiwanese president and the heavyweight in his ruling party led to the release of phone recordings which threaten to derail an agreement signed in June with China over the liberalization of cross-strait trade and investment in services.
-
--North Korea appears to be firing up an old nuclear reactor.
-
--The leader of the Islamist party in Bangladesh was sentenced to death for war crimes in the 1971 war of secession from Pakistan.  While it is a popular decision, the government does not want quick prosecutions to be used against them by Muslims.
 
 -Chinese investment in Africa has gone from almost nothing 20 years ago to around $200 billion last year.  As China’s economy slows, its priorities are shifting from resource-heavy capital spending to a more refined consumer-led sort of growth.  But slowing demand for raw materials will not derail African economies because most of the projects are already underway.
 
@@ -3536,67 +2897,37 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -SPECIAL REPORT: Over the past few centuries, the number of extinctions is estimated to be around 100 times the rate it would be if not for mankind.  But when people start to reach middle-income level, other species benefit for several reasons: environmental groups pressure government, people clean up their environments in other ways (e.g. sewage-treatment plants), agricultural yields rise, and population growth rates fall.
 
--The extent and nature of NSA programs is still unclear, but appears to involve getting software companies and internet-service providers to insert secret vulnerabilities, or backdoors, into apparently secure systems.  This is worrying for three reasons: NSA actions weakens overall internet security, undermines confidence in American technology companies, and NSA did covertly what it failed to do openly.
-
--Obama has broken basic rules of diplomacy twice on Syria: he first bowed to Congress and then Vladimir Putin.  The Russian plan of turning chemical weapons over to international control is appealing to all parties: Assad appears reasonable and avoids the strike.  Putin is the hero that prevented Western intervention.  Obama is spared the humiliation of defeat in Congress.  But right now, the vague plan looks more like a blueprint for Assad to get away with his crimes.  What Obama needs is a tough UN resolution backed by a vote in Congress authorizing force.
-
--The US Federal Reserve must decide whether to begin reducing the pace at which it supports the economy by printing money to buy bonds.  The economic improvement justifies a small reduction, but the Fed needs to spell out its priorities and plans more fully by emphasizing its first priority is growth and making future plans less dependent on single economic indicators.
-
 -The quadrennial AFL-CIO convention highlights union membership falling from 33% in the 1950s to 11% today, mostly due to globalization, growth of service sector, and toughening anti-union policies.  But groups are beginning to organize workers outside traditional collective-bargaining models in "alt-labor" groups such as low-paying or ethnic-minority lobby groups.
 
--Republicans took control of the North Carolina government and went to work: reduced the maximum duration of unemployment benefits, prohibited state insurance plans from covering abortions, and passed one of the most restrictive voter-identification laws in the country.
-
 -Teach for America has been criticized in that placing inexperienced young people in front of "marginalized students" only serves to perpetuate the status quo of inequity.  But TFA recruits with care and studies show they tend to excel, especially at math.
-
--After a steep fall, the birth rate has leveled off.  The largest increase in births was among women aged 30-34.
 
 -Brazil is safer than it has been for many years, but Rio de Janeiro governor Sergio Cabral is unpopular for corruption and dimming results of his security program.  The program involves taking back territory rather than confronting gangs head-on.  Then permanent police stations called UPPs are set up to patrol around the clock.  Officers are now paid bonuses for killing fewer people as opposed to more.  But the poorest areas are having to wait longer for UPPs.
 
 -The Quebec government banned the display of conspicuous religious symbols to eliminate headscarves and turbans but made an exception for items of cultural heritage such as the Catholic cross that hangs above their legislature.  It is unclear whether long beards or skull caps will be allowed.
 
--A tax reform in Mexico is unpopular for raising taxes on the middle and upper classes, but also for taxing dog biscuits as canines have become a popular symbol of upward mobility.  President Pena Nieto is trying to raise tax intake and cut the government’s dependence on oil revenue, but others claim the draft is riddled with mistakes and is far less redistributive than claimed.
-
--The official Chinese newspaper claims China is on the cusp of a new round of reforms that could be compared to the decision to set up the Shenzhen Special Economic Zone in the 1980s.  But the government is also in the midst of a harsh and arbitrary crackdown on corruption of foreign countries.  Some suggest this unpredictable campaign is a way to settle scores or cripple specific foreign countries.  China’s leaders need to do more than grand speeches to win back trust.
-
--Chinese frustrated with lotteries (1 in 80 odds) to win license plates and are finding new ways such as black market rentals or obtaining plates in neighboring provinces.
-
 -Chinese students rarely question teachers, but there has been an increase in debates aiming to develop critical thinking, spontaneity and public speaking skills.  Still, politically-sensitive topics are banned.
 
--China’s President Xi Jinping swept through central Asia gobbling up energy deals and promising billions in investment.  It showed that Russia’s regional dominance is gone.  Yet Russia-China friendship is important, as Moscow wants to benefit from its neighbor’s economic might while Beijing sees Russia as a critical ally on the world stage.
+-China’s President Xi Jinping swept through central Asia gobbling up energy deals and promising billions in investment.  It showed that Russia’s regional dominance is gone, yet Russia and China have incentives to be friends.
 
 -In India, as elsewhere in Asia, attacks on women are often ignored.  Proper sex education is almost entirely absent in schools.  Millions of female fetuses are aborted or young girls die.  India’s courts should prosecute far more doctors and parents for sex-selective abortions and clamp down on dowries.
-
--The trials of several army officers accused of murdering prisoners in retaliation for killing a friend has renewed debate about the army’s role in Indonesia’s young democracy.  The army has changed since 1998, when student-led protests overthrow Suharto, a general who seized power in 1965.  The generals have since retreated from power, but peace in Aceh and elsewhere has deprived them of income from conflict economies and discipline is still weak.
-
--The Fukushima disaster and Olympic bid has rekindled Tokyo’s passion.  It will build 22 of 37 planned Olympic venues from scratch.
-
--Libya update: "Before, when someone disappeared, you knew they were with Qaddafi forces.  Now we have no idea."  No one has managed to reassert full authority over the tribes, regions and groups welded together under the colonel’s iron rule so government control outside Tripoli is weak.  Tensions have risen still higher since the prime minister had a friendly meeting with General Sisi in Egypt.  An assembly to draft the constitution has yet to be elected.
 
 -Saudi rulers are beginning to regain influence in the Middle East.  Post-uprising messes in Bahrain, Egypt, Libya, Syria, Tunisia, and Yemen have dampened the enthusiasm for revolution.  The toppling of the Muslim Brotherhood in Egypt also helped.  Finally, in Syria, Saudi-arms provided to rebels are grinding down Assad’s war machine (not anymore…)
 
 -Africa’s last monarch, the King of Swaziland proclaimed he had a dream and called for elections to its two legislative houses.  Swaziland is kept afloat by the SACU and $200 million received from Taiwan each year in return for saying nice things and staying out of China’s circle of African allies.
 
--Angela Merkel should be re-elected chancellor because she is the world’s most politically-gifted democrat, a far safer bet than her leftist opponents, and could become the great leader Germany and the EU so desperately needs.  The present coalition would be ideal; a grand coalition could push voters to fringe anti-EU parties.
-
 **September 7, 2013**
 
--Argument for bombing Syria: Assad is testing our capacity to impose our will.  Need to protect credibility and re-establish deterrence.  Other dictators are watching.  Being world policeman allows America to shape rules according to its own interests and tastes and help rebuild America's moral authority in the world.  Obama’s decision to get Congressional approval was ill-advised for weakening his office and exposing deep divisions within both parties (disagree…)
+-Argument for bombing Syria: Assad is testing our capacity to impose our will.  Need to protect credibility and re-establish deterrence.  Being world policeman allows America to shape rules according to its own interests and tastes and help rebuild America's moral authority in the world.  Obama’s decision to get Congressional approval was ill-advised for weakening his office and exposing deep divisions within both parties
 
 -Global finance is safer but there are more crises on the horizon.  America was able to get rid of the excess debt and fixed its financial sector, but Europe is still dangerous.  Red flags for future disasters are debt surges, ill-understood interconnections, and uncertainty about government safety nets.
-
--Ronald Coase argued that firms make economic sense because they can reduce or eliminate the transaction cost of going to the market by doing things in house, where it is easier to coordinate decisions.  This suggests firms out to be in retreat as technology lowers transactions costs, but they can still help develop intellectual resources such as company-specific knowledge.
 
 -Ubiquitous data services might make cities more liveable, efficient, sustainable, or democratic.  But risks include privacy concerns and vulnerability to hackers.  Top-down school of thought proposes citywide planning and control, while bottom-up advocates providing access to data that lets citizens make own decisions.  Rio de Janeiro has 400 CCTV cameras to help them manage crowds during the World Cup.  Outside of traffic, few apps have made the jump from interesting novelty to reliable customer service.  Moreover, most cities lack the necessary resources for the ambitious dreams of city planners.
 
 -The stereotype that burger-flipping is how teens earn pocket money is no longer true; half of fast food workers are older than 23.  Trade unions are teaming with protesters demanding an increased minimum wage.
 
--The total amount of welfare and other government support one single mother can get is about $33,000/year.  One woman used it to get a degree and now says she would rather stay on welfare than get a fast food job, which she considers below her education level.  The 1996 welfare reform was successful; but many argue it has become too generous again.
-
--Mexican President Pena Nieto’s state of the nation address was delayed a day and given from his home due to disruptions of thousands of teachers protesting a bill which might limit their pay.  Still, the bill passed the house and should not distract from his other energy and fiscal reforms.
+-The 1996 welfare reform was successful; but many argue it has become too generous again. A single mother can get about $33K/year in welfare and other government support--one woman used it to get a degree and now says she would rather stay on welfare than get a job she considers below her education level.
 
 -A Brazilian network claim they found an NSA slideshow with text messages sent from Pena Nieto to Brazilian President Rousseff, causing Rousseff to cancel her visit to the US.
-
--Indonesian President Yudhoyono still has over a year left in office, but steady underachievement in his first two terms has so diminished him that politicians long ago turned to the more exciting matter of his successor.
 
 -Laos is building a $3.5 billion dam on the Mekong to generate electricity.  It threatens to eliminate the giant catfish but there is little that the Mekong River Commission can do about it.
 
@@ -3606,93 +2937,53 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -After downing Bo Xilai, Chinese President Xi Jinping also accused another political enemy, Jiang Jiemin, of corruption.  His next target will likely be longtime rival Zhou Yongkang.  The optimistic interpretation is that Xi is not just consolidating his own power but also restoring political unity, which may free him to pursue difficult but much needed economic reforms.
 
--The education ministry is trying to ban homework for children under 12 and exams for children under 9.  But parents are most angry, fearing that their children will fall behind.
-
 -Kenyan President Kenyatta stands on trial in the ICC accused of pitting communities against each other in campaigns of ethnic cleansing and murder in early 2008.  If convicted, he will face a long prison sentence, but the trials may last several years and will certainly distract from his ability to govern the state.
 
 -Egypt’s ruling generals, fearing allies of the Islamic Brotherhood, have demolished connections with the Gaza Strip and closed the hundreds of tunnels.  This has cut off about half of Hamas’ revenue.  Its key sponsors—Syria, Iran, and Egypt under the Brotherhood—have fallen away.  Its smaller Islamist rival, Islamic Jihad, skirmishes for control of certain mosques.
-
--New Iranian President Hassan Rohani has taken his first steps towards reforming Iran’s ailing economy.  He brought in a cabinet of technocrats and there is even talk of weakening support for Assad.
 
 **August 31, 2013**
 
 -Obama really should have intervened in Syria a year ago to knock out Assad while he was down.  Now the best course of action is limited but punishing strikes against his command and control centers to send a message about the use of chemical weapons.
 
--Putin has made anti-Western rhetoric the theme of his third Presidency.  It is time for the West to take a hard response in three ways: border countries should harden their stances and join the EU as opposed to the Eurasian Customs Union, having declared NATO his enemy Russia should lose its privileged status, and Russia should be marginalized and banned from other international organizations.  The world still remains dependent on Russia’s energy resources, but less so than it used to be.
+-Putin has made anti-Western rhetoric the theme of his third Presidency.  The West should respond: border countries should join the EU (not Eurasian Customs Union), Russia should lose its privileged NATO status, and Russia should be marginalized and banned from other international organizations.  The world still remains dependent on Russia’s energy resources, but less so.
 
 -Larry Summers would be a cleverer Fed Chairman with more experience in economic crises.  But Janet Yellen is a safer choice given her low profile she is less likely to make unsettling comments that could spook markets.
 
 -On first site, China’s big four banks seem stable, but China should end financial repression, separate banking from crony state capitalism, and welcome more competition from home and abroad.
 
--Colorado has become a vanguard for liberals passing several new gun restriction laws, bills to allow gay civil unions, require more use of renewable energy, lower tuition fees for illegal immigrants, allow voters to register on polling day.  They’ve also grappled with abolishing the death penalty and efforts to legalize marijuana.  Conservatives are still strong in numbers, but reeling.
+-Colorado has become a vanguard for liberals: passing several new gun restriction laws, bills to allow gay civil unions, require more use of renewable energy, lower tuition fees for illegal immigrants, allow voters to register on polling day.  They’ve also grappled with abolishing the death penalty and efforts to legalize marijuana. 
 
--In Utah, every sector is growing except government.  The business-friendly state has lowered taxes and has the fifth lowest unemployment in the country.  Still, the low revenues and high birth rates have led to problems in primary education.
-
--Maine’s governor, Paul LePage, speaks crassly, telling Obama to "go to hell."  While a Tea Party favorite, job growth has been disappointing and time may be running out on his other economic proposals.
-
--Over the past century, Louisiana has lost nearly 2,000 square miles of coastal wetlands due to the building of levees and the oil and gas boom.  Now a board has filed an audacious lawsuit in July demanding that nearly 100 oil and gas firms should either repair the wetlands, or pay damages that could be used for levee upkeep.
+-In Utah, every sector is growing except government.  The business-friendly state has lowered taxes and has the fifth lowest unemployment in the country.  Still, low revenues and high birth rates have led to problems in primary education.
 
 -After nine months of talks between the FARC and Colombian government, the guerillas are closer to peace than ever before.  A huge security buildup over the past decade has reduced the FARC from around 18,000 fighters to 10,000 today and killed three of their senior leaders.  Negotiators are still working out FARC participation in politics, reparation for victims, and punishment of guerillas.  In the end, striking the balance between peace and justice may be the trickiest point of all.
 
--Brazilian President Dilma Rousseff has tried to address a filing healthcare system by importing foreign doctors to cover poor rural areas where Brazilian doctors won’t make enough money, but it is struggling.
-
--Leaders of Pacific nations are gathering in the Marshall Islands to discuss their vulnerability to rises in sea levels, which are backed by strong evidence.  But identifying the effects is not straightforward given the El Nino weather pattern.
-
--A new democracy was borne in the Maldives in 2008, until the elected president Mohamed Nasheed was forced to resign amid threats of violence orchestrated by powerful political families.  This led to a series of riots.  He is expected to be voted back into power in a new round of elections but his opponents hope to force a runoff election.
-
 -The five day trial of Bo Xilai was surprising public—censored transcripts were released to the public.  But more surprising was his robust defense against charges of corruption, extravagance, and covering up a murder.
 
--An online crackdown is under way on those who do not follow the Communist Party’s line, but arresting or silencing the biggest ones comes with the risks of causing a stir.
-
 -Fear and hunger threaten to overwhelm the Central African Republic.  The government is far from re-imposing even a modicum of law and order, let alone a democracy.  The UN intervention in the Democratic Republic of Congo is trying to push the M23 rebel group away from the city of Goma, but there is disagreement whether the 3,000 person brigade should be used as a carrot or a stick to promote peace.
-
--A survey of households shows the limits of redistributive policies in South Africa, where the government is working hard to increase the reach of municipal services but people remain dissatisfied.
-
--Egypt’s radical conspiracy theorists see Western intervention in Syria as part of a diabolical plan to divide Israel’s most powerful Arab neighbors one by one.  Stage 1 was Iraq, followed by Syria and finally will be Egypt itself.
-
--As relations with Europe and America freeze over, Putin is looking to China.
-
--Italy’s first black minister, Cecile Kyenge has been criticized by a number of racists in the country, which struggles with racism even on the soccer field with its star player Mario Balotelli.
 
 **August 24, 2013**
 
 -Thanks to the Civil Rights Act of 1964 and the Voting Rights Act of 1965, race relations in the US are much better than they used to be—15% of marriages cross racial lines, all-white neighborhoods are nearly extinct.  Still, black median household income is falling relative to white income.  By the age of 30, one in ten black males are in jail (for whites it is one in 61).  While some attribute this to lingering racism, others attribute it to cultural differences (Americans who finish high school, work full-time and wait until 21 to be married have a 2% chance of being poor).  The best government policies would be reform of prisons (too harsh) and schools (can’t just throw money at them).
 
--While India was recently touted as an economic miracle, the rupee has tumbled by 13% in three months.  Jumpy officials responded by tightening capital controls to keep money in the country, which only scared more investors away.  During the 2003-2008 boom, the government failed to liberalize the economy.  Solution: don’t micromanage the rupee, get government finances in order, and repair banks.
+-While India was recently touted as an economic miracle, the rupee has tumbled by 13% in three months.  Jumpy officials responded by tightening capital controls to keep money in the country, which only scared more investors away.  During the 2003-2008 boom, the government failed to liberalize the economy.  Rather than micromanaging the rupee, should get government finances in order, and repair banks.
 
--The west should intervene in Syria for three reasons: chemical weapons are banned by international agreement, there are limits to the atrocities government may perpetrate on citizens, and America’s credibility depends on it.
+-The West should intervene in Syria for three reasons: chemical weapons are banned by international agreement, there are limits to the atrocities government may perpetrate on citizens, and America’s credibility depends on it.
 
 -The British public is largely opposed to fracking, which has transformed America’s energy market and helped the country out of recession.  Environmental complaints are weak.  Disturbance complaints (e.g. unruly workers) are a problem but a decentralized tax system would allow benefits for counties which accept workers.
 
 -Before the financial crisis central bankers only had to adjust short-term interest rates to influence growth and inflation.  After the crash, even pulling rates down to 0% failed to stimulate the economies, so central banks have tried two new policies: buying assets like long-term bonds to push down long-term interest rates, and "forward guidance," a promise to keep short-term interest rates low until specific targets (e.g. low unemployment) are met.  They should do a better job of sacrificing flexibility for credibility.
 
--Obamacare requires firms with 50+ FTEs to offer them affordable health insurance.  Right now 57% of employers offer HI, which can cause workers to stay in bad jobs which offer it and may depress hiring.  Obamacare’s taxes may cause employers to make employees pay more of their health costs or kill jobs/hours.  Still, the White House maintains it will allow greater freedom of movement and reward efficient healthcare.
-
--Cash-strapped states have cut funding for Pre-Kindergarten in recent years, but San Antonio is investing in children, especially those from poor families.
-
--Philadelphia has a murder rate four times that of New York.  To fight crime, it is sending rookie cops out on foot to foster trust with locals and learn there are good people even in bad parts of town.  It is working.  Other reasons for falling crime is ageing, police use of data, and private security.
-
--Against most predictions, Mexico’s economy is slumping where Brazil’s is growing.
+-The ACA requires firms with 50+ FTEs to offer them affordable health insurance.  Right now 57% of employers offer health insurance, which can cause workers to stay in bad jobs which offer it and may depress hiring.  ACA’s taxes may cause employers to make employees pay more of their health costs or kill jobs/hours.  Still, the White House maintains it will allow greater freedom of movement and reward efficient healthcare.
 
 -The Haitian government has sought to ban the import of poultry and eggs, one of several new measures designed to stimulate domestic manufacturing through import substitution.
 
--Barely a year ago, Indonesia revelled in a consumer boom paired with the world’s demand for its coal and oil resources.  But growth is slowing as inflation and scandals are growing.  Also spooking investors is a recent increase in economic nationalism intended to disadvantage foreigners through new restrictions on investment.
-
 -India passed a new food law to give each of India’s people a monthly serving of rice or wheat at a nominal price.  It should help nutrition but is badly targeted and will not help the massive theft and waste problem.
 
--The trail of Bo Xilai is a sign that Xi Jinping, who took over as China’s leader eight months after Bo disappeared from public view is confident he can handle the ramifications.  It is all carefully scripted.
-
 -China traditionally harvested the organs of condemned prisoners for use in transplant operations.  But as executions have fallen, it is struggling to meet the tremendous demand.
-
--All Egyptians are angry, but it’s difficult to tell about what, exactly.  Police fired tear gas into a packed prison lorry, suffocating several prisoners and Islamic militants shot 25 unarmed policemen in the Sinai peninsula.  The Brotherhood is split, with pacifists dominating for now but jihadist militants mounting daily attacks in Sinai against police and Christians.  Sisi rules for now and proposed banning religious parties but the harsh police methods bring back bad memories of Mubarak.
-
--Recent car-bombings and attacks in Iraq reveal a level of coordination not seen for several years.  It could be the AQ-affiliated Islamic State of Iraq and Syria, or it could be another group, a Baathist outfit called Army of Men of the Naqshbandia Order.
 
 -The mysterious leader of Boko Haram, Abubakar Shekau was announced wounded or dead for a fifth time.
 
 -Germans are beginning to move away from the two people’s parties (SPD and CDU) and towards more central parties.  CDU/CSU has been moving towards the left to catch more vote, and Merkel has stolen the Green Party’s thunder by pledging to phase out nuclear power plants by 2022.
-
--Russia is making increasing efforts to deter Ukraine from looking at an EU trade agreement and prodding it into the Kremlin-led Eurasian Customs Union instead.  Russians measures could cost Ukraine up to $2.5 billion in the second half of 2013.
 
 **August 17, 2013**
 
@@ -3704,39 +2995,17 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -America’s national parks are struggling to maintain a trend of growth in attendance.  Two reasons: other electronic forms of entertainment and demographic shift towards minorities who have no cultural connections to historical sites.
 
--Obama promised an independent panel would examine the NSA, however his reforms are largely shallow—with the exception of a pledge to tweak the workings of FISA court.
-
--Newark mayor Cory Booker is likely to move to the Senate.  Since arriving in 2006, he has decreased crime and attracted jobs and investment.  He is also admired for chasing down a suspected robber, taking hurricane victims in his home, rescuing a neighbor from a fire, and living on food stamps for a week.
-
--Life is now tougher for hobos because it is harder to catch a ride on the faster trains and police are stricter.
-
 -36% of Americans aged 18 to 31 live with their parents, the largest since 1968.  16% of 16 to 24 year olds are unemployed.  Only 25% of 18 to 31 year olds have spouses.
 
 -Fierce competition among companies offering DC to NY Chinatown bus services led to "bus wars" in 2004 in which coaches were torched, divers were assaulted, and a few people were murdered.  While a cheap form of transportation, several smaller companies were shut down last year for safety concerns.
 
--Pena Nieto wants to change the constitution to allow private investment in Mexico’s oil industry, though it remains unclear how much of the profit the government would actually share.  Plus, he may find it difficult to find the 2/3 majority needed and an army of left-wing nationalists are already planning protests.
-
--Rafael Caro Quintero damaged US-Mexican relations when he tortured and murdered a US DEA agent but was pampered by Mexicans.  He was just let go 12 years early on a technicality which threatens to reopen old wounds.
-
--Argentine President Cristina Fernandez called a bizarre teaser election but her party did not do well.  It reflects high inflation, a ban on foreign-currency exchange, and other mishaps which have hurt her popularity.
-
--Nawaz Sharif and Manmohan Singh both want better Pakistan-India relations.  But recent violence has reduced the chances they will make progress.  Still India should want to normalize ties while there is a civilian leader in Pakistan and to expand its economic access to compete with China central Asia.  Better relations would also help Pakistan’s economy.  Both sides should avoid the sensitive issue of Kashmir.
+-Recent violence have challenged India-Pakistani relations.  Still India should want to normalize ties while there is a civilian leader in Pakistan and to expand its economic access to compete with China central Asia.  Better relations would also help Pakistan’s economy.  Both sides should avoid the sensitive issue of Kashmir.
 
 -In the same week India built its first nuclear powered submarine and aircraft carrier, an explosion on a submarine killed 18 sailors.  India’s navy is generally far behind China’s in overall size and capability, but it is actually ahead when it comes to operating carriers.
-
--A spate of killings in Malaysia may signal an escalation of gang violence.  Some victims, however, appear to have no links to organized crime.
-
--China’s economy is inefficient, but not unstable.  Krugman: "Just the other day we were afraid of the Chinese, now we’re afraid for them."  Its momentum is definitely slowing, although many economists see this as a good thing as it stabilizes its growth and shifts from manufacturing to services.  It has run out of surplus peasants and over-invested, but these alone do not mean instability.  China may suffer bubble bursts similar to those in America, but is unlikely to face the financial panic that resulted from the collapse of Lehman Brothers.
-
--Few issues stir Palestinians’ emotions like the fate of their prisoners.  The release of 26 is small relative to past talks, but still counts.
 
 -After decades of building developments on the West Bank, Israelis may be moving their focus south to the less crowded Negev desert.  Western governments have long encouraged this to minimize conflict with Palestine.  But there are still 200,000 Arabs living there, most of them Bedouin.
 
 -North African governments are struggling to stem the illegal flow of arms and drugs.  There is also a growing problem of addiction to heroin in poor parts of Iran which comes over the Afghan border.
-
--As the only big country in Europe that is increasing defense spending, Poland wants more say in NATO.
-
--ETA has not killed in four years and declared a cease fire in 2011.  Still, it retains arms and explosives and is unlikely to ever be wholly defeated.
 
 -Sophisticated data firms are tracking every movement in English Premiere League soccer to discover the best way to win.  Until recently, scouting talent had been very old-fashioned.
 
@@ -3744,17 +3013,11 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -In January 2013, the air of Beijing hit toxicity 40 times what the World Health Organization deems safe.  China is dealing with the protests through suppression (jailing environmentalists) and mitigation (pouring money into cleaning up the country).  All countries should agree to join China in cleaning up the air.
 
--Rising house prices and lower mortgage costs are making Britain’s economy look good, but the head of Britain’s bank Mark Carney needs to do more to make corporate lending more attractive.
-
--Governments should help firms battle hackers, but letting companies retaliate efforts to eliminate cybercrime.  Hacking has widespread support, especially in the US.
-
 -Sick of trying to keep up with drugmakers, the government of New Zealand is offering them a chance to get official approval for their products.  If they can persuade a board their drugs are low risk they will be approved.
 
--The US picked up some intelligence to suggest an imminent attack and closed 19 embassies.  This could be considered overreaction for three reasons: 1) AQ receives information on intelligence surveillance 2) plotters may still have a plan B 3) it contradicts previous claims that AQ was weakened to the brink of defeat.  (disagree…)
+-The US picked up some intelligence to suggest an imminent attack and closed 19 embassies.  This could be considered overreaction for three reasons: 1) AQ receives information on intelligence surveillance 2) plotters may still have a plan B 3) it contradicts previous claims that AQ was weakened to the brink of defeat.
 
 -After nearly six years of trying to improve relations with Russia, Obama’s patience is growing thin.  This was evidenced by Obama’s decision to cancel a Moscow summit with his Russian counterpart.
-
--San Diego Mayor Bob Filner is swamped in sexual harassment allegations but refuses to address the matter outside a two-week class.  Meanwhile, Bob McDonnell in Virginia accepted around $150,000 in gifts from the head of a money-losing tobacco company turned dietary supplement manufacturer.  His approval rating stands at 46%.
 
 -The National Baseball Hall of Fame evokes nostalgia for a time that never really existed.  This year, for the first time since 1965, no living players were enshrined in the Hall.  This damaged the Cooperstown economy.  When Cal Ripken and Tony Gwynn were honored in 2007, nearly 25,000 people came, compared to around 2,500 this year.
 
@@ -3762,55 +3025,25 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -Latin Americans spend an estimated ten hours per month on social media networks, twice as much as the global average.  As a result, Latin American presidents have taken to tweeting with gusto.
 
--An unpopular government in Thailand fell to its lowest popularity yet, but remains entrenched in its unpopular policy of subsidizing rice.  It was meant to help poor rice farmers and stimulate domestic demand, but has instead allowed other countries to undercut rice prices and taken a piece out of exports.
-
--A Taiwanese military conscript died after intense punishment for bringing a camera-phone to a military base.  It triggered major protests.
-
 -Japan launched its biggest warship since WWII, which is called a battleship but could be used to launch fixed-wing aircraft.  Japan and China are struggling to get negotiations going regarding the disputed Senkaku Islands.
-
--Military control of airspace and a risk-averse culture threaten to cripple China’s rapid growth in aviation.
-
--While most oppose the strict one-child policy, anti-abortion is a rare cause to support in China.
-
--Robert Mugabe claimed another dubious election victory in Zimbabwe.  While he trounced his opponents with 61% of the votes, his Zanu-PF retained control of the voter rolls.  The opposition MDC is compiling a list of grievances to challenge the election in court.
-
--As Syria plunged into civil war in 2011, its business dropped and inflations soared.  So far, the government has managed to muddle through, but things continue to get worse.  The government burns crop fields and shells areas not under its control, while the rebels attack electricity grids and tankers bringing fuel from Lebanon.  Some hope that economic warfare could force the regime to the negotiating table, but the government’s foreign reserves should keep them afloat.
 
 -Israel’s armed forces are shifting emphasis from mechanized warfare toward air and cyber power.  Troops are being consolidated into four major bases and new troops are being prodded towards professionalization over a manpower-intensive body.  New threats are emerging and the voters want a less militarized, more normal country.
 
 -Berlusconi was finally convicted by Italy’s highest court for tax evasion.  The President, Giorgio Napolitano, has wisely beaten back talk of a pardon.  He should leave the national stage in order to give Italians renewed faith in politics.  But it also risks bringing down the government, which relies on the cotes of the People of Freedom (PdL) Movement.
 
--Traditional Bavarian dress is making a comeback in the beer halls of Munich.
-
--Twitter’s spontaneity invites carelessness and the French Minister for Culture made a glaring spelling mistake.  The 140-character limit is especially hard for languages like French which have more letters.
-
 -While there used to be a lot of traffic in and out of Gibraltar, the police have made it slower and more expensive to get out due to a spat between the British and Spanish.
 
 **August 3, 2013**
 
--While experts talk of peak oil, demand for oil could actually flatten out or even decline.  Fracking and increases in unconventional gas will replace oil in cars and ships, while advances in engine and vehicle design will lead to more efficient machines.  Other factors which affect price and therefore demand is the amount the Saudis push out.  The geopolitical impact could undermine Vladimir Putin’s kleptocracy.  In the 1990s, the "seven sisters" of oil (BP, Esso, Gulf Oil, Mobil, Royal Dutch Shell, SoCal, Texaco) controlled 85% of global reserves.  Today, over 90% is controlled by national oil companies.  Remaining oil is hard to get at due because it is buried deep, mixed with other chemicals, or located in politically unstable countries.  NOCs are even starting to outspend the seven sisters on research and development for things like deep sea oil.  The seven sisters overlooked good spots like East Africa and went after bad locations like the Arctic.
-
--The West’s failure to condemn the shooting of 80 unarmed Muslim Brotherhood protesters confirms the view of enemies of democracy that their preaching is hypocritical.
+-While experts talk of peak oil, demand for oil could actually flatten out or even decline.  Fracking and increases in unconventional gas will replace oil in cars and ships, while advances in engine and vehicle design will lead to more efficient machines.  Price (and thus demand) also depends how much Aramco produces.  The geopolitical impact could undermine Vladimir Putin’s kleptocracy.  In the 1990s, the "seven sisters" (BP, Esso, Gulf Oil, Mobil, Royal Dutch Shell, SoCal, Texaco) controlled 85% of global reserves; today, over 90% is controlled by national oil companies.  Remaining oil is hard to get at due because it is buried deep, mixed with other chemicals, or located in politically unstable countries.  National companies are even starting to outspend the seven sisters on R&D in areas like deep sea oil.  The seven sisters overlooked good spots like East Africa in favor of places like the Arctic.
 
 -Both Manning and Snowden unquestionably broke the law and US intelligence agencies cannot function if their employees squawk.  Manning’s public interest defense is especially thin since he leaked hundreds of thousands of documents without regard for what harm or good they would do.  Still, unless FISA court is open to challenge from the public, it risks becoming the creature of the executive.  Also the disproportionately harsh treatment of Manning is unsettling.  Public opinion may finally be shifting against giving up civil liberties in the interest of national security.
 
 -Many seriously mentally ill people in America rotate in and out of correctional facilities until they die.  People are only put in mental-health institutions if they are a danger to themselves or others.  This can lead to costs of nearly a million dollars per person.
 
--Georgia Senator Saxby Chambliss will not seek re-election.  The Republican field already numbers seven, though many of them are sexist and creationist.  The Democratic field is dominated by Michelle Nunn whose father Sam represented Georgia in the Senate for 24 years.
+-Uruguay became the first country in the world to legalize marijuana.
 
--Liz Cheney (daughter of Dick) is looking for Wyoming’s seat in the Senate, but she spent most of her life in McLean, Virginia.  Her odds don’t look very good.
-
--California’s Central Valley faces high crime rates, poor air quality, little education, and high unemployment.  Many are hoping a high-speed rail construction project can turn the economy around.
-
--Canadian Prime Minister Stephen Harper has made support of the armed forces a personal trademark, but in austere times, he is creating a bloated defense bureaucracy.
-
--Peruvian Prime Minister Ollanta Humala, a former army officer, faces rising protests amid a slowing economy.  While protests are hardly rare, Humala had been much more popular than his predecessors.
-
--Uruguay took a big step to becoming the first country in the world to legalize marijuana.
-
--After 28 years in power, Cambodian strongman Hun Sen was so confident he would win the election he didn’t campaign.  But behind a united opposition and youth generation, he lost on a massive scale.
-
--On the criteria of democracy and human rights, Cambodia and Vietnam are not much different, but the US is more open to Vietnam because it sees it as an ally in America’s security "pivot" to Asia and a potentially member of the Trans Pacific Partnership.
+-On the criteria of democracy and human rights, Cambodia and Vietnam are not much different, but the US is more open to Vietnam because it sees it as an ally in America’s security "pivot" to Asia and a potential TPP member.
 
 -A planned road connecting Bangkok, Thailand to Dawei, Myanmar would increase GDP by up to 2% but the jungle is dense and Japanese financiers are backing out.
 
@@ -3818,81 +3051,43 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 -Last year, China is thought to have executed around 3,000 people, or roughly four times the rest of the world put together.  Still, the global decline in executions is largely due to decreases in China’s rigid criminal justice system.
 
--China and the EU narrowly avoided a trade war when the EU imposed punitive tariffs on solar panels and China threatened to punish European exports of wine and polysilicon.
-
 -Egypt’s top general, Abdel Fattah al-Sisi is being compared to Gamal Abdul Nasser, the hero-general who eventually became president.  While the generals initially pledged to stay out of politics, this changed once the Muslim Brotherhood grabbed power.  Still the generals remain remarkably popular.  Sisi’s politics are a mixture of nationalism and Islam.  The Egyptian generals look to Pakistan for inspiration, but they are not even equipped for basic counterinsurgency.
 
 -While some thought Tunisia could be the last chance for a successful Arab Spring revolt, a second assassination of a liberal political movement sets the country on the edge.
-
--Electricity blackouts in Beirut have reached nearly nine hours a day.
 
 -Hamas, which Israel and the United States label a terrorist group, is notably absent from the Middle East Peace talks, though the US has gradually recognized there are other actors at play.  Hamas leaders have been feeling glum since the Islamist Morsi was overthrown last month.
 
 -A new law in Somalia that forces journalists to reveal their sources was implemented to try to stamp out sloppy practices, but has led to six violent journalist deaths.
 
--The scandal over the US NSA spying program has thrown a hitch in Chancellor Merkel’s ambitions for September’s election.  While CDU/CSU will still win, it may take away her ability to rule in coalition with FDP.  One possibility would be to team with SDP.
-
--Fanned by Geert Wilders, Dutch Euro Skepticism is on the rise.
-
--Trucks in Britain with billboards that tell immigrants to "go home or face arrest" have caused quite a stir, with the conservatives in favor and the Liberal Democrats horrified.
-
 **July 27, 2013**
 
 -Until the 1990s, the US economy had among the strongest growth rate in the world.  The past two decades featured tremendous growth in the BRIC countries built on a huge jump in merchandise exports.  But the BRIC economies are beginning to slow down.  China seems the most committed to reforming into a better-balanced consumption-based economy.  While this is not the beginning of another bust, it means the world economy is unlikely to grow much faster than today’s lackluster pace of 3%.  Goldman Sachs touts a list of "Next 11" countries including Bangladesh, Indonesia, Mexico, Nigeria, and Turkey, but these countries are smaller, already somewhat rich, and the world economy is larger.
 
--Detroit became the largest city to file for bankruptcy, seeking protection from all its creditors including pensioners.  The problems arose from five decades of declining population and the Big Three carmakers struggling against global competition.  Its future depends on how favorable a restructuring plan it can ger.
-
--Detroit is symbolic of a number of American cities with tremendous liabilities stemming promised pensions and health care to workers.  It is estimated that the total pension gap for states is around 17% of GDP.  It is worst in Illinois, where the deficit is beginning to discourage business.  It is exacerbated by Americans living longer and politicians offering fat pensions to win votes.  The answer may lie in later retirements and a shift to defined contribution plans.  Still, pensions reforms are slow and generally implemented only for new hires.
-
--Oregon’ strict land-use policies have successfully protected farmland, but probably impeded economic growth by deterring migrants and limiting parking.
-
--Anthony Weiner’s controversy exemplifies a new online hook-up culture where apps like Tinder and Bang With Friends join pairs that approve of each others’ Facebook photos.
+-Detroit, the largest city yet to file for bankruptcy, is symbolic of a number of American cities with tremendous liabilities stemming promised pensions and health care to workers.  It is estimated that the total pension gap for states is around 17% of GDP.  It is worst in Illinois, where the deficit is beginning to discourage business.  It is exacerbated by Americans living longer and politicians offering fat pensions to win votes.  The answer may lie in later retirements and a shift to defined contribution plans.  
 
 -Obesity is becoming a bigger problem in Latin America, where Peru has the highest density of fast food restaurants in the world.  Several countries are considering regulations on school lunches and taxes on sodas.
 
 -Argentina, whose energy industry is struggling, recently nationalized the YPF oil company.  YPF signed a joint venture with Chevron to explore the Dead Cow field which is estimated to hold 16 billion barrels of shale oil and 308 trillion cubic feet of shale gas.
 
--Shinzo Abe won the upper house vote and should use this mandate to continue his "Abenomic" economic reforms.
-
--Australia’s new Prime Minister Kevin Rudd has addressed the two issues that damaged his predecessor Julia Gillard.  He is offering to terminate the carbon tax and declaring that all those seeking asylum by boat would be sent to Papua New Guinea.
-
 -Fueled by a dangerous brew of faith, ethnicity, and politics, Buddhism and Islam are fueling an escalating conflict in countries like Myanmar, Sri Lanka, India, and Indonesia.
 
 -Tajikistan is hoping to build the world’s tallest hydropower dam and sell electricity to Afghanistan and South Asia.  Two obstacles remain: the investment climate is clouded by corruption with profits often routed to the Virgin Islands, and Uzbekistan things the dam would parch its cotton crop and is blocking the deal.  Even if the dam was built, more infrastructure would be needed to get the electricity out of Tajikistan.
 
--Good Samaritans are somewhat rare in China, and have often been sued by the very people they help.  To address this moral decline, several cities are implementing Good Samaritan laws to encourage and protect do-gooders.
-
--Humongous and overwrought government buildings has fueled public frustration with the waste and triggered a five-year halt on construction.
-
--Zimbabwe’s upcoming election gives them a chance to vote out the corrupt Robert Mugabe who has led for 33 years.  While the country refuses UN or EU monitors, neighboring countries such as South Africa should see to it that the elections are free and fair.
-
--Al-Qaeda maintains a strong presence in Marib, a few hours east of Sanaa.  The city is troubled by a lack of basic services and lingering disputes over precious arable land.  While it has modest oil and gas income, the surge of drone strikes in 2012 may be worsening the problem by spreading fear and recruiting other young men to the jihadist cause.
-
--The Egyptian army is cementing its alliance with the non-Islamic public.  The Brotherhood’s rejection of compromise and violent protests has stymied sympathy for the group.  General Abdel Fattah al-Sisi is articulate and modest.
-
--Iraq’s continuing political stalemate and the spreading violence in Syria has drawn Iraq back into civil war.  Al-Qaeda has revived itself as the Islamic State of Iraq.
-
--Syria is gradually breaking into three: the regime in the west, the rebels in the middle, and the Kurds in the northeast.
-
--Israelis and Palestinians agreed to meet, but the announcement looked far from auspicious.  There are still a number of lingering conditions and less enthusiasm.
-
--After a strong run, Polish Prime Minister Donald Tusk has been troubled with a slowing economy and lack of reforms such as trimming the expensive national-insurance scheme for farmers or the pension privileges of coal miners.
+-Al-Qaeda maintains a strong presence in Marib, a few hours east of Sanaa, Yemen.  The city is troubled by a lack of basic services and lingering disputes over precious arable land.  While it has modest oil and gas income, the surge of drone strikes in 2012 may be worsening the problem by spreading fear and recruiting other young men to the jihadist cause.
 
 -A toxic mix of Islamism, joblessness and grievance can ignite violence in the heavily immigrant parts of France.  The most recent violence stemmed from an officer who asked a woman to remove her face covering.
 
 -Two days after being sentenced to five years in jail, Alexei Navalny was released pending an appeal and allowed to run for mayor of Moscow.  The Kremlin’s erratic behavior is a sign of a growing split within the ruling Russian elite between a powerful faction comprising former and present security servicemen (wanted Navalny in jail), and civilians in the presidential entourage (wanted Navalny freed).
 
--Queen Elizabeth has held the crown for too long.  When she turns 90, she will have beaten the previous record-holder (Queen Victoria, 63 years).  She should bow out.  Prince Charles should at 80, Prince William at 70.  Otherwise George Alexander Louis will never make it to the throne.
+-Queen Elizabeth has held the crown for too long.  When she turns 90 in 2016, she will have beaten the previous record-holder (Queen Victoria, 63 years).  She should bow out.  Prince Charles should at 80, Prince William at 70.  Otherwise George Alexander Louis will never make it to the throne.
 
 **July 20, 2013**
-
--German leaders have recognized that youth unemployment in Europe is a major threat, but its plan demonstrates a lack of boldness, an incomplete analysis of the problem and excessive faith in copying German policies.
 
 -Obama and Karzai are on sour terms after a snafu regarding Taliban talks in Qatar, but they cannot let this derail negotiations on the bilateral security agreement to keep around 30,000 badly needed ISAF troops beyond the exit.
 
 -Cycling and sprinting have both been devastated by doping allegations.  The only real way to clean it up is through frequent and ubiquitous testing, though the leagues want to avoid the bad PR.
 
--BRIEFING: The global crime rate has fallen dramatically since the 1970s/80s.  Possible reasons:
+-The global crime rate has fallen dramatically since the 1970s/80s.  Possible reasons:
 
 * Demographics (baby boomers are grown up, less likely to commit crimes)
 
@@ -3910,37 +3105,19 @@ The French objected over the the de facto right for Iran to continue enrichment 
 
 Still, not all crime is falling.  Sexual offenses and violent crime remain significant.
 
--The trial of Whitey Bulger, the former Boston Mob Boss, reveals how organized crime has changed.  Modern mobsters often steal in cyberspace and have a global reach more than local.  Gang-related murders have dropped.
-
 -The Walmart-DC battle over living wages has precedent.  The chain was accepted in Chicago and created numerous jobs, while it has yet to reach New York.  The stores would create jobs and benefit the poor.
 
 -Mississippi and Alabama became the last two states to legalize crafting your own beers.  The economic rationale is that while many start out of hobby, they end up setting up their own shops.
 
--While poverty is typically associated with urban communities, suburban poverty has been on the rise since the recession.  Suburbs have the added difficulty of a lack of transportation, though they still have most of the jobs and best schools.
+-While poverty is typically associated with urban communities, suburban poverty has been on the rise since the recession.  Suburbs have the added difficulty of a lack of transportation, though they have good jobs and schools.
 
 -Cuba has traditionally relied on Venezuela for 40% of its foreign exchange but is increasingly trading with China, Brazil and Angola.  The US should lift its embargo to help the capitalist transition.
 
--Brazil will welcome the new Pope from Argentina but the church is in trouble.  Its image has been damaged by the failure to confront the crimes of pedophile priests and its teachings on birth control are largely ignored.  There is also some uncertainty on who should pay for the $142 million visit, as ticketing has failed to cover the tab.
+-Brazil will welcome the new Pope from Argentina but the Catholic church’s image is in trouble.  It failed to confront the pedophile priests and its teachings on birth control are largely ignored.  There is also some uncertainty on who should pay for the $142 million visit, as ticketing has failed to cover the tab.
 
 -Mexico arrested Miguel Angel Trevino Morales, the leader of the Zetas.  Unlike the previous administration, the arrest was not touted as much but it is highly significant for legitimizing Pena Nieto’s efforts against violence.
 
--The once-hated Shinzo Abe has seen unprecedented popularity for his economic policies and his LDP party may be able to win back control of the powerful upper house.  Still, some remain unhappy with his support for the Trans-Pacific Partnership and rising fuel prices.
-
--Since NATO ceased combat operations in Afghanistan, violence in many places has fallen.  As Western forces leave, it is harder for the Taliban to portray them as occupiers.  The government appears to be relatively stable for the time being.
-
--More members of Bangladesh’s main Islamic party have been indicted for war crimes during the bloody succession from Pakistan in 1971.
-
 -Although most Indians have mobile phones, there is a major scarcity of electricity.  While the state has proved incapable of providing power, aid donors are rushing to develop grid power using solar panels.
-
--A rare protest against a uranium-processing plant in Guangdong may demonstrate increased anti-nuclear sentiment in Asia.
-
--A new report says China’s growth has become too reliant on investment and an unsustainable surge in credit.
-
--Barclays retail bank decided it will close the accounts of some 250 money-transfer businesses which people in the west use to send remittances to people at home in Africa.  The bank claims a legal review revealed it would not be able to prevent criminal activities, although cash going to extremists in Somalia is sent by sacks on planes, not from a London suburb a few hundred dollars at a time.  40% of Somalia’s population depends on money sent from abroad.  Some propose creating a remittance bank to replace private banks.
-
--Togo: Sylvanus Olympio was assassinated in 1963 by a hit squad led by Eyadema Gnassingbe who seized power in coup.  Olympio’s son Gilchrist was exiled in Ghana for 40 years, but has returned to lead a party currently in government with Gnassingbe’s son Faure.
-
--The Muslim Brotherhood now seems intent on stymying the new government in Egypt.  Meanwhile the United States has been unable to exert much influence.  Banking on the hostility of Egyptians felt towards the Muslim Brotherhood, the Army is unfazed about cracking down on the Brotherhood.
 
 -The Syrian Islamic Front has emerged as the most powerful outfit battling Assad.  It does not identify with the Western favorite Free Syria Army nor the al-Qaeda affiliate Jabhat al-Nusra.  It wants a Sunni-led Islamic state but emphasized that its campaign is for Syria, not global jihad.
 
@@ -3948,49 +3125,27 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Once again, a fragile Greek government has pushed delayed reforms through parliament at the behest of the European Union and the IMF even as angry protesters in the square outside demand its resignation.  At stake was a 6.8 million euro bailout.
 
--Spanish Prime Minister Mariano Rajoy has been tied to donations by construction firms that won big public contracts from PP governments.  While the next election is far off and he has a majority in Parliament, his weakness lies in his former treasurer Luis Barcenas who may be able to release damning evidence.
-
--A five year sentence for Russian anti-corruption activist Alexi Navalny means he cannot run for elections.  He was found guilty of a serious crime of stealing timber.
+-Russian opposition leader activist Alexi Navalny  was found guilty of stealing timber and sentenced to five years.  Most relevant, it means he cannot run for elections.
 
 **July 13, 2013**
-
--The Arab Spring was always better described as an awakening.  Dictatorships take a long  time to replace but all hope is not lost.
 
 -Europe’s financial system remains in terrible shape,  It should unclog lending channels, confirm the quality of bank assets, and impose additional requirements on bankrupt governments.
 
 -The practice of giving useless and inappropriate gifts to leaders on official visits ought to be canned.  Kim Jong Il mocked gifts he received and keeps them in a museum in Pyongyang.
 
--Online shopping is gaining traction, especially in the US and Europe.  While some shops cling to the idea of feeling items before purchasing them, most have both outlet and online components.
-
 -The Baucus-Camp tax proposal is not perfect—the sponsors disagree about the need to raise more revenue.  Still, Obama should pass it quickly to reform an inefficient and complex tax code.  The loopholes often discourage work and investment and the US tax code has increased from 16,500 to over 72,000 since 1969.  Its 35% corporate tax rate is among the highest in the world.
-
--The Democrats have been relatively successful at framing Republicans’ anti-abortion campaigns as a war against women.  Still, relatively few voters base their vote on social issues.
-
--Rick Perry is giving up the governorship, but many suspect it is to organize for a new Presidential campaign.  He blames his previous failure on a late start.
 
 -FISA court, with minimal oversight, has almost become a parallel Supreme Court.  It appears partisan, as 12 of the 14 judges who served in 2013 are Republican.
 
--A successful cross-party pact in Mexico has broken through Congressional gridlock but additional reform is still needed.
+-Southeastern Myanmar is one of the most landmine-ridden areas of the globe.  A failure to eradicate them threatens efforts at peace.  Syria and Myanmar are the only two countries still producing landmines since a 1997 ban treaty.
 
--As the Brazilian public embraces online news sources, the print media is struggling.
-
--Online electioneering is just now reaching Japan, which was previously committed to old fashioned campaigning with megaphones and vans.
-
--Southeastern Myanmar is one of the most mine-ridden areas of the globe.  A failure to eradicate them threatens efforts at peace.  Syria and Myanmar are the only two countries still producing landmines since a 1997 ban treaty.
-
--A campaign to improve the Communist image has failed to inspire.
-
-*­*-In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.  Despite the pitfalls, the spirit of an Arab Spring remains alive.
+-The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
 
 -Until the mid-1980s, most Arab countries performed as well as the rest of the world, but this success rested on windfall oil revenues.  Several dictatorships mostly embraced free markets, but oil revenue and corrupt spending has kept even educated populations living on an average of $2.75/day.
 
 -For Islamists, government has proved much harder than opposition.  While the sectarian divides are old, wounds were reopened by the US invasion of Iraq and overthrow of Saddam.  The arrival of al-Qaeda supported the Wahhabist sect and Bashar al-Assad represents the Alawites.  The Kurds also play a role.
 
 -While more Arabs are being educated, the quality of the education is questionable and mostly focused on religion.  Women tend to be better educated and underrepresented in the workforce.  Marriage is a prerequisite for sex, and owning a house is a prerequisite for marriage.  The new generation of Arabs has to work harder and longer than their parents to afford their own houses.  Many young people are starting their own businesses in defiance of the government.
-
--The huge majority of oil reserves are located in Saudi Arabia, Yemen spends 6% of its GDP on subsidies to keep oil prices low.  But this money largely goes to the already wealthy.  Perhaps the Arab nations should better integrate their economies to promote more trade and labor migration. 
-
--SPECIAL REPORT: Egypt’s new Constitution proved troublesome to the Muslim Brotherhood as much as anyone.
 
 **July 6, 2013**
 
@@ -4000,139 +3155,61 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -While harping on taller fences and increased security on the border will help a few Congressmen appeal to their constituents, passing immigration reform would be more beneficial to the country and the future of the GOP.
 
--Investment in Britain dropped in real terms to just 13.5% of GDP.  The bank should continue its bond buying policy known as quantitative easing.  It should also ease the four year credit crunch and reform taxes to better incentivize construction.
-
 -The sequester will result in across the board cuts throughout the Pentagon.  While America will remain the world’s pre-eminent military power, it will take a major hit.  Reform will be difficult, as Congress hates closing bases or laying off military personnel.
 
--Gerrymandering threatens to protect Republicans from the consequences of voting down immigration reform.  Still, the odds are better than the last attempt by President Bush in 2007.
-
--The ACA continues to hit implementation setbacks and uncertainties.  The White House’s decision to delay employer mandate could either be a sign of administrative flexibility or weakness.
-
--Some in Detroit have suggested selling masterpieces from the Detroit Institute of Arts to help the bankrupt city but the suburbanites which don’t pay taxes to the city want to protect them.
-
--New Venezuelan President Nicolas Maduro has struggled to maintain the authority of Chavez.  Radicals, former soldiers and Cuban spies jostle for control as his ruling coalition crumbles.
-
--Michelle Bachelet appears to be gliding into reelection in Chile.  The largest threat is that a number of left-leaning independent politicians are running.
-
 -A long-standing unfairness in the electoral system in Japan that favors low-populated rural areas has proved difficult to change as politicians prefer the system that gets them elected.  It also undermines Prime Minister Abe’s promised economic reforms.
-
--Debt and discontent is growing in Bhutan.
 
 -Several countries such as Thailand and Vietnam are beginning to embrace gay marriage.  Still, neighboring Malaysia has a Muslim majority which has outlawed homosexuality.
 
 -The welfare states pioneered in Europe and America are not universally admired in Asia, which has tended to rely instead on youthful populations, bountiful growth, and dutiful families.
 
--Students coming back home helped built modern China, but are now faring poorly in the labor market.
-
--While the extremists were largely displaced from their territory in Mali, they are beginning to show up in Niger.
-
 -It will be very difficult to get American arms to selected Syrian rebels, and brings back bad memories of arming the mujahideen in Afghanistan in the 1980s.
-
--The Portuguese government seems close to collapse.
-
--The Kremlin is trying to frighten dissenters from taking to the streets again.
 
 -Trade negotiations between America and the European Union are set to finish by November 2014, but they will not be smooth given entrenched sensitivities.  Europeans are prickly about American agricultural practices, such as genetically modified foods.  Americans will cling to domestic carve outs for domestic shipping and transport firms.
 
 **June 29, 2013**
 
--The wave of protests have different origins, but all come from contempt for government.  Brazil: bus fares, Turkey: building project, Indonesia: fuel prices, Bulgaria: cronyism, Arab Spring: everything.  But just as in 1848, 1968, and 1989, the protesters have risen with bewildering speed (social media), been more active in democracies than dictatorships, and tend to be middle class people.
+-A global wave of protests have different origins, but all come from contempt for government.  Brazil: bus fares, Turkey: building project, Indonesia: fuel prices, Bulgaria: cronyism, Arab Spring: everything.  But just as in 1848, 1968, and 1989, the protesters have risen with bewildering speed (social media), been more active in democracies than dictatorships, and tend to be middle class people.
 
 -The long-overdue revolution in using computers for education is gaining key support and traction in the United States.  Still, it has opponents among parents who blame technology for the "dumbest generation" and teachers who are worried about their jobs.
 
 -The Supreme Court backed gay marriage by declaring the Defense of Marriage Act unconstitutional and declining to uphold a challenge to Proposition 8 in California.  But it also struck down an enforcement mechanism in the 1965 Voting Rights Act that required states and counties to get federal pre-approval for changes to election laws (allowing racist states to block minority voters).
 
--Wendy Davis executed a successful 11 hour filibuster to block a Texas bill to ban abortions after 20 weeks, but Rick Perry is likely to force the bill through anyway.
-
--Cost-slashing Republicans are trying to spend an extra $38 billion on border security in the immigration bill.  They also rejected the farm bill over complaints about spending on food stamps.
-
--Hallmark cards are showing surprising candor about terminal sickness in cards, using the words "cancer" and “alzheimers” like never before.
-
--President Obama used his executive power to launch the climate action plan meant to limit CO2 emissions, although it will not be very effective without more legislative action.
-
 -Brazil’s government has appeased protesters by offering political reform against corruption and more social spending.  Still, the plan seemed rushed and citizens are still upset about the stadium projects which were budgeted at $1.1 billion but have already cost over $3 billion.
 
 -Pakistan should try Pervez Musharraf for treason for his coup and complicity in the killings of separatist leaders and Benazir Bhutto, even if it risks becoming a distraction and damaging relations with the military.
 
--Australia’s Labor Party, facing the prospect of losing the next election, reinstated Kevin Rudd as their leader over Julia Gillard.
-
--A monsoon in northern India was aggravated by poor response.  The problem has been exaggerated by rapid but poorly regulated construction.
-
--Forest fires in Indonesia have brought record levels of air pollution to southeast Asia.
-
 -China finds itself in a financial crunch similar to the one in the United States in 2008.  Credit is rising faster than GDP and property booms have been accompanied by increased lending.  Still, China has a much higher savings rate and the banks are better regulated (or owned by the government).
 
--The African National Congress, once the pride and joy of Nelson Mandela, is floundering.  Corruption is pervasive, unemployment is at 37%, rape is common, public hospitals are terrible, land reform has failed to materialize, and much more.
-
--The divisions of Sunni and Shia are causing many Muslims to reflect.  While few Muslims consider themselves Sectarian, the endless violence triggers more and more ill will. 
-
--Germany as the "occasional leader."  Don’t expect them to play a bigger or more strategic role any time soon.
+-The African National Congress, once the pride and joy of Nelson Mandela, is floundering.  Corruption is pervasive, unemployment is at 37%, rape is common, public hospitals are terrible, and land reform has failed to materialize.
 
 -After Croatia’s accession into the EU, Europe should be ready to admit more members.  Enlargement has been the EU’s most successful policy by incentivizing countries to further democratize and stabilize their economies.  Europe would do better with hopeful neighbors that aspire to its standards than grumpy ones that feel rejected.
 
--Italy is in for more trouble as it tries to survive with a coalition of the left and right.  Fiscally-prudent reforms have been difficult with Berlusconi’s People of Freedom party pushing for more tax cuts.
-
--Despite a floundering economy, the Portuguese want to keep on the Euro.
-
--British exports to China are increasing.  But government policies are holding back business.
-
 **June 22, 2013**
 
--Ina  zero interest rate economy, Ben Bernanke and the Federal Reserve can influence money markets more through words than actions.  If inflation remains uncomfortably low or growth proves weak, the central bank could continue to buy bonds but this might lead to further instability down the road.
-
--While the protests in Turkey appear to have calmed somewhat, Erdogan should remember that winning an election does not entitle a leader to disregard all checks on power.
+-In a zero interest rate economy, Ben Bernanke and the Federal Reserve can influence money markets more through words than actions.  If inflation remains uncomfortably low or growth proves weak, the central bank could continue to buy bonds but this might lead to further instability down the road.
 
 -In order to approve the immigration bill with the path to citizenship, Republicans want to spend more than $4.5 billion on border security through drones and fences.  But the economic downturn has drastically slowed immigration and measures seem to indicate better enforcement in recent years.
-
--The city of Detroit defaulted on its more than $17 billion of liabilities, which spells trouble for creditors, employees, and residents.
 
 -Obama is only the latest U.S. President to propose further cutting nuclear weapon levels, but other nuclear powers are skeptical of his "plot to take over the world with conventional weapons."
 
 -Some states are trying to limit employers’ ability to see employees’ criminal histories to encourage firms to give ex-cons a fair shot.  After all, society is worse off if former criminals can’t find work.  But the better solution is a criminal justice system geared towards rehabilitating criminals and focused on separating dangerous criminals from non-violent ones.
 
--The Massachusetts Senate race to fill John Kerry’s spot once again features an elderly Democrat against a young fiery Republican trying to make up ground in the liberal state.
-
 -A minor increase in bus ticket prices became the tipping point for protests in Brazil.  A quarter million took the streets to complain about first-world tax rates, inflation, poverty and excessive spending on the World Cup Stadiums.
-
--Haiti, which is highly dependent on imported Rice, has set a goal to produce 60% of its own food by 2016.
-
--As America withdraws from Afghanistan it is participating in talks with the Taliban but there is still reason for concern.  Violence remains high, and Karzai is upset over his exclusion from peace talks.
-
--There has been no honeymoon for Pakistani president Nawaz Sharif to focus on reviving a struggling economy, with two horrifying terrorist attacks in its southwest province.
-
--An election was called in Nepal, but a four year effort to rewrite the constitution failed and the ad hoc government remains in power.
-
--Vietnam is cracking down on anti-government bloggers.
-
--Indonesia’s increase in oil prices will hurt nearly everyone but is better than not raising them; solid economics but lousy politics.
 
 -China had hoped the death of the Dalai Lama would allow it to choose the new one and end the Tibet issue.  But His Holiness’ death may actually lead to a more unstable environment and China is wisely taking a less hardnose approach to Tibetan autonomy.
 
 -Iran elected Hassan Rohani, a pragmatic former chief nuclear negotiator who will seek to ease sanctions on his people.  Inflation is over 30%, inequality is increasing, and the economy is shrinking.  Still, analysts believe Iran may be only a year away from a nuclear weapon and even if negotiations take place, they are slow.  Israel and the United States have set different red lines, and Obama has not promised to back Israel if it launched a preemptive strike.  Bombing nuclear facilities would likely lead to a full invasion in order to ensure the job was complete.  Stemming the rise of Persian power is another reason to intervene in Syria.
 
--Obama decided to visit Tanzania instead of the more important Kenya on his Africa trip.  It could be related to the fact that President Kenyatta is on trial for war crimes.
-
 -President Hollande in France has no alternative but to cut pension and welfare, an awkward situation for a Socialist president in the country which spends the greatest percent of GDP on social services in the world.
-
--The Greek Golden Dawn party is full of Holocaust deniers.  Greece needs a more robust anti-racism law.
-
--The Czech Prime Minister formerly known as "Mr. Clean," was forced to resign amidst a sex scandal.
-
--Britain should sell the banks it nationalized to allow them to grow in the private sector.
-
--Relations between Britain and Poland, which have traditionally had aligning interests, have soured since Britain’s threats to leave the EU.
 
 -Prime Minister Cameron is pushing action in Syria while a huge majority of the country opposes it.
 
 **June 15, 2013**
 
--Edward Snowden released documents detailing NSA seizure of Verizon phone logs (metadata) and PRISM, a program which collects, emails, files, and social networking data from firms such as Google, Apple, and Facebook.  While they could be important, they are concerning for a few reasons: their vast size (millions of Americans and foreigners), their effect on U.S. relations with other nations (allies work hard to protect privacy), and the minimal oversight (which often causes government to be opportunistic).  Some operational efficiency is worth sacrificing to increase public scrutiny.
-
--While California brags about a reported $1.2 billion surplus, it must not forget its public pension obligations which could cost as much as $1 trillion.
+-Edward Snowden released documents detailing NSA seizure of Verizon phone logs (metadata) and PRISM, a program which collects, emails, files, and social networking data from firms such as Google, Apple, and Facebook.  They are concerning for their vast size (millions of Americans and foreigners), their effect on U.S. relations with other nations (allies work hard to protect privacy), and the minimal oversight (which often causes government to be opportunistic).
 
 -Americans continue to build beachfront homes even as the oceans are projected to rise as much as two meters by 2100.  Florida, New York City, Houston, and Norfolk are all at risk.
-
--The demand for organ transplants is rising much quicker than the number of transplants performed.  Kidneys are far and away in highest demand.
 
 -A federal policy of punishing states where pupils do badly in school and letting states set the pass mark has led to severe grade inflation.  Thus, a Common Core of national standards in math and English was created for interstate comparison.  Critics on the right fear the federalization of schools while those on the left fret the overemphasis of testing.
 
@@ -4140,41 +3217,21 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Unlicensed drivers are almost five times more likely to be in a fatal crash, and also more likely to flee the scene of an accident.  Now governors in several states are allowing illegal immigrants to apply for driving licenses.
 
--Chris Christie is towing a delicate balance between Democrats and Republicans as he prepares himself for a 2016 presidential run.  Still, many believe Northeastern candidates are cursed and a more pure conservative is the best choice for the GOP.
-
 -Monterrey, Mexico’s juxtaposition of opulence with extreme poverty led to a period of extreme violence.  But the state has responded with a new private-style police force which is more professional, gets paid more, patrols with jeeps, and lives in compounds where they are unlikely to be corrupted by organized crime networks.  It may offer a model for other Mexican cities to follow.
 
 -While the National Electoral Council in Venezuela confirmed Nicolas Maduro’s victory through an electronic audit, opponents note that their complaint was about violence at polling stations, multiple voting, and the casting of votes for the dead.
 
--The first two of Shinzo Abe’s three arrows of reform—monetary easing and fiscal stimulus—sent markets and his approval rating soaring.  But the third prong—structural reform—has fallen victim of political forces and brought little change.  As he prepares for a crucial election in July, he must buckle down on his own party to pass more meaningful deregulation.
-
 -The mass migration of Koreans to Japan in the early 20th Century created a number of North Korean schools in Japan, but they are decreasing as the government cuts off funding.
-
--70-year-old Aung San Suu Kyi of Myanmar wants to run for president, but constitutional provisions stand in her way and removing them may require corrupt political appeasement to the powerful generals.
-
--India’s Indian National Congress (INC) simply chooses Gandhis as candidates.  The opposition Bharatiya Janata Party (BJP) had relied on Lal Krishna Advani until he became such a hardliner it may be Narendra Modi, the chief minister of Gujarat.
 
 -After enduring a decade of criticism for its weakness, the Chinese yuan now looks uncomfortably strong.  The long-term trend reflects China’s rapid economic growth, stronger labor laws, and shrinking working-age population.  But the recent surge could be a government effort to lay the groundwork for a larger plan to ease capital controls.
 
 -While China has long contributed support personnel to UN peacekeeping, reports indicate it could dispatch 500 to 600 armed soldiers to Mali.
-
--With the support of Iran and Hezbollah, President Bashar Assad and his forces have won a new lease of life.
-
--The defeat of an militia in Libya raises hope that law and order may return as the government seeks to impose itself over the local ruling Islamists.
-
--For the first time, UN Peacekeepers in the Democratic Republic of Congo are fighting an all-out counterinsurgency campaign against rebels.  While 3,000 troops are unlikely to impose peace, it is still the best option.
 
 -England issued a perfunctory apology for detaining some 90,000 Kenyans during the colonial period it took 10 years and $9 million in legal battles.
 
 -SPECIAL REPORT: If Europe’s economies are to recover, Germany must lead.  Merkel has proved the most adept politician on the continent.  But three obstacles remain: 1) Post-WWII historical aversion to being leader (want to be "economically prosperous, politically modest"). 2) Belief that Eurocrisis was result of lazy Southern European economies. 3) Strategy: if Germany seems ready to open its wallet, its southern neighbors may be less willing to change.  Thus, German leadership is wanting.  On the euro Germany’s competitiveness agenda is insufficient, and Germany’s energy policy is less an example of bold leadership than of an ill-planned unilateralism that illustrates the country’s deep reluctance to think strategically about international challenges.
 
 -In response to the protests, Erdogan has chosen to impose his will rather than negotiate.  While this style has served him well in battles against army and the judiciary, it risks throwing what many considered a model Muslim country into chaos.  It has already lost the confidence of foreign investors.
-
--On Russia Day, one side of the Moscow river adored Putin while the other side called for his ouster.  Putin has re-launched his political movement but his ratings are likely to stay low, around 24% approval.
-
--A trans-Atlantic free trade deal is needlessly held up over subsidies for film-makers.
-
--A new study shows that the fiscal impact of migration is broadly neutral.
 
 **June 8, 2013**
 
@@ -4184,63 +3241,37 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Since 1940, the population of the Mississippi Delta has fallen by almost half, as mechanization replaces farm jobs and manufacturing shuts down.  Without strong education system, it seems doomed for perpetual poverty.
 
--Recovering urban housing prices have yet to inflate in any big cities.
-
--The President defiantly chose Susan Rice and Samantha Powers as ANSA and Ambassador to the UN.  Republican reactions have been mixed, as Rice sparred with Republicans over Benghazi, but both do support a more interventionist foreign policy.
-
 -The Supreme Court ruled 5-4 that police can collect DNA from anyone they arrest.  DNA has solved a number of crimes, though the dissent argued that a motive should be required.
 
 -Wind power, proliferating through generous federal tax credits, now accounts for about 3.5% of the country’s electricity supply, enough to power 15 million homes.  The Department of Energy hopes by 2030, the figure will reach 20%, though it will depend on the future of the Production Tax Credit.
 
--Brazil made a tremendous recovery from years of hyperinflation and debt during the mid-1990s.  But the global recession of 2008-09 prompted presidents Lula and Rousseff to shrug at decadent liberal economics and ape Chinese state capitalism.  The bright spots are Brazil’s farming and energy industries, science and innovation, and its status relative to Argentina.  To continue the recovery, the state needs to stop using fiscal policy to micromanage investment decisions.
-
 -Roughly 90% of abortions in Latin America and Africa are unsafe, compared to around 10% in Europe and 0% in the United States and Canada.
-
--Venezuela’s neighbors are uncertain how to deal with Castro’s replacement Nicolas Maduro or the opposition leader Henrique Capriles, who made controversial remarks regarding a suicide attempt in Colombia.  Peru responded by postponing his trip.
 
 -Pakistan’s new prime minister Nawaz Sharif is attempting to improve the electricity industry by providing government support to electricity companies who don’t earn enough money to provide full service.  Some of the poor steal electricity from public lines a few hours each day using metal hooks.
 
 -Timor-Leste has taken Australia to arbitration over a 2006 agreement on the exploitation of oil and gas in the sea between them.  The tiny nation, which received independence from Indonesia in 1999, is heavily reliant on offshore oil and gas reserves.
 
--Tamil Nadu continues to outperform the rest of India economically despite being run almost entirely by ex-film stars.  It is lauded for separating politics from economic progress.
-
 -Barack Obama and Xi Jinping seek to reverse a trend of unraveling relations between the superpowers at a summit in California.  Mr. Xi, whose father was a comrade-in-arms of Mao, enjoys more personal authority than his dull predecessor Hu Jintao.  He has cracked down on corruption and talks of economic reform.  The most pressing issues have been Chinese cybercrime and U.S. curbed exports, though climate change and security issues will be discussed as well.  For both leaders, there is more to be gained from cooperation than conflict.
 
--Xi Jinping showed off China’s foreign clout on a trip through America’s backyard to Trinidad and Tobago, Costa Rica, and Mexico.  Surprising that Mr. XI chose American trading partners over economic powerhouse Brazil or ideological allies Venezuela and Cuba.
-
--While none of the eight new candidates for president of Iran may be promising, they are likely better than Ahmadinejad, who had a knack for sparking diplomatic fires and oversaw a destruction of the economy.  On the nuclear issue, the winner is unlikely to matter as ultimate authority rests with Ayatollah Khamenei.  Still, Obama might as well try to reach out to the new leader again.
-
--The rising price of alcohol in Iran has led even the wealthy to shift habits to Iran’s Armenian bootleggers who provide arak, a cheap and heady moonshine.  Because it is unregulated, however, it can be dangerous.
+-The rising price of alcohol in Iran has led even the wealthy to shift habits to Armenian bootleggers who provide arak, a cheap and heady moonshine.  Because it is unregulated, however, it can be dangerous.
 
 -Both sides of the civil war largely protected Libya’s valuable oil infrastructure and its production recovered following the end of the war last year.  But it has since declined due to political chaos and the bureaucracy of the National Oil Company.
 
 -While Qatar’s state-controlled news program, Al Jazeera, has supported the Arab Spring everywhere else, it remains as tight a society as ever.  While the country is wealthy, people have grown unhappy with spending on the Syrian civil war and other foreign projects.
 
--Assad recaptured Qusayr from the rebels, a strategically important city for defending the primarily Alawite coastal region.
-
--Hungarian leader Viktor Orban is once again accused of dismantling the rule of law in Hungary.  Over the past three years, he has antagonized foreign allies, fallen out with friends and provoked alarm at the European Commission, the Council of Europe and the European Parliament through a blitzkrieg of controversial reforms.  Some accuse him of trying to build a communist system.  Hungary remains the EU’s biggest debtor and needs support from foreign investors.
+-Over the past three years, Hungarian leader Viktor Orban has antagonized foreign allies, fallen out with friends and provoked alarm at the European Commission, the Council of Europe and the European Parliament through a blitzkrieg of controversial reforms.  Hungary remains the EU’s biggest debtor and needs support from foreign investors.
 
 -The French Open stadium outside Paris has fallen behind the expanded Wimbledon and Arthur Ashe stadiums in Britain and the United States.  Still, planned expansions were rebuked by local residents who deplore "yet more concrete" on an historic site.
-
--While Merkel will likely win September elections, it is unclear who the next leader will be in her center-right Christian Democratic Party.
-
--While the British Labor Party leads Conservatives in polls, the public has gnawing doubts about its ambiguous spending policies.  It should move away from knee-jerk opposition and towards a discussion of priorities—how to make a tight budget go further.
-
--Gang violence is on the rise in urban Britain, and it needs a more diverse police force to stop it.
 
 **June 1, 2013**
 
 -Nearly 1 billion people have been taken out of extreme poverty (less than $1.25/day) in the past 20 years.  680 million of them were in China alone.  The Millennium Development Goal has helped but most of the credit belongs to capitalism.  Every 1% increase in GDP decreases poverty by about 1.7%.  By 2030, poverty could be eliminated, but the remaining 1 billion may be the hardest to reach and are mostly located in India and Africa.
 
--Barack Obama’s attempts at "resetting" relations with Russia have made him too soft on Putin.  He should join Angela Merkel in taking a tougher stance with the troublesome partner.
-
--With the exception of Tesla, most electric-powered car companies are failing.  This may not be worst thing however, given that the future may better resemble cars using low-cost bio fuels as much as electric batteries.
+-With the exception of Tesla, most electric-powered car companies are failing.  Future cars may rely more on low-cost bio fuels than electric batteries.
 
 -Young Britons have turned liberal, both socially and economically.  Politicians (especially in the Liberal Democratic Party) need to exploit this in the next election.  The best candidate is London mayor Boris Johnson.
 
 -Barack Obama laid out new rules for drone strikes but left himself leeway for defining imminent danger.  Brennan wants more strikes to be done by the military as opposed to the highly secretive CIA.  He hopes to lay a stronger legal foundation as other countries such as Russia and China begin to develop similar capabilities.
-
--Thanks to cheap natural gas, America’s renaissance of nuclear power is on hold.  Most of the applications for nuclear-reactor licenses are withdrawn or stalled.
 
 -The Boy Scouts agreed to allow openly gay scouts.  It was difficult considering religious groups sponsor about 70% of scout units.  But 60% of leaders were in favor, in addition to the Mormons and United Methodists.
 
@@ -4254,19 +3285,11 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Fertility in Latin America is dropping dramatically, with the average number of children dropping from 5 to 2 since 1970.
 
--Pakistan’s new prime minister and his army chief profess very different strategies for approaching the Pakistani Taliban.  The prime minister wants to talk, while the army chief has declared the whole country must join in a war against extremism and terror.
-
--Shinzo Abe hopes to rewrite Japan’s constitution to legitimize collective self-defense, but is running into legal troubles from constitutional scholars.
-
--Abe is trying to promote strong relations with South-East Asia, pumping investments into the Myanmar economy.  The countries are also seeking diplomatic alliances, naval training, and even defense sales.
-
 TECHNOLOGY QUARTERLY:
 
 * Dozens of firms seeking to commercialize space are being held back by bureaucracy such as America’s International Traffic in Arms Regulations (ITAR), insurance considerations, and vehicle safety considerations.
 
 * A South Korean chemist is trying to develop concrete that can automatically fill its own cracks.
-
-* Artificial kidneys are getting closer to becoming a clinical reality, thanks to a range of advances.
 
 * The carbon compound, grapheme, which looks like atomic-scale chicken wire, may be usable for the desalination of water in developing countries.
 
@@ -4280,55 +3303,23 @@ TECHNOLOGY QUARTERLY:
 
 * The U.S. is trying to develop better hypersonic weapons to react more quickly on foreign intelligence.  Putting normal explosives in ICBMs could be mistaken for nuclear attack.  Reaching hypersonic speeds makes it difficult to use the air for combustion.  They have also experimented with systems which are carried into space and dropped, picking up speed as they fall.
 
-* Microphones are designed to capture sound, but they can capture other signals from inside the body as well including emotions like stress.
-
--As people move from rural areas to cities, China needs a better policy on urbanization.
-
--As most of Africa begins to prosper, South Africa is faltering.  Its growth is stuck at just .9% and a new OECD report gives it a poor outlook.  Unemployment is above 25% and unions are still asking for pay raises.
-
--The rise of the African Union is impeded by the fact that two of its leaders have snubbed their noses at charges from the International Criminal Court.
-
--Businessmen are trying to make peace in the West Bank through a conference of some 300 Israeli and Palestinian businesspeople.
-
 -UN Secretary General Ban Ki-Moon and World Bank President Jim Kim are both Korean and share strong rapport.
-
--While France was the first to trumpet intervention in Syria, England now appears to be the most gung-ho.  Still, the opposition remains as divided as ever.
-
--Vladimir Putin’s crackdown on opponents, protestors and activist groups may be a sign of fragility as much as strength.  When he returned to the Kremlin a year ago, he allowed the protestors more space than expected and now is trying to crack down on controlling everything from the internet to entertainment magazines.
 
 -On May 29th, the European Commission recommended removing Italy from the excessive deficit procedure (the sin bin for countries with dodgy public accounts).  It was more good news for Prime Minister Enrico Letta, whose Democratic Party (PD) also emerged unscathed from local elections, the first test since he formed a ruling coalition with Berlusconi’s PdL.
 
 -Conservative Turkish Prime Minister Tayyip Erdogan pushed through a bill which bans shops from selling alcohol between 10pm and 6am or displaying bottles in the windows.  It is unpopular for fear of discouraging tourism.
 
--Some countries like Latvia still want to join the Euro as a double vote of confidence: a seal of approval for Latvia’s policies and a sign of trust in the Euro itself.
-
 -While some fear social media undermines professional journalism, it may actually help the pros locate stories quickly and give them more evidence to use.  Newspapers like the Guardian have launched Guardian Witness, a mini-site that helps mobile users share newsworthy videos.
 
 **May 25, 2013**
 
--With Obama on the attack for a trio of scandals (Benghazi, AP snooping, IRS) and Congress in gridlock, optimism is low for his second term.  But as time runs out with upcoming midterm elections and lame duck approaching, Obama should focus on grounds for bipartisan cooperation: immigration, entitlements, and tax reform.
-
--Efforts at saving the Eurozone have been put largely on hold until September’s elections in Germany.
-
--SPECIAL REPORT: Thein Sein has succeeded in making significant reforms in Burma, but army assaults on ethnic groups and communal unrest underscore a lack of peace and democracy.
+-With Obama on the attack for a trio of scandals (Benghazi, AP snooping, IRS targeting) and Congress in gridlock, optimism is low for his second term.  But Obama should focus on immigration, entitlements, and tax reform.
 
 -World Bank President Jim Yong Kim has done a good job but should stand up against shareholders who want to eliminate the "Doing Business" report, a measure of government regulation in business.  The largest opposition comes from China, which is ranked 91st.
-
--The mismanagement of Indian cricket (corruption regarding betting) reveals the country’s wider failures.
-
--There is increasing pressure to allow American firms to wage private cyber-combat against Chinese hackers which steal intellectual property, however changing the law to allow this is unpopular with China.
-
--Rand Paul is much more electable than his father (doesn’t want to abolish Fed, close overseas military bases, let states decide whether to legalize drugs).  Still may be viewed as too radical for president.
-
--The Yankees are paying about a quarter of the $100m to create a new British soccer team in New York City.
-
--Britain’s Caribbean dependences have been hurt by economic stagnation, the war on tax havens and their own fiscal recklessness and corruption.
 
 -Raul Castro, Fidel’s brother, has slowly begun to open Cuba’s economy since becoming president in 2008, but he insists he is updating the socialist model rather than introducing capitalism.  Several foreign businessmen have been arrested for corruption.
 
 -The crack cocaine drug scandal for Canadian Prime Minister Rob Ford has distracted the public from continuing deficits and the controversial issue of abortion.
-
--While Mexico had recovered nicely from the 2008 crisis, its growth has stalled.  Still, recent reforms to increase effectiveness of education, reduce job protections for unionized workers, and increase competition in the telecommunications industry may boost growth if fully implemented.
 
 -Seven of the world’s eight most violent countries lie on the bloody trafficking route from the cocaine fields of the Andes to the nostrils of North America.  An Organization of American States report discussed the possibility of legalizing marijuana in Europe and North America, two primary markets.
 
@@ -4338,21 +3329,9 @@ TECHNOLOGY QUARTERLY:
 
 -In October 2012, the Philippine government and the Moro Islamic Liberation Front signed a peace agreement to create an autonomous region in Bangasmoro.  While progress has been made, the normalization (disarmament) of the rebels may prove difficult.
 
--Altaf Hussain of the Muttahida Qaumi Mahaz (MQM) party won 18 of 19 seats in hometown Karachi but suffered two setbacks in the latest elections.  First, Nawaz Sharif won a strong mandate nationally and MQM can no longer be a coalition partner.  Second, the Pakistan Tehreek-e-Insaf (PTI) party which was once an ally is gaining national prominence.  These electoral outcomes could spell more violence, especially in Karachi.
-
--The Xinjiang region of northwest China (just north of Tibet) has been plagued by ethnic strife.  Violence is escalating as new immigrant settlements have led to low-level insurgencies of Uighurs and Han Chinese. 
-
 -In March 2012, leaders of Kenya, Ethiopia, and South Sudan agreed to launch an oil pipeline to the Indian Ocean.  While this has the potential to raise major revenues, progress has stalled due to Uganda’s non-participation and other disagreements.  Now each country is drawing up its own alternative pipeline plans.
 
--While Nigerian President Goodluck Jonathan insists troops have made progress against Boko Haram, residents fear the campaign will fail to eliminate the insurgents and leave unstable cities.
-
--Joining the ethnic violence in Iraq is an extremist Sufi group believed to be led by Saddam Hussein’s former right-hand man Izzat Ibrahim al-Douri.
-
--While American and Russian positions on Syria may be closer than they were a year ago, awkward sticking points remain: Russia continues arming Assad and the rebels have no clear representative for negotiations.
-
--The weapons industry is increasingly using "offsets," in which they agree to invest in a country which purchases their arms.  These controversial arrangements, especially common in poor countries, are seen as market-distorting and glorified bribes.
-
--Spain’s deep economic recession is likely to continue, despite some promising reforms (competitive labor costs), unless new sources of growth emerge.  The government of Mariano Rajoy is unpopular, but so is his opposition.  Three problems: credit crunch, reform fatigue, insufficient demand and lack of sources of growth.
+-The weapons industry is increasingly using "offsets," in which they agree to invest in a country which purchases their arms.  To cynics, these arrangements, are seen as market-distorting and glorified bribes.
 
 -Croatia will join the European Union on July 1, but it already faces many of the same economic difficulties as the current members.
 
@@ -4362,15 +3341,7 @@ TECHNOLOGY QUARTERLY:
 
 -The relatively speedy U.S. recovery casts doubt on Europe’s handling of the recession and show that structural reforms and bailouts are more effective than austerity.
 
--The horrific killing of an off-duty soldier in south London proves that lone wolf attacks can have large impact and are near impossible to stop.
-
-Proposed plan for stabilizing entitlement spending over the next two decades:
-
-No steep cuts in the next five years as the economy recovers
-
-Any reforms should boost the economy’s supply side
-
-The rich should bear the lion’s share of the adjustment (their incomes have grown faster)
+-A plan for stabilizing entitlement spending over the next two decades: No steep cuts in the next five years as the economy recovers.  Any reforms should boost the economy’s supply side.  The rich should bear the lion’s share of the adjustment (their incomes have grown faster).  Specifically:
 
 * Social Security
 
@@ -4412,29 +3383,15 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -While regional trade agreements in South America have traditionally been weak, Chile Columbia Mexico and Peru have created the Pacific Alliance which looks promising and is comparable to the size of the dominant Brazil economy.
 
--Conflict between Argentine President Cristina Fernandez de Kirchner and the media giant there.
-
--U.S.-backed former dictator Gen. Jose Efrain Rios Montt was sentenced to 80 years for genocide but the trial is not over.  Disagreement over whether it was actually "genocide."
-
--Budget surpluses in Australia are quickly vanishing.
-
--Cambodia has a major problem with illegal logging and confusion over land ownership.
-
 -Taiwan’s president, Ma Ying-jeou has presided over improved relations with China through increased trade and tourism.  But interests over disputed islands are different: Taiwan wants to fish while China feels entitled to them.
 
 -The supply side of China’s economy is as strong as ever (labor, capital, etc.), but demand is recovering more slowly than expected.  A series of new supply-side structural reforms (natural-resources tax, higher utility prices) could further weaken demand.  Economy simultaneously needs stimulus and reform.
 
 -Moderates in Syria are being squeezed between regime forces and extremist rebel groups such as Jabhat al-Nusra, which has ties to al-Qaeda.  Assad’s allies—Iran and Hezbollah—have backed the regime more than Gulf Arab and Western states have backed the rebels.  Problem is the rebel groups still lack a command structure.
 
-àGreat chart of rebel groups on page 54
-
 -With the ongoing chaos in Syria, al-Qaeda is now closer than ever to getting chemical weapons such as sarin gas.
 
 -In the eleventh hour, reformer Akbar Hashemi Rafsanjani joined the Iranian presidential race.  President from 1989-97, he helped end the war with Iraq and rebuild the economy.  Adds an interesting twist for the radical clerics.
-
--Israeli high-tech startups are looking for Arab computer science labor.
-
--Goodluck Jonathan declared a state of emergency in Nigeria following continued unrest from Boko Haram in the northeast of the country.
 
 -Turkey initially supported Assad but turned on him when he began killing his own citizens.  Prime Minister Tayyip Erdogan’s support for rebels is being blamed for car bombings in Turkey near the Syrian border—most Turks oppose intervention.
 
@@ -4454,41 +3411,21 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -SPECIAL REPORT: American investment banks have recovered much more quickly than European ones and reclaimed their pre-2008 dominance.  U.S. banks received more generous bailouts and European regulations to specify how much banks can pay in bonuses relative to base pay hindered recovery.  Still, the dominance of a few Wall Street firms should be concerning to American taxpayers and investors who will bear the risk of future bailouts and suffer from higher IPO fees.  Higher capital requirements seem to be the most promising regulation to improve stability; much more effective than the confusing Dodd-Frank regulations.
 
--India’s working-age population is rising by about 12m/year, even as China’s decreased by 3m last year.  Still, they are squandering a huge opportunity.  Youth unemployment is high and it struggles to attract the right kinds of firms.  It lacks manufacturing compared to China and IT firms are not as widespread as they could be.  Most of the employed are in low-skill jobs such as security guarding.  Reforms like less bureaucracy, better schools, and decent electricity would be a big help.
-
--Najib Razak was re-elected in Malaysia on account of its strong economic performance and progressive agenda, but claims of electoral fraud will force him to prove himself an adept leader to both the opposition and members of his own party.
-
--The CO2 concentration in the atmosphere measured by the Keeling Curve will break 400 ppm.  While this data is concerning, at least it is accurate.  We should expand and improve environmental measures in general.
+-India’s working-age population is rising by about 12m/year, even as China’s decreased by 3m last year.  Still, they are squandering a huge opportunity.  Youth unemployment is high and it struggles to attract the right kinds of firms.  It lacks manufacturing compared to China and IT firms are not as widespread as they could be.  Most of the employed are in low-skill jobs such as physical security.  Reforms like less bureaucracy, better schools, and decent electricity would help.
 
 -The Health Paradox: America’s rampant health spending threatens its economic future, but also supports tens of millions of jobs.
 
--The immigration bill tightens border security, increases the number of visas available to both skilled and unskilled workers, and provides a long and testing "path to citizenship" for illegal immigrants already in the country.  It is under debate, but still has a long way to go.
-
 -The Fed and White House are struggling to decide on a measure of inflation: Consumer Price Index (CPI), Chained CPI, and price index of personal consumption expenditures (PCE).
-
--California has tried to alleviate strains on overcrowded prisons by sending inmates from state prisons to county jails, but still has a long way to go.  The recidivism rate has gone down, although the three strike policy remains unpopular.
 
 -Poverty, gang wars, and drug trade caused so much crime in Camden that the under-funded police force was disbanded and replaced by a new regional department with a special metro unit.  The murder rate has fallen significantly.
 
 -Small and independent breweries have thrived during the recession and its aftermath, taking market share away from traditional beer brands.  They have been aided by excise tax cuts for "craft beers," but there is disagreement about what that means.  If it’s under 6m barrels/year, than Boston Beer Company (maker of Sam Adams) qualifies.
 
--Mexican President Pina Nieto’s reform efforts are hindered by the old guard of his party which ruled the country for most of the 20th Century and has several ties to corruption.
-
 -Bolivian President Evo Morales ordered USAID out of his country as aid fell from over $60m to around $11m this fiscal year.  He still remains popular thanks to a weak and divided opposition.
-
--The Arab League delegation tried to re-energize the Israeli-Palestine Peace Process by proposing that some Jewish settlements built on occupied land in the West Bank could remain part of Israel.  This had already been conceded in principle by Palestinian President Mahmoud Abbas in 2008.
-
--Syria remains in upheaval as Assad has begun massacring Sunnis and the primarily Alawite coastal regions—some predict to create a separate state.
 
 -A Libyan law is set to bar senior Qaddafi-era people from holding office for ten years.  This includes two of the country’s most prominent politicians.
 
--Tunisian and Algerian militaries are working together to hunt down armed Islamists.
-
--Trying to outflank Angela Merkel, Germany’s center-left Social Democrats are moving further left.  Still Merkel appears unbeatable for elections in September.
-
 -Putin’s political mastermind, Vladislav Surkov, was forced to resign after being blamed for the protest movement and loss of support from the urban middle-class in Russia.
-
--Squabbles between the President and Prime Minister in Georgia distract attention from Georgia’s real problems.
 
 -Despite high unemployment, French software development firms were having trouble recruiting.  Thus, one launches a swanky new school for software developers called "42."  It is revolutionary in its targeting of talent in poor areas and its emphasis on self-learning over rote memorization.
 
@@ -4498,23 +3435,17 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -The U.S. Pentagon complains about "China’s lack of transparency surrounding its growing military capabilities and strategic decision-making."  But the U.S. pivot/rebalancing to Asia remains rather opaque as well.  While it was supposed to focus on Southeast, the Senkaku and Diaoyu islands disputes have kept the focus in the north.  No matter what America says, China will see it as trying to contain its rise.
 
--David Cameron hopes tough talk on immigration will boost the Conservative Party’s fortunes, but people are more focused on the economy than on race and immigration.
-
 -As the world grows more confusing, demand for clever business consultants is booming, especially Bain, BCG and McKinsey.
 
 **May 4, 2013**
 
 -China’s new President Xi Jinping has popularized rhetoric regarding a Chinese dream based not solely on wealth but also on reform and building legitimacy for the Communist Party.  The dream, however, can mean different things to different people; two dangers are excessive nationalism and a lack of democratization.
 
--Number of inmates at Gitmo has been steady since 1009.  100 of the 166 prisoners are now on hunger strike as time drags on and conditions worsen.  Blame lies with both Congress (for blocking trials in US) and Obama (for preventing return to Yemen).  At this point, we should really just free them all and try to save our reputation.
+-Number of inmates at Gitmo has been steady since 2009.  100 of the 166 prisoners are now on hunger strike as time drags on and conditions worsen.  Blame lies with both Congress (for blocking trials in US) and Obama (for blocking return to Yemen).  At this point, US should just free all and try to save reputation.
 
 -High interest rates on loans to small and medium size businesses in Italy and France is constricting a huge segment of their economies.  ECB should provide fresh support for business lending.
 
 -Brazil spent $14 billion on the third-largest hydroelectric project in the world but has met a series of legal and environmental challenges.  Despite compensation payments for flooding, locals remain unhappy.
-
-(nice electricity sources chart on page 39)
-
--Singapore is heavily reliant on its manufacturing industry, but Singapore is struggling relative to other southeast Asian countries due to rising labor costs.
 
 -Ho Chi Minh City is extremely vulnerable to flooding and is debating how to best combat this risk.
 
@@ -4528,19 +3459,9 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -Djibouti’s port has become strategically important for three reasons: its access to the world’s largest landlocked country—Ethiopia, it is more on the route between Europe and Asia than Abu Dhabi, piracy and terrorism have brought powerful navies to the region.
 
--60% of Nigerians are farmers but the workforce is aging and much of the food goes to waste.
-
--Jewish settlements are squeezing out Palestinians.
-
--Egyptian President Morsi’s efforts to befriend Iran have yielded few results besides upsetting other Sunni and Western allies.
-
--Relations between France and Germany are deteriorating.
-
 -Italy’s new government has yet to address unrest or fiscal difficulties in the country.  Prime Minister Enrico Letta ruled out a planned VAT tax increase and promised to cut employers’ welfare contributions.  But with public debt at 132% GDP, these actions are likely to panic the markets.
 
 -A French defense review proposed freezing spending for the next six years but maintaining the nuclear deterrent.  The focuses are on Mali, the horn of Africa, and more intra-European cooperation.
-
--The parties that led Iceland into its economic meltdown have been returned to power.
 
 -Some of England’s best-known private schools are setting up boarding schools abroad in places like Singapore and Kazakhstan.
 
@@ -4552,7 +3473,7 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 **April 27, 2013**
 
--Affirmative action is generally used to atone for past injustices and ameliorate their legacy.  But is also unfair to Asians and whites with significantly higher scores and does not provide incentives for blacks to study.  Diversity of backgrounds can be a good thing, but it should be based on background and not race.
+-Affirmative action is generally used to atone for past injustices and ameliorate their legacy.  But is also unfair to Asians and whites with significantly higher scores and does not provide incentives for blacks to study.  Diversity of backgrounds can be a good thing, but it should be based on background and not just race.
 
 -The economic slowdown and fact that it is easier to put off hiring young people than fire old people has created huge youth unemployment.  Besides growth, other solutions include reforming labor markets and improving education.  We have plenty of college grads, but need to teach them more job-applicable skills.
 
@@ -4566,11 +3487,7 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -The Marathon bombers supposedly learned how to conduct the attack by reading Inspire, the online magazine published by AQAP.
 
--Cities are increasingly publishing more data such as health code ratings and trash statistics.
-
 -A NYPD policy of stopping and frisking suspicious individuals has made the city safer but drawn criticism for racial profiling—black and Latino men represent 25% and 28% of the population but nearly 90% of the searches.
-
--USAID needs major reform in the current era of austerity, but it is unclear if Congress will be able to get it done.
 
 -After Obama’s failed gun control legislation, Rhode Island attempted a massive buy-back of guns but it was largely unsuccessful.
 
@@ -4580,8 +3497,6 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -Paraguay elected Horatio Cartes of the Colorados (same party as the impeached Fernando Lugo) to the presidency.  He was able to present himself as the candidate of change, though it is unlikely he will be able to keep lofty campaign promises.  One test will be whether he can rejoin Mercosur.
 
--Argentine President Cristina Fernandez Kirchner has taken on the courts as well.
-
 -"Amateurs discuss tactics, while professionals discuss logistics."  Obama is still deciding how many troops to keep in Afghanistan after NATO’s mission expires in 2014, but it will be a fraction of current levels.  The problem with removing so much equipment is that for the first time, the U.S. lacks a reliable seaport (best is Pakistan, but tense relations).  Northern route through Uzbekistan is reliable but slow.
 
 -Japanese foreign minister Fumio Kishida upset neighbors by visiting the Yasukuni shrine in Tokyo which honors the 2.4 million Japanese which died in WWII, including the war criminals.
@@ -4590,10 +3505,6 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -38 Chinese cities are building underground metro systems, though as many as 18 of them are so small they don’t need them.
 
--China’s economic might is not doing much for its popularity elsewhere in Asia (territorial disputes makes it appear a bully).
-
--As the Iranian Presidential election nears, it could be a battle within the ruling establishment.
-
 -Sectarian tensions are on the rise in Iraq, where protests were suppressed by security forces and 27 Sunni protesters died—the most serious crisis since Americans left in December 2011.
 
 -Serbia finally agreed to respect Kosovo’s autonomy over 45,000 ethnic Serbs in northern Kosovo.
@@ -4601,8 +3512,6 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 -France’s parliament agreed to legalize gay marriage and adoption.
 
 -The war in Chechnya is no longer a separatist conflict, but is now dominated by Islamists.  Russia launched wars against Chechnya in 1994 and 1999, but since Islam took over there has been conflict between Sufism and Salafism.  Russia has alternated between soft and hard tactics.
-
--Franz Beckenbauer, one of Germany’s football greats, has been implicated for having secret Swiss bank accounts and may face prison.
 
 **April 20, 2013**
 
@@ -4626,8 +3535,6 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 -Japan’s vows to phase out nuclear energy are beginning to reverse as Shinzo Abe announced he would restart reactors after they pass new safety tests.  Still, a series of additional nuclear power mishaps have embarrassed the government and reignited the public’s fear of nuclear power.
 
-- Australia opened up a strategic partnership with China, but its exports are still dwindling.
-
 -Although China’s growth has slowed, there were two indicators of modernization.  Consumption made a larger contribution and services trumped industry.  This maturation will slow its growth, and fighting it will only invite inflation, excess and harder reckonings.
 
 -Chinese investment in Europe is on the rise, especially in services.  Still, they are frustrated with regulatory delay and the bureaucracy of the EU.
@@ -4635,10 +3542,6 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 -Despite assertions to the contrary, Iraq’s Kurds are inching towards outright independence.  The Kurds are trapped between Iraq, Syria, and Turkey, but have maintained a stable economy compared to the dismal state of the rest of Iraq.  They dislike Maliki and have a lot of oil themselves.
 
 -The resignation of Salam Fayyad as Prime Minister of the Palestinian Authority (West Bank) was a blow to western nations which felt comfortable dealing with the former MBA, PhD, and IMF official.  Fayyad did improve standards of living but infighting between Fatah and Hamas continues.
-
--Despite a history of false starts, Tanzania’s gas industry appears ready to expand quickly as Britain and Norway have invested heavily.
-
--In a crusade against the wealthy, Francois Hollande has exposed a number of Socialist ministers as millionaires.  Hollande: "I don’t like rich people."
 
 -Though its public opposes the move, Latvia looks likely to become the 18th member of the EuroZone next January.
 
@@ -4648,15 +3551,15 @@ The rich should bear the lion’s share of the adjustment (their incomes have gr
 
 * The once/week cadence provides sufficient time for thoughtful analysis
 
-* The leaders sections generally provide actual and succinct policy recommendations
+* The leaders section generally provides actual and succinct policy recommendations
 
-* While US-centric, British editors provide an outside/unbiased perspective
+* While US-centric, British editorial direction provide an outside/unbiased perspective
 
 * The lack of bylines avoids making the article about the author
 
-* The KAL cartoon and witty headlines/graphics make it entertaining
+* Witty headlines/graphics and KAL cartoon make entertaining
 
 * It is an exemplar for clean, clear charts and maps
 
-* Even the end sections often have notable stories (e.g. International, Science/Tech, Bagehot, Obituary)
+* The end sections offer unique but interesting stories (e.g. International, Science/Tech, Bagehot, Obituary)
 

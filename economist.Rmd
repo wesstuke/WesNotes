@@ -6,7 +6,7 @@ output:
     theme: cosmo
 ---
 
-*The Economist provides thoughtful analysis and succinct recommendations on major news stories and global trends.  Wes has been reading since 2013.*
+*The Economist provides thoughtful analysis and succinct recommendations on major news stories and global trends.  Wes has been an avid reader since 2013.*
 
 <!-- Paste Markdown Text Below -->
 
@@ -3150,7 +3150,7 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Southeastern Myanmar is one of the most landmine-ridden areas of the globe.  A failure to eradicate them threatens efforts at peace.  Syria and Myanmar are the only two countries still producing landmines since a 1997 ban treaty.
 
-*­*-The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
+-The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
 
 -Until the mid-1980s, most Arab countries performed as well as the rest of the world, but this success rested on windfall oil revenues.  Several dictatorships mostly embraced free markets, but oil revenue and corrupt spending has kept even educated populations living on an average of $2.75/day.
 
