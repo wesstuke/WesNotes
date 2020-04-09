@@ -4,9 +4,9 @@ Update: "April 2020"
 output: 
   html_document:
     toc: true
-    toc_depth: 2
     toc_float: true
-    theme: cosmo
+    theme: flatly
+    
 ---
 
 ```{r setup, include=FALSE}

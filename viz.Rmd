@@ -3,7 +3,7 @@ title: "VizNotes"
 Update: "April 2020"
 output: 
   html_document:
-    theme: cosmo
+    theme: flatly
 ---
 
 *To see a collection of Wes' data visualizations, click the link below to TableauPublic.*

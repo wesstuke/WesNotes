@@ -3,7 +3,7 @@ title: "EconomistNotes"
 Update: "April 2020"
 output: 
   html_document:
-    theme: cosmo
+    theme: flatly
 ---
 
 *The Economist provides thoughtful analysis and succinct recommendations on major news stories and global trends.  Wes has been an avid reader since 2013.*
