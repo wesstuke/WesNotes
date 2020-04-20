@@ -17,6 +17,152 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste Markdown Text Below -->
 
+## Ezra Klein: Why We’re Polarized
+
+BLUF: Polarization is the logical outcome of a complex system of incentives, technologies, identities, and political institutions.  Worse, it is a feedback loop: political institutions and actors (leaders, journalists) are (rationally) behaving in more polarized ways to appeal to a more polarized public—and further polarizing the public.  Many elements:
+
+* **_Party Sorting_**: 1965 Civil Rights Act ended the Dixiecrats, allowing parties to sort themselves ideologically, such that there were no longer any Democrats more conservative than Republicans or vice versa.  Spilt ballots dropped from around 46% to 3%.  Party membership divided over race, religion, and geography (non-white Democratic voters grew from around 6% to 43%).  Each party reacts to the other, further polarizing (e.g. Hispanics joined Democrats, so Obama protected Dreamers, so Trump exploited white anger and pushed anti-immigrant policies, offending Democrats and pushing them toward even more protection).  
+
+* **_Demographic Shifts_**: For 200 years, whites represented a politically, economically, and culturally dominant majority.  The simplest way to activate someone’s identity is to tell them they don’t deserve what they have and threaten to take it away.  Some outcomes are truly zero-sum (more minority reps means fewer white reps).  Romney 2012 unsuccessfully ran on class; Trump 2016 successfully exploited white identity (much more than economic anxiety, BTW).  
+
+* **_Political Identity Expansion_**: Our political identities have now become mega-identities (Democrats are viewed as "tax-hiking, government-expanding, latte-drinking, sushi-earing, Volvo-driving, NYT-reading…").  Republicans believed 38% of Democrats were LGBTQ (actually 6%).  Once you activate one identity, it activates all.  Cultural identities once apolitical (e.g. NFL) are now politicized.  
+
+* **_Post-Persuasion Elections_**: Humans inherently organize into groups of ‘us’ and ‘them’—even when it doesn’t serve their self-interest.  Competition (e.g. elections) generate obsession with winning, resulting in rivalry and anger.  Elections no longer about persuasion (winning over swing voters, which are only around 7%), now about motivation (getting your side to turn out).  And politicians know the strongest motivator is generating animosity toward a rival.
+
+* **_Complex Motivations_**: Evolutionarily, thinking in groups improved decisions.  But people increasingly assume if they studied the issues their positions would match their party’s platforms.  And even for those who do study, humans stake out positions for reasons other than seeking truth—like winning an argument or increasing standing (e.g. why would Sean Hannity support climate change if it would cost his job, friends, identity).  Being "smarter" can actually impair reasoning because you’re more readily able to develop specious arguments (e.g. 9/11 truthers are well-informed about the various melting points of steel.)  (Study found people who were better at math performed poorer on brainteasers where the answer betrayed their political instincts).  Partisanship has a way of short-circuiting intelligence.
+
+* **_Profit-Driven Media_**: Media consumers have endless choice over how they spend their time, so political media is focused on generating interest in political news.  The most effective strategy to do this in a digital environment is to target your news at a core audience who is rooting for a side.  Most likely pieces to go viral are identity (e.g. "10 signs you’re XYZ") or outrage (Trump occupies over 50% of cable news).  Opinion journalism is giving way to identity journalism—and identities are harder to change than opinions.  Exposure to rivals’ news only further radicalizes.
+
+* **_Weak Political Parties_**: Partisanship is too strong and parties are too weak to block extremist candidates (Trump, Sanders).  Institutional donors are corrupting (they want something), small donors are polarizing.  Identity politics drives donations to national candidates who fight battles on the main stage rather than state/local candidates, even though they can provide more to donors.  Voting is increasingly about winning, not policy.
+
+* **_Undemocratic Institutions_**: Presidential systems usually fail because divided government risks a constitutional crisis of legitimacy.  But institutions will make divided government the norm: Republicans maintain strong advantage in the Senate while Democrats have won 6/7 Presidential popular votes.
+
+* **_Politicization of the Supreme Court_**: Parties have developed more rigorous methods of sourcing Supreme Court nominees to ensure they remain ideologically consistent, raising the stakes of nominations and leading to more partisan cases/hearings (e.g. McConnell breaking precedent to block Garland).  Compromise is harder because the parties are farther apart.  
+
+* **_Nationalized Politics_**: Where legislators once asked, "How will this bill affect my district?" they now ask “Is my party for this bill?” (e.g. party-line ACA votes had no correlation to district uninsured rates). Though corrupting, earmarks actually made compromise feasible (e.g. NE Sen. Ben Nelson’s ACA vote). 
+
+* **_Governing Conflicts with Campaigning_**: From 1865 to 1984, Congress typically had lopsided majorities.  When one party is perpetually dominant, it has incentive to cooperate as that’s its only realistic shot at wielding influence.  Today, competitive minorities are incentivized to sabotage the governing party to take power (e.g. McConnell against Obama).  Norms against using the filibuster and debt ceiling for partisan goals have eroded.
+
+*Note: Democrats have proven more resilient to the polarizing trends because they are a diverse coalition which consumes more diverse media (CNN has about 15% of liberal market share; Fox News owns 47% of the conservative market). Undemocratic institutions (electoral college, Senate) allow Republicans to run well-right of the median voter.  Knowing their coalition is aging out has injected alarmist rhetoric and urgency to their strategy, embodied by their support for the ruthless street fighter Trump.*
+
+Recommendations:
+
+* **_Bombproofing_**: Eliminate the debt ceiling.  Revamp budgetary process to make more automatic, thus reducing gridlock and continuing resolutions.  
+
+* **_Democratizing_**: Eliminate electoral college.  House should adopt multi-member districts with ranked-choice voting.  Eliminate the filibuster.  Give Washington DC and Puerto Rico congressional representation.
+
+* **_Balancing_**: Lower the stakes of battle by guaranteeing all parties some power.  Make Supreme Court 15 justices, each party appoints five and those ten must unanimously appoint the remaining five.  Make easier for minority to bring full bills to the floor.
+
+* **_Everyone_**: We should all be mindful of ways politicians manipulate us by considering what identity content invokes.  Pay more attention to local politics, where our voices are louder.
+
+<!--THOUGHTFUL GUY, BLEAK PICTURE.  GOOD INSIGHTS AROUND MOTIVATIONS AND POLITICAL INSTITUTIONS, THOUGH REFLECTS ASSORTED THOUGHTS OF A COLUMNIST CRAMMED TOGETHER AT EXPENSE OF A SMOOTH HIGH LEVEL ARGUMENT.  GOOD, FREQUENT DESCRIPTIONS OF STUDIES—THOUGH DIMINISHES READABILITY SOMEWHAT (COULD’VE USED FOOTNOTES).  LOOSE USAGE OF TERM "RATIONAL"; I’D ARGUE VOTING AGAINST YOUR MATERIAL INTERESTS IS IRRATIONAL.  DISAGREE WITH ASSERTION THAT “TO BE INTERESTED IN POLITICS IS TO CHOOSE A SIDE”; MODERATES AREN’T TOTALLY EXTINCT.  SOME HISTORICAL CONTEXT, BUT DOESN’T SATISFACTORILY EXPLAIN WHY THIS HASN’T HAPPENED BEFORE IN US HISTORY (OR HAS IT?).-->
+
+## Michael Lewis: The Blind Side
+
+In late 1980s, 49ers coach Bill Walsh designed a revolutionary "West-Coast" offense around short passes/timing routes from Joe Montana/Steve Young.  Consistently battled Bill Parcells’ defensive-minded Giants, with Lawrence Taylor terrorizing quarterbacks from their “blind side.”  The left tackle became among the most important players, and by the early 1990s several held contracts larger than their own quarterbacks.  Ideal body type was wide, long arms, big hands, and quick feet.  
+
+Michael Oher’s (pronounced "Oar") mother had 10 kids in 15 years to at least 5 fathers and was addicted to crack cocaine.  After bouncing around foster homes, Oher ran back to his mother and hid from child protective services.  In his first 9 years of school he was enrolled in 11 schools, including 18 months where he was not in school.  Eventually taken by family friend Big Tony, who wanted his own son Steven to try out for Greenbriar Christian High School and brought Oher as well.  After initial rejection, was let in under close supervision, and promptly adopted by Sean and Leigh Anne Tuohy (wealthy family owning over 85 fast food restaurants).  [Sean is childhood friend of author Lewis]
+
+He began his first track meet not knowing what a discus was, but eventually broke the West Tennessee record.  He declined to complete written tests, but once they were administered orally he improved F’s to high D’s.  Junior year, he was finally allowed to play football and he regularly blocked four people on every play.  He picked up one bumptious lineman and took him off the field, across the track, and over the chain-link fence.
+
+NCAA recruitment rules are among the most complicated on the planet (can’t speak until senior year but can watch from distance, only three official visits but unlimited unofficial visits, etc.).  LSU Coach Saban impressed; UTenn’s Fulmer didn’t; but chose Ole Miss, to delight of Tuohys (alumni athletes).  Exploited several loopholes to be academically eligible, using online BYU classes to replace F’s and testing positive for a learning disability.  NCAA investigated complaint Tuohy’s had adopted Oher intentionally to recruit for Ole Miss; Sean agitated by feeling it was more a reactionary public relation move than honest enforcement.
+
+University of Mississippi has spotty record on civil rights; seen as the wealthier alternative to Mississippi State (though State had the best turf).  He retained his private tutor, his HS coach became an assistant, and Sean and Leigh Anne built a house near campus.  Though he had only played 15 games and never lifted weights, Oher started immediately at right guard (where he had help on both sides and verbal instructions).  At one point, attacked a harasser—injuring a young child—but was expunged with public service.  
+
+Takeaway: Even a 6’4" 325lb miracle athlete required a lot of lucky breaks to be successful.  "Sports is the closest thing in America to pure meritocracy, the one avenue of ambition widely thought to be open to all.  Pity the kid inside Hurt Village who was born to play the piano, or manage people, or trade bonds.”
+
+## Pete Holmes: Comedy Sex God
+
+Parents fought nightly, raised in Protestant church. Went to christian college (Gordon); friends pressured into sex so got married. Article on Chris Farley convinced him to move to Chicago (met Kumail Nanjiani), *Comedian *documentary convinced him to move to NYC (met John Mulaney). Wife hated city, moved upstate to Sleepy Hollow and she cheated/left him. After divorce, became atheist and committed himself to comedy.  Made it on Fallon, started successful podcast, dated three girls, and did shrooms at Bonnaroo. Came to believe God is a metaphor for the mystery that transcends human thought, and the Bible is more poetry than nonfiction.  Like art, everyone draws their own meaning from the metaphor. <!--AGREE UP TO THIS POINT, THEN BLATHERS ON ABOUT JESUS REPRESENTS US TRYING TO FIND TRUTH AND WE NEED TO TAKE THE BALL FROM JESUS TO SCORE A "TOUCHDOWN."--> After years of journey, landed on a belief of God as awareness achieved through meditation.  <!--FINE, BUT NO NEED TO CONFLATE MEDITATION WITH RELIGION.  LAST THIRD OF BOOK ALMOST ENTIRELY A TRIBUTE TO RAM DASS AND BOUGIE WEEK-LONG RETREATS HE HOSTED IN MAUI.--> Conan helped him get midnight Pete Holmes Show; Judd Apatow helped with Crashing.  Now lives with wife and daughter in LA.
+
+## Bill Bryson: The Body
+
+* **DNA**: Every cell holds two copies of DNA, which is an instruction manual for making you.  DNA is divided into segments called chromosomes and shorter units called genes, which provide instructions for building proteins.  All humans share 99.9% of their DNA, and yet no two humans are alike.  The total cost of all the parts to build a new human being would be around $150K.
+
+* **Brain**: Your brain is you, everything else is just plumbing and scaffolding. It churns through more information in 30 seconds than Hubble Space Telescope has processed in 30 years.  To account for 1/5 second lag from optical nerve to processing, brain actually forecasts future.  It doesn’t just tell us how something feels, but how it ought to feel (why caress of lover is nice but stranger is creepy; and why it’s hard to tickle yourself).  Brain makes up just 2% of our weight but uses 20% of our energy.  A decapitated head will still have some oxygenated blood in it, so loss of consciousness can take 2-7 seconds.
+
+* **Eyes**: When you see little white sparks appearing are your own white blood cells moving through a capillary in front of the retina.  Floaters are clumps of microscopic fibers in the jellylike vitreous humor of your eye, which cast a shadow on the retina.  Tears come in three varieties: basal (lubricates), reflex (smoke/onions), and emotional (heartbreak). We blink 14,000 times a day—meaning our eyes are shut for ~23 minutes.
+
+* **Ears**: To protect from damage, an acoustic reflex jerks the stapes away from the cochlea whenever a brutally intense sound is perceived (why we are often deafened after an explosion).
+
+* **Mouth**: We swallow every 30 seconds.  Saliva, while mostly water, contains a tiny portion of proteins that speed up chemical reactions.  Tooth enamel is the hardest substance in the human body, but forms just a thin layer and can’t be replaced.  When eating, the tongue "darts about like a nervous host at a cocktail party, checking the taste and shape of every morsel in preparation for dispatching it onward to the gullet."  Humans choke to death more easily than any other mammal (air and food share pathway).  Smell accounts for 70-90% of flavor, though most aroma travels not through nostrils but the “retronasal route.” Genuine smiles don’t last more than four seconds and can’t be faked, since they require contraction of eye muscles we can’t control.
+
+* **Skin**: Largest and most versatile organ.  We shed over a million flakes/hour.  When pores are blocked with plugs of dead skin and dried sebum, it creates a blackhead. If the follicle additionally becomes infected and inflamed, it results in pimple. 
+
+* **Hair**: We grow about twenty-five feet of hair in a lifetime, but because all hair falls out at some point, no single strand can ever get longer than about three feet.  20% of men are "substantially bald" by 30; 60% by 50.
+
+* **Heart**: The heart beats ~3.5B times in a lifetime (nearly all other animals die after ~800M). These are not gentle; powerful enough to send blood spurting 10ft if the aorta is severed.  Every time you stand up, gravity drains a pint and a half of blood downward, so your heart must overcome.  The journey of blood around your body takes about fifty seconds to complete.  Blood pressure (e.g. 120/80) measure the highest and lowest pressures your blood vessels experience with each heartbeat. Incidents:
+
+    * **Heart Attack**: when oxygenated blood can’t get to heart muscle because of a blockage in a coronary artery, permanently damaging heart muscle within an hour. Heart attacks are often sudden and often at night.
+
+    * **Cardiac arrest**: when the heart stops pumping altogether, usually because of a failure in electrical signaling. When the heart stops pumping, the brain is deprived of oxygen and unconsciousness swiftly follows. A heart attack will often lead to cardiac arrest, but you can suffer cardiac arrest without having a heart attack.
+
+* **Blood**: Grown men have 5 quarts of blood.  Parts: (1) Plasma; (2) Red blood cells to deliver oxygen; (3) White blood cells to fight off infections; and (4) Platelets for clotting.  Donated blood lasts about 42 days.  In old days, treated most disease by draining blood (George Washington’s physicians unsuccessfully removed 40% of his blood in two days). We can’t digest food while exercising because the body shunts blood away from the digestive system to meet the increased demand to supply oxygen to the muscles.
+
+* **Bones/Muscles**: We have ~206 bones, over half are in the hands and feet.  Bones are living tissue and the only kind that doesn’t scar.  Like muscles, they grow bigger with exercise.  We have >600 muscles.  Because muscle is so expensive to maintain, we sacrifice muscle tone quickly when not in use (astronauts lose bone density and 20% muscle mass on weeklong trips).  Most primates have opposable thumbs; ours are just more pliant and mobile.  Our feet were designed to grasp, not to support a lot of weight.  One British WWII gunner miraculously fell 3 miles without a parachute and survived.  
+
+* **Immune System**: Responds to germs, toxins, drugs, cancers, foreign objects, and even your own state of mind.  Much of our suffering is self-inflicted in the form of autoimmune diseases like multiple sclerosis, lupus, rheumatoid arthritis, and Crohn’s disease.  T cells kill cells invaded by pathogens. Memory T cells remember the details of earlier invaders to coordinate swift future responses.  Allergy rates vary from ~10-40% (richer countries have more allergies).
+
+* **Lungs**: 80% of the air we breathe is nitrogen which we breathe right back out.  The discomfort you feel when you hold your breath for too long is caused not by the depletion of oxygen but by a buildup of CO2 (the first thing you do when you stop holding your breath is blow out).The reason our nose runs in winter is warm air from the lungs meets cold air coming into the nostrils and condenses, resulting in a drip.  
+
+* **Nutrition**: Men need ~2600 calories/day.  Without water, men can go 45 miles in 80-degree heat (just 15 miles in 100-degree heat).  Cooking kills toxins, improves taste, makes tough substances chewable, greatly broadens the range of what we can eat, and vastly boosts the amount of calories humans can derive from what they eat.  In the 1920s, vitamins were named alphabetically--until B was discovered to be several and then some of those were eliminated.  In northern climates, Vitamin D deficiency may be as high as 90%.  CDC estimates 97% don’t get enough potassium.  Fats: Unsaturated (veggies) are best, followed by saturated (meat) and trans (artificial).  Modern fruits are designed to be extra sugary.  For a man, the average journey time from mouth to anus is 55 hours (72 hours for women)  Farts are 50% CO2, 40% hydrogen, and 20% nitrogen. About a third of people produce methane, a notorious greenhouse gas, while two-thirds produce none at all.
+
+* **Sleep**: Helps consolidate memories, restore hormonal balance, empty the brain of accumulated neurotoxins, and reset the immune system.  The ~90-min cycles of sleep are repeated four or five times a night.  Men are erect for ~2hr/night.  10-20% adults have insomnia, but only 0.04% have narcolepsy.  Nightmares may simply be the amygdalae unburdening themselves.
+
+* **Gender/Sex**: <!--Median time in Britain at least is 9 minutes; average penis is 4.5 to 5.75in. -->  Chance of successful fertilization without contraception are around 3%. Healthy women carry ~50% more fat than men.  Until recently, drug trials often excluded women for fear menstrual cycles could skew results.  The average age of women at first birth in the U.S. is 26, the lowest among rich nations.  At 35, a woman’s stock of eggs is 95% exhausted and those that remain are more liable to faults or surprises.  The average cost of childbirth in the U.S. is about $30K for a conventional birth and $50K for a Cesarean.  Today almost 80% of American women breast-feed just after birth, though that number falls to 49% after six months and 27% after a year.
+
+* **Viruses**: Terribly small, not quite living but not dead. You can never develop immunity to all cold viruses.  The average adult touches his face 16 times/hour, and each of those touches transfer pathogen from nose to snack bowl to third party to doorknob to fourth party and so on.  Flu virus can survive on a surface for 2.5 weeks if accompanied by snot (without, only a few hours).
+
+* **Antibiotics**: Fleming discovered Penicillin in 1928.  Problems: They also wipe out good microbes.  The more we expose microbes to antibiotics, the more opportunity they have to develop resistance.  Pharma’s business cases are weak (patents often last only ~5 years beyond clinical trials, people take antibiotics for only a week or two, most are used on farm animals).
+
+* **Disease**: Danger depends on: how lethal it is, how good it is at finding new victims, how easy or difficult it is to contain, and how susceptible it is to vaccines.  Flus spread easily, show/kill slowly, and live on in animals (60% disease zoonotic).  Smallpox, the most devastating disease in the history of humankind, infected nearly everyone and killed 30%.  Officially just two stocks of smallpox remain (in CDC Atlanta and Siberia) but CIA believes there are stocks in France, Iraq, and North Korea.  90% of rare diseases have no treatments.  There are around 7 cases of bubonic plague/year in the U.S.
+
+* **Cancer**: Entirely internal; the body turning on itself. Immune system kills 1-5 cancerous cells every day, but if missed they remain painless and invisible until tumors grow big enough to press on nerves or form a lump.  Treatment includes surgery, radiation, and chemotherapy (discovered 1943 when US supply ship in Italy with mustard gas was bombed by Germans and noted mustard gas dramatically slowed the creation of white blood cells).
+
+* **Life Spans**: Global life expectancy grew from 48 in 1950 to 71 today for men; (53 to 76 for women).  Yet the US lags in 31st place, despite generous spending and the high quality care.  Americans lead more unhealthy lifestyles (drinking/driving, guns).  Top killers: (1) heart disease (2) cancer (3) Alzheimer’s.  About 60% of deaths follow a slow, protracted decline.  ~40% of people over 75 who break their hips are no longer able to care for themselves.
+
+* **Aging**: Varied theories: genetic mutation (your genes malfunction and kill you), wear-and-tear (the body just wears out), and cellular waste accumulation (your cells clog up with toxic by-products).  Bladder becomes less elastic/capacious, skin becomes drier and leathery, blood vessels break more readily creating bruises, the layer of fat beneath the skin thins (making it harder to stay warm), and the amount of blood pushed with each heartbeat falls gradually.  Oldest person died at 122 (oldest man was 116).  Most dying people lose any desire to eat or drink in the last day or two. When the ability to cough or swallow goes, they often make a rasping sound commonly known as a death rattle.  Decomposition in a sealed coffin can take as long as 40 years.
+
+We have made tremendous advancements in healthcare, driven by hundreds of years of courageous research (including scientists who ate food on strings to pull it back up, self-inflicted themselves with tape worms, and used family members as cadavers).  For the first time in 2011, more people died from non-communicable diseases than infectious diseases, meaning we are now usually killed by our own lifestyles. Medical overtreatment is driven by profit and fear of litigation (drug companies commonly offer generous rewards to doctors to promote their drugs).  FDA provides no oversight on supplements as long as they are not obviously dangerous.
+
+## Robert Kennedy: Thirteen Days
+
+Chronology (1962):
+
+* Sept 6: USSR clandestinely begins staging missiles in Cuba.
+
+    * Khrushchev’s idea; Castro didn’t want.  Soviet ambassador continuously denies any munitions in Cuba. 
+
+* Oct 14: U-2 discovers missiles.
+
+* Oct 16: JFK convenes ExComm, split into groups to write respective recommendations trying to anticipate all possible contingencies. JFK criticized by military, Congress for choosing blockade.
+
+* Oct 22: JFK announces publicly, demands withdrawal of missiles, orders US quarantine (deployed  over 30 ships), mobilized military to SE US, asked State Dept to prepare for post-invasion civil Cuban government, and prepared with European allies for counter-blockade of Berlin.
+
+* Oct 24: Khrushchev orders forces full alert; threatens to sink US ships.
+
+    * Russian generals in Cuba authorized to use tactical nukes against any invasion.
+
+* Oct 25: Soviet ship stops short of US quarantine line.  Stevenson briefs UN.
+
+* Oct 26-7: Khrushchev letters initially offers withdrawal, then demands removal of missiles from Turkey. A U-2 is shot down over Cuba.  
+
+    * JFK long wanted to remove outdated Jupiter missiles from Turkey (Polaris submarine missiles from Mediterranean more accurate anyway).
+
+    * Majority of ExComm wanted to attach Cuba after U-2 shootdown; JFK pulled back.  FBI reported USSR personnel were leaving UN.  
+
+* Oct 27: US responds affirmatively, promises air strike if missiles not removed by October 28.
+
+* Oct 28: Khrushchev announces withdrawal of missiles.
+
+Lessons 
+
+* Secrecy and time was important to prevent panic/escalation
+
+* POTUS valued perspectives of many departments and individuals (both senior and junior)
+
+* Allies were important (OAS legalized quarantine, NATO backed findings, UN brief embarrassed USSR)
+
 ## Walter Isaacson: Einstein
 
 Slow verbal development allowed him to observe with wonder and curiosity everyday phenomena others took for granted.  Music helped him think—became an expert violin player.  Rejected all forms of dogma and authority—in both religion and science.  Saw engineering as limiting his creative energy toward bleak capital objectives.  As a student, he already displayed a distracted demeanor, casual grooming, frayed clothing, and forgetfulness.  Married Mileva Maric, who was neither attractive nor warm, but another misfit scholar.  Their first illegitimate child was given up for adoption (and lost to history), but they had two sons.  Weak in math, Einstein graduated college near the bottom of his class and unable to find a job in academia he became a patent examiner (though this reinforced his most important traits—skepticism and independence).  He created a physics group called Olympia Academy and in 1905, he published four papers which: 
@@ -101,9 +247,9 @@ We need a full-fledged philosophy of technology use which understands clutter is
 
 * Everyone needs **_solitude _**(Lincoln spent 75% of his presidency at the soldiers home).  Unhurried self-reflection provides insight and emotional balance and reduces anxiety.  Leave your phone at home.  Take long walks.  Write letters to yourself.
 
-* Social media steals time from the **_real-world socializing_**** **that’s massively more valuable.  Conversation (including phone or FaceTime) is the only form of interaction that counts toward maintaining a relationship.  Set conversation office hours (e.g. 5:30 every day).
+* Social media steals time from the **_real-world socializing_ **that’s massively more valuable.  Conversation (including phone or FaceTime) is the only form of interaction that counts toward maintaining a relationship.  Set conversation office hours (e.g. 5:30 every day).
 
-* **_Spend leisure in craft_**** **(using skills to produce valuable things in the physical world).  This energizes you more than passive consumption which leads to depressive boredom.  Join a club (e.g. Franklin’s Junto club).  Fix or build something every week.  Don’t watch Netflix alone.
+* **_Spend leisure in craft_ **(using skills to produce valuable things in the physical world).  This energizes you more than passive consumption which leads to depressive boredom.  Join a club (e.g. Franklin’s Junto club).  Fix or build something every week.  Don’t watch Netflix alone.
 
 * **_Join the Attention Resistance_**.  Delete social media from your phone.  Embrace "Slow Media" (thoughtful analysis always more valuable than breaking news).    Buy a watch.  
 
@@ -129,7 +275,7 @@ Success requires motivation, ability, and opportunity.  Turns out the most and l
 
 * They build a good reputation and strong network, which provides private information, diverse skills/advice, and power over the long term.  ("Kissing up, kicking down" gets noticed)
 
-* They are more likely to see interdependence as a source of strength, and more receptive to expertise from others, who might have a less biased perspective.
+* They are more likely to see interdependence as a source of strength, and more receptive to expertise from others, who might offer a less biased perspective.
 
 * They are more effective scouts of potential, focusing on motivation and work ethic over natural talent.  <!-- WEAK POINT -->
 
@@ -331,9 +477,9 @@ We’re bad at talking with strangers for three primary reasons.
 
     * Viewers of *Friends* can follow plotlines exactly without sound because their facial expressions match emotions exactly.
 
-    * Amanda Knox wasn’t a killer—she just didn’t react the way she was supposed to after their roommate is murdered.
+    * Amanda Knox wasn’t a killer—she just was mismatched, and didn’t react the way she was "supposed to" after her roommate was murdered.
 
-    * Under the best of circumstances, men and women cannot read each other’s’ intentions, and alcohol only exacerbates.  Brock Turner.  WHY WE NEED EXPLICIT CONSENT.
+    * Under the best of circumstances, men and women cannot read each other’s’ intentions, and alcohol only exacerbates.  Brock Turner.  <!--WHY WE NEED EXPLICIT CONSENT.-->
 
     * James Mitchell developed psychological explanations of USAF SERE training and CIA EIT program, but Charles Morgan’s research proves duress actually degrades memory.  Also KSM incredibly was able to open his sinuses and the water in his nose would flow out his mouth.
 
@@ -345,7 +491,7 @@ We’re bad at talking with strangers for three primary reasons.
 
 Each of these played in the interaction of Brian Encinia and Sandra Bland in TX.  We can never expect to understand the whole truth, but should proceed with caution and humility.
 
-<!-- ALTERNATIVE TO TRUTH DEFAULT IS PARANOIA A LA JIM ANGLETON.  TRANSPARENCY IS STRONGEST, NEED TO FIGHT PERSONAL MISMATCH (E.G. DON’T ACT NERVOUS WHEN TELLING TRUTH).  CONTEXT IS WEAKEST.  TIES RELEVANT EXAMPLES. -->
+<!-- ALTERNATIVE TO TRUTH DEFAULT IS PARANOIA A LA JIM ANGLETON; MUST TRUST BUT VERIFY.  TRANSPARENCY IS STRONGEST ARGUMENT, NEED TO FIGHT PERSONAL MISMATCH (E.G. DON’T ACT NERVOUS WHEN TELLING TRUTH).  CONTEXT IS WEAKEST.  TIES RELEVANT EXAMPLES. -->
 
 ## Jane Jacobs: The Death and Life of Great American Cities
 
@@ -559,7 +705,7 @@ Standard Meditation ("Take10"):
 
 Integrate into life: Eating (slowly), Walking (slowly), Running, Sleeping (scan, replay, "switch off").
 
-Michelle Obama: Becoming
+## Michelle Obama: Becoming
 
 Grew up with parents and older brother in Great Aunt’s second floor in South Shore Chicago. Hard-working parents were stern and practical but gave children independence.  "Miche" followed Craig to Princeton, then on to Harvard Law and Chicago firm Sidley & Austin. First test she ever failed was the bar (passed second time).  Mentored a highly-touted 1L summer associate Barack Obama; continued long-distance for two years.
 
@@ -671,7 +817,7 @@ Metaphor (not always in this order):
 
 -South Bend’s Studebaker plant was the largest vehicle factory in the world until 1963 closing; houses now $60K.  Notre Dame students lean conservative, though humanities faculty (e.g. parents) overwhelmingly liberal.  Won Harvard Essay contest writing about Bernie Sanders’ dedication to socialism; leveraged into DC internship with Ted Kennedy.  At Harvard, lived in Ulysses Grant Jr.’s room; wrote thesis on Vietnam War.  Criticizes both parties post-9/11.  Studied piano, then guitar.
 
--Rhodes Scholarship to Oxford (philosophy), McKinsey based in Chicago (grocery prices, etc.)—learned but didn’t care.  Enlisted in Navy in 2009 because elites served less than his neighbors (difficult process: recorded minor as aerobics instead of Arabic, assumed would be sworn in at parade ground, but instead met at Big Boy). 
+-Rhodes Scholarship to Oxford (philosophy), McKinsey based in Chicago (grocery prices, etc.)—learned but didn’t care.  Enlisted in Navy in 2009 because elites served less than his neighbors (difficult process: recruiter recorded minor as aerobics instead of Arabic, assumed would be sworn in at parade ground, but instead signed papers at a Big Boy diner). 
 
 -Ran for Indiana Treasurer in 2010 because incumbent opposed Chrysler bailout.  Lone intern joined him with "MEET PETE" sign, police stopped to ensure wasn’t unauthorized demonstration.   In mayoral campaign, discovered youth actually played well and ethnically ambiguous name was asset in Midwest (large Eastern European population).
 
@@ -1203,7 +1349,7 @@ Psychology is the intellectual garbage bin for problems and questions unwelcome 
 
 ## Ted Williams: "The Greatest Hitter Who Ever Lived" (Documentary)
 
-Born to poverty, tried to conceal mother’s Mexican heritage (though late in life advocated for Negro induction into Hall of Fame).  Tall, thin rookie of the year known as "the kid" (immature, profane, irritable).  Fans adored, though he never tipped his hat after home runs (and once spat at booing fans). Hated writers because even after Triple Crown lost MVP.   Tried to avoid service in both WWII and Korea, but acclaimed USMC pilot (20/15 eyesight).  Focused on hitting only (even as Senators manager). Pioneer of lighter bat, studying pitchers; *Science of Hitting* remains excellent book.   Was hitting .3995 going into last game 1941, went 6-for-8 to finish at .406. Hit homerun in final at bat. Loved fishing (taught him patience).  Admitted he "struck out" as a husband and father.  Estate (kids) decided to cryofreeze his remains.
+Born to poverty, tried to conceal mother’s Mexican heritage (though late in life advocated for Negro League inductions into Hall of Fame).  Tall, thin rookie of the year known as "the kid" (immature, profane, irritable).  Fans adored, though he never tipped his hat after home runs (and once spat at booing fans). Hated writers because even after Triple Crown lost MVP.   Tried to avoid service in both WWII and Korea, but acclaimed USMC pilot (20/15 eyesight).  Focused on hitting only (even as Senators manager). Pioneer of lighter bat, studying pitchers; *Science of Hitting* remains excellent book.   Was hitting .3995 going into last game 1941, went 6-for-8 to finish at .406. Hit homerun in final at bat. Loved fishing (taught him patience).  Admitted he "struck out" as a husband and father.  Estate (kids) decided to cryofreeze his remains.
 
 ## Michael Lewis: Boomerang
 
@@ -1273,7 +1419,7 @@ Other:
 
 Policy recommendations:
 
-* Single-payer healthcare.
+* Single-payer healthcare
 
 * Free trade agreements
 
@@ -1835,8 +1981,7 @@ Cease fire collapsed immediately upon US troop withdrawal. In foolish attempt pr
 
 A modern day Atticus Finch, Stevenson graduated Harvard Law and founded the Equal Justice Initiative to defend death row prisoners in Alabama. Story chronicles Walter McMillan, who overcame six years of corrupt DAs, political machinations, racially biased legal rulings to get off death row. Interjects other cases of children, mentally ill, poor mothers, and minorities who are underserved by the criminal justice system. Stevenson ultimately convinces the US Supreme Court that life imprisonment of children is cruel and unusual. "We are not defined by the worst thing we've ever done."  “Let he who is free from sin cast the first stone.”
 
-## Mark Manson: The Subtle Art of Not Giving a F**k
-
+## Mark Manson: The Subtle Art of Not Giving a F--k
 We should focus less on achieving success and more on how to manage inevitable failure/suffering.  You are defined by what you're willing to struggle for (e.g. professional athletes are the ones who enjoy long hours at the gym).  Most of us are pretty average at most things, so if you can’t accept mediocrity then you'll likely never be happy. 
 We don't control what happens to us, but we control how we interpret it and respond to it. Identify what your values and don't worry about other things. Pondering your mortality/legacy helps tamp down superficial concerns. 
 <!-- NEEDLESSLY PROFANE, BUT TO BE HAPPY, PRIORITIZE THINGS YOU VALUE AND TEMPER AMBITIONS -->
@@ -2552,7 +2697,7 @@ Fueled Trump’s birther movement and designed his campaign as an outsider.  Tru
 
 SUMMATION: Invented slash and burn politics: negative ads, PACs, and lobbying (firm with Black and Manafort).  Morality is weakness. Hate is stronger than love.  No boundaries.  There's no difference between politics and entertainment; you have to be outrageous to get noticed. Trump described system as rigged by super PACs and lobbying, then turns to Stone and Manafort who built that rigging.  They picked up on some grassroots sentiment but really represented billionaires (e.g. most people don’t want to abolish the EPA).
 
-#**Doris Kearns Goodwin: Team of Rivals
+## Doris Kearns Goodwin: Team of Rivals
 
 Born in a log cabin in Kentucky, Lincoln lost his mother, sister, and girlfriend in childhood.  He read everything he could (esp. Shakespeare) and practiced retelling stories he heard his father tell.  Broke off engagement to Mary Todd twice and became suicidal—friends removed razors from his room. The death of son Eddie threw Mary into deep depression (at the time called "hypo" and diagnosed as a stomach trouble).  Mental health does not mean freedom from anxiety and depression, but the ability to cope. 
 
@@ -3094,9 +3239,9 @@ Jackson tied JQAdams in 1824; Henry Clay anointed Adams and was named Secretary 
 
 ## William Ury: Getting Past No
 
-* Go to the Balcony to overcome your negative reaction
+* "Go to the Balcony" to overcome your negative reaction
 
-* Step to their side to overcome their negative emotion
+* "Step to their side" to overcome their negative emotion
 
 * Accept whatever they say and reframe as an attempt to deal with the problem
 
@@ -3491,16 +3636,6 @@ BLUF: Keep animated face, expressive gestures, head nods/tilts, frequent eye con
 * Mirroring positive signals helps facilitate cooperation/agreement and build rapport.  Never speak at a faster rate than the other person.  Slow, deliberate head nods demonstrate interest.  A head tilt demonstrates nonthreatening.  Cowboy stance (thumbs in pants) shows a sexually aggressive attitude. 
 
 * Television breaks down some cultural differences, but culture still matters.  In the Mediterranean, the UT Longhorns hand sign means your wife is being unfaithful.  The amount of personal space a person desires depends on the population density where they grew up.
-
-**<!-- Michael Shaara: Killer Angels
-
-Fiction, almost entirely character/dialogue driven.  But, vivid descriptions of Buford/Reynolds’ hold on Cemetery Hill, Chamberlain’s defense at Little Round Top (20th Maine) and Pickett’s Charge into the middle of the Union Line.
-
-Lee felt obligated to go on the offensive.  When he dug trenches around Richmond, they called him pejoratively "King of Spades."  Prior to charge, South let out wailing noise called “Rebel Yell.”
-
-Duties of an officer: care for your men and show physical courage.
-
-Europe supported South because they hadn’t abandoned the "Old Country." -->
 
 ## David Rothkopf: American Insecurity
 
@@ -4559,3 +4694,4 @@ Write fast, edit slow.  You should be able to summarize the point of your writin
 -In addition to a midget, owner Bill Veeck also tried to send a 9' 3" British giant to the plate.  -Frank Bancroft organized baseball Olympics which included: long-distance throwing, races, fungo-hitting, and homerun derbies.  In 1894, Cincinnati ground rules permitted outfielders to go after balls in the stands.  When one visiting outfielder did this he was assaulted by several fans, even one with a gun.  The Braves attracted loads of fans for "Wet T-Shirt Night," but ran into trouble when the winner's father was a Methodist minister.  In 1997 the total MLB fan attendance was 64 million people, more than the attendances of the NFL, NHL, and NBA combined.  In 1935, Chuck Klein, who had been in a slump, hit .340 immediately after receiving a letter from a fan who'd noticed a flaw in his swing.  
 
 -There were threats of a third "Continental League" in the 1960s, but it never happened.  Four players have played all nine positions in one game.  Cleveland Shortstop Johnny Burnett holds a record 9 hits in the 18-inning game played in 1932.  In his last at-bat in the majors, Joe Pignatano hit into a triple play.  In 2000, Derek Jeter became the first player to be named MVP of the All-Star Game and World Series in the same season. Stealing King Rickey Henderson got his 3000th hit on the last day of the season.
+
