@@ -10,6 +10,246 @@ output:
 
 <!-- Paste Markdown Text Below -->
 
+**July 18, 2020**
+
+-Schools should reopen.  COVID poses a low risk to children and the costs of missing school are large: Children learn less, and lose the habit of learning.  Poor children, sans WiFi, fall farther behind and are more likely to suffer malnutrition.  Parents struggle to return to work (and mothers bear greater burden).
+
+-With oil prices ($40) well below breakeven (a glimpse into the future), Gulf monarchs can no longer buy-off their citizens with do-nothing public sector jobs and free services.  Declines in remittances and tourism exacerbate the problem.  Monarchs must expedite plans to diversify their economies or they will face protests.  
+
+-USG is investing $13B+ in vaccines, though Trump has shunned international cooperation.  AstroZeneca, Moderna, and Pfizer are expected to start late-stage trials before the end of the summer.  Pfizer rejected federal money for fear of being slowed down (Moderna squabbled with USG over design of trials).  FDA insists it will not cut corners  on approval, though it ostensibly approved hydroxychloroquine to avoid embarrassing the president.  Other concerns include universal access to the vaccine and anti-vaxxers.  
+
+-When the pandemic struck, markets collapsed but the Fed started buying up public debt and promised to purchase some corporate debt.  Facing revenue shortfalls, companies raised money by selling shares and issuing new bonds to investors, generating a windfall for Wall Street.  Main Street is kept afloat by generous government subsidies, but the outlook is less promising.
+
+-Police officers in schools ("School Resource Officers") proliferated in the 1990s in response to mass shootings, however they may unfairly impact minority students and new research suggests they don’t increase school safety (and should be replaced by unarmed safety monitors and/or social workers).
+
+-Recently released documents reveal Queen Elizabeth was involved in the 1975 controversial sacking of Australian PM Gough Whitlam by governor-general Sir John Kerr.  Although the monarchy survived a 1990s referendum, recent polls suggest 62% of Australians would prefer an Australian head of state.
+
+-China recently launched the final of 55 satellites in its BeiDou GPS constellation, which began in 1993.  The US (USAF) began updating its system with GPS-3 in 1997, but may still take 15 more years to complete.
+
+-For the first time, Italy tested all 78 bevy gates closing Venice off to the Adriatic.  Set back by a 2014 bribes scandal, the project is 9 years behind schedule, 3x budget, and still not ready for launch.  While a bulwark against flooding like that seen in November 2019, Venice is still sinking.  One radical idea is to raise the city by pumping water into its aquifer.
+
+-Reasons companies struggle with IT: In millions of lines of code, errors are inevitable.  Many coders are at least part self-taught, leading to bad habits.  Programming requires a mix of hyper-literalness and creativity, and connections between academia and industry are weak.  But most importantly, systems rapidly become out of date and expertise moves on--sometimes it’s best to start with a clean-sheet design.
+
+**July 11, 2020**
+
+-Massive fiscal support has effectively mitigated COVID’s economic impact—despite record high unemployment, poverty has actually fallen.  But government stipends can/should not continue indefinitely two reasons: (1) Cost--governments spent ~10% of GDP globally; (2) the economy will be permanently changed by the pandemic.  A better approach would be to taper benefits as unemployment falls.
+
+-Iranian nuclear, military, and chemical facilities have suffered seven explosions, fires, and leaks in recent weeks—some perhaps by US/Israeli convert action.  Netanyahu may be seeking to use his perceived last year with Trump to pressure Iran.  But these tactical "successes" actually demonstrate the strategic failure of Trump’s Iran policy.  Since the US abandoned the JCPOA, Iran has enriched 8x uranium, downed a US drone, attacked Saudi oil facilities, and attacked US bases in Iraq.  Though Biden supports re-entering JCPOA, the relationship will be hard to reconcile.
+
+-The US-China split in the technology industry is widening.  Facebook, Google, Microsoft, and Twitter have rolled back cooperation following the Hong Kong crackdown.  China is raising $7B to galvanize SMIC, its home-grown chipmaker. It is happening quicker in software than hardware (more heavily integrated supply chains).
+
+-Police unions are uniquely protected on both sides.  The right dislikes confronting police, whereas the left is uncomfortable taking on unions.  BLM has prompted reform in liberal states like Oregon and California.
+
+-The cash bail (and associated commercial bondsman industry) is unpopular, but alternatives like New Jersey’s algorithms and California’s risk-assessment system can be equally discriminatory. 
+
+-Seoul and neighboring Incheon produce nearly half of the country’s wealth, but are congested, expensive, and stressful to live in.  To reduce the concentration of politics, wealth, and culture, the government has launched 12 "innovation" cities like Jinju (biotech and aerospace) and Sejong (new administrative capital).  To prevent sapping economic vitality from surrounding areas, the government is emphasizing urban regeneration over building towns from scratch.
+
+-Born a church, Istanbul’s Hagia Sophia was turned into a mosque by the Ottomans and a museum by their secular successors.  Now, hoping to boost waning popular support, President Erdogan signed a decree to turn it back into a mosque.
+
+-Parkinson’s Law: "Work expands so as to fill the time available for its completion."  Fortunately, work from home eliminates “presenteeism”—the need to be seen as working, allowing some to capture more time for leisure and others driven by guilt to work even harder than before.  On the downside, however, driven to appear busy, managers schedule Zoom calls and employees must chime in to be seen and heard.
+
+**July 4, 2020**
+
+-With Trump bungling COVID/BLM and Biden holding solid leads in midwest battlegrounds, Biden holds a 90% chance of winning in November.  His policies include a higher minimum wage, protection for unions, reform of bankruptcy and campaign-finance laws, carbon tax, and building on the ACA by offering a "public option."  Even without a Senate majority, he could reverse many of Trump’s deregulation and immigration policies.  In foreign policy, he would pursue arms control, rejoin the Paris Agreement, and hold a “Summit of Democracies.”
+
+-Although Barr has resumed federal executions and the Supreme Court declined to hear a case, public support for capital punishment continues to decline—strongly among youth but even among libertarian conservatives. 
+
+-Since the FARC ceasefire in 2012, Cartagena has attracted party/drug tourism.  The mayor hopes to use the pandemic to target fewer but richer tourists.  He also hopes to spread them out temporally by making holidays more flexible and geographically by building a water park outside the city. 
+
+-Nearly two-thirds of the Afghan population is under 25 years old and has no memory of Taliban rule.  As American troops depart, the talks between the Taliban and government remain more uncertain than ever—with ongoing disagreements around release of prisoners, ongoing attacks, and schooling for girls.
+
+-Although demand for food delivery services (e.g. GrubHub, Postmates, DoorDash, UberEats) has skyrocketed during the pandemic, bitter competition for market share means few are making much profit.  Over time, consolidation may reduce operating costs and permit higher prices.
+
+-In addition to failing to police hateful/inaccurate content, Facebook is increasingly bending to the will of autocrats in places like Syria by deleting accounts of opposition activists.
+
+**June 27, 2020**
+
+-To attract youth, the Olympics are adding skateboarding, surfing, and climbing, but "electronic sports" like Fortnite remain more than twice as popular, and require similar dexterity.
+
+-Commercial property investments have been popular for two decades, but as many as 60% of tenants are now behind on rent.  In the long-term, more business will shift to e-commerce and companies will embrace teleworking.
+
+-Having already abandoned the JCPOA, INF, and Open Skies Treaty, the State Dept now accuses Russia and China of violating the Comprehensive Test Ban Treaty (CTBT) on nukes.  The Nevada test site remains in working condition, but Las Vegas development has expanded, a test could cost $100M+, is unpopular, and would serve no technical or military purpose (supercomputers can simulate with high fidelity, US still has loads of data from tests until 1992).
+
+-Trump’s bombastic threat to remove 15% of troops from Germany for "free-riding" is ill-advised, as Stuttgart remains a critical cog in America’s global military machine (EUCOM/AFRICOM HQ, several garrisons, hospital).
+
+-Clarence Thomas grew up impoverished and embraced black nationalism until receiving admission to Yale Law under a racial quota ("the soft underbelly of my career").  Despite some idiosyncrasies, he disdains affirmative action, abortion and gay rights (but supports gun rights). Despite Conservative calls to let Trump replace him he appears to want to stick it out (similar to Ginsburg under Obama).
+
+-Because COVID hit Italy so rapidly, technocratic PM Conte’s approval rating has surged since imposing heavy lockdown measures.  But he may not want to try his hand at election, especially following a recent report that an M5S founder took donations from Hugo Chavez in 2010.
+
+-The EU is investigating Apple for taking a 30% cut on AppStore subscriptions like Spotify.  The CEO of Microsoft, which lost a landmark antitrust case in 2001, claimed Apple and Google have tighter control over smartphones than Microsoft did over PCs (Apple and Google reply that they compete against each other).
+
+**June 20, 2020**
+
+-Amazon is well-positioned in e-commerce (40% US market share), logistics, and—especially—cloud computing.  But its problems include growing public criticism (working conditions, treatment of third party vendors), financial bloating (asset-heavy, COVID costs are slimming margins), and re-energized competition (Wal-Mart, Target, Costco are catching up).
+
+-Escalating tension between India and China resulted in 20 deaths—the most since 1967.  Previous incidents have de-escalated with meetings of generals, but China needs to accept India’s proposal for more detailed negotiations on the Line of Actual Control (LAC).
+
+-Bolton’s book confirms Trump’s policies are driven by re-election (asked Ukraine, China for help), reveals his ignorance (thought Finland was in Russia; didn’t know UK had nukes), and provides colorful details (Pompeo called Trump "full of shit").  Bolton’s testimony probably wouldn’t have impeached Trump, but provides more fodder for the election cycle.
+
+-The COVID crisis is still worsening in Latin America due to derelict leadership, healthcare shortages, and reliance on informal economies.  Most states are providing popular subsidies well beyond affordability.
+
+-Trump broke a longstanding gentleman’s agreement by nominating an American—his NSC chief and Venezuela policy architect Mauricio Claver-Carone—to run the Inter-American Development Bank.
+
+-China is using the pandemic to distract from escalating SCS activity, including sinking, ramming, and harassing fishing boats.  Fearing China will soon declare an ADIZ covering the entire "9-dash line," the US sent three carriers.
+
+-With a spurt of short-range tests and the explosion of a liaison office, North Korea is trying to manufacture a fresh crisis.  Might be seeking economic concessions or to strengthen domestic image.
+
+**June 13, 2020**
+
+-Not all statues who offend modern morality should be removed, but each must be judged on if their contributions outweighed their sins.  Statues should be taken down by public consensus rather than by mob (Edward VII in Mumbai was thrown into the zoo).
+
+-Britain formally left the UK on January 31 but remains in a transition period until the end of 2020.  Talks remain deadlocked on fisheries, governance, and competition.  Johnson hopes the EU will cave against the deadline, but it was UK that caved last time, accepting a customs border between Great Britain and Northern Ireland.  The government also hopes COVID will mask the economic pain of Brexit, but each crisis hits different parts of the economy (small shops v. big exporters).  He should instead invoke a clause that allows him to extend the transition period two more years.
+
+-Researchers at Columbia University developed an app to help identify the cryptic symbols used by extremists at protests.  Overt racism is declining, but implicit bias remains strong.  Test your implicit bias at implicit.harvard.edu. 
+
+-Directly and indirectly, tourism accounts for about 13% of Italy’s GDP, concentrated in certain areas.  The government is trying incentivize Italians to take staycations this summer.
+
+-Japanese workplaces are conducive to the worst sort of abusive bosses because hierarchies are rigid/deeply rooted, and it is difficult to change jobs.  The government recently passed anti-harassment legislation.
+
+**June 6, 2020**
+
+-Protests in response to the brutal murder of George Floyd represent a genuine and legitimate frustration over a decades-long failure to reform police practices; being killed by police is now the sixth most common death for young black men.  At least 11 protestors have died and nearly 10,000 arrested.  Protests which devolve into looting and violence like MLK in 1968 will undermine their purpose.  Protest movements often antagonize the moderates needed to pass meaningful reform, but Tea Party and Women’s March did help galvanize voter turnout.
+
+-Police reform is hard because (1) most forces are local (18,000 law enforcement agencies, only 65 are federal; mayors appoint city chiefs, voters elect county sheriffs); (2) police patrol a heavily armed country (US officer death rate is 100x Britain); (3) police are asked to serve a broad range of functions (school security, mental health counseling, drug overdoses).  Success requires a multi-faceted approach:
+
+* De-escalation and implicit bias training is important, but can’t be a box-checking exercise; it must be reinforced.  In Camden, reviews of body-cam footage with officers for every use of force has reduced complaints and improved community relations.
+
+* Officers must be held accountable for violations.  Currently, unions make officers difficult to fire or interview within 24 hours of a shooting.  Police don’t often support prosecutions against officers.  Charges are often waived under "qualified immunity."
+
+* Clearer legislation on use of force would also help.
+
+* Departments should resist militarizing with surplus Pentagon weaponry.  
+
+-From 1970-2014, blacks in poverty fell from 47% to 27%, but remains 3x the white rate and increasingly geographically concentrated which deepens disadvantage.  Three measures have worsened: employment, incarceration, and births to unmarried couples.
+
+-NASA’s contract with SpaceX to deliver two astronauts to the ISS is emblematic of a more routine era of human spaceflight and a model for a public-private partnership.  Dragons carry up to seven people (versus three) and even have toilets.  NASA didn’t give SpaceX an open checkbook, but a series of contracts on rockets and capsules with the promise of a future market.
+
+-Given his structural advantage in the electoral college, Trump may only need 46% of the popular vote in November, which is only 3 points above his approval rating.
+
+-To build his fragile government, Netanyahu has created a record 34 ministries, generating many with conflicting portfolios (e.g. minister of education and minister of higher education) to buy political loyalty.  In addition to inevitable turf battles, some fear the more ministers he has, the less he must listen to any of them.
+
+**May 30, 2020**
+
+-America’s COVID mortality rate is actually better than France, Netherlands, Italy, and Spain--and its stimulus more generous.  But it still scuttled its advantages, including earlier notice and less population density.  Trump is not responsible for NYC’s slow lockdown or CDC’s testing snafu, but he showed a remarkable dereliction of leadership by using his bully pulpit to spread misinformation and creating internecine warfare for PPE.  
+
+-Google claims that YouTube’s auto-deletion of anti-CCP comments (referencing Wumao, or CCP propagandists) was a mistake, but refuses to explain why.  It was likely a flaw in a machine learning algorithm, a challenge that will continue to arise.
+
+-As many as 20% of US colleges may go bankrupt following the pandemic.  Small colleges (under 1,000 students) were already battling declining enrollment wrought by decreased fertility, but will now face reductions in international students and state funding (and lawsuits over tele-learning).
+
+-A new Chinese security law will create still-to-be-defined crimes of subversion and secession, by which it can base secret police to lock up dissidents in Hong Kong.  It was timed to prevent any chance of a "color revolution" while the world is distracted by COVID and protests are difficult.  This end to “one party, two systems” has broader implications for Taiwan (US should renew its security commitment).  
+
+-Western countries should mandate masks—they cost next to nothing and preliminary studies suggest even a tea towel over the face can block 60% of droplets.  
+
+-Russia is leading a resurgence in use of private security forces around the world.  Wagner Group, run by Putin’s friend, is active in Mozambique (gas), Central African Republic (diamond), Guinea (aluminum), Libya (oil), and Sudan.  Mercenaries are cheap, flexible, and offer plausible deniability.  UN treaty has previously banned mercenaries, but is softening its stance with a code of conduct encouraging ethics clauses written into contracts.
+
+**May 23, 2020**
+
+-The longer lockdowns continue, the more likely they are to cost lives than save them—especially in weaker developing economies.  For the first time since 1998, extreme poverty is rising.  Tourism destinations are expecting 25% of normal business.  Social distancing can be sufficient (e.g. Sweden, Liberty University).  Greater testing allows more agile and focused policies at a local level.
+
+-Big Pharma had grown notorious for price gouging, secretiveness, and neglect of global health problems.  Despite massive profit, investors worried about public backlash and business models which relied too much of rent-seeking over innovation.  But the pandemic has reminded the world of its ability to innovate and provide drugs on vast scale.  A global agreement could prevent nationalization of the vaccine.
+
+-A year ago, the US forbid its tech companies from selling to Huawei, but loopholes allowed firms to continue supplying Huawei from overseas factories.  In May, America announced new rules stipulating no American semiconductor equipment can be used for Huawei’s products.  Likely to spark retaliation against US companies (e.g. Apple), it will make the industry less efficient and could cause more countries to avoid business with the regulatory-ridden US (like the ITAR-free push in aerospace). 
+
+-The CDC reached peak global prestige in spearheading the response to the Ebola outbreak, but tight budgets, a testing snafu, and an indifferent White House has left them on the sidelines of the COVID pandemic.
+
+-White supremacist protestors sport Hawaiian shirts referencing the "Big Luau," or armed insurrection against the government which celebrates pig (police) roasts.  Most adhere to “accelerationism,” an odd marriage of Marxism and neo-Nazism which holds that the contradictions of the economic and political order will cause it to collapse.  Most of their recruitment occurs through online gaming.
+
+-Afghanistan reached a new power-sharing agreement in which Ghani will remain president and Abdullah will lead peace negotiations as chair of the council for national reconciliation.  Like his 2014 "chief executive" position, it will give Abdullah a high profile, but less of a role in day-to-day government. His fortunes depend on the outcome of talks.
+
+-In a power sharing agreement, Netanyahu will remain PM until handing over power to Benny Gantz in November 2021.  Netanyahu’s party is split on whether to push forward on annexation with Trump in power, or focus on the COVID-battered economy.
+
+-New START expires in February—the US wants China to join. Long secretive about their arsenal, China’s incentive is to gain military prestige and preserve transparency of the US arsenal.  But Russia wants UK/France included, and China frets that revealing its smaller arsenal could leave it susceptible to a bolt out of the blue (BOOB) attack. Any prospect for a three-way deal should start small and focus not on warheads, but on areas of near-equal strength like intermediate-range missiles or delivery systems over 500km. 
+
+**May 16, 2020**
+
+-One estimate based on surveys, historical patterns and stockmarket signals found 4 in 10 American jobs lost in the pandemic will not return.  Consumers may emerge from lockdown with new habits, spending less on restaurants, cinemas and travel, and more on deliveries, home-improvement and video-streaming.
+
+-Every DoJ reflects a president’s policy preferences to some extent (Obama’s pushed voting rights), but statutes/norms give the Dept unique independence (Obama’s backed DoMA).  Trump has now found his Roy Cohn in Barr, who has spun, attacked, & undermined the Russia investigation, intervened to reduce Stone’s sentence, and dropped the case against Flynn.
+
+-Bolivia was supposed to hold a rerun of last October’s fraudulent elections on May 3, but interim President Anez has imposed a strict lockdown and resisted setting a new date.  After initially promising to step down after the election, she has since decided to run herself.  Logistically unable to handle distributed or mail voting, many Bolivians may stay home—which will likely lead losers to challenge the result.
+
+-In Miami last September, Juan Guaido advocated pursuing "all options," and signed an initial contract with US private security CEO Jordan Goudreau for a farcical plan to kidnap Maduro and bring him to the US.  Guaido says he cancelled the contract, and the CIA apparently tried to kill the plan, but the doomed effort went ahead—securing Maduro a symbolic victory.
+
+-China has every right to build upstream dams on the Brahmaputra (to India) and Mekong (to SE Asia) rivers, where it’s built 11 and has plans for 8 more.  But it could at least share data on water levels to help downstream farmers accommodate and plan.
+
+-While Taiwan is the only country in Asia to permit gay marriage, it is also one of the few non-Muslim countries in which adultery is a crime—punishable by a fine and up to a year in prison.
+
+**May 9, 2020**
+
+-The stockmarket recovery has shaky foundations.  Investors have nowhere else to put their money (bond yields are low), the growth is disproportionately in a handful of tech giants.  Watch out for a second wave of infections, lingering corporate austerity, fraud encouraged by extreme conditions, and the risk of political backlash against corporate survivors.
+
+-Despite dire warnings from America’s meat industry leaders, the $8T global food supply chain is proving nimble.  While restaurants are hurting, grocery stores remain stocked and logistical gears churning.  Governments should stay out of the way, except to ensure safety and prevent consolidation.
+
+-Space X, Dynetics/ULA, and Blue Origin/LM/NG/Draper are competing to build the next Human Lander System to take the first woman to the moon by 2024.
+
+-Scientists should continue using preprints to share ideas quickly, while their papers await proper peer review.
+
+**May 2, 2020**
+
+-Many businesses will emerge from lockdowns short of cash, with strained balance sheets and weak demand.  Air travel will not recover for 2-3 years.  By one estimate, over 300 department stores may go under by the end of 2021.  Investment will continue to fall not just to conserve cash, but also because risk cannot be priced (also why the recent stock market rally has weak foundations).
+
+-Given the importance of education and building social skills, inequality of virtual learning, and low risk of children spreading COVID, schools should be first to reopen.
+
+-China should support a transparent investigation to understand how the virus jumped from bats to humans; otherwise conspiracy theories could undermine global cooperation and transparency.
+
+-Surprisingly, smokers in France have been disproportionately low in hospitalization for COVID.  The hypothesis—currently being studied—is that nicotine may blunt the symptoms.
+
+-Tech’s spiritual center of gravity is moving from San Francisco (Facebook, Alphabet: advertising, smart phone sales) to Seattle (Amazon, Microsoft: subscriptions, e-commerce, business infrastructure).  
+
+-In his latest attempt to modernize, MBS banned flogging and executing people for crimes they committed as children.  Capital punishment is declining everywhere except the Middle East (Iran, Iraq, and KSA make up 80% of executions outside China).
+
+**April 25, 2020**
+
+-Government debt is not like household debt; most it owed to its own citizens (itself).  What matters is the cost of servicing, which is cheap as long as interest rates stay low.  In countries that print their own money, central banks can hold down rates by buying bonds.  Once the virus abates, however, a price-and-interest-rate spiral could result when a burst of demand runs up against wrecked supply chains.  Governments should continue emergency spending for now, and try to balance their budgets in the long run.
+
+-COVID provides cover for strongmen to consolidate power,giving them an excuse to ban protests, delay elections, ban "fake news" and trace citizens’ contacts.  Relief can be selectively distributed, and the media is all consumed with virus coverage.
+
+-By the next pandemic, vaccinology, diagnostics, and treatment will improve.  Researchers may develop mRNA vaccines which use genetic code to give your cells instructions on how to mount an immune response.  Within a few months, they may have mass-market tests people can conduct at home using a swab.  And renewed focus on antivirals could generate large, diverse libraries of drugs for better treatment.  
+
+-To reopen safely, America needs 500K tests/day to let local health authorities swiftly catch and isolate asymptomatic transmitters.  We are currently around 150K/day, and 20% are positive (high—suggesting many cases have gone undetected).  In addition, CDC wants 300,000 contact tracers—they only have 2,200. Trump is trying to scapegoat WHO and immigrants (which account for 14% of the population and 30% of doctors).
+
+-Cuba is actually reasonably well-prepared from a health perspective, but ruinous from an economic perspective.  Tajikistan and Turkmenistan claim they have zero cases, and continue to hold sporting events. 
+
+**April 18, 2020**
+
+-As governments consider reopening, they need to communicate to citizens it will not be a return to normal.  Without a vaccine or treatment, testing and contact-tracing remain vital to keeping the virus at bay.  Lockdowns don’t beat COVID, they only reset the clock.  Masks, distancing, and quarantining travelers remain important.
+
+-OPEC said it would slash production to mitigate a price war between Russian and KSA, but it is likely to fall apart.  And the COVID crisis may further dampen long-term oil demand, as millions adjust to living without fossil fuels.  The oil industry should begin the adjustments required if the planet is to deal with climate change.
+
+-Boardrooms are deciding whether to continue paying dividends.  Three categories: (1) Firms with bespoke or disproportionately large bail-outs (e.g. airlines) should automatically cut them.  Banks too, should focus their liquidity on loans.  (2) Firms that are stretched but not broken may be tempted to take debt to maintain dividends, but should not.  (3) Firms that have strong balance sheets (e.g. tech) should continue, supporting investors.
+
+-Voting by mail need not be controversial (all states already use for absentee).  More people have been hit by lightning than incidents of fraud—and the alternative of cancelling elections is much worse.  Trump voted by mail in the FL Republican primary, but has since denounced it. 
+
+-Data on internet use shows a massive surge in work, education, and gaming; modest increases in streaming and online shopping; no change in gambling/porn; and a modest decrease in online dating.
+
+**April 11, 2020**
+
+-Massive numbers of unemployment claims will only worsen as COVID impacts cascade across industries/supply chains (e.g. retailers can’t pay rent, hurting commercial real estate).  The crisis will expedite three trends: (1) quicker adoption of new technology; (2) larger inventory buffers in manufacturing supply chains; and (3) an unwelcome further rise in corporate concentration.  
+
+-Putin has uncharacteristically vanished from public eye, refusing to declare a state of emergency for fear it would hurt his approval.  He has issued no public plan, passing responsibility down to the regional governors he has spent the past 20 years weakening.  Capitalizing on the vacuum, opposition leader Navalny is getting ~2M daily views on YouTube. 
+
+-Japanese women are protesting antiquated laws mandating high-heels with a #KuToo campaign—a pun on Japanese words for shoes (kutsu) and pain (kutsuu).  In March Japan Airlines allowed flight attendants to wear flats and pants.
+
+-Zoom, whose users have increased from 10M to 200M and stock has increased 49%, was founded in 2011 on the idea that corporate services should be as easy to use as consumer ones. Meetings under 40 minutes and 100 participants are free and its 17 data centers around the world are built to support double the expected peak load. But as a consumer-business hybrid, the company has focused much less on privacy and security than old-style corporate-IT firms.
+
+**April 4, 2020**
+
+-Emergency bailouts have a bad rap (USG lost $10B in 2009 GM rescue and Wall Street bailouts left a bitter taste).  They can sap productivity and undermine fair competition.  Governments should provide blanket offers to all firms of cheap loans and wage support for 3-6 months with a few strings attached.  Assistance beyond 6 months should be limited to essential services (telecoms, utilities). 
+
+-Medical workers in Italy are facing grim choices with ventilator shortages.  The general guidance for medical triage is to prioritize those most likely to survive and with the longest life expectancy.
+
+-USMC’s new 10-year force redesign aims to personnel to 170,000 while slashing artillery and aircraft (F-35s cut by 1/3 and tanks eliminated). In their place comes a commando-like infantry force with nimbler weapons: drone squadrons will double in number and rocket batteries will triple.  This is optimized for small groups moving quickly through Pacific Islands, but ill-prepared for the next Middle Eastern crisis.
+
+-Boeing claims $15B in liquidity and its Defense and Services arms will still bring in $5B in profit this year. But without deliveries it loses ~$4B/month.  Mnuchin seems to want the government to receive equity for special bailout terms, which Boeing has so far resisted.
+
+**March 28, 2020**
+
+-Congress’ $2T goes a long way towards government’s two primary roles: (1) Protecting the incomes of those unable to work for no fault of their own by enhancing unemployment benefits, loans (with wages/rent forgiven), and a $1200 subsidy for most Americans; and (2) Ensuring growth bounces back when daily life resumes via loose Fed policy, including unlimited buying of government and mortgage debt.  The bailouts of some "too big to fail" companies is critical for economic continuity (and no firm could’ve been prepared for this), but unlimited loans to big corporations shifts the burden from investors to taxpayers and risks exacerbating inequality.
+
+-Sanitation and distancing only go so far to preventing spread of COVID for the 2M Americans in prison.  Sheriffs have responded by reducing arrests by 50%+ and releasing nonviolent offenders in jail awaiting trial.  Older inmates are most susceptible to COVID and least likely to reoffend, supporting broader efforts to reduce prison populations.
+
+-America has about 200K of the 1M ventilators needed to pump oxygenated air into a patient’s lungs.  Engineers are developing DIY designs (e.g. modified windshield wiper motor and Ambu bag), but have serious risks, including overinflation of the lungs.
+
 **March 21, 2020**
 
 -COVID-19 Containment Approach: Mitigation ("flattening the curve") curbs the pandemic, suppression (e.g. lockdowns) aims to stop it.  Keeping suppression low leaves many people susceptible to the virus, meaning cycles of lockdowns may be required. The keys are mass testing (which allows focused reactions), investing in healthcare surge capacity, and using technology (for lock-downs as well as tracking the spread).  
@@ -3150,7 +3390,7 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Southeastern Myanmar is one of the most landmine-ridden areas of the globe.  A failure to eradicate them threatens efforts at peace.  Syria and Myanmar are the only two countries still producing landmines since a 1997 ban treaty.
 
--The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
+*�*-The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
 
 -Until the mid-1980s, most Arab countries performed as well as the rest of the world, but this success rested on windfall oil revenues.  Several dictatorships mostly embraced free markets, but oil revenue and corrupt spending has kept even educated populations living on an average of $2.75/day.
 
