@@ -13,9 +13,281 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-*Wes likes to read but struggles to remember what he learns. Since around 2015, he has kept a repository of book notes (plus the occasional podcast or documentary). All credit belongs to the authors and creators.*
+*Wes likes to read, but struggles to remember what he learns. Since around 2015, he has kept a repository of book notes (plus the occasional podcast or documentary). All credit belongs to the authors and creators.*
 
 <!-- Paste Markdown Text Below -->
+
+## Presidential Inaugural Addresses
+
+Standard Speech Flow:
+
+* Invocation of God (both beginning & end)
+
+* Humility, Gratitude to Predecessor (but also reiterate electoral mandate)
+
+* Historical Recap (reverence for Constitution/peaceful transfer of power)
+
+* Until 1900s, nearly all exult limited government, small standing army, no entangling alliances
+
+* Current Challenges (party changes characterized as a historic inflection point)
+
+* Principles and/or Policies.  Common topics (& first to raise):
+
+    * Taxes, Religion, Press, Native Americans (Jefferson)
+
+    * Foreign Policy, Defense (Madison)
+
+    * Expansionism (Polk)
+
+    * Slavery (Van Buren)
+
+    * Civil Service, Civil Rights/Suffrage (Garfield)
+
+    * Immigration (B. Harrison)
+
+    * Arms Control (Eisenhower)
+
+    * Aid, Science (Kennedy)
+
+    * Drugs (Bush 41)
+
+Best Quotes:
+
+* "If national pride is ever justifiable or excusable it is when it springs, not from power or riches, grandeur or glory, but from conviction of national innocence, information and benevolence." (Adams)
+
+* "[Preserve] our Constitution from its natural enemies, the spirit of sophistry, the spirit of party, the spirit of intrigue, the profligacy of corruption, and the pestilence of foreign influence." (Adams)
+
+* "Every difference of opinion is not a difference of principle.  We have called by different names brethren of the same principle.  We are all Republicans, we are all Federalists." (Jefferson, 1801)
+
+* "Undeviating adherence to the principles on which we set out can carry us prosperously onward through the conflicts of circumstances and vicissitudes inseparable from the lapse of years." (Van Buren)
+
+* "The institutions under which we live, my countrymen, secure each person in the perfect enjoyment of their rights." (Tyler)
+
+* "To preserve [the Union] the compromises which alone enabled our fathers to form a common constitution for the government and protection of so many States and distinct communities, of such diversified habits, interests, and domestic institutions, must be sacredly and religiously observed." (Polk)
+
+* "We are not enemies, but friends…the mystic chords of memory, stretching from every battlefield and patriot grave to every living heart and hearthstone all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature." (Lincoln, 1861)
+
+*  "Fondly we do hope, fervently do we pray, that this mighty scourge of war may speedily pass away…. With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation’s wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations." (Lincoln, 1865)
+
+* "He serves his party best who serves his country best." (Hayes)
+
+* "To violate the freedom and sanctities of the suffrage is more than an evil.  It is a crime which, if persisted in, will destroy the Government itself." (Garfield).
+
+* "Let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance." (FDR, 1933)
+
+* "Happiness lies not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort." (FDR, 1933).
+
+* "The only way to have a friend is to be one." (FDR, 1945)
+
+* "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assure the survival and the success of liberty." (Kennedy)
+
+* "Civility is not a sign of weakness, and sincerity is always subject to proof.  Let us never negotiate out of fear.  But let us never fear to negotiate." (Kennedy)
+
+* "Ask not what your country can do for you—ask what you can do for your county." (Kennedy)
+
+* "We have found ourselves rich in goods, but ragged in spirit; reaching with magnificent precision for the moon, but falling into raucous discord on earth." (Nixon, 1969)
+
+* "There is only one way safely and legitimately to reduce the cost of national security, and that is to reduce the need for it." (Reagan, 1985)
+
+* "There is nothing wrong with America that cannot be cured by what is right with America." (Clinton, 1993)
+
+* "The question we ask today is not whether our government is too big or too small, but whether it works." (Obama, 2009).
+
+* "A nation cannot prosper long when it favors only the prosperous." (Obama, 2009).
+
+* "Our power grows through its prudent use; our security emanates from the justness of our cause, the force of our example….We will extend a hand if you are willing to unclench your fist." (Obama, 2009).
+
+* "While truths may be self-evident, they’ve never been self-executing; while freedom is a gift from God, it muse secured by His people here on Earth." (Obama, 2013).
+
+<!--FIRST INAUGURALS USUALLY BETTER (EXCEPT REAGAN).  BETTER PRESENTS GIVE SHORTER SPEECHES (E.G. HARRISON, FILLMORE, HARDING LONG).  HISTORICAL PARALLELS: MADISON/BUSH 43; LINCOLN 1865/FDR 1945.-->
+
+## Thomas Ricks: The Generals
+
+In WWII, generals were expected to fail in combat and relief from command was not seen as disgraceful.  Since then, relief is often viewed as a failure of the system.  Today, civilian leaders still relieve top generals, but the Army does not enforce accountability within its own ranks.
+
+* WWII: Army goes from untested institution to proven global force.
+
+    * George C. Marshall: FDR rewarded his candor and bluntness, which he demanded from his subordinates.  Insisted on distance from political leaders (may have destroyed general → president norm).  Forced out >600 officers before the US joined WWII, but produced military effectiveness.
+
+    * Dwight Eisenhower: Tutored by Marshall, had integrity, logistical/planning expertise, and inspired loyalty.  Demanded strong leaders but did not micromanage.  Diplomatic handling of egotistical UK Gen Montgomery may be his greatest wartime contribution.
+
+    * George Patton: A man of unusual flaws (castigating injured soldiers as cowards, shot out ahead of orders) and exceptional strengths (military pursuit, hounding a retreating enemy).
+
+    * Mark Clark: Never bad enough to relieve or good enough to admire.  His concern for publicity hindered his ability to sense battlefield developments.
+
+    * "Terrible Terry" Allen: Old Army tough, rumpled, hard-driving, hard-drinking cavalryman.  Marshall liked, as surprised enemy with night attacks; Bradley/Eisenhower saw as non-team player.
+
+    * Douglas MacArthur: Demonstrated how feeling irreplaceable damages civil-military discourse.  Marshall kept around/awarded MoH for political reasons despite abandoning Philippines.
+
+* Korean War: Army immediately deteriorated following WWII, focused on European theater.
+
+    * William Dean: Instead of organizing a strategic retreat, led bazooka team after individual targets and wound up wandering the hills lost for 35 days until being captured and telling his captors "Not all American generals are this dumb—you just happened to catch the dumbest."
+
+    * MacArthur: Slow to grasp the situation, imposed a divided command structure, concocted unnecessarily complex amphibious and airborne assaults, split his forces, assigned cronies to combat commands, and remained in Tokyo for duration.  Wrongly believed bomb would beat China.  Continued policy statements led to firing, which was supported by CJCS.
+
+    * Don Faith / O.P. Smith: At Chosin, Army charged north blindly, whereas the combat experienced USMC Gen Smith made three critical decisions before fighting started: (1) consolidated forces (2) built two airstrips (3) put himself at the key point of the fighting.  In a daring raid to rescue Faith’s men, Smith’s men built combat knowledge (hold fire as long as possible to conceal position, throw some bullets in the fire as you retreat so it sounds like the position is still contested).
+
+    * Matthew Ridgeway: Turned war around.  Defused MacArthur in Tokyo, studied the terrain in a low-flying B-17, visited ROK president, replaced incompetent commanders.
+
+* Vietnam War: An opportunity to prove continued relevance in nuclear era, nearly destroyed the US Army.
+
+    * Maxwell Taylor: Politicized officer who made his relationship to JFK his basis of power, bears the most responsibility for Vietnam.  
+
+    * William Westmoreland: Saw war as an exercise in management; focused on attrition, body count, and search and destroy.  Ignored French lessons and independent reports.  Even more challenged on dealing with civilian oversight.  1965 was a year of emergency.  1967 the US took the offensive.  Tet 1968 was strategic triumph but cost American center of gravity (US support).  Instead relief waited for a rotation; the only general removed was the topmost one, reassigned for political reasons by the defense secretary.  My Lai was a low point (massacred 500 and covered up).  Johnson politicized generals by demanding loyalty and refused to activate reserve.
+
+    * William DePuy: Like Allen, brought old attitudes to new war.  Misapplied WWII focus on firepower, and swift relief of failing officers was unwelcome in 1960s Army.  
+
+    * Creighton Abrams: Shifted toward protecting population centers, but Nixon pushed withdrawal ASAP.  Army was probably too weak to win the war anyway: almost half enlisted men had tried heroine or opium and fragging (murder of officers) grew common.  After the war, Abrams abandoned counterinsurgency training, but DePuy rejuvenated TRADOC.  Developed new weapons (Abrams tank, Bradley Fighting Vehicle, Patriot IAMD, Apache, Blackhawk).  Created Delta Force.
+
+* Iraq: Though smaller, the 1991 Army was better trained, better equipped, and better led at the tactical and operational (not strategic) levels.  Bureaucracy grew and thinking was outsourced to FFRDCs.
+
+    * Colin Powell: Easy-going persona, intense work ethic, Washington-prowess, and ability to locate good mentors resembled Eisenhower.  Was initially skeptical of air-led campaign, but applied Weinberger doctrine over overwhelming force for limited objectives.
+
+    * Norma Schwarzkopf: Failed to understand the political/strategic dimensions of the war, including an Iraqi attempt to bring Israel into the war (alienating the US’ Arab allies).  Didn’t consult with his superiors before sitting down to parley with the Iraqis to discuss terms of peace and allowed continued helicopter flights.
+
+* Afghanistan and Iraq: The force was tactically proficient (fit and well-trained) but strategically inept.  Generals failed to prepare for irregular warfare, develop war plans which achieved policy aims, and provide candid advice to leaders.
+
+    * Tommy Franks: An arrogant tactician who bungled two wars in three years.  Under pressure from Rumsfeld to limit troops, declined to seal off escape routes at Tora Bora and Operation Anaconda.  In Iraq, his grand strategy never thought past the attack and he retired shortly after the fall of Baghdad to make speeches and write a memoir.
+
+    * Ricardo Sanchez: Mediocre officer placed in an impossible situation.  He descended into the weeds, was unwilling to adapt, and let Abu Ghraib abuses happen under his command.
+
+    * George Casey: Started a COIN academy north of Baghdad to help stave off defeat, but still failed to understand who quickly the situation was deteriorating.
+
+    * David Petraeus: Like Ridgeway, filled a strategic void by (1) bringing in fresh thinkers like Odierno, Dubik, Dempsey, and Mattis (2) working with Ambassador Ryan Crocker to repair civil-military relations and (3) making reducing Iraqi civilian casualties his primary objective.
+
+    * Afghanistan: Ten commanders in ten years (2003-13).  
+
+Recommendations: Improve civil-military relations by keeping distance, being candid, and collaborating in all phases of the war.  Reward adaptive and independently minded military leaders—especially in an era of strategic uncertainty.  Reliefs should be common and transparent (promotion boards are top secret)—the first six months could even be probationary.  Enact 360-degree evaluations and provide more training on how to think rather than what to think.
+
+<!--PROVOCATIVE, BUT NOT ALL DATA SUPPORTS ARGUMENT.  OFFERS NO QUANTITATIVE EVIDENCE.  DOESN’T GIVE MANY EXAMPLES OF WHO SHOULD HAVE BEEN RELIEVED.  DON’T THINK LEADERSHIP IS THE DETERMINATIVE FACTOR FOR RECENT WAR EXPERIENCE.-->
+
+## Bill Bryson: The Mother Tongue
+
+History: Speech innate but grew in sophistication about 30K years ago, early words onomatopoeias.  All languages change (except Icelandic).  Latin evolved into the Romance languages (French, Italian, Spanish, Portuguese, Romanian).  Germanic languages developed into Scandinavian, English, German and Dutch.  Anglo-Saxon English was treated as the inadequate tongue of peasants, and 85% of its words died out from Danes (Vikings) and Norman (French) conquests.  Shakespeare coined some 2,000 words and gave us countless phrases (in a pickle, fast and loose, into thin air).  Today there are around 2700 active languages (1600 in India alone). English is the global language of business, science, education, politics, and pop music.  There are more English students in China than people in the United States.  English has three advantages:
+
+1. Rich vocabulary: twice as many words in common use (200K) than French.  
+
+2. Flexibility: word ordering, no genders
+
+3. Simplicity: despite idiosyncrasies, fewer consonant clusters and tonal variations
+
+Pronunciation: The absence of a central authority for English for three centuries meant dialects multiplied.  English possesses more sounds than any other language (12 vowels, 9 diphthongs, 23 consonants).  We tend to compress phrases (goodbye was God-be-with-you, hello was possibly whole-be-thou, fortnight was 14 nights).  Although much larger, US has less linguistic variation than the UK because of continuous movement of people, mingling of diverse backgrounds, and a desire for a common national identity.  Some 4,000 words are used differently in the UK than US.
+
+Words/Grammar: English grammar is confusing because it’s largely based on Latin, a language it has little in common with.  A perennial argument among lexicographers is whether dictionaries should be prescriptive or descriptive.  English has always been fluid and democratic in which meanings shift and change according to use.  Samuel Johnson published the first great dictionary in 1755, followed by Noah Webster in the early 1800s.  The two words with the most flexibility are "Okay" and “F**k.”
+
+Other: Close to 10% of Japanese words are English (e.g. erebata—elevator, nekutai—necktie).  America got its name from Amerigo Vespucci, a semi obscure Italian navigator who made four trips to the New World but never saw North America.  A mapmaker mistakenly used his name and it caught on before he could correct it.  Kennedy means "ugly head" in Gaelic.  Attempts to make English more accessible include Basic English (850 words which can describe most things) and Sea Speak (which uses consistent phrasing to prevent confusion).  English is magnificent for wordplay, including puns, tongue-twisters, anagrams, riddles, cryptograms, palindromes, clerihews, rebuses, crossword puzzles, and spelling bees.
+
+## Alexandra Petri: A Field Guide to Awkward Silences
+
+Humorous Memoir: 
+
+* Entered whistling competition, won national "pun" competition, became Civil War reenactor, frequented Star Wars conventions.  
+
+* Appeared on Jeopardy at age 18, wrote "that dude" for final Jeopardy question about Dan Brown.  “Some say you should study, others say you can’t.  I split the difference by not studying and feeling vaguely guilty about it.”
+
+* Father was Tom Petri, long-time Republican Senator from Wisconsin.  "The best place to be in a parade is in front of the horses and behind the band."  On 9/11, father picked her up and said “If it’s the end of the world, we might as well have lunch.”
+
+* "College is basically a big fish tank.  You don’t see fish breaking up.  Where would they go?  How would they avoid each other around the plastic shipwreck?  They eat each other instead."
+
+* As Robin Williams liked to say, "Episcopalian is Catholic Lite--all the pageantry, none of the guilt."  
+
+## Amy Shojai: Complete Kitten Care
+
+* A cat is a kitten until its first birthday.  Very young kittens are extremely fragile; be prepared for circumstances in which you cannot save its life.  Most shelters are not-for-profit, but charge adoption fees to cover the cost of vetting the animals and running the facility.  Ideally kittens stay with their mothers 12-16 weeks, but adoption is common after 6-8 weeks.  Baby teeth start to fall out at 12 weeks.  Kittens spend an hour or more each day in play.  Keep in one small room for the first day after adoption.  Keep away from electrical cords, plants (tulips, azaleas), curtain cords, medicine, and appliances.  Cats dislike citrus scents, tin foil.  
+
+* Kittens should never go longer than 12-18 hours without eating.  Canned foods smell good and are nutritious, but must be refrigerated after 30 minutes, cause softer stools, and can cause dental problems.  Tuna can be addictive and lead to steatitis.  Treats are best used sparingly for training.
+
+* Shedding depends not on temperature but exposure to light.  Grooming helps cats destress (why they sometimes break into when they’re scared).  Pure petroleum jelly and fiber can help with hairballs.  Clip toenails and brush teeth every couple weeks; bathe every couple months.
+
+* You may need to bring a recent stool to the vet; renew rabies vaccine yearly.  Spay (female); neuter (male) reduce territorial spraying (urinating).  Declawing is a cosmetic procedure that benefits the owner but not the cat.  Grabbing a cat by the "scruff" can help keep her still.  Rubbing head and body against things is called bunting.  Kneading comes from rhythmically pressing their mother’s breasts to stimulate milk.  
+
+* Cats can hear mouse squeaking well above human ranges; and kill prey by biting the back of their neck.  They see greens and blues best, and well in dim lighting.  Cats have elastic bodies because their spines have five more vertebrae that are held together with muscles instead of ligaments.  They can jump five times their height, run 31 mph, and have an incredible sense of balance.  Cats spend 2/3 of their life asleep.   
+
+* Training: Prompt interruption, replace the target with a legal one, and bribe her to do the right thing.  Kitten memories last about 60 seconds.  Do a couple carrier practice runs (not to the vet) to avoid bad association.  Use the command "come" whenever you fill his bowl or give treat.  Can also try “sit.”  Don’t “punish,” but try stern “no”, PSST, clapping, or loud shaking.  Best to ignore whining.  Single-cat households have the fewest behavioral problems.
+
+## David McCullough: The Johnstown Flood
+
+The construction of Pennsylvania’s "Main Line" canal to compete with the Erie Canal eventually grew Johnstown—east of Pittsburgh—into the liveliest steel center in the country.  The South Fork dam was completed in 1852, creating Lake Conemaugh 450ft above and 15 miles NE of Johnstown.  Businessmen like Andrew Carnegie and Henry Clay Frick enjoyed the tranquility of the Alleghenies and created the South Fork Fishing and Hunting Club.  Earth dams had been accepted for centuries, but are subject to rapid erosion if water escapes over the top.  It received minimal rework after its first break in 1862, and was lowered to provide room for a road.  
+
+The evening before May 31, 1889, a heavy downpour saturated the deforested terrain.  Club workers tried to heighten the dam and one considered cutting a side spillway to drain water through a stronger part of the dam—but decided against it.  A handful of telegraphs finally reached Johnstown at 3:15pm, but the only warning for most was a conductor who held down his whistle just before the flood arrived at 4:07pm.  It took about 30 minutes for the Lake to empty, and it began charging into the valley about 40 feet high and 15-40mph (comparable to Niagara Falls).  The flood was led by a roar, gray mist, powerful wind, and massive accumulated debris.  The friction of the terrain caused the bottom of the wave to move slower than the top, causing it to roll over itself while pressing forward, causing a violent downward smashing.  
+
+The devastation of the city took only ten minutes.  Waves went through the city, crashed against the incline on the far side, and back through.  Massive debris caught against the stone bridge caught fire, throwing victims into a fiery death.  Survivors either luckily rode out a wave (seeing neighbors fly by them), or took shelter in the buildings behind the Methodist church, which held strong.  The horrific night after the flood was lit only by eerie glow of fires and the clocktower of the Lutheran church which continued ringing every hour.  Most assumed it was the judgement day.  About 2,200 people were killed (11% of population), many buried deep in the mud.
+
+The morning after, there were about 27,000 in the valley with no food or water.  The "Great Calamity" dominated front page news for weeks, the biggest news story since the death of Abraham Lincoln.  Embellished accounts described rivers dammed with dead bodies; Pittsburgh urged residents to boil water for fear of disease (there were 215 cases of typhoid).  But the attention raised $3.7M (plus food/supply donations), the greatest outpouring of popular charity to date.  The Army set up white tents to help run distribution.  After serving as nurse in the Civil War, Clara Barton founded the US branch of Red Cross in 1881 and Johnstown was her first major disaster; working nearly day and night for five months straight.  There was never any question they intended to rebuild.
+
+Tapping into growing disdain with the rich business magnate class, ire turned quickly to the club at South Fork.  An engineering report two weeks after the flood said the dam’s engineering was sound, but hadn’t been inspected and failed due to the central sag in the crest, obstruction of the spillway, and absence of outlet pipes at the base.  A series of lawsuits failed to prove negligence or yield damages (few club members knew of the structural integrity of the dam).  Ultimately, the key problem was the absence of outlet pipes which would’ve allowed the club to control the height of the Lake.
+
+## Garrett Graff: Raven Rock
+**_Truman _**could evacuate by land/air (to Camp David) or sea (*Williamsburg* yacht).  Badly needed WH renovations (Margaret’s piano fell through floor) were a perfect cover to install a bomb shelter.  Early planning focused on civilians, building a civil defense college in Olney, distributing dog tags to schoolchildren, and recommending parents tattoo children’s blood type under their arm—not on it in case it was blown off.  
+
+**_Eisenhower _**created the interstate highway system, ensuring bridges were 16 feet high to accommodate the ICBM movement.  Civil defense knowledge was part of the 1956 Miss America beauty pageant, 380K volunteers joined a civilian ground observer corps, and high schoolers learned to use radiology monitoring kits.  USPS would collect the dead, Interior would provide fuel/electricity, Labor would implement a salary and wage stabilization system, National Park Service would run refugee camps, Agriculture would distribute rationed food, DoJ would register foreign aliens to identify those considered subversive.  The ‘football’ got its nickname because the first Single Integrated Operational Plan (SIOP) war plan was code-named DROPKICK.  
+
+**_Kennedy _**updated continuity of government (COG) plans for the ICBM age (from 5hr warning to 5min).  Kennedy replaced MAD (SIOP proposed dropping 2,600 bombs) with flexible response (five escalating SIOPs would focus on "counterforce" scenarios).  Pacific high altitude nuclear test knocked out streetlights in Oahu, revealing EMP effect.  Moved nuclear testing from the Pacific to Nevada.  In Cuban Missile Crisis, people activated community shelters, though stoked fear of battling neighbors and few could sustain the two weeks required to minimize radiation exposure.  The Washington National Cathedral dean ordered its basement flooded to secure emergency drinking water.  The Crisis escalated the arms race but also prompted establishment of direct communications (MOLINK).  It also proved the futility of civil defense and focused planners on COG.
+
+From 1962 to 71, the Navy had two "floating White House" ships decked out in communications (Bob Woodward began his career aboard one).  **_Johnson_**/McNamara discontinued alert bomber flights due to Vietnam cost pressures and three 1960s accidents which saw hydrogen bombs disappear in the ocean, Greenland, and the Spanish countryside.  
+
+**_Nixon _**embraced "Madman Theory," attempting to increase USSR uncertainty.  Both superpowers moved away from targeting command posts for fear there wouldn’t be anyone left to “turn nuclear war off.”  Stronger weapons meant that even bunkers were unlikely to survive an attack, so created fleet of aircraft command centers.  Public warnings moved from sirens to buzzers to radio and TV.  Nixon drafted unsigned Executive Orders to censor publications and intern aliens in emergencies.  
+
+Carter established the Dept Energy which inherited control of the nuclear arsenal and FEMA to unite disaster planning.  He also moved MOLINK to satellite downlinked through Fort Detrick.  A couple close calls: Nov 1979 someone inserted a training tape into the NORAD’s real computers, simulating a massive attack; June 1980 a faulty computer chip suggested 2,200 ICBMs were on the way.
+
+When **_Reagan _**was shot, an airborne VP Bush lacked secure comms so SecState Haig incorrectly claimed authority over SecDef Weinberger.  Exacerbated by four Soviet missile subs off the east coast.  Ted Turner prepared a video to air in the final moments of life on earth.  SDI helped bankrupt USSR and helped transform Reagan’s image to peacemaker.  Two more close calls: Sept 1983 Soviet satellite registered sun reflecting off cloud as US missile launch but Soviet Lt. Col. Petrov deescalated; Nov 1983 ABLE ARCHER fully convinced USSR strike was imminent.  Project 908 enlisted the FBI to identify large warehouses outside blast zones and assess threats (e.g. background checks, immigrant populations).  
+
+On 9/11, Air Force One took off "almost vertically," zigzagging to 45Kft where **_Bush _**watched updates on CNN.  Cheney was whisked into the PEOC (WH bunker) and activated COG but Hastert and Byrd were unreachable until 11am (unsure of what to do, Byrd went home).  Powell was in Peru, O’Neill was in Japan, Greenspan was in Europe.  Cheney authorized taking out hijacked planes and told Rumsfeld a couple had already been shot down.  Other false reports: explosion at Lincoln Memorial, explosion at Capitol Hill, bombing at State Department.  Rumsfeld was lost when he chose to go investigate the Pentagon crash site.  PEOC ran low on oxygen and non-essentials were asked to leave.  Congressional leadership was evacuated to Greenbrier, but felt useless so returned to DC.  Bush refueled in Barksdale and stopped in Offutt before returning to Andrews with fighter escorts.  If Flight 93 had reached the Capitol it would’ve killed hundreds of members. For an April 2000 exercise called POSITIVE FORCE, Joint Staff officers rejected a scenario that involved terrorists crashing a plan into the Pentagon as “too unrealistic.”  
+
+After the chaos of 9/11, most COG plans emphasized devolving power to existing staff outside the capital.  USG also launched efforts to improve overloaded cell networks.  Through its inaction, Congress (and the Supreme Court) have essentially embraced an executive dictatorship in a doomsday scenario.  SIOPs replaced by OPLAN 8010, offering a collection of retaliatory choices tailored to a more complex threat environment.  The modern ‘football’ is a 45lb rugged aluminum briefcase full of authentication codes, strike options, and legal documents.  Today, the USG has over 100 hidden facilities available within an hour of DC that could activate in an emergency; recent projects include WH North Lawn and Navy East Potomac Park.  A core component is the National Airborne Operations Center (NAOC).
+
+**_Key facilities_**:
+
+* Raven Rock: Built 1948 across the PA line from Camp David to military/overseas command.  Has grown since 9/11.
+
+* Mount Weather: Built 1949 north of Middleburg, VA to host domestic command.  Revealed following a 1974 plane crash.
+
+* Greenbrier: Expanded 1958 in WV to house Congress, complete with sleeping and press briefing arrangements.  Remained secret until 1992; opened for public tours in 1995.
+
+* NORAD: Built 1962 in Cheyenne Mountain, CO.  Never a secret.
+
+* Other: Grove Park Inn (Supreme Court), Mount Pony (Fed Reserve), Pax River (DoD), Martinsburg, WV (DoJ), Quantico (FBI), Warrenton (Treasury, CIA), Harper’s Ferry (Interior), Biltmore (Nat’l Gallery of Art), Washington & Lee (Archives).
+
+**_Line of Succession_**: The US is lucky to have narrowly avoided constitutional crises—16 times for a combined 38 years the US had been without a VP.  While the founders almost certainly intended VP to only be acting until an election was called, Tyler’s assumption of power wasn’t challenged and became a precedent for the next 120 years.  In 1947, on Truman’s advice Congress established the modern succession plan (~P, VP, Speaker, Senate President, Cabinet).  In 1965 Congress, passed the 25th Amendment indoctrinating the Tyler precedent, allowing P to nominate a VP, and delineating process for VP earning majority to cabinet to say P incapacitated.  If it hadn’t passed before Watergate, Nixon could not have appointed Ford and the presidency would have been vacant until the 1976 election.
+
+**_Presidential Tidbits_**: Teddy Roosevelt became the first President to leave the US in 1906.  As late as the 1910s passersby could enter the White House and sit at the President’s desk if he was absent (it was closed in WWII).  The only WWII damage to DC was a 1942 accident in which an antiaircraft gun hit the Lincoln memorial, damaging the word "Wisconsin."  Truman redesigned the presidential flag so the eagle’s head looks toward the olive branch rather than the arrows of war.  Eisenhower didn’t even put on his own underwear—his valet dressed him head to toe.  Air Force One carries five extra parachutes in case panicky officials deploy them in the cabin.  The Naval Observatory was built for the VP in 1974.
+
+<!--EACH INCOMING PRESIDENT RUNS AN EXERCISE WHICH INEVITABLE REVEALS SHORTCOMINGS, BUT UNLIKELY ANY OF THESE PLANS WOULD WORK.  LUCK HAS BEEN OUR STRONGEST ASSET.  HARD TO BE SAFE, IN COMMUNICATION, AND VISIBLE TO REASSURE THE PUBLIC.  THE MOMENT FOR EVACUATION IS ALSO THE MOMENT LEADERSHIP IS MOST NEEDED.-->
+
+## Christopher Davenport: The Space Barons
+
+Chronicles the current cadre of billionaires pioneering commercial space exploration.  
+
+* Jeff Bezos: Grandfather own Texas ranch.  Obsessed with space since five, started Blue Origin in total secrecy as the tortoise ("step by step, ferociously").  Also funded/joined stormy mission to recover Apollo 11’s F-1 engines from the ocean floor.
+
+* Elon Musk: Grandfather was amateur pilot.  Founded SpaceX as the hare ("plow through the line") to aggressively take on ULA and traditional industry.  Falcon rockets eventually won NASA’s respect.  Lofty ambitions to colonize Mars (v. Bezos focused on moon first).  Believes sabotage may have resulted in explosion on launch pad.
+
+* Richard Branson: While not an engineer, a brash leader from family of explorers.  Virgin Galactic offering space tourism using SpaceShipTwo dropped from Scaled Composites White Knight Two plane (v. Bezos using rockets).  Became more conservative after 2014 crash killed pilot.
+
+* Paul Allen: Bankrolled SpaceShipOne, the first private vehicle to reach space in 2003 (X Prize), in partnership with Burt Rutan’s Scaled Composites, before handing it off to Branson.
+
+Each company has had successes and failures—Blue Origin first to land full rocket, but SpaceX first to orbit.  Went from united against military-industrial complex to bitter rivals themselves (Bezos and Musk barely speak).  Bezos and Musk battled for the Cape Canaveral launch pad and each have property in West Texas.  Bezos considered radical ideas to reach orbit (bullwhips, lasers, cannons, railguns).
+
+## Kurt Vonnegut: Slaughterhouse Five
+
+Protagonist Billy Pilgrim, like Vonnegut, captured as POW in Battle of the Bulge, interned briefly in an extermination camp, and brought to Dresden where he survived spring 1945 bombing in slaughterhouse #5.  135,000 died in Dresden; 83,000 in Tokyo, and 71,000 at Hiroshima.  Just before his capture, Pilgrim is abducted by Tralfamadorian aliens where he is showcased in a zoo on their planet.  Separately, Pilgrim becomes "unstuck" in time himself, awakening uncontrollably in different parts of his life (but without free will) throughout the book.  Strong anti-war theme and consideration of free will/Christianity throughout.  “God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to always tell the difference.”
+
+<!--ENTERTAINING, HUMOROUS, QUICK READ. DIDACTIC/SARDONIC COMMENTARY ON WAR AND US.-->
+
+## Sebastian Junger: The Perfect Storm
+
+* **Swordfishing**: Swordfish are vicious animals, using their swords to slash their prey and sometimes fisherman on deck.  Boats can have a mainline up to 40 miles long, pulling in 10-20 fish on a good day.  They now use GPS, electronic fish finders, and temperature depth gauges.  They’re out 2-3 months and rarely in port more than a week at a time to gear up and make repairs.  The fisherman sleep on the trips in/out, working 20 hours/day for three weeks on station and cramming as much life as possible into their time at port.  The captain makes about $20K per trip, others around $5K.  More people are killed on fishing boats, per capita, than any other job in the US.  Although people say, "he died doing what he loved," most men take to it because they need money fast.  Gloucester, MA’s pub, the Crow’s Nest had the feel of an orphanage, sometimes hosting guests upstairs for years.  
+
+* **Storms**: A network of sensor-filled balloons feed complex numerical models and analysts at the National Meteorological Center in MD. Wind is simply air rushing from high pressure to low pressure.  The maximum theoretical height for wind-driven waves is 198ft, but breaking waves are much more dangerous.  At shore, waves break because underwater turbulence drags on the bottom; in open ocean, wind builds the waves up so fast the distance between the crests can’t keep up and they collapse under their own mass.
+
+* **Sinking**: In violent storms, water and air become indistinguishable.  Whitewater means you’re near the surface; greenwater you’re in a wave; blackwater you’re a submarine.  If the fish/ice shift, it throws off the center of gravity.  If the breather pipes get stuffed, the engine dies.  If the windows explode, a bulkhead can fail (crews desperately use plywood to repair).  If water makes it to the engine room, it can electrocute anyone in the water.  Down flooding is the catastrophic influx of ocean water into the hold.  
+
+* **Andrea Gail**: The Andrea Gail and six passengers was halfway home in October 1991 when Hurricane Grace combined with a low pressure system and Canadian high pressure system to generate the "Perfect Storm."  The transition from crisis to catastrophe happens in about 60 seconds.  Inexplicably, the EPIRB (automatically signals mayday to Coast Guard) was turned off.  In 52-degree water, men can last about 4 hours.  But the ship was hit in the middle of the night well outside helicopter range.  The instinct not to breathe underwater is so strong it overcomes the agony of running out of air, so a drowning person won’t inhale until the buildup of CO2 triggers an involuntary breath on the verge of losing consciousness.  At this break point, usually after about 87 seconds, water floods the lungs and ends transfer of oxygen to the blood.  The crew’s widows tried to sue the boat owner, but it was impossible to improve its maintenance was more negligent than any other boat so they settled out of court.
+
+* **Rescue Efforts**: An Air National Guard helicopter seeking to rescue a different boat was hit with such powerful winds it was unable to refuel from its C-130 transport and was forced to ditch.  Four of five airmen onboard survived a dramatic nighttime rescue from a nearby ship.  The ship comes in upwind because large objects drift faster than small ones.  
+
+<!--USES EXTENSIVE RESEARCH TO VIVIDLY DEPICT THE LIKELY EXPERIENCE OF THE LOST MEN.  LIKE KRAKAUER, JOURNALISTIC & ENGAGING WRITING STYLE.  COULD HAVE USED A LITTLE MORE/BETTER EXPLANATION OF THE TITULAR WEATHER PATTERNS.-->
+
 
 ## Ezra Klein: Why We’re Polarized
 
