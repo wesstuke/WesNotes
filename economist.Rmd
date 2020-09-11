@@ -6,9 +6,133 @@ output:
     theme: flatly
 ---
 
-*The Economist provides thoughtful analysis and succinct recommendations on major news stories and global trends.  Wes has been an avid reader since 2013.*
+*The Economist provides thoughtful analysis and succinct recommendations on major news stories and global trends.  Wes has been reading since 2013.*
 
 <!-- Paste Markdown Text Below -->
+
+**September 13, 2020**
+
+-Although the PDF was invented in 1991, it took a pandemic to tear down bureaucratic and investment hurdles and enable widespread remote working.  More flexibility and no commutes makes workers happier and arguably more productive; though some fear creativity flags, hierarchies ossify, and team spirit fades.  Yahoo tried and abandoned WFH in 2013.  The future is likely a part-time arrangement with targeted staff interactions to refresh friendships and swap information.  Challenges include privacy concerns around monitoring remote workers for productivity, and how to handle blue collar resentment of white collar perks.
+
+-Wildfires are inevitable, fueled by climate change and an ecosystem that burns regularly as part of its natural cycle.  But California increased its vulnerability with a litany of self-defeating policies: fire-safe building codes came late (2008) and only apply to new construction, contrary to evidence zoning considers cities "unburnable", and insurers are forced to renew policies in high-risk areas.
+
+-Only 30% of the world’s population have formal titles to their land.  Without a legal claim to their property, they cannot provide collateral to borrow money to buy better seeds or start a business. Many initiatives are under way, but hampered by restrictive planning laws, political interference, and loopholes.
+
+-The CDC issued a sweeping moratorium on evictions, arguing they hasten the spread of the virus.  While well-intentioned, its lawfulness is in doubt.  Both renters and landlords want the USG to foot the bill.
+
+-Venezuela’s GDP has shrank 73% since 2013.  But Maduro’s opposition is hopelessly divided: moderates (Henrique Capriles) v. radicals (Juan Guaido), and exiles v. those in Venezuela.  Guaido wants to boycott December elections but Capriles is trying to negotiate terms with Maduro.
+
+-One year after Modi unconstitutionally split the Indian-administered Kashmiri state, suspended local politics, and removed many civil liberties, most of the restrictions remain in place (535,000 troops deployed, internet hopelessly slow, COVID is a good excuse to ban assembly).
+
+-The UAE is in talks for F-35, F/A-18G, and MQ-9.  It appears Netanyahu reluctantly let this slide to save his deal for normalized relations, but did not consult the Israeli experts who manage Israel’s Qualified Military Edge (QME)—required by US law—at the Pentagon.  Trump—who may try to push this through before November—may seek to sell even more advanced equipment to Israel.
+
+-Tanks can still be effective (e.g. Russian T-72s penetrated Ukraine in 2014), but are increasingly vulnerable to advanced sensors (Turkish drones killed dozens of Syrian tanks in February).  Some are abandoning them (USMC), while others are modernizing sensors, weapons, and even active defense (Israel).  Future tactics will probably include concealment, cover, darkness, and dispersal to get close to the enemy before attacking.
+
+**September 5, 2020**
+
+-While a wide range of activities have moved online successfully, proving one’s identity remains a problem.  Governments should create optional systems of secure digital identities like Estonia.  In democratic systems, worries about security and privacy can be allayed by two-factor authentication and laws against abuse.
+
+-NYC’s MTA is losing $200M per week due to 75% fewer fares and overnight cleaning costs.  It is required by law to balance its books but absent government support it will have to delay capital projects, reduce service to suburbs, and lay off 8,400 workers.
+
+-India’s rapid lockdown caused Q2 GDP to drop 23.9%--the first negative quarter since at least 1996 (and much higher than 9.1% in the US).
+
+-Since 1979, the US policy of "strategic ambiguity" has provided enough reassurance to Taiwan America would not let China invade unpunished, but not so much to embolden Taiwanese into a formal declaration of independence—which China has always warned would mean war.  Trump has strengthened its “unofficial” relationship by accepting a congratulatory call from Tsai Ing-wen and announcing high-level economic talks.
+
+-In addition to Tibetans and Uighurs, China is flooding Inner Mongolia (a northern providence of China) with Han, reducing ethnic Mongols to under a fifth of the population.
+
+-While Putin has yet to deploy Green Men to the unrest in Belarus, Lukashenko has welcomed deployments of RT news media to try re-shape the information narrative of the protests.  Pro-democracy advocates eschew all state media in favor of social media.
+
+-Scientists at the "Body Farm" in TN are looking for botanical clues to help drones find bodies.  Decaying human bodies release 50x a typical fertilizer’s level of nitrogenous compounds (mostly ammonia), as well as cadmium which can enhance chlorophyll/greenness.  Other animal corpses could have similar impact but are usually scavenged at the surface.
+
+**August 29, 2020**
+
+-AMLO has turned evidence of corruption against former Mexican Presidents (e.g. Odebrecht/Pena Nieto) into a PR stunt, vowing to put his case to a national referendum.  He should instead follow the example of Brazil and appoint an independent commission to investigate and prosecute. 
+
+-China may overtake the US as the largest cinema market this year, but imposes censorship (no Tiananmen, Taiwan, or Tibet).  Nonetheless, Hollywood's kowtowing will be restrained by fear of losing the American market and the rise of streaming.
+
+-China blocks Twitter, Facebook, YouTube, & Instagram and censors Weibo & WeChat--but podcasts popular with urban elite remain less so (accessible through VPNs and too numerous to censor). 
+
+-Entering its IPO, Palantir (named for the all-knowing orb in Lord of the Rings) has yet to turn a profit in 17 years. Disliked in Silicon Valley for its secret USG customers, it decamped to Denver. 
+
+-Some airlines are selling their in-air meals directly for $2--and have an enthusiastic niche market. 
+
+-Dementia (60-80% Alzheimer's) is rising as life expectancies increase. With no convincing vaccine or cure in sight, tech can help but long-term care will require a tremendous amount of people and money--some of which is being diverted to COVID.
+
+-Bipedal robots are getting better but quadruped robots are proving more useful for inspection and maintenance—especially in cramped or hazardous environments. 
+
+-People in rich countries believe in science more but vaccines less—perhaps because they are more susceptible to fake science around autism and haven’t seen the devastation of disease first-hand. This has already caused measles to revive and now threatens COVID herd immunity. 
+
+**August 22, 2020**
+
+-A coup in Mali demonstrates the limits of trying to solve political problems with military force alone.  The weak, corrupt state has not only failed to stop killing but been complicit in it.  The West should focus on improving governance and diplomacy.
+
+-From 1965-75, veterans made up 70% of Congress—now 18%.  Reasons: (1) veterans smaller portion of general population (2) women are under-represented in the armed forces—only 17%.  Risk: studies find those without military experience are more likely to countenance intervention.
+
+-The normalization of Israel-UAE relations (joining Egypt, Jordan) openly embraces the intelligence sharing and diplomacy that was already occurring.  It is a boon for Netanyahu (escapes annexation promise) and MBZ (builds goodwill in Washington), but strips the Palestinians of leverage (undermines pan-Arab "land for peace" demand).  It also reflects the outsize influence of the UAE (ME economic center in Dubai, compact but capable army, pragmatic/savvy diplomacy).
+
+-30-50% of COVID victims do not notice symptoms, most of the rest can recover in 2-3 weeks home rest (only 3-4% require hospitalization).  But a small but significant number have lung, heart, and nervous system symptoms which persist for months (longer than normal influenza).
+
+-Despite declining IPOs since 2001 and the pandemic, a new wave of tech IPOs is coming (Airbnb, Palantir, DoorDash, Instacart).  Many startups/VCs find the traditional process cumbersome and expensive—and fear disappointments (Uber, Lyft) and collapses (WeWork).  Thus, they are exploring alternatives: direct listing/banker sets price (used by Spotify, Slack), special purpose acquisition companies/shell companies (Virgin Galactic).  Banks/regulators should improve the process.
+
+**August 15, 2020**
+
+-China is entering the next phase of state capitalism ("Xinomics") involving: (1) tight control over the economic cycle and debt machine (2) more efficient administrative state and (3) blur the boundary between state and private firms. The US Cold War-esque policy of pressure and containment is unlikely to prove effective. 
+
+-Strong local opposition to Aegis Ashore in Akita Japan convinced the government to scrap the $4.2B purchase. 
+
+-Recent intel that Russia has separated Kaliningrad and Belarus from the Baltic’s power grid prompted the countries to initiate a process to switch their grid west to Europe. The EU and US are footing around three-quarters if the $2B bill. 
+
+-The US exported biker gangs like Hells Angels to Europe, where they have become tangled with the drug trade and battle other ethnic street gangs. 
+
+-In 1995, nearly 20% off people meet their spouse through work, now it's dropped to around 10%, likely due to ethical questions around power dynamics and objectivity. 
+
+-8 months after listing 1.5% of its shares on the Riyadh Stock Exchange, Aramco was overtaken by Apple as the world’s most valuable listed company. 
+
+-New DNA research suggests wooly mammoths coexisted with humans for thousands of years before a rapid population drop (casting doubt on the hypothesis they were hunted to extinction). 
+
+-An electoral analysis finds a DC voter has a one in a trillion odds of tipping the contest, compared to 1-in-10M in New Hampshire. Unsurprisingly, states with more sway tend to have higher turnout. 
+
+**August 8, 2020**
+
+-Global governments have pledged $7T to preserve incomes and jobs, but only ~$10B on a vaccine (for ~$4B doses).  Despite WHO efforts, nationalists have largely sunk efforts to pool resources for developing countries.  To beat COVID, ~70% of the population must take a vaccine that is ~70% effective (though the FDA will likely approve anything safe and >50% effective). 
+
+-Rather than Trump’s impulsive and politically-driven threats to expropriate TikTok, the US would do better to tighten its own privacy laws (protect citizens’ data, embrace encryption, require transparent algorithms).
+
+-Republicans are worried about voter fraud (mail), Democrats are worried about voter suppression (ID laws, purging voter rolls), and both are worried about foreign interference.  They should be more concerned about incompetent administration, volunteer shortages, and long lines.
+
+-The US Post Office has problems beyond COVID: (1) a decline in first-class mail; (2) a 2006 law requiring USPS to prepay much of future retirees’ health benefits—a burden imposed on no other federal agency.  Trump appointed an inexperienced General who has implemented "efficiencies" which hinder delivery (ahead of a mail-heavy election) and will veto any bill that doesn’t allow him to see USPS’ contract with Amazon for “last mile” deliveries.
+
+-South Africa banned alcohol to prevent drunks from taking up hospital beds, but restaurants are flaunting the rules by serving alcohol disguised in teacups.
+
+-Already controlling most traditional media, Erdogan signed a law requiring Facebook and Twitter to censor content or else face bans on advertising, fines up to $6M, and bandwidth cuts up to 90%.
+
+-Trump’s frequent use of "not a lot of people know" and “I’m an expert on” may be less narcissism than salesmanship.  He creates an air of energy and confidence by repeating himself while he thinks and powering through his blunders.
+
+-Due to a combination of internet resources and softening societal attitudes, LGBTQ people are identifying themselves earlier (age ~14) and coming out earlier (~17).  In much of Africa, however, homophobia remains well over 50%.
+
+**August 1, 2020**
+
+-With limits to further growth, unwanted attention from trustbusters, and bloated size/declining agility, Google has outgrown its corporate culture.  It could become a loose conglomerate of tightly run divisions (e.g. Jack Welch’s GE), spin off non-core businesses and return money to shareholders, or become a glorified venture capital.  Even better, it should look to apply its capabilities in innovative ways—like the reinventions of Microsoft in cloud computing and Apple with portable devices.
+
+-China is misbehaving, but Trump’s retaliations (sanctions, ending Hong Kong special relationship, closing Houston consulate) are politically-driven.  His policy excludes macro issues (e.g. climate change), refers to cooperation with allies only in loose/aspirational terms, and lacks a strategic framework for how and when to impose pain on China.
+
+-In pursuit of economic and security interests, Turkey has been bold in the Middle East, controlling or intervening in parts of Syria, Iraq, and Libya (pro-UN backed gov’t).  It has also installed a garrison in Qatar and offered safe haven for Islamists in Yemen’s civil war.  While Erdogan has seen political benefits, Egypt, KSA, and Russia are tiring of his escapades.
+
+-Airline traffic may fall by 50% in 2020.  As the industry rebounds, it should seek sounder financial footing and reduced pollution by limiting the power of incumbents to promote robust competition.
+
+-75 years after Nagasaki and Hiroshima, there are still 130,000 living survivors, though their average age is over 83.  The government is working to preserve memory of the bombings (cynics say because it distracts from Japan’s own atrocities in WWII).
+
+-A lab developed fabric tubes containing a shear-thickening material (rate-activate tethers, or RATS) which absorb energy and may be used in military/sports helmets to prevent concussions.
+
+**July 25, 2020**
+
+-Contrary to Republican claims that the $600 UI surplus has caused people to stop looking for work, the US’ 10%+ unemployment rate is driven by a lack of jobs (few vacancies, soaring wages).  Even with a living wage, people still want dignity, stability, healthcare, and retirement.  Two-thirds of states had rising COVID cases when their governors began to reopen.  By some estimates, COVID has forced 20% of US small businesses to close.
+
+-Special report on mid-western cities finds that recovery tends to grow from the inside out (need town center attractive for live, work, and play).  Cities also do better to tap their own resources, rather than rely on federal help or philanthropic donor.  Finally, cities do well to bet on universities and hospitals (often the two go together) which help generate a pool of talented workers.
+
+-With an aging population, half of Japan’s commercial shipping fleet could be autonomous by 2040.  But there remain serious communication, security, and steering challenges (e.g. whales).
+
+-An assessment of 1,500 soccer matches finds that the share of penalty cards received by the home team rose from 46% with fans to 50% without spectators.  While referees may be more fair, home teams are still taking more shots and winning more.
 
 **July 18, 2020**
 
@@ -3390,7 +3514,7 @@ Still, not all crime is falling.  Sexual offenses and violent crime remain signi
 
 -Southeastern Myanmar is one of the most landmine-ridden areas of the globe.  A failure to eradicate them threatens efforts at peace.  Syria and Myanmar are the only two countries still producing landmines since a 1997 ban treaty.
 
-*�*-The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
+*�*-The Arab Spring was always better described as an awakening.  Dictatorships take a long time to replace but all hope is not lost.  In breathtakingly short order, dictatorships collapsed in Tunisia, Egypt, Libya, and Yemen.  It seemed the "Arab exception" (to democracy) had been overcome.  But several attempts at democratically-elected Islamists have brought a new wave of pessimism.  But a long view of history demonstrates that these transitions are rarely smooth.
 
 -Until the mid-1980s, most Arab countries performed as well as the rest of the world, but this success rested on windfall oil revenues.  Several dictatorships mostly embraced free markets, but oil revenue and corrupt spending has kept even educated populations living on an average of $2.75/day.
 
