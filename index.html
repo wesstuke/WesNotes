@@ -13,12 +13,22 @@
 
 <title>BookNotes</title>
 
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -26,12 +36,16 @@
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +58,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -79,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +84,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +118,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +130,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +141,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +169,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -324,13 +294,13 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
+<div class="row">
+<div class="col-sm-12 col-md-4 col-lg-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
 
 
 
@@ -364,7 +334,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -375,6 +345,29 @@ div.tocify {
 
 <p><em>Wes likes to read, but struggles to remember what he learns. Since around 2015, he has kept a repository of book notes (plus the occasional podcast or documentary). All credit belongs to the authors and creators.</em></p>
 <!-- Paste New Markdown text below and delete **s before & after titles -->
+<div id="arie-perliger-american-zealots" class="section level2">
+<h2>Arie Perliger: American Zealots</h2>
+<p>Group Typology:</p>
+<ul>
+<li><p>White Supremacy</p>
+<ul>
+<li><p>KKK: Three waves from 1865-69; 1915-1930; 1955-1990. Leaders compete for political office (e.g. David Duke and the “Klean Klan”).</p></li>
+<li><p>Neo-Nazis: American Nazi Party established 1959. Use pseudoscience to defend racial superiority.</p></li>
+<li><p>Skinheads: Emerged from neo-Nazis in 1980s. Highly fragmented, groups include White Aryan Resistance (WAR); Hammerskin Nation. Built around punk music; tend to be younger, almost never attack LE.</p></li>
+</ul></li>
+<li><p>Anti-Government</p>
+<ul>
+<li><p>Militias: Driven by 1980s “farm crisis,” Ruby Ridge, and Waco. Motivated by perceived violations of Second and Fourth Amendments. 1990s conspiracy theories (e.g. New World Order hijacking US) recently shaped to be more palatable (e.g. Deep State bureaucracies oppressing constitutional rights). III Percenters; Oath Keepers.</p></li>
+<li><p>Sovereign Citizens: Since late 1970s; believe federal overreach exceeds founding fathers’ intentions.</p></li>
+</ul></li>
+<li><p>Christian Identity</p>
+<ul>
+<li><p>Aryan Nations: Fragmented around charismatic pastors until Richard Butler laid groundwork for 1980s creation. Cherry-pick Bible verses to support segregation homo/transpohobia, and Aryan superiority. The Order was a 1983 offshoot.</p></li>
+<li><p>Antiabortion: Grown since 1970s. Good v. evil moral/religious framing.</p></li>
+</ul></li>
+</ul>
+<p>General: Overall, attacks have been increasing since 1990 (especially with demographic shifts and in presidential election years). More attacks during Republican-controlled Congresses (more tolerant and/or more likely to be influenced). Unlike other terrorism, 58% are conducted by a lone individual. Mostly single 28yo males with criminal records. Most targets are minorities/LGBTQ (vulnerable, governmental/leftist targets are rare). Most attacks spontaneous, disorganized, and sometimes internal violent disputes. Relative to international terrorism, attacks are low casualty (54% vandalism/intimidation, &lt;2% mass casualty)—though trending more lethal/sophisticated (esp. militias with veterans). Groups seek to enhance legitimacy by publicly denouncing violence and recruiting former law enforcement. Engage in “low-end cooperation” at events, but remain fragmented and mergers are rare. Ironically, many nationalist groups are creating international chapters.</p>
+</div>
 <div id="robert-lindsey-falcon-and-the-snowman" class="section level2">
 <h2>Robert Lindsey: Falcon and the Snowman</h2>
 <p>Chris Boyce (Falcon) and Andrew Lee (Snowman) grew up together in affluent California suburb of Palos Verdes. In their early 20s (mid-1970s), both struggled to find direction; Boyce loved falconry and Lee became a drug dealer with connections to Mexican cartels. Boyce’s father (FBI agent) helped get TRW clerk job, was assigned to brand new/highly sensitive CIA/NSA satellite IMINT/SIGINT/Comms collection program. Disillusioned with Vietnam, Nixon, and seedy coworkers, Boyce decided to sell information to Soviets. Lee, with warrant for arrest, essentially moved to Mexico City and walked into Soviet Embassy. Delivered several packets for $60K (of which Lee kept $45K). Lee traveled to Vienna for KGB tradecraft training. With Lee’s addiction and unpredictability, Boyce tried to cut him out. Lee threatened to tell Boyce’s father and Boyce considered murdering Lee.</p>
@@ -406,6 +399,22 @@ div.tocify {
 </ul>
 <p>Tasks ranged from hoeing/picking cotton, growing corn, cutting sugar cane, building construction, and playing violin. Overseer follows slaves on horseback with whip in the field. Picking requires nimble fingers, cotton is weighed each night, must do at least as good as previous day. At night, other chores (feed mules, cuts wood). Bed was wooden plank 12 inches wide; pillow was stick of wood. Ate mostly bacon, sometimes infested with worms. Best time of year was Christmas, got three days off and party at neighboring plantation.</p>
 <p>Told nobody of freeman status for fear of beatings. Tried one contact to help write letter, turned him in and had to deny. Told white construction partner (Bass) who helped mail letters, but took nearly a year for friends to handle litigation and get support of Louisiana congressman and sheriff. Friend arrived with local sheriff and took Northrup home. Tried to prosecute Burch but Northrup was not allowed to testify as a colored man.</p>
+</div>
+<div id="capital-in-the-21st-century-documentary" class="section level2">
+<h2>Capital in the 21st Century (Documentary)</h2>
+<p>BLUF: Capitalism proved itself superior to communism, but low taxes and deregulation have gone too far for the modern global economy. Inequality is rising drastically and the middle class is disappearing.</p>
+<p>For the rich it’s safer and easier to just sit on assets for gains rather than invest in a new factory or company:</p>
+<ul>
+<li><p>15% of money coming out of the largest financial institutions goes toward “productive lending” which helps people build businesses.</p></li>
+<li><p>85% just goes around a closed loop of the financial system, assets being bought and sold by the same people as the value climbs up and up.</p></li>
+</ul>
+<p>The concentration of capital ownership is exacerbating inequality because the rate of return on capital since 1700 (4-5%) vastly exceeds the rate of economic growth (1.6%). Meanwhile, inheritances are increasing to levels rivaling 18th Century aristocrats.</p>
+<p>Societies with more inequality have less social mobility. Two-thirds of today’s population is on track to be poorer than their parents. Economic unrest leads to political unrest. In desperation, people cling to their nationality or religion and lash out at their nearest enemy.</p>
+<p>Ideas:</p>
+<ul>
+<li><p>Tax companies based on where their sales are (not where they’re incorporated)</p></li>
+<li><p>Tax all billionaires higher, especially those who are not engaged any and productive lending, but just sitting on assets.</p></li>
+</ul>
 </div>
 <div id="steve-vogel-betrayal-in-berlin" class="section level2">
 <h2>Steve Vogel: Betrayal in Berlin</h2>
@@ -4381,7 +4390,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -4399,7 +4408,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -4420,7 +4429,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
