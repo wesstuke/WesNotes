@@ -15,7 +15,666 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *Wes likes to read, but struggles to remember what he learns. Since around 2015, he has kept a repository of book notes (plus the occasional podcast or documentary). All credit belongs to the authors and creators.*
 
-<!-- Paste Markdown Text Below -->
+<!-- Paste New Markdown text below and delete **s before & after titles -->
+
+## Pete Simi and Robert Futrell: American Swastika
+
+Groups of interest: 
+
+* KKK (e.g. Loyal White Knights)
+
+* Christian Identity/Neo-Paganism (e.g. Aryan Nations)
+
+* Neo-Nazis (e.g. National Alliance, White Aryan Resistance, National Socialist Movement)
+
+* Racist Skinheads (e.g. Hammerskin Nation, Volksfront)
+
+Focuses on "Aryan free spaces":
+
+* Home: Private place to indoctrinate youth with Hitler paintings, swastikas, Nordic imagery, talk peppered with epithets, and censorship of culturally diverse TV.
+
+    * Skinheads also have "crash pads" (frat houses for young members)
+
+* House Parties: ~50 guests build friendships sharing stories about becoming Aryan (e.g. schoolyard fight with minorities), injustices they face (e.g. blacks can have racial pride but they can’t), and how they persevere (e.g. defensive tactics to keep blacks out of neighborhoods).
+
+* Music Scene: Music spreads message broadly/inconspicuously.  Bar shows build unity with chanting, boot-stomping, and "slam dancing."  Festivals draw larger groups.
+
+    * Bands: Skrewdriver, Max Resist, Final War, Youngland
+
+* Internet: Echo chambers for hate to share stories, ask for advice, and strengthen connections.  Some even have "For Kids" sections.  
+
+    * Sites: Stormfront, NS88, Micetrap
+
+    * Online games: Ghetto Blaster, ZOG Nightmare 2, Ethnic Cleansing
+
+* Private Communities: Isolated Aryan spaces.  Covenant, Sword, Arm of Lord (Missouri-Arkansas Border, 1971-85), Elohim City (Oklahoma, 1973-Present), National Alliance (West Virginia, 1985-Present), Aryan Nations (Idaho, 1974-2001).
+
+Other
+
+* Members craft unique ideologies and regularly shift between groups. "New racist" rhetoric describes whites as minority victims facing discrimination.
+
+* Recruitment is tailored to the individual (often play down extremism to start).
+
+* Among younger members, warrior fantasies often play out in bar fights. Tattoos are a way of demonstrating commitment.
+
+* Common Aryan names: Hunter, Forrest, Liberty, Ariana, Dieter.
+
+Conclusion: Free spaces allow Aryans to release frustrations amongst themselves rather than through violence against enemies; socially isolated Aryans are more dangerous.  But need vigilance, dialogue, and monitoring to counter extremism’s corrosive effects, and illegal activity must be met with arrests/prosecutions.
+
+## Ali Soufan: Anatomy of Terror
+
+The story of the global Salafi-jihadi movement through its major players:
+
+* Usama Bin Laden (UBL)
+
+    * Five wives (alternated nights, favorite Umm Hamza but imprisoned in Iran), 20+ kids (Saad killed so Hamza successor).
+
+    * Despised US for revoked citizenship, expulsion from Sudan, perceived assassination attempts, and Gulf War involvement (offered AQ to protect KSA).
+
+    * After 9/11, fled Tora Bora to Swat/Haripur (northern Pakistan) to Abbottabad (settled in 2005). Charismatic micromanager focused on striking the U.S. homeland again.
+
+    * Practically blind in one eye; frequent pain/paralysis.  Communicated exclusively through couriers like Abu Ahmed al-Kuwaiti.  Only two security guards but stress took a toll.  Killed May 2011; SEALs killed al-Kuwaiti before entering, lured Khalid around corner by whispering his name.
+
+* Saif al-Adel
+
+    * Experienced, careful, and respected soldier with unfailing allegiance to UBL.  Worked way up as seniors were killed.  In 1995-96, traveled to Somalia and Yemen to set up affiliates.  
+
+    * After UBL assassination attempt, became bodyguard alongside Abu Jandal and Ibrahim Qosi (also accountant and personal cook).  Used fake electrical scanner to "screen" reporters who interviewed UBL.  Became AQ head of security and #3 behind military chief Abu Hafs al-Masri (aka Mohammed Atef).
+
+    * Under international pressure, Sudan expelled AQ so returned to Afghanistan.
+
+    * Following intercepted communications regarding Russian nuclear weapons, arrested by Iran along with Abu Khair and Abu Mohammed. Stormy relationship with "wide-eyed killer" Khalid Sheikh Mohammed.  
+
+* Khalid Sheikh Mohammed (KSM)
+
+    * Nephew Ramzi Yousef bombed World Trade Center.  AQ previously mused of crashing airplane into Egyptian House of Representatives.  UBL initially said "Planes Operation" wasn’t feasible but later supported, while others continued to fear backlash.
+
+    * 9/11 recruited 2,000 volunteers but put AQ on the run.  Some fled to Iran, where they were arrested and held for bargaining.  KSM was so eager to kill WSJ reporter Daniel Pearl he slit his throat before the recorder had a tape in it.  
+
+    * US used combination of precision strikes and Special Operations / Northern Alliance horseman to force AQ out of Kandahar and hammered Tora Bora mountain complex.  Killed al-Masri, captured Millennium Plotter Abu Zubaydah and 9/11 facilitator Ramzi Bin al-Shibh and eventually KSM.
+
+* Abu Musab al-Zarqawi
+
+    * Before conversion to Islam, served time for sexual assault and drug possession.  Covered in tattoos and tried to shoot himself during a 1994 police raid but "missed."
+
+    * Radicalized by Abu Mohammed al-Maqdisi and built network in jail; released when Jordanian King Hussein died.  Didn’t get along with UBL (only one meeting, didn’t pledge bayat until 2004), but AQ wanted a foothold in the Levant.
+
+    * Fled Kandahar post-9/11 (ribs broken in airstrike) for northern Iraq; US invasion helped recruitment.  Conducted near constant car bombings and beheadings.  Hated Shias even more than Americans (75% of targets were Muslim).  Governments complicit; Bashar al-Assad fed the Iraqi sectarian civil war (and released insurgents) and KSA didn’t want a Shia-led Iraq.
+
+    * AQI set up stronghold in Fallujah, US/British forces painstakingly liberated in bloodiest battle of the war.  Zarqawi arrested for several hours but inexplicably released. Narrowly escaped Delta Force roadblock.
+
+    * AQI joined consortium under first emir of Islamic State of Iraq Omar al-Baghdadi.  Public backlash (Sunni Awakening) resulted in arrest of 270 jihadists in Anbar province alone.  Zarqawi narrowly escaped US Special Forces raid, but intelligence recovered led to death by drone strike in 2006.
+
+* Ayman al-Zawahiri
+
+    * From two renowned Egyptian families, angered by 1966 execution of his uncle’s mentor Sayyid Qutb.  Doctor in Peshawar clinic, imprisoned three years following Anwar Sadat assassination.  Through Abdullah Azzam, treated UBL (may have had Addison’s disease) and provided strategic support.  
+
+    * Zawahiri’s Egyptian Islamic Jihad (EIJ) rivalled by the "Blink Sheikh" Omar Abdul Rahman’s Gamaa al-Islamiya.  In need of money/recruits, EIJ merged with AQ summer 2001.  
+
+    * As AQ shifted from central hierarchy to web of affiliates, UBL and Zawahiri oversaw AQ Central ("Khorasan").  After UBL death, AQAP under Nasser al-Wuhayshi, Al-Shabaab under Harun Fazul and AQIM under Abdelmalek Droukdal pledged bayat to Zawahiri.  But failed to manage irreconcilable differences between ISIL and AQ-affiliate al-Nusra.  
+
+    * Embarrassingly, Zawahiri pledged bayat to Taliban leader Mullah Omar when he’d been dead for 15 months.  He later pledged bayat to successors Mullah Mansour and Hibatullah Akhundzada.  Also protected by the Haqqani Network.
+
+* Abu Bakr al-Baghdadi
+
+    * Aspiring young cleric (like Omar, not technically from Baghdad) released from Camp Bucca ("the Academy") in 2004.  Claimed bloodline to Muhammed and declared caliphate (AQI to ISI to ISIL to IS).  So secretive he wasn’t even identified during senior meetings.  Other key leaders included #2 Abu Muslim al-Turkmani, Zarqawi mentee Abu Ali al-Anbari, and spokesperson Abu Muhammed al-Adnani.
+
+    * Haji Bakr planned invasion of Iraq from Syria and military strategist Abu Abdul Rahman al-Bilawi planned capture of Mosul.  IS able to recruit former Saddam Hussein soldiers who hated Iraqi PM Nouri al-Maliki’s hardline Shia policies.  Well-produced propaganda drew foreign fighters from over 100 countries.  Would open "community centers" in towns then murder leaders.  Well-funded by extortion, robbery, and ransom.
+
+    * Core ideological differences with AQ/Zawahiri about what stage of the "Management of Savagery" they were in (AQ wanted to win public support before declaring caliphate).  Also, Baghdadi refused to pledge bayat to Taliban. 
+
+    * Won high-profile affiliates like Boko Haram but increasingly hit strike soft targets as lost territory.  
+
+* Vocabulary:
+
+    * Kunya – nickname. Nisbah – toponym (e.g. al-Kuwaiti). Zakat – charity. Takfiris – prescribe a certain brand of Islam, and those who do not adhere deserve death. Bayat – oath of allegiance. Hijrah – Mohammed’s migration into exile in Medina. 
+
+<!--CT FOLLOWS CYCLE: INVADE, OCCUPY, WITHDRAW, REPEAT.  NEED TO COUNTER THE NARRATIVE THAT US IS AT WAR WITH ISLAM, TAILORED TO EACH COMMUNITY AND TOLD BY LOCAL MESSENGERS.  IMPRISONING FOREIGN FIGHTERS HARDENS THEM, MUST TRY REHABILITATION.  PARALLELS TO DOMESTIC TERRORISM (CRIMINAL BACKGROUNDS, BOOGALOO/ACCELERATIONISM).-->
+
+## David Grann: Killers of the Flower Moon
+
+Indians, pushed into rocky Osage County in northern Oklahoma, became oil rich. From 1921-26, 24+ Osage killed via poisoning, gunshots, and explosions.  Local/state sheriffs and private investigators couldn’t solve.  J. Edgar Hoover, recently promoted to BOI Director and looking to repair the Bureau’s reputation following a CHS that had murdered a policeman, appointed Texas SAC Tom White to lead a team of undercovers to solve.  White diligently exhausted leads, uncovering a massive scheme by William Hale to extract money and headrights from Osages.  Prosecutions faced many obstacles: juries bribed/racist, witnesses caved under pressure, struggled to prove federal jurisdiction, but ultimately got life sentences for key players.  White went on to become highly respected warden at Leavenworth Prison, Kansas--surviving kidnapping during an escape attempt.  Years later, author draws circumstantial links to other murders likely connected. 
+
+## Arie Perliger: American Zealots
+
+Group Typology:
+
+* White Supremacy
+
+    * KKK: Three waves from 1865-69; 1915-1930; 1955-1990. Leaders compete for political office (e.g. David Duke and the "Klean Klan").
+
+    * Neo-Nazis: American Nazi Party established 1959. Use pseudoscience to defend racial superiority.
+
+    * Skinheads: Emerged from neo-Nazis in 1980s.  Highly fragmented, groups include White Aryan Resistance (WAR); Hammerskin Nation.  Built around punk music; tend to be younger, almost never attack LE.
+
+* Anti-Government
+
+    * Militias: Driven by 1980s "farm crisis," Ruby Ridge, and Waco.  Motivated by perceived violations of Second and Fourth Amendments.  1990s conspiracy theories (e.g. New World Order hijacking US) recently shaped to be more palatable (e.g. Deep State bureaucracies oppressing constitutional rights).  III Percenters; Oath Keepers.
+
+    * Sovereign Citizens: Since late 1970s; believe federal overreach exceeds founding fathers’ intentions.
+
+* Christian Identity
+
+    * Aryan Nations: Fragmented around charismatic pastors until Richard Butler laid groundwork for 1980s creation.  Cherry-pick Bible verses to support segregation homo/transpohobia, and Aryan superiority.  The Order was a 1983 offshoot.
+
+    * Antiabortion: Grown since 1970s.  Good v. evil moral/religious framing.
+
+General: Overall, attacks have been increasing since 1990 (especially with demographic shifts and in presidential election years).  More attacks during Republican-controlled Congresses (more tolerant and/or more likely to be influenced).  Unlike other terrorism, 58% are conducted by a lone individual.  Mostly single 28yo males with criminal records.  Most targets are minorities/LGBTQ (vulnerable, governmental/leftist targets are rare).  Most attacks spontaneous, disorganized, and sometimes internal violent disputes.  Relative to international terrorism, attacks are low casualty (54% vandalism/intimidation, <2% mass casualty)—though trending more lethal/sophisticated (esp. militias with veterans).  Groups seek to enhance legitimacy by publicly denouncing violence and recruiting former law enforcement.  Engage in "low-end cooperation" at events, but remain fragmented and mergers are rare.  Ironically, many nationalist groups are creating international chapters.
+
+## Robert Lindsey: Falcon and the Snowman
+
+Chris Boyce (Falcon) and Andrew Lee (Snowman) grew up together in affluent California suburb of Palos Verdes.  In their early 20s (mid-1970s), both struggled to find direction; Boyce loved falconry and Lee became a drug dealer with connections to Mexican cartels.  Boyce’s father (FBI agent) helped get TRW clerk job, was assigned to brand new/highly sensitive CIA/NSA satellite IMINT/SIGINT/Comms collection program.  Disillusioned with Vietnam, Nixon, and seedy coworkers, Boyce decided to sell information to Soviets.  Lee, with warrant for arrest, essentially moved to Mexico City and walked into Soviet Embassy.  Delivered several packets for $60K (of which Lee kept $45K).  Lee traveled to Vienna for KGB tradecraft training.  With Lee’s addiction and unpredictability, Boyce tried to cut him out.  Lee threatened to tell Boyce’s father and Boyce considered murdering Lee.
+
+Eventually, both went to embassy together and KGB cut out Lee, first throwing him out of a moving car and later causing a scene at embassy gate.  Mexican police arrested for pot but found Top Secret photos and thought connected to separate murder.  Under coercive interrogation, truth slowly emerged and turned over to FBI.  Boyce was arrested flying his falcon at a turkey farm a few days later, but stonewalled FBI telling them they lacked clearance.  President Carter appealed (unsuccessfully) for Mexican police to testify at trial.  Defenses: Only provided CIA-approved misinformation, information wasn’t actually sensitive, dragged unwittingly by the other.  Boyce fought back by revealing CIA interference in Australian labor union politics to protect Pine Gap facility.  Boyce got 40 years; Lee got life.  Ironically, only the Russians know everything they received (Boyce too drunk to remember everything he sent).  Afterwards, CIA instituted unannounced security inspections of contractors; Russians began encrypting telemetry messages.
+
+<!--LEE VOLATILE BUT PERSUASIVE (ARRESTED 7 TIMES, SERVED <6 MONTHS IN JAIL) AND VISIONARY (TRIED IMPORTING DRUGS VIA SOVIET DIPLOMATIC COURIERS).  PERVASIVE ALCOHOL/DRUG USE: LEE AND KGB HANDLER DRUNK/HIGH AT EACH MEETING.-->
+
+## Daniel Pink: When: The Scientific Secrets of Perfect Timing
+
+Most people peak in the morning, trough after lunch, and recover in the evenings.  During peak we excel at analytic work requiring sharpness, vigilance, and focus.  During recovery we do better on insight work that requires less inhibition and resolve.  Battle troughs by taking restorative breaks (maximize movement, social interaction, outdoors, detachment, yoga/meditation).  Naps under 30 minutes are good ("Zamboni for the mind").
+
+Improve mornings by drinking a glass of water when you wake up and getting as much sun as possible.  Exercise in the morning to lose weight, boost mood, keep to your routine, and build strength.  Exercise in the evening to avoid injury, perform your best, and enjoy the workout.  
+
+Try to go first if you’re on a ballot, not the default choice, there are few competitors, or up against strong candidates.  Try not to go first if you’re the default choice, there are many competitors, or the competition is meager.  Couples who are over 25 and date for three or more years are unlikely to split up; the more a couple spends on the ring, the more likely they are to be divorced.
+
+The average midlife crisis occurs at 52.9 years.  Teams behind by just one point at halftime are actually MORE likely to win the game.  To break a midpoint slump, set interim goals, publically commit to them, make a habit of working every day, picture one person your work will help.  
+
+If you give people a hard deadline for an assignment they’re more likely to follow through.  "Peak-end rule" says when we remember an even we assign the greatest weight to its most intense moment (the peak) and how it culminates (end).  Use the last five minutes of each work day to write what you accomplished, plan for next day, and a thank you letter to someone.  Respond to emails quickly.  As people age, they maintain fewer but tighter friends.  Movies require poignancy because adding an element of sadness to an otherwise happy ending elevates our impression of it.  Nostalgia can foster a positive mood, protect against anxiety and boost creativity.
+
+## Ed Mireles: FBI Miami Firefight
+
+Enlisted, three years with USMC in embassy security (Sofia, Madrid).  On colleague’s recommendation, joined FBI (500 acre Academy).  Five years at WFO, involved in Iranian embassy expulsion and Reagan assassination attempt (took custody of Hinckley’s gun).  Moved to Miami where wife was stationed.
+
+Platt and Matix conducted five bank/armored car robberies from October 1985-March 1986.  On hunch they usually struck Friday mornings, 14 agents conducted surveillance on April 11.  Unlucky factors: license plate tip took too long to process, left shotgun in other trunk, two agents using restroom, one was inside bank, radio system had lag, two drivers lost guns while stopping vehicle, SA Grogan agent lost eye glasses, civilian cars drove through firefight blocking shots.  Firefight saw ~140 shots in five minutes.  SA Mireles hit twice in forearm and grazed head but fired lethal shots to Platt and Matix (took 12 and 6 hits, respectively) as they tried to escape in Grogan’s car.  Plain-clothed for surveillance, fortunate arriving officers didn’t shoot at Mireles.
+
+More a result of time and chance than being "outgunned."  BUT led to higher capacity magazines, broader use of MP-5 and shotguns, more training in moving and shooting.  Fight or flight: tunnel vision, time distortion, slow motion, auditory exclusion, sense of detachment, traumatic amnesia.  
+
+Wife informed pregnant with Christian April 16, day after massive arm surgery.  In January 1987, returned for Night Duty at field office and noticed car thief on CCTV so made arrest with cast on arm.  Taught at FBI Academy for two years, then back to Miami.  Subsequently involved in undercover work and another shootout.  
+
+## Solomon Northrup: 12 Years a Slave
+
+Owner gave Northrup’s father’s freedom in will.  Born 1808, married 1829, worked moving timber along canals and cutting wood.  Two men approached asking him to play violin for circus, while in DC drugged him and moved to James Burch’s slave pen in the shadow of the Capitol.  Claims of free papers just brought beatings by paddle and rope.  Traveled through Aquia Creek, Fredericksburg, Richmond, and Norfolk—and eventually to New Orleans.  Planned boat escape but co-conspirator died of sickness.  
+
+* First owner William Ford was "noble" and “kind” but had to sell 18 slaves due to financial problems.  
+
+* Second owner Tibeats was demonic, and Northrup snapped, striking him with blow after blow.  Ford’s mortgage on Northrup (now called "Platt") saved him from being hung.  Later had to run away into a moccasin snake and alligator-infested swamp to escape Tibeats and hunting dogs.
+
+* Third owner Epps was generally bad, but especially when drink.  Frequently made slaves dance for him, made Platt whip other slaves including friend Patsy.
+
+Tasks ranged from hoeing/picking cotton, growing corn, cutting sugar cane, building construction, and playing violin.  Overseer follows slaves on horseback with whip in the field.  Picking requires nimble fingers, cotton is weighed each night, must do at least as good as previous day.  At night, other chores (feed mules, cuts wood).  Bed was wooden plank 12 inches wide; pillow was stick of wood.  Ate mostly bacon, sometimes infested with worms.  Best time of year was Christmas, got three days off and party at neighboring plantation.  
+
+Told nobody of freeman status for fear of beatings.  Tried one contact to help write letter, turned him in and had to deny.  Told white construction partner (Bass) who helped mail letters, but took nearly a year for friends to handle litigation and get support of Louisiana congressman and sheriff.  Friend arrived with local sheriff and took Northrup home.  Tried to prosecute Burch but Northrup was not allowed to testify as a colored man.
+
+## Capital in the 21st Century (Documentary)
+
+BLUF: Capitalism proved itself superior to communism, but low taxes and deregulation have gone too far for the modern global economy. Inequality is rising drastically and the middle class is disappearing. 
+
+For the rich it's safer and easier to just sit on assets for gains rather than invest in a new factory or company:
+
+* 15% of money coming out of the largest financial institutions goes toward "productive lending" which helps people build businesses. 
+
+* 85% just goes around a closed loop of the financial system, assets being bought and sold by the same people as the value climbs up and up. 
+
+The concentration of capital ownership is exacerbating inequality because the rate of return on capital since 1700 (4-5%) vastly exceeds the rate of economic growth (1.6%).  Meanwhile, inheritances are increasing to levels rivaling 18th Century aristocrats. 
+
+Societies with more inequality have less social mobility. Two-thirds of today’s population is on track to be poorer than their parents. Economic unrest leads to political unrest. In desperation, people cling to their nationality or religion and lash out at their nearest enemy. 
+
+Ideas:
+
+* Tax companies based on where their sales are (not where they're incorporated)
+
+* Tax all billionaires higher, especially those who are not engaged any and productive lending, but just sitting on assets.
+
+## Steve Vogel: Betrayal in Berlin
+
+**_Tunnel_**: End of VENONA, no HUMINT, minimal IMINT, and Soviet nuclear test left US starving for intelligence in early 1950s.  British used small tunnels to tap communications in Vienna (Operation Silver).  CIA/SIS jointly began quarter-mile tunnel in south Berlin (Operational Gold).  Brash former FBI Agent and CIA Berlin Operations Chief Bill Harvey oversaw team of CIA officers and Army Corp of Engineers.  Blake quickly disclosed the tunnel to the KGB.  Disguised warehouse as operational radar station.  Practiced in Albuquerque but construction encountered setbacks: unexpectedly high water table, sewage tank, rudimentary survey equipment.  Brits expertly tapped three major Red Army cables, team of ~150 translated a gold mine of intelligence about Soviet order of battle/nuclear posture, Khrushchev’s power broker status, and other blackmail/gossip.  Feared discovery when farmer’s trees died and snow melted above tunnel.  After 11 months, in conjunction with Khrushchev’s 1955 visit to England, KGB finally leaked clues of tapping to Soviet Army which discovered the trove of advanced Western electronic equipment.  Harvey wanted to detonate tunnel, but was overruled, instead sat at American end with a 50 caliber machine gun while it was blockaded with concrete.  Soviets gave tours to the press and blamed solely on Americans.  At the time, CIA attributed to routine maintenance and bad luck—not mole.  Contrary to many accounts, information from the tunnel proved useful for many years and there has been no evidence of Soviet disinformation.
+
+**_Blake_**: SIS (MI6) Korea station chief George Blake volunteered as Soviet spy while a North Korean POW (disenchanted with American leadership/bombing, abandoned Christianity, infatuated with communism).  After war, was nearly caught meeting KGB handler but surveillance dropped for a few hours.  Blake assigned to Station Y which oversaw ultra-secret tapping operations, immediately shared tunnel plans.  KGB fed him sources to bolster his status within SIS, hoping he would become station chief Moscow.  Turned over troves of information some of which led to the capture of GRU spy Pyotr Popov.  Blake successfully lobbied for a post in Lebanon but fell under suspicion in 1961 due largely to Polish defector Michael Goleniewski.  He was interrogated and confessed after being accused of flipping under duress in Korea.  Sentenced to an unprecedented 42 years, he escaped after 5 years with the help of three men he befriended in prison.  After two months hiding out in England, he hid in a RV to East Germany, where the KGB returned him to Moscow.  Although disillusioned with communist society, the KGB offered him retired general status.  He remarried and wrote a memoir but died in 2020.  Information he provided may have led to the capture of close to 100 Western sources, but Blake refused to accept any responsibility for their executions. 
+
+## Barack Obama: A Promised Land
+
+**_Beginnings_**: No student government or boy scouts, but lived in books (mother: "Read a book and tell me something you learned").  At Columbia, stripped excess belongings (“who needs more than five shirts?”).  After 2000 DNC, was almost 40, coming off a humiliating defeat for Senator with a strained marriage.  In 18 months of campaigning, took 7 days off.  As Senator, began to speak up on Katrina.   One tactical error of 2008 was trying to win both Ohio and Texas; which let Hillary persist.  Grandma “Toot” died on the eve of the election.
+
+**_Foreign Policy_**: Despite polar opposite backgrounds, respected and needed Bob Gates ("even-keeled and refreshingly blunt, with the quiet confidence to both argue his case and change his mind").  Iraq straightforward, Afghanistan split team (military prided itself on accomplishing missions regardless of cost/duration).  Even those who complain about America’s role in the world relied on us to keep the system afloat. Wrote a Berlin speech around “community of fate” but realized hours before the phrase was used in Hitler’s first addresses to the Reichstag.  Viewed Nobel Peace Prize as a call to action.  Efforts to try terrorists in NYC were universally opposed.  Mullen testimony instrumental to ending Don’t Ask Don’t Tell.  Palestinians splintered after Arafat’s 2004 death; Israeli attitudes toward peace hardened as they became stronger; meetings felt rehearsed—as if going through the motions.  With official comms down, approved Libyan intervention from a personal cell phone in Brazil.  Wasn’t supposed to view live feed of UBL raid, but noticed in small Sit Room and the team followed.
+
+**_Economy_**: Inherited the culmination of structural problems in both financial system (mortgage-backed securities, overleveraged banks) and automotive (bad management, foreign competition, overreliance on SUVs).  Addressed with TARP and Recovery Act.  CEOs were ousted and DoJ racked up record settlements, but antiquated laws protected bankers from criminal liability (used public outrage to push through watered down Dodd-Frank).  
+
+**_Healthcare/Environment_**: Any major healthcare bill meant rejiggering one-sixth of the US economy, Pelosi artfully and narrowly worked it through both houses.  Created incentives to help clean tech overcome institutional disadvantages—Solyndra was PR flop.  Crashed BRIC meeting at 11th hour in Copenhagen to browbeat China into signing agreement (precursor to Paris).  Haunted by 87 days of video of Deepwater Horizon; Rahm got concessions out of BP, Chu assembled top physicists to solve.
+
+**_Politics_**: Republican party increasingly defined by victimization/resentment (and belief government can’t be trusted to be fair).  Palin laid groundwork for Trump.  Trump offered to plug Deepwater Horizon well or build "beautiful ballroom" on south lawn.  McConnell had no close friends or strong convictions—only difference from Trump was he had boundaries/filter.  Regrets he didn’t push Reid harder to abolish the filibuster.  Formulaic media presents one side, the other side, and an opinion poll to decide who’s right.  
+
+**_Other_**: Of 3M federal employees; a few thousand political appointees; <100 have meaningful contact with the President (staffers routinely worked 12-hour days).  Debates aren’t meant to answer questions, but convey a message.  Unique among leaders, POTUS travels fully self-sufficient (C-17s carried multiple limos, ambulances, tactical teams).  Read and acted on ten pieces of mail each day.  Michelle called PDB the "Death, Destruction, and Horrible Things Book."  Considered asking to hold applause at SOTU but comms team nixed.  Obama had never been inside Oval Office before elected president; preferred the private study on weekends so tours could look in.  McDonough made stickers saying “Fight Cynicism.” Ethics of conferences: if it sounds fun, you can’t go.
+
+**_Personal_**:  Found/created time for basketball, golf, poker, pool, workouts every morning, dinner with family every night.  Had as many as 9-10 cigarettes until quit when signed ACA.  Purchase of homebrew kit made first presidential brewmaster.  Bo was gift from Ted Kennedy.  
+
+**_Quote_**: "I’ve never been a big believer in destiny.  I worry that it encourages resignation in the down-and-out and complacency among the powerful.  I suspect that God’s plan, whatever it is, works on a scale too large to admit our moral tribulations; that in a single lifetime, accidents and happenstance determine more than we care to admit; and that the best we can do is try to align ourselves with what we feel is right and construct some meaning out of our confusion, and with grave and nerve play at each moment the hand we’re dealt."
+
+<!--Delayed timelines for accomplishments, important work nobody noticed (preventing double recession, containing H1N1).  Efforts built around landmark legislation in each major area, while responding to crises as they emerge.  Constantly balancing inner idealism with polls/political standing (sometimes comes across as self-preservationist but inherent to politics).   Some hubris/benefit of hindsight (e.g. dismissive of opponent’s intellect, claims to have foreseen Arab Spring)-->
+
+## Eric Schlosser: Command and Control
+
+Science/Engineering
+
+* Conventional explosives detonate through chemical reactions which create a shockwave of compressed air.  
+
+* Atomic weapons use fission (the splitting of heavy elements into lighter ones releasing the nucleus’ binding energy).  Two fissile elements: uranium-235 (rare) and plutonium-239 (manmade).  Trigger designs included colliding atoms ("gun-type") or conventional shockwave (“introvert”).  Detonation timed via spring-wound mechanical clocks and barometric switches.
+
+* Nuclear weapons ("the Super") use thermonuclear fusion (the combination of light element into heavier ones).  Teller-Ulam “bomb-in-a-box” design used hydrogen fuel wrapped around uranium-235 spark plug inside lead box.  Early designs required three-parachute system to give bomber time to escape blast.
+
+* Radioactive fallout results from interactions of high-energy neutrons with other elements.  Oxygen harmless so high altitude explosions less bad.  But manganese (found in soil) becomes an isotope that emits dangerous gamma rays which can penetrate walls.  Residual radiation can last years and by the time its noticed it’s often too late.
+
+* Early batteries had to be recharged every month until Sandia created "wooden bomb" using thermal batteries which lasted 25 years.  Also developed “sealed-pit” bombs with pre-arranged tritium/deuterium gas design which multiplied fission and “boosted” yield.  Yield-to-weight reached mathematical limit around 1963.
+
+* Tried to design "one-point safe," meaning explosives wouldn’t cause nuclear explosion.  Struggled to satisfy “always (work)/never (accident)” principle; USAF rejected several safety proposals for adding too much weight and limiting number of bombs B-52s could carry.  In 1970s, finally put activation switch on missiles but in defiance SAC set passcode as 00000000.
+
+* Titan II was first ICBM with inertial guidance system (could not be jammed/spoofed).  Used spinning gyroscopes aligned with True North and computer clock to calculate trajectory.  Re-entry vehicles used copper/plastic to absorb/divert heat away from the warhead. 
+
+History
+
+* First atomic test (Trinity) in Los Alamos, July 1945.  Truman’s advisors opposed public display, said use would save lives.  Aug 6, Little Boy (uranium), Enola Gay, Hiroshima, killed 80K.  Aug 9, Fat Man (plutonium), Bockscar, Kokura cloudy so Nagasaki (missed by more than a mile), 40K killed.  100K killed in Tokyo firebombing.
+
+* Considered sharing technology with USSR as first step to outlaw nuclear weapons, but few trusted Stalin (especially after communist aggression in East Europe).  Truman insisted on secrecy and civilian control, creating Atomic Energy Commission (AEC).  Los Alamos fabricated cores and explosive lenses; Sandia the rest (NM).  Bitter infighting amongst services.
+
+* Despite 1947 bluster, US had only one "probably operable" warhead; proof of composite uranium-plutonium core allowed expansion of arsenal.  First Soviet detonation (1949) was a stolen copy of Fat Man.  Despite moral arguments against “the Super,” Soviets had been working on it since 1948 and Truman approved.
+
+* Eisenhower approved Army’s low-yield tactical approach but built "new look" foreign policy on massive retaliation empowering Curtis LeMay’s Strategic Air Command (SAC).  He also reversed Truman, allowing military to order launch if unable to reach POTUS.  Amidst interservice bickering, CJCS created Single Integrated Operational Plan (SIOP).  First UK detonation (1952).  
+
+* Early defense mechanisms included "picket ships" and “Texas towers,” improved by Distance Early Warning (DEW) Line of radar stations in Arctic.  With ENIAC/MIT, USAF developed Semi-Automatic Ground Environment (SAGE), the first C2 systems for radars.  False alarms included detection of moon, running training tapes.  Realization US leadership could be decapitated with mere 35 missiles, built Raven Rock, Mount Weather, Greenbrier, Mount Pony.
+
+* Sputnik amplified perceived "bomber gap," triggering several ICBM programs: Jupiter (Army), Polaris (USN), Thor, Atlas, Titan/Titan II, Minuteman (USAF); last two were best.  Red Alert novel created perception of SAC as warmongers.  New safeguards included psychiatric personnel screenings, combination locks, and accelerometer-based activations.
+
+* Kennedy introduced "flexible response" (or “graduated deterrence”) as Navy SLBMs offered second strike capabilities and “finite deterrence.”  Learned gap didn’t exist (Soviets had 4 ICBMs, not 500), but politics drove continued ICBM development.  Khrushchev tested JFK’s mettle with 1961 Berlin Crisis (threat to block NATO access to West Berlin) and Cuban Missile Crisis (first ever DEFCON 2).   Resulted in Limited Test Ban Treaty and direct comms line between Washington and Moscow.  McNamara eventually came around to MAD and a SIOP which would kill 30% of USSR population.  
+
+* By 1970s, USSR had more ICBMs, but US still had more warheads and invented MIRVs.  During détente, signed Anti-Ballistic Missile Treaty and Threshold Test Ban, but arms race continued.  Carter’s vision for "minimal deterrence" undermined by perceived declining US power and new investments in Pershing II missile and B-2 bomber.
+
+* 1983 was the most dangerous moment since 1962, but Reagan achieved rapport with Gorbachev and reached arms control deals.  H.W. Bush unilaterally shrank nuclear stockpile and abolished SAC.  
+
+* Global Strike Command was created in 2009.  US has about 4,650: 300 assigned to long-range bombers, 500 to Minuteman ICBMs, 1,150 to Trident submarines, 200 stored with European allies, and remainder in reserve near Albuquerque.  
+
+Accidents
+
+* Categories:  Empty Quiver: loss, theft, seizure.  Bent Spear: minor damage.  Broken arrow: serious explosion.
+
+* None of the 70K warheads built by the US has detonated, though due to luck as much as design.  Have been several hundred accidents, most commonly:
+
+    * Ground/runway fires:  Morocco, Lake Charles, LA; Jackson Township, NJ; Suffolk, England; Medina TX; Kokomo, IN; Grand Forks, ND.
+
+    * ICBM explosion: Thor Johnston Island.  Minuteman Ellsworth AFB, SD.  Titan II Damascus, AK.  Jupiter Italy (lightning).
+
+    * Plane crashes/collisions:  Goldsboro, NC; Abilene, TX; Hardinsburg, Kentucky; Yuba City, CA; Cumberland, MD; Torrejon, Spain; Greenland.
+
+    * Accidental bomb drop:  Mars Bluff, SC.
+
+* Damascus Accident: 18 Titan II missile complexes in AK, each 7-10 miles away from the others.  Launch required two keys, commander and deputy each had revolver.  Once launched, complex could not destroy midflight or launch another.  Complex 373-4 had already been site of 1965 fire killing 53 when welder hit temporary hydraulics line.  In September 1980, worker dropped socket which punctured stage I fuel tank.  Pressure in oxidizer tank was rising, fuel tank dropping, risking a rupture.  After 12 hours of paralysis and bureaucratic infighting, sent in two men for dangerous mission.  On way out, commander suggested turn on ventilation fan which sparked blast.  Rocket stages exploded in sequence, blasting open silo door and raining concrete for miles.  One died, several other injuries but warhead did not explode.  USAF reports blamed heroic individuals, but retired Titan IIs a year later.  Should have opened silo door, acted quicker, not turned on fan, not evacuated disaster response team, and not delayed rescue helicopter.
+
+
+## Daniel Immerwahr: How to Hide an Empire
+
+BLUF: While most Americans prefer to believe otherwise, the US has been an imperial power through ownership of colonies and the subordination of other races.  We often sugarcoat this ugly history by eventually granting independence (e.g. Philippines) or at least special status (e.g. Puerto Rico is "commonwealth").
+
+Founders feared expansionism would create chaos, but created federally administered "territories."  In the 1830s, the USG stopped prosecuting squatters and began giving away parcels of public land as “homesteads.”  The Daniel Boone pioneer image became wildly popular.  Native American land was whittled down to present day Oklahoma (Choctaw word meaning “red people”).  
+
+* 1857-63: Claimed 59 uninhabited "Guano" islands in the Caribbean
+
+* 1867: Bought Alaska from Russia.
+
+* 1880s: Grant tried to buy Dominican Republic, but Congress opposed.
+
+* 1898-1900: Won/bought Spain’s overseas empire (Philippines, Puerto Rico, Guam) and Hawaii, Wake Island, American Samoa.  Most of these "colonies" were ever slated for statehood.
+
+* 1917: Bought U.S. Virgin Islands
+
+Strong racism against locals (or "savages").  In addition to slaughter/victimization in world wars, used Philippines and Puerto Rico as medical laboratories.  By WWII, territories made up 20% of US landmass (and over 9M people).  While Japan attached Pearl Harbor it also attacked the Philippines, Guam, Midway, Wake—and the British colonies Malaya, Singapore, Hong Kong, and Thailand.  
+
+After WWII, Americans made historically unprecedented decision to give up land (though driven by impact of technology on power as much as US magnanimity).  
+
+US today remains a "pointillist empire," with specks of land around the world serving as military bases, staging grounds, detention facilities, and torture sites (US has 800 overseas bases, Russia has 9, most countries have 0).  
+
+<!--FAIRLY ENGAGING STYLE BUT LONG/TOO MUCH DETAIL FOR CASUAL READER; SOMETIMES WANDERS FAR AFIELD FOR MEDIOCRE ANECDOTES.  ALL EXPANSIONIST POWERS (E.G. ISRAEL TODAY) FACE "PICK TWO" TRILEMMA WITH DEMOCRACY, WHITE/JEWISH MAJORITY, EXPANSION.-->
+
+## Colin Jost: A Very Punchable Face
+
+Like Pete Davison, from Staten Island.  Saw speech therapist as child.  Went to Regis High School in NYC (2hr commute by bus, ferry, subway), competed in swimming, speech & debate.  Mother longest-running chief medical officer of FDNY and among the first responders to 9/11.  Harvard ’04 (concurrent with Zuckerberg, Buttigieg); walked on rowing team one year with Winklevi twins.  Majored in Russian & British literature, and received grant to live in St. Petersburg to translate poem but got homesick.  Focused on Harvard Lampoon (rejected twice but became President); housed in castle built by William Randolph Hearst.  Post-graduation moved home and worked at local newspaper; story on local racoon who got CPR but had to be put down reached front page, ahead of priest sex abuse.
+
+Hired at SNL in 2005.  Cadence: Monday pitch meeting, Tuesday writing, Wednesday table read, Thursday rewrite, Friday rehearsal/filming, Saturday show and two after-parties.  Show is live but little/no room for improv because timing and camera angles all predetermined.  Concurrently toured as stand-up.  Broke hand partying with Chicago Blackhawks, nearly drowned surfing with Jimmy Buffett.  Wrote Brett Kavanaugh Cold Open; Damon flew from CA without even seeing the script.  First season on Weekend Update was panned, but met acting coach and found stride with Michael Che.  Emmy hosting impossible because everyone is hungry, nervous, upset, and tired.  
+
+## Jim Comey: A Higher Loyalty
+
+Ethical leaders have kindness to leaven toughness, a balance of confidence and humility, and empathy.  They don’t run from criticism and accept they have flaws.  They see beyond the short-term.  They laugh but don’t yell or ask for loyalty.  They use affection and guilt to motivate.  Most importantly, they have values (e.g. truth, integrity) which provide external reference points for decisions—especially when there is no good or easy option.
+
+* Grew up in Yonkers (near Bronx), moved to Allendale, NJ and was held at gunpoint at 17 when "Ramsey Rapist" robbed his house.  Stocked shelves in grocery store, where accidentally spilled 24 gallons of milk.  Graduated W&M in 1982 (pre-med, religion); UChicago Law in 1985.
+
+* In 1987, joined SDNY as AUSA for Rudy Giuliani (egocentric, but rockstar).  Worked mail theft, drug dealing, bank robbery, fraud, arms export, racketeering, murder, and helped dismantle La Cosa Nostra ("this thing of ours") / John Gambino.  
+
+* In 1993, moved to Richmond to more comfortably raise family.  As AUSA EDVA, served as lead prosecutor in case concerning 1996 Khobar Towers bombing.  Lost a son Collin to bacteria called Group B streptococcus (wife Patrice let siblings say goodbye and traveled country raising awareness).
+
+* In 2001, Bush appointed US Attorney for SDNY.  Criminal intent difficult to prove in financial crime, but took pains to ensure Martha Stewart wasn’t treated differently for being rich/famous (our justice system is an honor system—people must fear the consequences of lying or it won’t work).  
+
+* In 2003, appointed Deputy to AG John Ashcroft.  DOJ OLC informed Comey top-secret NSA program STELLARWIND far exceeded legality.  Heated exchanges with VP Cheney/David Addington.  When Ashcroft collapsed with acute pancreatitis, Comey and Mueller rushed to GW Hospital to stop Andy Card/ Al Gonzalez from pressuring Ashcroft to sign off.  Bush reauthorized anyway, Comey drafted resignation and mentioned Mueller would resign too; Bush eventually signed new order which incorporated OLC’s requested changes.  After Abu Ghraib, realized DOJ needed to change stance on EIT (wife frequently reminded "don’t be the torture guy"), tried to kick off NSC deputies meeting but was elevated to principals only.
+
+* In 2005, after Bush replaced Ashcroft with Gonzalez, Comey resigned to become Lockheed Martin General Counsel (also needed money to send five kids to college).  In 2010, moved to Bridgewater Associates.  
+
+* In 2013, Obama appointed FBI Director (Comey surprised given Republican affiliation).  Obama requested only competence and independence from the FBI—no help on policy.  Respected Mueller’s post-9/11 reshaping of the FBI (prevention of splitting law enforcement/intelligence), but Comey set new tone by wearing blue shirt, no tie.  Added Quantico curriculum with essay on illegal MLK surveillance (and kept memo on desk under glass).  Started each day reviewing FISA requests and classified intelligence briefing.  
+
+* Law enforcement and the black community had long been separate parallel lines—closer in some communities, farther apart in others—but those lines were arcing away from each other.  At Georgetown, spoke on implicit bias and that law enforcement was not the root of the problem but helped enforce status quo.  Later, upset White House by suggesting viral video culture may account for increased murder rate; but had productive exchange of perspectives with Obama.  After Snowden revelations, watched adversaries move their communications out of reach.
+
+* Midyear Exam was not focused on Clinton’s private server, but her mishandling of classified information (~36 secret topics, 8 top secret topics).  Paled in comparison to 2011 Petraeus’ intentional leaks, which only earned him $40K/2 years’ probation.  DOJ policies had exceptions to no-comment policy for investigations of extraordinary public interest or activity apparent to public.  Clinton lawyers delayed access to laptops used for sorting.  With AG Lynch politically compromised, felt compelled to hold July 5 briefing. 
+
+* Unwritten norm DOJ/FBI should avoid any interference in the run-up to the election.  Weiner criminal team noticed hundreds of thousands of emails from Clinton’s personal domain—until then FBI only knew of 60K—including from her first months as SecState, where she might have been advised against using personal email.  Team didn’t raise until late October—options were speak ("really bad") or conceal (“catastrophic”).  October 28 letter to Congress leaked in ten minutes.  Custom FBI software expedited review to finish two days before election.  Hindsight: “I would do the same thing again, given my role and what I knew at the time.  But I also think reasonable people might well have handled it differently” (e.g. special prosecutor—but major delay?, waited for more review before letter—but leak?).  <!--POSTMORTEM DOESN’T REALLY ADDRESS “ORIGINAL SIN” OF JULY 5 CONFERENCE.-->
+
+* In addition to WH concerns of appearing partisan, Comey worried that publicizing Russian tampering with the election could further Russia’s objective of sowing doubt in the outcome.  Briefed results of post-election ICA to WH, Gang of 8, and president-elect team.  Unconcerned about implications, Trump team (Priebus, Pence, Spicer) immediately and openly began discussing how to spin to their favor (e.g. imply interference didn’t impact result).  For fear of "pulling a Hoover" in discussing Steele Dossier, Comey prepared to inform Trump he was not personally under investigation.  Series of uncomfortable encounters with Trump, notably awkward hug at post-inauguration Blue Room reception, private dinner in Green Room, Valentine’s Day Oval Office meetings.  Trump blabbered through endless topics, but an increasingly concerned Comey interjected to call out comment equating Russia and US as killers (silence = complicity).
+
+* Fired via cable news while speaking in LA, McCabe authorized plane ride home infuriating Trump who saw it on TV (told McCabe: "Ask your wife how it feels to be a loser" and hung up).  US Attorney in Baltimore, Rod Rosenstein had recently praised Comey for his handling of Clinton case, but authored pretext for firing.  Only once before had FBI director been fired before end of term (Sessions in 1993 over ethical improprieties).  Was ready to recede from public eye until Trump tweeted about tapes, which triggered a thought that a special counsel might access tapes so had friend leak unclassified “I hope you can let Flynn go” memo.
+
+Anecdotes: 6’8", once bumped head on Oval Office doorframe and had to tilt head in different directions throughout meeting to keep blood inside hairline.  Bush had sense of humor—had Comey pause his Oval Office CT brief so they could watch the helicopter kick up snow on the press corps.  In the grueling days after 9/11, Mueller’s wife prodded him to make sure his people were holding up under the stress.  Early the next morning, he dutifully telephoned key members of his staff asking, "How’re you doing?”  When each offered the perfunctory reply of “’Fine, sire” he replied “Good” and hung up.  FBI has strong gun culture; vast majority of agents carry.  2/3 of FBI employees are not agents; annual attrition is 0.5%.  Comey waited in line in cafeteria; chatted those around him.  After asking one computer server expert about his work, guy replied, “how ‘bout yourself?”  Comey: “I’m the director.”  Guy (bobbing his head side to side): “Director of…?”  Comey: “Dude, I’m the director of the FBI.  You work for me.”  Awkward pause.  Guy: “You look different online.”  Where Bush and Obama sat at chair in front of fireplace, Trump preferred to be behind his desk, a mark of insecurity.  “Green table” refers to briefing Congress.
+
+<!--MORE MEMOIR THAN TREATISE ON ETHICAL DECISION MAKING, BUT PROVIDES WINDOW INTO DIFFICULT DECISIONS SENIOR POLICYMAKERS WRESTLE WITH. -->
+
+## Pete Strzok: Compromised
+
+As the son of international development worker, spent childhood in Iran West Africa, and Haiti.  Served in the 101st Airborne and FBI from 1996-2018.  First two years as CT analyst and remainder as CI agent, rising to become Deputy of the Counterintelligence Division.  
+
+**_BACKGROUND_**: Counterintelligence includes all efforts to thwart an adversary’s secret intelligence work (can be proactive/reactive).  Most CI is a series of loose ends with no conclusion ("wilderness of mirrors").  After 9/11, took custody of hijackers’ car and did interviews at Logan Airport.  Worked on Ghost Wars, the 2010 arrest of Russian illegals in MA, NY, NJ, VA.  Part of 40-person Boston arrest team of Andrey Bezrukov & Elena Vavilova; local policeman accidentally obstructed the caravan.  Promptly traded illegals for spies in Russia—including Sergei Skripal, who was poisoned in 2018.  The Chelsea Manning leak thrust WikiLeaks into the global stage and threw them into Russia’s orbit (Julian Assange received a show on the recently established RT America).  Learned how Russia mastered “active measures” by manipulating the narrative of their invasion of Chechnya.  Also worked leaks to then-NYT reporter James Risen.
+
+**_MIDYEAR EXAM_**: In 2014, became ASAC for counterespionage/counterproliferation at WFO (global jurisdiction).  Congressional Benghazi investigations forced DoS IG to release Clinton emails, which noticed some information was classified.  Strzok & senior analyst ("Derek") set up team in “bubble” at HQ.  Clinton only used blackberry, but used several different servers (including one managed by private company PRN).  Tedious review required originating agencies to say if classified (also encountered later “upclassifying”).  Damage assessment concluded private servers were actually probably less vulnerable to foreign hacking than DoS.  Nearly finished, Clinton’s attorneys stonewalled on laptop access, delaying investigation months.  AG Lynch and President Obama comments on Clinton “matter” already poor optics, but Lynch’s private meeting with Bill Clinton convinced senior FBI leadership to support publicly announcing results.  This was not without precedent (Michael Brown, Jose Padilla), though a mistake in hindsight.  Comey changed “gross negligence” to “extremely careless.”  Comey made coins to congratulate team, but when political climate intensified never distributed.  // On Sept 28, NYO casually mentioned Anthony Weiner laptop had thousands of emails.  A miscommunication between WFO and NYO supervisors led to three week delay.  With indications the e-mails could lend insight to Clinton’s mindset, FBI leadership decided they needed a search warrant.  Comey, an ethical and gifted communicator who welcomed debate, listened to arguments on both sides and decided concealment would be the worst outcome.  Oct 28 letter to Congress immediately leaked.  Didn’t expect to finish review before election but went faster than expected and cleared Clinton two days before election.
+
+**_CROSSFIRE HURRICANE_**: Podesta email hacked in March 2016.  In July, Trump publicly announced "Russia if you’re listening…" Within five hours, the Russians launched a new cyber attack on Clinton’s server.  After, Australian ambassador told FBI earlier that spring, an ambitious Trump aid George Papadopoulos mentioned Russia offered damaging information on Clinton.  While conducting interviews in Europe, Strzok opened case with unknown subject (UNSUB) and chose name from Rolling Stones song.  Focused on members with known Russia ties: Papadopoulos, Carter Page (desire for money, commencement speech), Paul Manafort (Ukrainian oligarchs, shared polling data), Michael Flynn (sat next to Putin at RT dinner).  Page, already of FBI interest, was the only one with cause for FISA warrant (apart from one troubling instance of modifying an email, Strzok attributes mistakes uncovered by IG to moving too quickly under extreme secrecy).  In September, FBI received first reports from Chris Steele (former MI6 but working for Fusion GPS/Marco Rubio); though most was impossible to prove/disprove.  FBI Cyber Division was focused on election infrastructure until a private expert alerted of Russian social media activity.  Obama White House remained totally paralyzed for fear of appearing partisan (Susan Rice had Comey write op-ed, but never published).  Finally put out anodyne statement on Oct 7 (3pm), but drowned out by Access Hollywood tape (6pm) and then WikiLeaks posting of Podesta emails (6:30pm).  Trump Jr. alluded to emails in private texts and retweeted Russian bots (@Ten_GOP).  //   Dec 29, Obama expelled 35 Russian intelligence officials and closed property in MD and NY diplomats used to vacation.  At request of Flynn via Amb. Kislyak, Putin uncharacteristically did not retaliate.  DNI Clapper asked Comey to address Steele allegations privately after intel chiefs briefed President elect; Trump responded “Which year?...there were no prostitutes.”  After AG Sessions lied about contact with Kislyak in confirmation hearings, he joined investigation.  After Flynn’s Kislyak call leaked, Strzok interviewed Flynn in West Wing where he repeatedly and inexplicably lied (while Trump decorated the Oval Office).  Papadopolos lied to agents in Chicago.  After Pence lied on Face the Nation, Flynn resigned and Trump told Comey “I hope you can let this go.”  Comey compiled seven secret memos of his uncomfortable interactions with Trump, but did not initially share with Strzok to avoid influencing the team.
+
+**_SPECIAL COUNSEL_**: Trump fired Comey May 9, 2017 and told Russian Foreign Minister Lavrov "I faced great pressure because of Russia.  That’s taken off" (and reiterated to Lester Holt).  Soon emerged Trump asked DAG Rod Rosenstein to write memo for pretext.  Rosenstein an enigma/“survivor” (helped fire Comey but appointed special counsel, offered to wear wire/invoke 25th amendment but stood behind Barr).  In crisis, FBI HQ scrambled to preserve evidence from interference (Strzok put Comey memos into Sentinel case filing system).  Reversing a decision from January, FBI opened case on Trump personally and McCabe briefed Gang of Eight in Congress, who expressed no objections.  Comey leaked one of his memos to prompt appointment of special counsel (ironically, Comey was then scolded for possible classified information in his memos).  //   Bob Mueller and Deputy Aaron Zebley (W&M grad) recruited attorneys; Strzok brought over FBI investigators.  Moved at a blistering pace, expanding scope to others (e.g. Michael Cohen) and conducting 500 interviews, 2800 subpoenas, 500 search warrants.  Press sometimes beat Special Counsel (e.g. NYT uncovered June 2016 Don Jr. Trump Tower meeting with a Kremlin-connected lawyer).  In early July, Trump began “witch hunt” attacks, threatening to fire Mueller.
+
+**_DENOUEMENT_**: Republican Congressmen demanded FBI IG investigate Midyear, including texts sent from Bureau-issued devices.  Strzok’s included disparaging remarks about Trump and Mueller asked to leave.  Bureau reassigned to HR, where oversaw Puerto Rico hurricane response.  Separately, McCabe was fired hours before he was eligible to retire after he initially failed to disclose to the IG his authorization to release information to the WSJ about the FBI’s investigation of the Clinton Foundation.  Papadopoulos signed a plea agreement, Manafort and Rick Gates received 12-count indictments, and Flynn pled guilty to lying.  In December 2017, someone (likely DOJ political appointee) leaked Strzok’s texts to the NYT/WaPost.  According to Google, Strzok accounted for 15% of combined daily airtime of Fox and Fox Business News.  Trump posted 100+ tweets accusing him of treason; FBI Security Division began monitoring threats against Strzok’s family.  FBI IG Horowitz initially found no fault in Midyear, but upon discovering Strzok’s "We will stop it" text concluded he couldn’t discount bias in the investigation.  Strzok was placed on administrative leave and eventually fired.  Testified in both closed and open sessions of Congress.  Special Counsel determined he couldn’t charge sitting president but laid the roadmap for Congress; unfortunately Barr distorted (to the point Mueller objected) and Mueller’s style did not suit Congressional testimony format.  Nearly every action Trump took (WikiLeaks praise, disparagement NATO, false moral equivalence) aligned with Russia’s strategic interests.  Every lie Trump told gave Putin more kompromat (in addition to questionable business activities, sexual escapades, Trump Foundation).  <!--DOES TRUMP CARE ABOUT THE TRUTH ENOUGH TO BE VULNERABLE TO KOMPROMAT?-->
+
+**_BUREAU_**: A good interview should feel like an informal but purposeful chat—natural and direct, not awkward and disjointed (avoid panels).  HUMINT is frequently imprecise, ephemeral, and sometimes completely unreliable.  Be wary of information intended to influence as well as inform.  Arrests are the most fun; but senior agents should avoid.  When traveling by plane, agents usually sit separately to minimize attention.  
+
+<!--EXCELLENT FIRSTHAND ACCOUNT FROM THE CENTER OF THE 2016-2020 POLITICAL CHAOS. GOOD REMINDER NOT TO USE WORK EQUIPMENT FOR PERSONAL.-->
+
+## Yuval Noah Harari: Sapiens
+
+* 4,500,000,000 years ago: Formation of Planet Earth
+
+* 3,800,000,000: Organisms Appear
+
+* 175,000,000: Pangea begins to break apart
+
+* 6,000,000: Humans and Chimpanzees Split
+
+    * Because sapiens are born underdeveloped relative to other species, they can be educated and socialized far more.
+
+* 70,000: Cognitive Revolution and emergence of storytelling
+
+    * Even with larger brains, sapiens remained marginal creatures ("underdogs of the savanna") until they domesticated fire and learned to cooperate. 
+
+    * Many species communicate, but sapiens do so more frequently and sophisticated (can maintain relationships with ~150, acquaintances with ~500, recognize on street ~1,500).
+
+    * Our modern religious, political, and economic systems aren’t any different from ancient tribes’ imaginary spirits—they’re a fiction constructed to serve a purpose.
+
+* 30,000: Extinction of Neanderthals leaves only Homo Sapiens (Stone Age)
+
+    * Sapiens lived in diverse groups of ~100; not nuclear families (in Sudan today, Bari Indians believe more sperm creates better children so women have sex with as many men as possible).  They migrated based on season, animal migration, and plant cycles (foraging was much more common than hunting).
+
+    * With a wholesome diet, relatively short week, low instance of disease, and exquisite knowledge of the environment, not a bad time to live.  About 5% died from violence, roughly the same as the 20th Century (1.5% today for war/crime).  Life expectancy (30-40) pulled down largely by infant deaths. 
+
+* 12,000: Agricultural Revolution, domestication of plants and animals, and population boom.
+
+    * Sapiens made it to Australia, then crossed Siberian land bridge to Americas.  In Australia, sapiens hunted 23 of the 24 100lb+ species to extinction used fire to reshape the ecosystem.
+
+    * Humans fear spiders more than cars (even though cars kill more humans) because evolution hasn’t taught us to be scared of cars yet. 
+
+* 5,000: First Kingdoms, script and money.  Polytheistic religions.
+
+* 500: Scientific Revolution
+
+* 200: Industrial Revolution
+
+## Michael Cohen: Disloyal
+
+Cohen already millionaire as personal injury lawyer and taxi medallion/property businessman.  Ran unsuccessfully for NYC council and state senate.  Don Jr. introduced to Trump in 2006, quickly worked his way to EVP & Special Counsel as a fixer (like Roy Cohn did for Joe McCarthy during Red Scare, then Donald Trump during DOJ discrimination probes).  Despite his family’s pleadings, Cohen couldn’t quit Trump Organization, obsessed by cult of personality and lust for glamor/power.  Death threats earned him NYPD permission for concealed carry, appealing to his mobster self-image.  After fake spokespeople John Barron (1980s), Johnny Miller (1990s), Cohen adapted that role, constantly calling journalists.  Anecdotes:
+
+* Cohen’s first job was to aggressively close Trump Mortgage, firing all on spot and seizing documents.
+
+* Cohen had the Liberty University CIO manipulate a CNBC poll of leading business executives to push Trump from 187th place to 9th.
+
+* Tried to buy the Buffalo Bills for $1B, but no banks were filling to loan Trump that amount of money.  Trump regularly inflated his assets to win loans and reduced them for taxes (was really no more than $2B).
+
+* In auction, used friend to bid up the price of his portrait to $60K, repaid friend from Trump Foundation using a charitable tax deduction.
+
+* Acquired Trump Winery in Charlottesville from his friend by putting a lien on adjacent land and building a massive "Trump" wall nearby so he could buy it for cheap.  Put Eric in charge.
+
+* Trump was cheapskate who regularly ripped off contractors.  He selected cheap paint for Doral Golf Course, then refused to pay.  Cohen threatened lawsuits/boycotts until he reached CEO of Benjamin Moore and negotiated a $300K credit.
+
+* Trump deplored Barack Hussein Obama long before WH Correspondents dinner.  Regularly asked Cohen to "Name one country led by a black person that isn’t a shit-hole."  Hired an Obama actor to fire.  Skipped 2012 run because of Apprentice, but Birtherism revealed potential.
+
+* Trump insisted on pre-approving all Comedy Central roast jokes; his wealth, bankruptcies, and hair were off-limits.
+
+* National Enquirer publisher David Pecker paid $150K to kill story of 9-month affair with Karen McDougal (Playboy); Trump stiffed him on reimbursement.  Trump offered Stormy Daniels a spot on The Apprentice in exchange for sex; Daniels originally denied but saw monetary opportunity during campaign.  Cohen had to pay $130K out of pocket, and was repaid with fake legal fees (Trump: "$130K is less than I’d have to pay Melania, although I think my supporters would think it’s cool I slept with a porn star").
+
+* Trump: "Look at that piece of ass."  Cohen: “That’s my daughter.”  Trump: “When did she get so hot?”  Then asked her to kiss him.  Cohen: “Did you cheat?”   Hannity: *sigh* “There are so many women in the world.”
+
+* Trump admired Putin because he was a trillionaire, the richest in the world, and controlled 25% of the Russian economy (wanted that for himself).  Mafia-tied acquaintance Felix Sater initiated effort to build 120-story tower in Red Square Moscow with a penthouse for Putin.  Ivanka was hands off until she heard there were plans for a 20K ft2 "Ivanka Spa."  
+
+**_Campaign_**: Three kids asked Cohen to talk Trump out of running.  Trump hired alcoholic Lewandowski as campaign manager because he was cheapest; fired after floating allegations Kushner was gay.  After escalator announcement, Trump quickly developed persona at rallies, which thrilled him like a drug.  David Pecker invented false attacks on opponents (e.g. Ted Cruz’s father was involved in JFK assassination, Ben Carson left sponge inside patient, Marco Rubio had cocaine connection, Carly Fiorina had a "druggie daughter").  More than nationalism or Russia or Comey, the key to Trump’s win was the media coverage; Trump’s chaos made great stories and helped ratings (though no publication mattered more to Trump than the NYTimes).  After first debate, Megyn Kelly received death threats, so Ailes and Trump negotiated a peace accord.  After Cohen mentioned Trump needed to broaden his coalition, token blacks appeared behind him at each rally.  Clinton campaign rented out 500K ft2 Javits Center, Trump hired drab ballroom at Marriott in recognition of fact he expected to lose.  
+
+**_Post-Election_**: After election, Trump promised personal attorney position but Cohen drifted from inner circle.  After FBI agents raided Cohen’s house, Trump called to say he had his back; but it was the last time they ever spoke.  Cohen pled guilty to eight counts to avoid indicting his wife; got 36 months in white collar prison upstate NY.  Ate next to Mike the Situation for Jersey Shore; received a month solitary confinement during COVID.
+
+**_General_**: Trump strongly narcissist with a knack for identifying sycophants.  Always looking for how any situation can benefit himself.  Brilliant at manipulating his public image, with no regard for truth.  Trump prone to listen to whomever spoke last.  Hated firing people—always had others do dirty work.  Trump and Cohen both teetotalers.  Cohen synced to Trump’s contacts and had access to Twitter.  Trump ok at golf—straight/lucky drives but regularly cheated around the green.  Had scalp scars from a failed 1980s hair-implant operation; current look required three-step procedure: (1) flop up of hair from the back, (2) flip of the resulting overhand on his face, and (3) flap of his combover on the right side.  Three oldest Trump kids were human and starved for his love.  They were humiliated when egomaniacal father humiliated them by openly cheating on their mother; all were trapped in a cycle of seeking his approval.  Trump regularly said "Don has the worst fucking judgment of anyone I have ever met" and he was reluctant to bestow his name. Ivanka sobbed when Jared broke up her because Ms. Kushner wanted an Orthodox daughter-in-law.  Don Jr and Eric embarrassed their father by posing with dead endangered animals to troll PETA.
+
+## Bradley Hope and Tom Wright: Billion Dollar Whale
+
+**_Early Life_**: Jho Low grew up minority ethnic Chinese Malay in Penang at the mouth of the Malacca Strait.  Father became wealthy investor during Asian tiger boom and sent Low to UK boarding school to mingle with global elites.  At Wharton, cultivated persona as "Prince of Malaysia" by spending beyond his means and plagiarizing articles in the school newspaper.  Built network to include Middle Eastern royalty (e.g. Ambassador Otaiba) and befriended Riza Aziz, stepson of Najib Razak (incoming PM of Malaysia).
+
+**_Fraud_**: Created 1MDB investment fund under Najib, mimicking Mubadala in UAE which blurred boundaries between state and personal wealth.  Declined official position but carefully orchestrated increasingly large investments to build credibility while skimming billions for himself: (1) PetroSaudi, run by Saudi Prince (2) IBIC, run by Emirati Khadem al Qubaisi.  With help from ambitious young banker at Swiss bank BSI, made debt to PetroSaudi disappear through a series of convoluted transactions that involved purchase and sale of stake in worthless drill ship subsidiary to a shell company in the Cayman Islands. Thus, 1MDB made profit on paper and survived audits.  Some on 1MDB BoD balked, but ME connections provided false legitimacy and Malaysia PM provided political cover.  Increasingly looking abroad after 2008, Goldman Sachs/Gary Cohn erroneously viewed 1MDB like Singapore’s legitimate Temasek Holdings and helped sell billions in bonds.  Malcom Turnbull’s son Alex raised internal concerns at Goldman but was told to stand down.  Low also set up imitation companies with nearly identical names to trick investors (e.g. Aabar Investments). Low diverted millions in bribes to secure PM Najib's 2013 re-election and used the loosely regulated art market and Geneva Freeport to move/store wealth—in addition to jewelry and real estate.
+
+**_Lifestyle_**: Low had compulsion to spend (as much as $1M/night) to attract attention. With significant fees, Low brought dozens of A-list celebrities and models to his global parties (Leo DiCaprio, Paris Hilton, Jamie Foxx, Brittany Spears, Busta Rhymes, Kanye West, etc.) and dated Australian supermodel Miranda Kerr.  Warner Brothers passed on DiCaprio/Scorsese’s film Wolf of Wall Street, so Low created own production company Red Granite to bankroll (Jordan Belfort himself suspected foul play).  Low enjoyed the attention/recognition of lavish spending rather than the partying itself. 
+
+**_Downfall_**: Massive Goldman profits, suspicious financing of Red Granite, and whistleblowers caught journalist's attention.  Low hired Edelman PR to tamp down negative coverage and rebrand himself as a philanthropist. Deutsche Bank, initially following Goldman's footsteps quickly noticed red flags.  Low ordered destruction of all 1MDB documents in Malaysia—but there were multiple copies. At the same time, a disgruntled former PetroSaudi employee leaked 140GB of evidence to a journalist (though he was subsequently strong-armed into signing a false confession the documents were faked).  PM Najib turned strongman as investigations opened in Malaysia, Singapore, Switzerland and—after the brutal murder of a Malay prosecutor—the FBI.  Low took refuge in Shanghai, China loaned $4B to build goodwill, and Najib classified the national auditor's report. But US DoJ hit hard with both civil and criminal charges.  Najib was voted out of office and sentenced to 12 years prison.  Low remains a fugitive hiding in China.
+
+## Robin Diangelo: White Fragility
+
+Definitions:
+
+* Prejudice: Prejudgment about another based on social group.  Includes thoughts and feelings (e.g. stereotypes, attitudes, and generalizations).  All humans have prejudices.
+
+* Discrimination: Action based on prejudice.  Includes ignoring, exclusion, threats, ridicule, slander, and violence.
+
+* Racism: When a group’s collective prejudice is backed by the power of legal authority and institutional control.  
+
+    * Everyone has prejudice and discrimination, but only whites can be racist in the US because there is overwhelming evidence (inequality, mass incarceration, white flight, underrepresentation) that they hold collective social and institutional power and privilege.  Racism is at the societal level and not fluid, so there is no such thing as "reverse racism."
+
+* White Supremacy/Privilege: A culture which positions white people and whiteness as ideal.  In virtually every situation or context deemed normal, neutral, or prestigious, whites belong.  Many whites face barriers (e.g. classism), but not particular to their race. 
+
+<!--IN PRACTICE RACISTS/WHITE SUPREMACISTS ARE MORE FREQUENTLY USED IN THE NARROW SENSE OF BIGOTS/EXTREMISTS.-->
+
+History:
+
+* To reconcile the noble ideology of equality and the cruel reality of slavery (economically valuable), early Americans invented racial inferiority (and bogus "science" to justify it).
+
+* Whites seized on MLK’s line to "be judged by the content of his character and not the color of his skin" because it offered an easy solution: color blindness (pretend we don’t see race).  But ignoring race makes it more difficult to address our unconscious prejudices.
+
+* The Civil Rights Era showed us racists were depraved people who commit intentional acts of racial discrimination (and "racist" became character assassination).  But this allows those who don’t commit intentional discrimination to feel immune from the societal problem.
+
+* While well-intentioned, Black History Month actually reinforces that normal history is white history.
+
+White Fragility:  Whites (even many progressives) are hesitant to acknowledge their race has advantaged them.  Even minimal racial stress triggers a range of defensive moves.  Obstacles include:
+
+* Social taboos against talking about race.
+
+* Belief in individualism, rejection of any generalizations across social groups
+
+* Belief that they can be fully objective and meritocracy explains positions of others
+
+* Investments in a system which benefits them and they’ve been conditioned to see as fair.
+
+* Guilt over historical injustices
+
+Way Forward:  Acknowledge we don’t live in a post-racial society and building racial sensitivity is a life-long effort.  Racism is complex, unavoidable, and all of us have blind spots.  Comfort perpetuates the status quo, but it can be interrupted by demonstrating curiosity, humility, vulnerability, and growth.  Get educated on race relations, put yourself in diverse environments, and build relationships.  Avoid defensive responses like color blindness (e.g. "I don’t see race") or color celebrate (e.g. “I work in a very diverse environment”).  If you do offend someone, breath, listen, reflect, and take time.  
+
+<!--FORCEFUL DIAGNOSIS OF THE PROBLEM.  IF PREJUDICE NEVER GOES AWAY, WHAT IS THE OBJECTIVE?  MORE DIALOGUE MIGHT REDUCE OFFENSES, BUT COULD USE MORE GUIDANCE ON IF/HOW WHITES SHOULD BROACH THE TOPIC.  FRAMEWORK HELPFUL BUT SOME ARGUMENTS VENTURE TOO FAR (E.G. WHITES CAN’T REFER TO DANGEROUS NEIGHBORHOODS AS DANGEROUS BECAUSE PEOPLE MAY INTERPRET AS PROXY FOR BLACKS.  WHITE WOMEN CAN’T CRY IN FRONT OF BLACKS BECAUSE HISTORICALLY WHITE TEARS SOMETIMES PRECEDED LYNCHINGS.).-->
+
+## Jeffrey Toobin: The Nine
+
+Supreme Court session runs October – June.  It grants certiorari (hears) ~100-150 of the 7,000 it is asked each year.  Chief Justice chairs conference every Friday, assigns who will write opinion.  Throughout history, many justices were former senators, but recently been from executive branch or academia.  Whereas splits on the Court were once regional or religious, they are now ideological.  While Justices don’t like to consider themselves political beings, winning an appointment takes plenty of political savvy/relationships.  
+
+Federalist Society founded 1980 in favor of judicial restraint, but represented activism in their own way to roll back liberal Warren court rulings.  Bork invented originalism, but his outspokenness on race sunk his nomination.  Thomas’ nomination hearings left him bitter (kept a list in his desk of the 52-48 roll call in his nomination) and silent (no questions for 2006-16).  Though he benefited from affirmative action at every step of his life, he believed it violated a "color-blind Constitution."  
+
+Rehnquist had a single beer and one cigarette at lunch every day; though he was entitled to hire four clerks, he only hired three to suit his weekly doubles tennis games.  In Clinton impeachment, Rehnquist felt he "did nothing in particular, and…did it very well."  Souter, who missed Rehnquist’s funeral because he was unreachable in New Hampshire, kept a low profile and nearly resigned after Bush v. Gore.  Kennedy loved attention, itching to hear Bush v. Gore, and laboring on sections of his opinions which might be quoted in the NYT.  O’Connor, Souter, and Kennedy unexpectedly joined forces to protect Roe in Casey.
+
+Clinton almost appointed Mario Cuomo over Ginsburg (who cleverly looked for cases where laws reflecting gender stereotypes penalized men).  Conservatives looked to energized evangelicals and Jay Sekulow, who "came to Washington to do good and stayed to do well."  Rather than argue under freedom of religion (which was restricted by “Lemon Test”), Sekulow championed use of protection of speech to allow things like prayer in public forums.
+
+2000 Election: Florida vote freakishly close (out of ~6M votes, Bush tallied lead of 327).  Republicans owned governorship (Jeb Bush), Secretary of State (Katherine Harris), and majorities in both houses of legislature, but all members of Florida Supreme Court were appointed by Democrats.  US Supreme Court actually heard two cases (Bush v. Palm Beach County Canvassing Board, Gore v. Katherine Harris).  Justices grasped for a "federal issue," but ultimately swing Kennedy struck down recount on Equal Protection grounds (recount might have produced inconsistencies but, but no single standard—there are different ballots and machines between counties).  Even worse, Kennedy wrote “our consideration is limited to present circumstances” (e.g. no principle, just picking Bush).
+
+Paradox of Bush v. Gore was it sent the Court (Kennedy & O’Connor) in a liberal direction.  Driven by international legal exchanges and a new generation of law clerks, Kennedy decriminalized homosexuality (Lawrence v. Texas) and deemed capital punishments against children unconstitutional (Roper v. Simmons).  O’Connor rebelled on culture war issues (abortion, church-state, gay rights), and dithered on race (e.g. in UMichigan case, arbitrarily ruled affirmative action legal until 2030).  In Rasul and Hamdi, Court upheld rights for Guantanamo detainees.  Scalia hunted with Cheney weeks before ruling in his case.
+
+O’Connor asked to retire, but Rehnquist died first.  John G. Roberts Jr. witty and affable with tailor-made resume (Harvard Law Review, Rehnquist clerk, private practice, Solicitor General’s Office, own Supreme Court practice, DC District Judge).  With support from Cheney (Roberts ruled favorably in Hamdan) and Kavanaugh, beat out Alberto Gonzalez for Rehnquist’s chief seat.  For O’Conner’s seat, Bush appointed personal lawyer Harriet Miers but deemed unreliable by right wing senators, so fell back on originalist Samuel Alito.  
+
+<!--TOOBIN DOESN’T HIDE LIBERAL PERSPECTIVE.  FEARS OF CONSERVATIVE-DOMINATED COURT IN 2007 UNFOUNDED (OBAMA GOT 2), THOUGH NOW TILTING THAT WAY (TRUMP WILL GET 3).  BUSH V. GORE SETS EASY PRECEDENT FOR TRUMP TO LITIGATE 2020.  ORIGINALISM IS OUTRAGEOUS; EVEN JEFFERSON RECOGNIZED SOCIETY WOULD CHANGE.  DIDN’T REALIZE MIRANDA WAS CONTROVERSIAL.-->
+
+## David Eggers: The Monk of Mokha
+
+Along with Ethiopia, Yemen claims to be the birthplace of coffee, and its seeds made their way to start booming industries in India, Brazil, French Tunisia, and Dutch Java.  Although it has an ideal microclimate and high elevation, it lost its position due to civil war/GWOT and focus on qat—a mild narcotic more profitable for farmers.
+
+Coffee is a fruit.  Starts with a 6-10 foot bush/tree which produces cherries twice a year.  When the cherries turn red they are picked and processed (wet or dry) for the ripe green beans.  These are roasted into the beans we’re familiar with.
+
+Waves of coffee:
+
+1. Mass Production (e.g. Maxwell House, Folgers) – 1970s
+
+2. Reaction to Dropping Prices (e.g. Peet’s, Starbucks) – 1990s
+
+3. Specialty, direct-sourced (many independent) – 2000s
+
+Coffee Drinks:
+
+* Espresso: Concentrated
+
+    * Macchiato: Espresso and foam
+
+    * Latte / Cortado / Flat White: Espresso and milk
+
+    * Americano: Espresso and water
+
+* Café au lait: Coffee, Milk
+
+* Mocha: Coffee, Milk, Chocolate
+
+<!-- EXCITING NARRATIVE SEAMLESSLY MIXES CURRENT EVENTS, HISTORY, BUSINESS, SCIENCE (THOUGH MAYBE NOT [FULL STORY](https://sf.eater.com/2018/5/1/17306664/monk-of-mokha-blue-bottle-coffee-lawsuit-dave-eggers)?) HUMOROUS ANECDOTES ON CULTURAL DIFFERENCES (E.G. WHAT FOOD ARE YOU ICEBREAKER). -->
+
+## Nate Silver: The Signal and the Noise
+
+* **_Housing Crisis_**: Toxic mix of bad incentives, greed, and asymmetric information.  Speculative and uncreditworthy homebuyers were receiving increasingly dubious loans to flip houses.  Ratings agencies were incentivized to downplay a clear housing bubble.  Policymakers further inflated the bubble with credits for new homebuyers.  Wall Street was massively leveraged, trading about $50 for every $1 in a mortgage.
+
+* **_Politics_**: TV pundit predictions are historically wrong as much as right—and political scientists aren’t much better.  Often too close to the stories to be unbiased and incentivized to make bold, overconfident predictions.
+
+* **_Baseball_**: The world’s richest dataset, 100+ years of stats with relatively few problems involving complexity and nonlinearity.  Silver used Bill James’ "similarity" scores to predict player development.  Still need scouts too (assess mental tools).
+
+* **_Weather_**: A success story, forecast accuracy continues to improve.  Complex, but more deterministic than probabilistic (e.g. quantum).  Computers bad at reading pictures, but can run complex models.  NWS > Commercial Forecasts > Local Meteorologists; because people notice failure to predict rain more than a false alarm, forecasters err on predicting rain (historically rains 5% of time they say 20% chance).
+
+* **_Earthquakes_**: Impossible to predict with precision, but can forecast likelihoods.  Weather forecasters have a better theoretical understanding of the atmosphere than seismologists do of the earth’s crust.  
+
+* **_Economy_**:  Economists overconfident about their ability to predict; challenges include: (1) hard to determine cause and effect (2) economy always changing; flush with feedback loops and human/political dependencies (3) despite 45,000 published statistics, data is noisy.
+
+* **_Gambling_**: Successful gamblers are not cigar-chomping mafiosos, but wonks who view the future as speckles of probability, flickering upward and downward to every new jolt of information (which they are constantly scraping for competitive edge).
+
+* **_Chess/Poker_**: In chess, nearly innumerable number of board positions, though computer has advantage during endgame when probabilities are finite.  Professional poker players aren’t worried about counting cards, but making probabilistic judgments about potential opponent hands and staying unpredictable.  
+
+* **_Financial Bubbles_**: Few investors beat the stock market over the long run.  High overall P/E ratios (>40:1) indicate an overvalued market, but bubbles still take time to pop (investors short-term incentives, capital restraints, shorting is risky).  Free-market capitalism is the worst economic system ever invented—except for all the other ones.
+
+* **_Global Warming_**: Much skepticism is driven by self-interest or contrarianism, but some is scientific—and a diversity of models is good.  Climate change is a long-term problem that may require a near-term solution but our political and cultural institutions are not well-aligned (2-year congressional cycle, quarterly business cycle).
+
+* **_Terrorism_**: 9/11 was largely a failure of imagination.  Like earthquakes, a small number of incidents account for vast majority of deaths.
+
+Recommendations:
+
+* Be adaptable, self-critical, tolerant of complexity, cautious, empirical, and multidisciplinary.  
+
+* Communicate uncertainty and think probabilistically (classes should spend less time on abstract subjects like geometry and calculus and more on probability and statistics).  Use Bayesian Reasoning to continually assess the impact of new information on probability:
+
+Prior Probability of Prediction (x)
+
+Probability of new event if Prediction true (y)
+
+Probability of new event if Prediction false (z)
+
+Posterior Probability of Prediction ( xy / (xy + z(1-x) ) )
+
+* Avoid overfitting, especially when you have a large number of candidate variables applied to a rarely occurring phenomenon.  
+
+* Mix quantitative and qualitative data sources.  Use big data/computing, but augment with human analysis. 
+
+* Aggregate (independent) forecasts are more accurate than individual ones (though not necessarily better than the best individual’s forecast).
+
+* Be aware of predictions that are self-fulfilling (favorable polls build momentum) or self-canceling (e.g. Google routes cars, undermining its own traffic predictions).  
+
+* Don’t mistake the unfamiliar for the improbable.  And don’t ever totally discount the improbable.
+
+* Make a lot of forecasts and learn from your mistakes. Focus on your approach more than outcomes.
+
+## Jonathan Haidt: The Happiness Hypothesis
+
+Positive psychology is a rapidly growing field which seeks to help people find happiness/meaning.  Book draws from ancient ideas, assessed against modern research.  Foundational ideas:
+
+* Divided Mind: Like a rider on an elephant, the conscious/reasoned mind has limited control of emotion/implicit. We tend to focus exclusively on the rider, but the secret of self-improvement is learning to train the elephant.
+
+    * The elephant automatically judges whether we like something, the rider then fabricates reasons to explain it ("confabulation").  And once we accumulate enough evidence a position makes sense, we stop thinking.  
+
+    * The elephant often drives the three biggest decisions we make—what to do, where to live, whom to marry.
+
+    * The elephant is biased towards negativity (feel pains more than equal pleasures).  Three effective treatments: meditation, CBT, medication.
+
+* Reciprocity: The Golden Rule of society, relationships depend on it and salesmen use it against us.  But we are all hypocritical, seeing faults in others but not ourselves (vast majority of American drivers say they’re above average—interestingly, opposite in Japan).  
+
+    * When students are asked to read a case before being assigned a side, they are 20% more likely to reach a settlement. 
+
+    * The instant someone accepts some portion of the blame, anger softens enough to acknowledge the other side, and the other side usually reciprocates.
+
+Elements of happiness:
+
+* Formula: Happiness =  Biological Set Range + Conditions of Life (race, sex, age, disability, wealth, marital status, commute) + Voluntary Activities (meditation, exercise, vacation, learning skill)
+
+    * External conditions do matter, but once you are freed from basic needs in the middle class, the relationship between wealth and happiness becomes smaller.  People who report the greatest interest in wealth and prestige tend to be less happy.  
+
+    * Progress Principle: Pleasure comes more from making progress towards goals than achieving them.  Why learning a new skill (repeated positive feelings) is more enduring happiness than food or sex (once satiated, feel disgust).
+
+    * Adaption Principle: People’s judgement about the present state are based on whether they are better or worse than the state to which they’ve become accustomed.  (Within a year, lottery winners and paraplegics have on average returned to their baseline levels of happiness).
+
+* Love/Relationships
+
+    * Attachment Theory: Children—and adults—need to balance safety and exploration.  
+
+    * Passionate love is strong but finite (fire), companionate love is gradual but enduring (intertwining vines).
+
+    * Having strong social relationships strengthens the immune system, extends life, speeds recovery from surgery, and reduces the risk of anxiety/depression (true for both extroverts and introverts).
+
+* Adversity
+
+    * People need adversity, setbacks, and perhaps even trauma to reach the highest level of strength, fulfillment, and personal development.  Benefits: reveals hidden abilities to overcome, reveals true friends and strengthens relationships, and focuses priorities toward the present.
+
+    * Coping: Consider meditation, cognitive therapy, Prozac, cherish/build support network, and consider religious/spiritual.  Journal 15 min/day: what happened, how you feel, and why you feel.
+
+* Virtues: As you get older, altruism becomes more important than achievement (caring for others is often more beneficial than receiving help).  Work on your strengths, not your weaknesses.
+
+    * Wisdom: Curiosity, love of learning, judgment, ingenuity, emotional intelligence, perspective
+
+    * Courage: Valor, perseverance, integrity
+
+    * Humanity: Kindness, loving
+
+    * Justice: Citizenship, fairness, leadership
+
+    * Temperance: Self-control, prudence, humility
+
+    * Transcendence: Appreciation of beauty, gratitude, hope, spirituality, forgiveness, humor, zest
+
+* Spirituality
+
+    * Demographic diversity (inclusion of all race, ethnicity, sex, etc) is just and important.  Moral diversity (a lack of consensus on moral norms and values) can lead to lawless anarchy.
+
+    * Whether or not God exists, the human mind does perceive divinity and sacredness.  People go to church to achieve collective elevation through love of mankind.
+
+    * The primary obstacle to spiritual advancement is the self: constant stream of trivial concerns (meditation helps).  
+
+So, how do we achieve happiness?
+
+* Happiness is BALANCE.   The Eastern approach to life stresses acceptance and collectivism; the West encourages striving and individualism. Both are valuable.  Happiness requires changing yourself and your world.  Pursuing your own goals and supporting others.   It requires love, work, and a connection to something larger.  It’s not something you find or achieve, but something you set the conditions for and then wait.
 
 ## Greg Lukianoff & Jonathan Haidt: The Coddling of the American Mind
 
@@ -1594,11 +2253,11 @@ Other: NASA beat ELDO to the moon because developed systems management informati
 
 * KGB warned Felix Bloch--a spying US Diplomat--of FBI investigation, revealing another mole besides Ames.  Bloch fired but FBI lacked evidence to charge.
 
-* Robert Hanssen tradecraft and peculiarities (guns, diamonds, opus dei/priest confession, took stripper to Hong Kong, voyeur fantasies). Motives: money (totaled $1.4M, desire to be operative/for excitement, curiosity of KGB, ego)
+* Robert Hanssen tradecraft and peculiarities (guns, diamonds, opus dei/priest confession, took stripper to Hong Kong, voyeur fantasies). Motives: money (totalled millions), desire to be operative/excitement, curiosity of KGB, ego.
 
-* FBI agent Mike Rotchford pitched 27 known KGB offering $1M for info about the mole. Shcherbakov was a former KGB official who had copied the full Hanssen file and was under death threat from the Russian mob. Rotchford lured to NY under art deal and eventually turned for negotiated $7M. 
+* FBI agent Mike Rochford pitched 27 known KGB offering $1M for info about the mole. Shcherbakov was a former KGB official who had copied the full Hanssen file and was under death threat from the Russian mob. Rochford lured to NY under art deal and eventually turned for negotiated $7M. 
 
-* Promoted from DoS liaison to SES computer job to limit access and ease surveillance. Caught at dead drop. Attorney Plato Cacheris struck plea to avert death penalty (IC wanted alive to do damage assessment). 
+* Promoted from DoS liaison to SES computer job to limit access and ease surveillance. Caught at dead drop. Attorney Plato Cacheris struck plea to avert death penalty (IC wanted alive to do damage assessment). Responsible for at least 3 deaths, $22B in damage.
 
 Tangents: Jim Angleton/Golitsyn, Yurchenko double defection, Polyakov betrayal, Brian Kelley false accusal, tunnel under Russian embassy, Platt/Vasilenko friendship.
 
