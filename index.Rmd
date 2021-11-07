@@ -17,46 +17,310 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text below and delete **s before & after titles -->
 
+## Grigory Rodchenkov: The Rodchenkov Affair
+
+Rodchenkov’s mother provided him steroids at age 22 for running. Justifications: everyone was doing it, good for body to recover from intense training. Soviet labs existed to instruct athletes on how to avoid being caught. Types of steroids:
+
+* Anabolic Steroids (e.g. stanozolol): like testosterone, take on a program, help with strength, recovery. 5 month window for testing. 
+
+* Peptides (e.g. HGH): build muscle mass, hard to test for
+
+* Stimulants: common right before competition
+
+Struggled to make money during the end of the Cold War, peddled nutritional supplements. But adroitly managed relationships to win control of Moscow anti-doping lab in 2004. Created RUSADA to appease WADA, but still corrupt. Held powerful position, choosing which athletes to report (would choose a few to disqualify, since 100% clean looked suspicious). 
+
+In 2011, Got caught up in bureaucratic turf wars and was arrested/interrogated by FSKN (Russian drug control agency which hoped to corner the lucrative market of providing low quality steroids to amateurs). Tried suicide but wife saved. 
+
+Two key developments for Sochi operation:
+
+1. Devised cocktail of 3 anabolic steroids with Chivas Regal which was difficult to trace (BALCO taught dissolve first instead of pills/shots)
+
+2. KGB figured out how to open BEREG-kit bottles which held urine.
+
+Deputy Minister of Sport wanted to erroneously disqualify best Ukrainian biathletes, but Rodchenkov refused (risk not worth reward). After 2013 Daily Mail story, WADA suspended Moscow lab accreditation for six months, but pulled off 2014 Sochi operation using mousehole to carefully planned FSB command post. Very few understood the scheme (although athletes likely suspicious why they requested so much clean urine ahead of the games). 
+
+German documentary interviewer ambushed Rodchenkov, drew renewed attention. 2015 Boris Nemtov assassination increased both disillusionment and feeling of solitude. First WADA ("Pound") report identified problem, Rodchenkov fled to LA to stay with US journalist Bryan Fogel.  Kremlin, looking for scapegoats likely assassinated RUSADA friend Nikita Kamaev as he worked on a manuscript. 
+
+FBI served Rodchenkov subpoena as cooperating witness couldn't speak publicly on ongoing investigation before Rio 2016. Nonetheless, wrote a 100-page dossier for the NYTimes, confirmed by a second WADA ("McLauren") report. With some talented lawyers, avoided charges, earned asylum in the US, and now lives under witness protection (likely remains on Kremlin's top 5 hit list). 
+
+Other: Talk aside, no country likes anti doping, it's expensive and generates scandals which eat away at profits.  Sochi was a surprising choice for the winter games, as a large, warm, resort city.
+
+## John Carreyrou: Bad Blood
+
+Elizabeth arrived at Stanford in early Google years, spent a summer in Singapore testing for SARS, wrote patent for patch tests.  Therapy + Diagnosis = Theranos.  Replaced with miniaturized cartridge and reader system ("Edison"), but had to dilute blood, mix with reagents, and keep cool, making tests complex/impossible.  Consistently fired ~15 people per year and others resigned on their own (all were escorted out and forced to sign an NDA).  Elizabeth narrowly survived a 2008 coup and fired those responsible.  Met “Sunny” Balwani on Stanford Mandarin program to Beijing, became lover and number two.  Sunny brought software experience but was a neophyte with engineering (regurgitated jargon like “end effector,” except he thought it was “endofactor”).
+
+Pfizer and AstraZeneca lost interest in early trials, but Walgreens Innovation team hyped, and Safeway completely redesigned store layouts for upscale wellness clinics.   Elizabeth consistently lied to investors, claiming Edison could perform 192 tests instantaneously and cheated on tests.  Sunny often blamed WiFi and had software engineer code program to drag out test rather than give error.  Replaced Edison with "minilab" or “4S,” which in addition to photomultiplier tube, needed spectrophotometer, cytometer, and isothermal amplifier.  Elizabeth fashioned outfits after Steve Jobs, and employees could pick out which chapter of Walter Isaacson’s biography she was reading based on which part of Jobs’ career she was imitating.  Adopted deep voice to be taken seriously in male-dominant Silicon Valley and threw company parties where she claimed to be “building a religion.”  Hired brother Christian and four fraternity brothers from Duke (the “frat pack”).  The most loyal employees were Indians who depended on H-1B visa sponsorship.  Theranos sought loopholes to avoid FDA approvals or lab certifications, but Army Lt. Colonel Shoemaker faced wrath of Mattis in claims Theranos didn’t meet regulatory muster.  Theranos hired legendary litigator David Boies (Microsoft anti-trust, Al Gore 2000 election) to sue all threats, including former Holmes neighbor Richard Fuisz who filed opportunistic patent in 2006 (Theranos won).  Demoted and subpoenaed in Fuisz case, employee Ian Gibbons committed suicide; Theranos responded only by requesting his laptop.
+
+Powerful BoD which included George Schultz, James Mattis, Henry Kissinger, William Perry, Sam Nunn, Gary Roughead helped launch investments which led to $9B valuation in 2014 (Elizabeth owned over half).  Other investors included Rupert Murdoch, Bob Kraft, and Betsy DeVos.  Elizabeth leaned into fame, with 20-person security detail, Audi A8 sans license plates, and private Gulfstream.  At least 40 Walgreens rolled out Edisons in Phoenix, and around 1 million wildly inaccurate results prompted unknown thousands of dollars of MRIs and other testing.
+
+Friend of Fuisz contacted John Carreyrou, who found former employees Alan Beam and Tyler Schultz (George’s grandson).  Boies and legal team ambushed Shultz, and Theranos put Carreyrou, Schultz, Beam, and source Erika Cheung under continuous surveillance for a year.  Wall Street Journal published in 2015.  As investors turned and federal investigations began (SEC suit, FBI fraud), Elizabeth fired Sunny and replaced Boies with Wilmer Hale.  Elizabeth claimed Sunny deceived her, but she crafted her culture long before he joined in 2009.
+
+<!--LINES WERE CROSSED EARLY AND OFTEN.  ELIZABETH PROBABLY SOCIOPATH.  SCIENCE GETS A VOTE; TRUTH COMES OUT EVENTUALLY.  WHY SO MUCH DOD INTEREST?-->
+
+## Emily Oster: Expecting Better
+
+Data-driven approach to pregnancy:
+
+* Fertility declines with age, but 35 is not a cutoff.  To reduce risks, make sure you are exercising before you get pregnant.  
+
+* Ovulation is halfway between periods.  Conception rates are near 30% the day before and after ovulation (use app to time).  Pregnancy is counted from the first day of your last period (you’re ~4 weeks in when you find out).
+
+* 10-15% of pregnancies will end in miscarriage, but declines the further you progress.  Several options for prenatal screening/testing for down syndrome, consider cell-free fetal DNA testing (non-invasive).  Nausea usually weeks 6-14, try small meals, vitamin B6+ginger ale.  Weight gain is normal, though don’t go crazy.
+
+* No good evidence that light drinking impacts your baby, but only 1 drink and no shots.  No more than 2 cups of coffee/day.  No tobacco or cannabis.  No raw/rare meat and poultry, unwashed fruits/vegetables, queso and other raw-milk cheeses, or deli meats.   Drugs: ask doctor.
+
+* Changing cat litter and some airplane travel is fine; avoid gardening and hot tubs.   General exercise is fine (yoga encouraged); Kegels prevent incontinence and help pushing.  
+
+* By 28 weeks, more than 90% of babies survive and by 34 weeks 99% do.  There’s no evidence bed rest prevents preterm labor.  Your first baby is on average 8 days late; cervical checks and dilation + effacement can help predict.
+
+* Labor includes dilation, pushing, and placenta.  Nipple stimulation can help induce.  30% of births are by C-section (longer initial recovery).  Most moms use epidural, thought is does increase the chance of some complications for the mother.  
+
+* Think through birthing plan ahead of time (e.g. induce labor, eating/drinking, doula).  Give vitamin K shot and eye antibiotics—cord-blood banking is probably unnecessary.
+
+## Jeffrey Selingo: Inside College Admissions
+
+* Of 1,400 four-year colleges, the average accepts 60%; only 46 accept less than 20%.  Competition for a specific seat is higher than ever, but getting into at least one selective college is still feasible (they admit more, knowing only 30% will accept their offer: 33% of students apply to 7 or more schools.)   
+
+* The average in-state four-year tuition is $21K, private is $49K.  Financial aid, designed to help low-income students, is now used by schools to lure accepted students.  Private colleges must balance full-pay and low-income applicants, just as public colleges must balance in-state and out-of-state applicants.
+
+* Prestige in higher ed is measured by the quality of students admitted, not by quality of education they receive.  Colleges want to maximize applicants to keep acceptance rate low.  Since 1983, US News & World Report has published rankings, which Northeastern gamed with a national marketing campaign and lowering class size caps to 19.  In 1971, College Board started selling names/addresses of test takers to colleges.  The admissions, financial aid, and marketing offices are now regularly combined into an "enrollment management" department.
+
+* Early Decision (ED) gives an applicant more attention and demonstrates interest, but gives more leverage to schools, who use it to fill specific spots (e.g. athletes), knowing the applicant is bound to enroll.  Often fill 60%+ of the class (In 2008 recession, schools leaned on ED to ensure they could fill their spots given many students rely on mortgage loans to pay for school).  Waitlisted applicants are not ranked in order, but depend on the "shaping" of the final class. 
+
+* In practice, "holistic admissions" usually involves rating applicants 1-5 in ~four areas: high school curriculum, extracurricular activities, recommendations, and “intellectual curiosity” (highly subjective, but colleges like for flexibility).  Raters are heavily dependent on high school profiles, which vary in quality (half of applicants have an A average but only half of high schools offer calculus).  Most readers are part-time and review 7 applications per hour.  
+
+* Varsity Blues scandal not totally surprising (admissions counselors are not detectives).  Rick Singer exploited colleges’ need to fill little known team rosters (e.g. the Amherst student body could fit in an Alabama lecture hall, but they have the same size squash team).  Legacies make up a third of Harvard’s class (Kushner’s dad donated $2.5m). 
+
+College admission is less about the applicant and more about fitting a college’s agenda. Advice:
+
+* Admission depends on many factors out of your control (your high school, the college’s needs, subjective ratings).  May behoove applicant to be big fish in little pond.
+
+* Simplify what you want (major, research options, location, size).  Then, build out a broad list and parse over time.  If you do ED, have contingency plans.
+
+* Grades and rigor always matter more than test scores or essays.  Sustained interest in an area trumps membership in an array of random clubs.  Essays are numbingly similar—try to stand out.   Try to get recommendation in class you had to work hard in or outside of your intended major (female, humanities teachers write the nicest ones).
+
+* Success in college is not about where you go but how you go (picking courses/major/internships). UVA accepts 29% and Vtech 70%, but salaries are nearly identical after 10 years.  Less than a third of college grads work in jobs related to their major, but adding a technical proficiency to a liberal arts diploma helps tremendously in the job market.
+
+## Michael Lewis: Premonition
+
+The US has no system of public health—only a patchwork of state and local health officers (usually late-career doctors who write memos and attend meetings).  Corporations are only interested in profit, academics only until they were published; government was supposed to fill the gap.
+
+Selected members of the "Wolverines" (Red Dawn reference) which shared e-mails/calls trying to share ideas/sound the alarm on COVID-19:
+
+* Charity Dean was an accomplished public health officer in Santa Barbara, CA with experience battling tuberculosis.
+
+* Two Bush administration officials, Richard Hatchett and Carter Mecher, developed pandemic strategy known as Targeted Layered Containment after reading about Philadelphia’s success in slowing the Spanish flu by closing schools and churches.  Used a peculiar combination of numerical estimates ("redneck epidemiology") and analogies to communicate risks (e.g. wildfire exponential growth).  
+
+* At UCSF, Joe DeRisi developed a tool to identify the SARS virus, then joined Chan Zuckerberg Biohub.  In the pandemic’s first year, did over 5% of the US’ COVID sequencing and developed an early testing capability.
+
+John Bolton demoted or fired everyone on the biological threat team at the White House.  When one CDC official expressed concern, stock market fell 1,100 points and WH forbade comments.  The CDC declared Americans low-risk but refused to authorize testing (and botched development of mass testing).  National stockpile had only Q-tips, and fraudsters sold eyelash brushes at huge profits.  Dean was able to help convince Gavin Newsome to implement first state-wide stay-at-home order, but unsuccessful at selling approach of accountability through data transparency.  
+
+<!--WHITE HOUSE/CDC GUILTY OF GROSS INCOMPETENCE, BUT DID ANY COUNTRY REALLY SUCCESSFULLY WARD OFF COVID?  ACCOUNTABILITY THROUGH TRANSPARENCY SOUNDS GOOD BUT HAS PRAGMATIC LIMITATIONS.-->
+
+## Ken Mondschein: Monument: Words of Four Presidents Who Sculpted America
+
+Sculptor John Gutzon de la Mothe Borglum was initially hired to carve Stone Mountain, but fired.  Completed Mt. Rushmore in 1927.
+
+* Washington: Rules of Civility, Letter of Farewell to the Army, Inaugural Addresses, Farewell Address
+
+* Jefferson: Declaration of Independence, Inaugural Addresses, Secret Letter to Congress regarding Lewis & Clark
+
+* Lincoln: Eulogy on Henry Clay, Autobiographies ("education defective"), House Divided Speech, Lincoln-Douglas Debates (“no reason negro not entitled to all the natural rights enumerated in the Declaration of Independence”), Inaugural Addresses (“with malice toward none and charity for all”), Emancipation Proclamation (“shall be then, thenceforward, and forever free”), Gettysburg Address (“government of the people, by the people, for the people”)
+
+* Roosevelt: Autobiographies, Inaugural Address, Citizenship in a Republic (Man in the Arena), Takes More Than That to Kill a Bull Moose Speech
+
+<!--WISH EDITOR ADDED BRIEF INTROS TO EACH EXCERPT-->
+
+## Andy Greenberg: Sandworm
+
+Fancy/Voodoo Bear (GRU Unit 26165/74455) developed Sandworm to prove relevance of both GRU and Russian foreign policy.  Often worked with partners/through proxies: Cozy Bear (SVR), CyberBerkut, Guccifer 2.0, DCLeaks.
+
+* Estonia and Georgia: In 2007, Russian hackers harnessed malware infected PCs around the world to DDOS Estonian websites each night, Estonia restored access each day.  Did the same to Georgia in 2008.
+
+* *Stuxnet: Centrifuges spin tens of thousands of rotations per minute to separate Uranium-238 from Uranium-235.  STRATCOM worked with NSA TAO and an elite Israeli team Unit 8200 to exploit FOUR zero days simultaneously.   It was run in secret for sometime before being exposed, and leaked to more than a hundred countries.*
+
+* *Sony Pictures: In 2014, DPRK group Guardians of Peace hacked Sony, US likely responded with sanctions and nationwide internet blackout.*
+
+* Black Energy: Could take screenshots, extract files and encryption keys, and record keystrokes.  
+
+* Sandworm: In 2017, in conjunction with disinformation, targeted nearly every strata of Ukrainian society (media, energy, transportation, finance, government, and military).  Named based on references to Arrakis (planet in Dune novel).  Goal was to show the U.S. they could to deter Stuxnet-style attack. 
+
+* *Shadowbrokers: Former TAO employee took code home; Russians used Kaspersky anti-virus to access.  Under rouse of seeking profit, embarrassed NSA.  *
+
+* *WannaCry: Once NSA realized EternalBlue was compromised, they informed Microsoft to patch the vulnerability, but updates were slow; DPRK group Lazarus exploited in Wannacry.*
+
+* NotPetya: Month after WannaCry, EternalBlue and Mimikatz used in tandem to wipe 10% of the computers in Ukraine.  Also impacted multinational corporations like Maersk shipping (fortunately one of their backups in Ghana was offline, but still cost $300m).
+
+* Olympic Destroyer: 2018 Pyeongchang Olympics command center went dark during opening ceremony, finally restored at 5am.  Malware designed to appear DPRK, but carrier Word docs similar to Ukrainian attacks. 
+
+Takeaways: US responded to DPRK Sony hack (2014) with internet blackout and Chinese economic espionage (2015) with sanctions, but silent on Russia until after 2016 election.  World needs a new digital Geneva Convention to ban "first-use" cyberattacks on critical infrastructure.  US actually more vulnerable than Ukraine because more dependent on software and less accustomed to outages.  We can’t eliminate attacks, only prepare to minimize damage.
+
+Companies: iSight>FireEye>Mandiant.  CrowdStrike.  Recorded Future.  Telos.  Run millions of "honeypots" (virtual computers designed to be hacked and harvest malware samples and monitor instructions from command-and-controls servers).  The malware is stored in databases like Alphabet’s VirusTotal and run in virtual machines over and over again to be reverse engineered in IDA Pro.  Software vulnerability research requires such focus that offices mirror a sensory deprivation chamber.  
+
+## Matthew Pinsker: Lincoln’s Sanctuary
+
+Originally farmland, Riggs built the college in 1842 and sold to the government in the 1850s.  Buchanan stayed in a nearby Quarters 1 and recommended to Lincoln, who spent three summers (over a quarter of his presidency) in Riggs’ cottage.  Lincoln would wake around 630am and ride Rock Creek Church Rd to "Seventh Street Turnpike" and past Logan Circle to the White House.  It served as both refuge and a form of outreach to soldiers and blacks.
+
+* 1861: July defeat at the first Battle of Bull Run derailed the family’s summer plans.
+
+* 1862: Mourning February death of 12yo Willie, sought refuge.
+
+    * Emancipation: President believed emancipation must be gradual, compensated, and voluntary.  But aggressive Republican Congress pushed (response to Second Confiscation Act).  Distributed Sept 23 (after Antietam) to take effect Jan 1.  Only applied to slaves in Rebel territories but also authorized enlistment into Union Army.
+
+    * McClellan formidable task with inexperienced army, but large ego, reluctant to strike, and misled in reports.  Lincoln stood by until he no longer could.
+
+* 1863: Republicans were battered in midterm elections. Already suffering from headaches, Mary Lincoln fell out of carriage and nearly died from infection.  Took Tad north leaving Lincoln alone for 10 weeks.
+
+    * Lee lost a third of Army at Gettysburg (July).  Lincoln suspended Habeas Corpus (Sept).
+
+    * Lincoln did not know cabinet secretaries well but built strong partnership Stanton, who stayed in nearby cottage.  Lincoln is the only president to receive a patent (for a method for improving the navigation of boats through shallow water).  
+
+* 1864: 
+
+    * Confederate force swung through Maryland to Fort Stevens, the weakest link.  Stanton asked Lincoln to WH, but Lincoln traveled to the skirmish—the only time a sitting president has seen enemy fire during combat.
+
+    * Election: Refused to cancel; did not campaign himself but politically savvy.  Cottage perfect setting to host Frederick Douglass/Carl Shultz to shape their attitudes and clarify own thinking.  Passed Walt Whitman in his commute.  Union advances and absentee voting secured big win.
+
+* 1865: Lincoln last returned April 13, the day before he was assassinated.
+
+Security: Convinced to initially enter DC under disguise, Lincoln was labeled a coward and thus initially resisted any protection.  The Soldiers’ Home was not officially part of the 68 forts which encircled DC, though its tower served as a communications outpost, and in 1862 was used by a confederate spy to survey defenses.  Protected by Company K, who named Tad a "Third Lieutenant."  One night Lincoln rode quickly back without his hat and private later discovered it with a bullet hole; Lincoln asked only not to tell his wife.  
+
+Soldiers’ Home: Renamed in late 1950s from Military Asylum, home to ~150 veterans, mostly aging/crippled immigrants who fought in the War of 1812 and struggled with alcoholism (Congress considered shutting down).  Across the street, the national cemetery was created after Bull Run and grew rapidly (the precursor to Arlington).
+
+Aftermath: Rutherford B. Hayes and Chester A. Arthur each lived the cottage, also served as hospital and dormitory.  Not until 2000, with leadership from Hillary Clinton was it declared a national monument.  Currently owned by the Armed Forces Retirement Home.
+
+## Jim Bouton: Ball Four
+
+* Western Michigan, Yankees, Seattle Pilots, Astros.  Written 1969.  
+
+* Without an agent, managed contentious salary negotiations directly with general manager.  Many decisions are based on cost rather than ability (easier to judge).  Coaching jobs are political patronage dispensed for former favors.  
+
+* Baseball is instinctive, so stay in shape, practice, and when you play you let your instincts take over.  Hitting is the single most difficult feat in sports.  Joe Schultz: "Well, boys, it’s a round ball and a round bat and you got to hit it square."
+
+* There isn’t a lot to do at Spring Training, but managers like you to look busy.  Whitey Ford said the best way to look in shape is to get a tan.  
+
+* Knuckleball easier on Bouton’s arm but broke several catchers’ fingers.  Starters regularly threw 120+ pitches because they wanted to.  One of the reasons injuries take so long to heal is we constantly test the aggravated muscles making it worse.
+
+* Talking to newspapers had stiffer penalties than showing up drunk, though Astros had curefews/bed checks.  Regular sleeping with "Baseball Annie’s", “shooting beaver” (looking up skirts), and eating “greenies.”  Didn’t see gambling inside baseball, although one batter paid $150 to a catcher to tip pitches.
+
+* Bouton only directed to throw at a batter once and refused.  Nobody took brawls seriously except those who start them; often jokes and small talk on the outskirts.
+
+<!--EXPOSED RAUNCHY CULTURE, BUT ALSO HELPED WIN PLAYERS FREE AGENCY.-->
+
+## Kevin Mitnick: Ghost in the Wires
+
+Began by hacking into fast food drive-through speakers, collecting nonpublic information about neighbors, phone phreaking and hacking.  Occasionally broke into telecom facilities but mostly mastered social engineering—manipulating people.  Pretended to be a colleague or that he already had the information it was just wrong—people felt obligated to correct.  Befriended hacker who turned out to be FBI source, invented major scheme to buy time.  Law enforcement chatter was encrypted, but he set up frequencies so he at least knew when they were nearby.  As fugitive, cycled through several identities and narrowly escaped arrest in LA and Seattle before Raleigh.  Claims he never hacked for money—only for the thrill.  Pled guilty to seven counts (wire fraud, computer fraud, possession of access devices, and interception of data communications).  Gained notoriety, including "Free Kevin" movement and cameo on Alias, before launching “ethical hacking” business Mitnick Security Consulting LLC.
+
+<!--THE ARCHETYPAL HACKER.  ARROGANT AND COMPULSIVE LIAR BUT UNDERSTOOD NETWORKS AND QUICK ON HIS FEET.-->
+
+## Josh Kaufman: The First 20 Hours: How to Learn Anything...Fast!
+
+Malcolm Gladwell’s 10,000 hour rule takes almost five years of full-time work.  For those who don’t need to become a professional, consider rapid skill acquisition.  Steps:
+
+1. Choose a lovable project. 
+
+2. Focus your energy on one skill at a time (one at a time). 
+
+3. Define your target performance level (1-2 sentences)
+
+4. Deconstruct the skill into subskills. 
+
+5. Obtain critical tools (maximizes practice time)
+
+6. Eliminate barriers to practice (both environmental and emotional)
+
+7. Make dedicated time for practice. 
+
+8. Create fast feedback loops (coaches or cameras)
+
+9. Practice by the clock in short bursts. 
+
+10. Emphasize quantity and speed.
+
+Flashcard apps: Anki, SuperMemo, Smartr3
+
+Learning music: Memorize the song by just singing first. Once you have the song memorized, sing the note-names instead of the lyrics.  Memorize the song like this, eyes closed. Finally, add the instrument, singing the note-names as you play them
+
+on the strings.
+
+Applies to: Yoga, Website Design, Touch Typing, Ukelele, and Windsurfing
+
+<!--SOMEWHAT GIMMICKY.-->
+
+## Daniel Levitin: The Organized Mind
+
+Humans today have to process more information than ever before.  Introduces an assortment of (mostly psychological) concepts/tips for living a more organized life.  BLUF: categorize and externalize.  Categorize for efficiency (e.g. memory encoding) and externalize to unclutter the mind (e.g. allowing for creativity).
+
+* The decision-making network in our brain doesn’t prioritize and fatigues throughout the day.  Satisficing is critical to avoid wasting effort on decisions that don’t matter.
+
+* The mind is either focused or wandering.  Focused is good for demanding tasks; wandering for creativity.  Switching is difficult to control and costly.  An attention filter runs constantly, judging change and importance.  Learning while multitasking can cause information to go to the wrong part of the brain.
+
+* Procrastination: Eat the frog.  If you can do something in under 5 minutes, do it now.
+
+* Have designated places for everything; keep things you use together together.  Have a miscellaneous folder but don’t keep what you can’t use.  Digitize files with OCR for searchability.  A $20 nut-and-bolt "storehouse" can save you several trips to the hardware store.
+
+* Others’ actions are more often driven by situational factors than dispositional.  People who read fiction are better able to detect others’ emotions.  Stave off aging by staying mentally active and performing tasks you’ve never done before (keeps blood flowing to all parts of brain).
+
+* Our brains encode in chunks and organize them while we sleep (unitization, assimilation, abstraction).  We retain better when we figure out ourselves rather than passively absorb.  Think critically; we have a hard time ignoring information shown later to be false.  
+
+* Those who lack self-confidence can built it by not giving up, reversing setbacks, and thus building confidence.  The greatest satisfaction comes from completing projects requiring sustained focus and energy.  Flow occurs when the brain is unconsciously managing the work, but requires practice and expertise.  
+
+Fun facts:
+
+* The brain makes up 2% of our bodyweight but consumes 20% of our energy.  Neural communication reaches speeds over 300mph.  Our brains can process at most about 120 bits/second (understanding speech takes about 60 bits/second).
+
+* There are numerous health benefits to being an agreeable person.  Alternative medicine is simply medicine for which there is no evidence of effectiveness. Early birds tend to be happier, more conscientious and productive than night owls.  A ten-minute nap can be equivalent to an extra hour and a half of sleep at night.
+
+* The average door in North America s about 6’8."  The average city block is 1/10th of a mile. More people have cell phones than toilets.
+
+* CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Apart.
+
+<!--VALIDATES MANY THINGS I ALREADY DO.  MORE ABOUT ORGANIZED LIFE THAN MIND.-->
+
+## Kathleen Belew: Bring the War Home
+
+The Vietnam War created the white power movement which declared war on the state in 1983, culminating in the OKC bombing.
+
+* 1970s Aftermath of Vietnam: Many vets felt a corrupt US government sent them to fight and then limited their ability to win.  After watching friend die, they were welcomed home as baby killers.  They felt defeated, emasculated, and betrayed, at a time when social movements also threatened and victimized white men.  A number of paramilitary Klan-affiliated camps operated from Texas to North Carolina, committing isolated acts of racism and violence against minorities.
+
+* 1979 Greensboro Massacre: A caravan of neo-Nazis and Klansmen fired on a communist-organized "Death to the Klan" rally at a black housing project, killing five.  Acquittals in three consecutive trials emboldened and unified disparate parts of the white power movement.
+
+* 1980s Foreign Interventions: Complex interconnections formed between white power activism, US-sanctions covert intervention in Central America, and independent mercenaries fighting in Nicaragua, Dominica, Grenada, and El Salvador.  Framed themselves as an anti-communist force.
+
+* 1983 Declaration of War on the State: At the July Aryan Nations World Congress, the movement began calling for revolution against the Zionist Occupational Government (ZOG), assassination of federal agents, and a separatist state.  They adapted a structure of leaderless resistance, stealing weapons from the military.  Activities included assassinations, robbery/counterfeiting, and polygamy to encourage the birth of white children.  Groups: Carolina Knights of KKK/White Patriot Party (NC), Covenant, Sword, Arm of Lord (CSA), White Aryan Resistance (CA), Elohim City (OK).
+
+* 1985 Fort Smith trial: The only attempt to prosecute white power as a coherent social movement failed.  The Arkansas judge influenced jury selection and excluded half the government’s 1200 pieces of evidence and 200 witnesses.  Developed connections to emerging skinhead movement (despite urban, drug/alcohol use, tattoos).
+
+* 1990s Peak: 1992 Ruby Ridge standoff and 1993 Waco disaster rallied sympathy, 1995 Oklahoma City bombing eroded.  McVeigh’s idea came from FBIHQ bombing in The Turner Diaries; chose Murrah Federal building for architectural vulnerability.  He made it 150 yards before the explosion lifted him off the ground, drove away slowly but forgot to put a license plate on his car.  1996 Atlanta Olympic bombing was anti-abortion crusader.  
+
+Backlash and clampdown dampened the white power movement in the 2000s as movement relocated online.  Uptick in the mid-2010s with the emergence of the alt-right and lone actors.
+
 ## Pete Simi and Robert Futrell: American Swastika
 
 Groups of interest: 
 
 * KKK (e.g. Loyal White Knights)
-
 * Christian Identity/Neo-Paganism (e.g. Aryan Nations)
-
-* Neo-Nazis (e.g. National Alliance, White Aryan Resistance, National Socialist Movement)
-
+* Neo-Nazis (e.g. National Alliance, White Aryan Resistance, National Socialist Movement.
 * Racist Skinheads (e.g. Hammerskin Nation, Volksfront)
 
 Focuses on "Aryan free spaces":
 
 * Home: Private place to indoctrinate youth with Hitler paintings, swastikas, Nordic imagery, talk peppered with epithets, and censorship of culturally diverse TV.
-
     * Skinheads also have "crash pads" (frat houses for young members)
-
 * House Parties: ~50 guests build friendships sharing stories about becoming Aryan (e.g. schoolyard fight with minorities), injustices they face (e.g. blacks can have racial pride but they can’t), and how they persevere (e.g. defensive tactics to keep blacks out of neighborhoods).
-
 * Music Scene: Music spreads message broadly/inconspicuously.  Bar shows build unity with chanting, boot-stomping, and "slam dancing."  Festivals draw larger groups.
-
     * Bands: Skrewdriver, Max Resist, Final War, Youngland
-
-* Internet: Echo chambers for hate to share stories, ask for advice, and strengthen connections.  Some even have "For Kids" sections.  
-
+* Internet: Echo chambers for hate to share stories, ask for advice, and strengthen connections.  Some even have "For Kids" sections. 
     * Sites: Stormfront, NS88, Micetrap
-
     * Online games: Ghetto Blaster, ZOG Nightmare 2, Ethnic Cleansing
-
 * Private Communities: Isolated Aryan spaces.  Covenant, Sword, Arm of Lord (Missouri-Arkansas Border, 1971-85), Elohim City (Oklahoma, 1973-Present), National Alliance (West Virginia, 1985-Present), Aryan Nations (Idaho, 1974-2001).
 
 Other
 
 * Members craft unique ideologies and regularly shift between groups. "New racist" rhetoric describes whites as minority victims facing discrimination.
-
 * Recruitment is tailored to the individual (often play down extremism to start).
-
 * Among younger members, warrior fantasies often play out in bar fights. Tattoos are a way of demonstrating commitment.
-
 * Common Aryan names: Hunter, Forrest, Liberty, Ariana, Dieter.
 
 Conclusion: Free spaces allow Aryans to release frustrations amongst themselves rather than through violence against enemies; socially isolated Aryans are more dangerous.  But need vigilance, dialogue, and monitoring to counter extremism’s corrosive effects, and illegal activity must be met with arrests/prosecutions.
@@ -66,67 +330,42 @@ Conclusion: Free spaces allow Aryans to release frustrations amongst themselves 
 The story of the global Salafi-jihadi movement through its major players:
 
 * Usama Bin Laden (UBL)
-
     * Five wives (alternated nights, favorite Umm Hamza but imprisoned in Iran), 20+ kids (Saad killed so Hamza successor).
-
     * Despised US for revoked citizenship, expulsion from Sudan, perceived assassination attempts, and Gulf War involvement (offered AQ to protect KSA).
-
     * After 9/11, fled Tora Bora to Swat/Haripur (northern Pakistan) to Abbottabad (settled in 2005). Charismatic micromanager focused on striking the U.S. homeland again.
-
     * Practically blind in one eye; frequent pain/paralysis.  Communicated exclusively through couriers like Abu Ahmed al-Kuwaiti.  Only two security guards but stress took a toll.  Killed May 2011; SEALs killed al-Kuwaiti before entering, lured Khalid around corner by whispering his name.
 
 * Saif al-Adel
-
     * Experienced, careful, and respected soldier with unfailing allegiance to UBL.  Worked way up as seniors were killed.  In 1995-96, traveled to Somalia and Yemen to set up affiliates.  
-
     * After UBL assassination attempt, became bodyguard alongside Abu Jandal and Ibrahim Qosi (also accountant and personal cook).  Used fake electrical scanner to "screen" reporters who interviewed UBL.  Became AQ head of security and #3 behind military chief Abu Hafs al-Masri (aka Mohammed Atef).
-
     * Under international pressure, Sudan expelled AQ so returned to Afghanistan.
-
     * Following intercepted communications regarding Russian nuclear weapons, arrested by Iran along with Abu Khair and Abu Mohammed. Stormy relationship with "wide-eyed killer" Khalid Sheikh Mohammed.  
 
 * Khalid Sheikh Mohammed (KSM)
-
     * Nephew Ramzi Yousef bombed World Trade Center.  AQ previously mused of crashing airplane into Egyptian House of Representatives.  UBL initially said "Planes Operation" wasn’t feasible but later supported, while others continued to fear backlash.
-
     * 9/11 recruited 2,000 volunteers but put AQ on the run.  Some fled to Iran, where they were arrested and held for bargaining.  KSM was so eager to kill WSJ reporter Daniel Pearl he slit his throat before the recorder had a tape in it.  
-
     * US used combination of precision strikes and Special Operations / Northern Alliance horseman to force AQ out of Kandahar and hammered Tora Bora mountain complex.  Killed al-Masri, captured Millennium Plotter Abu Zubaydah and 9/11 facilitator Ramzi Bin al-Shibh and eventually KSM.
 
 * Abu Musab al-Zarqawi
-
     * Before conversion to Islam, served time for sexual assault and drug possession.  Covered in tattoos and tried to shoot himself during a 1994 police raid but "missed."
-
     * Radicalized by Abu Mohammed al-Maqdisi and built network in jail; released when Jordanian King Hussein died.  Didn’t get along with UBL (only one meeting, didn’t pledge bayat until 2004), but AQ wanted a foothold in the Levant.
-
     * Fled Kandahar post-9/11 (ribs broken in airstrike) for northern Iraq; US invasion helped recruitment.  Conducted near constant car bombings and beheadings.  Hated Shias even more than Americans (75% of targets were Muslim).  Governments complicit; Bashar al-Assad fed the Iraqi sectarian civil war (and released insurgents) and KSA didn’t want a Shia-led Iraq.
-
     * AQI set up stronghold in Fallujah, US/British forces painstakingly liberated in bloodiest battle of the war.  Zarqawi arrested for several hours but inexplicably released. Narrowly escaped Delta Force roadblock.
-
     * AQI joined consortium under first emir of Islamic State of Iraq Omar al-Baghdadi.  Public backlash (Sunni Awakening) resulted in arrest of 270 jihadists in Anbar province alone.  Zarqawi narrowly escaped US Special Forces raid, but intelligence recovered led to death by drone strike in 2006.
 
 * Ayman al-Zawahiri
-
     * From two renowned Egyptian families, angered by 1966 execution of his uncle’s mentor Sayyid Qutb.  Doctor in Peshawar clinic, imprisoned three years following Anwar Sadat assassination.  Through Abdullah Azzam, treated UBL (may have had Addison’s disease) and provided strategic support.  
-
     * Zawahiri’s Egyptian Islamic Jihad (EIJ) rivalled by the "Blink Sheikh" Omar Abdul Rahman’s Gamaa al-Islamiya.  In need of money/recruits, EIJ merged with AQ summer 2001.  
-
     * As AQ shifted from central hierarchy to web of affiliates, UBL and Zawahiri oversaw AQ Central ("Khorasan").  After UBL death, AQAP under Nasser al-Wuhayshi, Al-Shabaab under Harun Fazul and AQIM under Abdelmalek Droukdal pledged bayat to Zawahiri.  But failed to manage irreconcilable differences between ISIL and AQ-affiliate al-Nusra.  
-
     * Embarrassingly, Zawahiri pledged bayat to Taliban leader Mullah Omar when he’d been dead for 15 months.  He later pledged bayat to successors Mullah Mansour and Hibatullah Akhundzada.  Also protected by the Haqqani Network.
 
 * Abu Bakr al-Baghdadi
-
     * Aspiring young cleric (like Omar, not technically from Baghdad) released from Camp Bucca ("the Academy") in 2004.  Claimed bloodline to Muhammed and declared caliphate (AQI to ISI to ISIL to IS).  So secretive he wasn’t even identified during senior meetings.  Other key leaders included #2 Abu Muslim al-Turkmani, Zarqawi mentee Abu Ali al-Anbari, and spokesperson Abu Muhammed al-Adnani.
-
     * Haji Bakr planned invasion of Iraq from Syria and military strategist Abu Abdul Rahman al-Bilawi planned capture of Mosul.  IS able to recruit former Saddam Hussein soldiers who hated Iraqi PM Nouri al-Maliki’s hardline Shia policies.  Well-produced propaganda drew foreign fighters from over 100 countries.  Would open "community centers" in towns then murder leaders.  Well-funded by extortion, robbery, and ransom.
-
     * Core ideological differences with AQ/Zawahiri about what stage of the "Management of Savagery" they were in (AQ wanted to win public support before declaring caliphate).  Also, Baghdadi refused to pledge bayat to Taliban. 
-
     * Won high-profile affiliates like Boko Haram but increasingly hit strike soft targets as lost territory.  
 
 * Vocabulary:
-
     * Kunya – nickname. Nisbah – toponym (e.g. al-Kuwaiti). Zakat – charity. Takfiris – prescribe a certain brand of Islam, and those who do not adhere deserve death. Bayat – oath of allegiance. Hijrah – Mohammed’s migration into exile in Medina. 
 
 <!--CT FOLLOWS CYCLE: INVADE, OCCUPY, WITHDRAW, REPEAT.  NEED TO COUNTER THE NARRATIVE THAT US IS AT WAR WITH ISLAM, TAILORED TO EACH COMMUNITY AND TOLD BY LOCAL MESSENGERS.  IMPRISONING FOREIGN FIGHTERS HARDENS THEM, MUST TRY REHABILITATION.  PARALLELS TO DOMESTIC TERRORISM (CRIMINAL BACKGROUNDS, BOOGALOO/ACCELERATIONISM).-->
@@ -140,23 +379,16 @@ Indians, pushed into rocky Osage County in northern Oklahoma, became oil rich. F
 Group Typology:
 
 * White Supremacy
-
     * KKK: Three waves from 1865-69; 1915-1930; 1955-1990. Leaders compete for political office (e.g. David Duke and the "Klean Klan").
-
     * Neo-Nazis: American Nazi Party established 1959. Use pseudoscience to defend racial superiority.
-
     * Skinheads: Emerged from neo-Nazis in 1980s.  Highly fragmented, groups include White Aryan Resistance (WAR); Hammerskin Nation.  Built around punk music; tend to be younger, almost never attack LE.
 
 * Anti-Government
-
     * Militias: Driven by 1980s "farm crisis," Ruby Ridge, and Waco.  Motivated by perceived violations of Second and Fourth Amendments.  1990s conspiracy theories (e.g. New World Order hijacking US) recently shaped to be more palatable (e.g. Deep State bureaucracies oppressing constitutional rights).  III Percenters; Oath Keepers.
-
     * Sovereign Citizens: Since late 1970s; believe federal overreach exceeds founding fathers’ intentions.
 
 * Christian Identity
-
     * Aryan Nations: Fragmented around charismatic pastors until Richard Butler laid groundwork for 1980s creation.  Cherry-pick Bible verses to support segregation homo/transpohobia, and Aryan superiority.  The Order was a 1983 offshoot.
-
     * Antiabortion: Grown since 1970s.  Good v. evil moral/religious framing.
 
 General: Overall, attacks have been increasing since 1990 (especially with demographic shifts and in presidential election years).  More attacks during Republican-controlled Congresses (more tolerant and/or more likely to be influenced).  Unlike other terrorism, 58% are conducted by a lone individual.  Mostly single 28yo males with criminal records.  Most targets are minorities/LGBTQ (vulnerable, governmental/leftist targets are rare).  Most attacks spontaneous, disorganized, and sometimes internal violent disputes.  Relative to international terrorism, attacks are low casualty (54% vandalism/intimidation, <2% mass casualty)—though trending more lethal/sophisticated (esp. militias with veterans).  Groups seek to enhance legitimacy by publicly denouncing violence and recruiting former law enforcement.  Engage in "low-end cooperation" at events, but remain fragmented and mergers are rare.  Ironically, many nationalist groups are creating international chapters.
