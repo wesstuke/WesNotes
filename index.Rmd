@@ -19,7 +19,31 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *Wes likes to read, but struggles to remember what he learns. Since around 2015, he has kept a repository of book notes (plus the occasional podcast or documentary). All credit belongs to the authors and creators.*
 
-<!-- Paste New Markdown text below and delete **s before & after titles -->
+<!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
+
+## Jason Kander: Invisible Storm
+
+From Kansas City, was senior at American University during 9/11.  Enlisted in ROTC ("Hoya Battalion") concurrently with Georgetown Law. In 2006, deployed to Afghanistan for 4 months in senior role collecting HUMINT for the JIOC/J2.  Frequently operated in plain clothes with only a translator, entering villages and talking to locals. No firefights, but several close calls / uncomfortable meetings. 
+
+Returned, won grassroots campaign for Missouri House of Representatives, worked ethics and voter suppression. 90% campaigning is fundraising calls.  Second deployment orders were for desk job in Kuwait. Efforts to change to Afghanistan were blocked by bureaucracy, so resigned prior (at 8 year commitment). Plagued by paranoia, bouts of anger, nightmares (always moving, watching the door, listening for threats). In 2008, elected Missouri Secretary of State as upstart; first millennial to hold statewide office. In 2016, narrowly lost US senate in 2016, but won attention with blindfolded gun ad and on Twitter.  Obama mentored and encouraged to run for President, skyrocketing into celebrity circuit. Started voting rights nonprofit, Majority 54 podcast, pre-campaigning (rallies in Iowa/NH). Unhappy, downsized to KC mayor run and applied for VA help but minimized symptoms and was rejected. After suicidal thoughts in 2018, dropped out of politics and used network to get urgent VA help.  Three initial months of weekly therapy with homework (describing painful memories and feeling the feelings until bored).  Learned to address guilt and not to minimize own trauma.  Joined the Veterans Community Project which builds small houses designed for veterans.  After the fall of Afghanistan, helped evacuate his translator’s family and cofounded the Afghan Rescue Project. Of note:
+
+* PTSD service dogs can actually anticipate panic attacks by smelling perspiration and wake you out of bad dreams. Worried about security, Kander mistakenly got a hyper-vigilant guard dog which had its own PTSD). 
+
+* WWII vets had fewer medical resources, but were also surrounded by people with similar experiences.  Today, 0.4% of Americans are serving in the armed forces. 
+
+<!--Everyone has their own trauma…it’s not fair to compare one person’s to another. Silver lining: His trauma/anger drove him to work really hard and to a lot of success.-->
+
+## Jason Rezaian: Prisoner
+
+Grew up outside San Francisco with Iranian father (sold rugs), American mother.  Nephew, father, and professor/friend Christopher Hitchens all died 2011.  Developed friendship with Anthony Bourdain over food.
+
+**Detention**: Iranian wife became Bloomberg’s Tehran correspondent in 2011, Rezaian became Washington Post correspondent (contractor) in 2012.  Visited Iranian mission to UN and was told "Iran is a pluralistic society and we welcome rigorous debate."  Married in 2013, “moderate” Hassan Rouhani elected president.  Noticed phishing attack of Gmail, arrested by IRGC July 2014.  Accused of espionage, Baha’i/MEK sympathies, affiliations with Mossad and MI6.  42 nights in solitary confinement before partial “confession” earned sponsored shopping trip to mall and normal cell with mate(s).  “Behind tears of anxiety you might find a deep reservoir of indignation.”  Eventually got Iran state broadcast TV and weekly meetings with mother and conjugal visits with wife (Islamic law mandates intimacy every six weeks in marriage).  Began trial May 2015 on charges of espionage and spreading propaganda.  Court tried to intimidate with Koran reading (Iran conducted 977 official executions in 2015), but Rezaian didn’t speak Arabic.  Careful to not concede the slightest hint of wrongdoing (strategy throughout was to tell them he’d do what they told him to do and then do the opposite).  
+
+**Negotiations**: Brother Ali Rezaian and Washington Post drove steady pressure campaign (#FreeJason).  David Ignatius raised twice in forums with Iranian Minister Mohammad Javad Zarif.  President Obama, Muhammad Ali (popular in Iran), Noam Chomsky all voiced support.  Was naïve to think talks could resolve ("countries worried about saving face don’t take hostages").  Deal almost fell through because Iranian prisoners in US didn’t want to leave, then delayed hours when Iran tried to keep Rezaian’s wife.  Treated in Germany, Jeff Bezos flew home on private jet.  Began journalism fellowship at Harvard.
+
+**Iran**: Most IRGC realized they were lying, but convinced themselves they occupied the higher moral ground.  Iranians value freedom to buy things and access entertainment more than speak out and choose leaders.  Iran has consistently viewed hostage-taking as a tactic since the 42 Americans in 1979.
+
+**Anecdotes**: Guard wanted Will Smith to play him in a movie.  Guards wanted him to sing, so he made them stand up, then sung US national anthem and accused them of respecting the Great Satan.  Whenever he walked into a wall while blind folded, he’d yell "My human rights!" and everyone laughed.  Shias go unshaven when they grieve, so when asked about a beard, said he was mourning “justice in the Islamic Republic.”  Last day, guard asked “while we still have you, can you explain the electoral college? It makes no sense.”  Movies removed anti-Muslim elements (e.g. in Philadelphia, Tom Hanks and Antonio Banderas were brothers).  
 
 ## Christopher McDougall: Born to Run
 
@@ -9234,7 +9258,7 @@ The proceedings of the convention were entirely closed to the public.
 Hamilton was initially aloof from battles between the Virginia and New Jersey plans, but interjected with a six-hour speech calling for a strong executive serving a life term (earning him jeers of being an Anglophile).
 
 -The country quickly split between Federalists (pro-constitution) and Antifederalists (anti-constitution).
-Hamilton conceived of the Federalist papers as a way to convince new Yorkers to ratify.
+Hamilton conceived of the Federalist papers as a way to convince New Yorkers to ratify.
 Jay (wrote 5) covered foreign affairs, Madison (29) covered history, Hamilton (51) everything else.
 Hamilton's biggest failure of vision was opposing a bill of rights, but he overcame odds to get NY to ratify (spurred by Virginia).
 Hamilton's rivalry with John Adams began when Hamilton manipulated electors to ensure Washington won the first election.
@@ -9263,7 +9287,7 @@ The creation of a central bank ultimately created two parties: Federalists and R
 When husband John Reynolds went to debtor's prison, he leaked affair.
 Hamilton denied, then quickly revealed everything to Monroe who vowed to keep secret as no public corruption, but likely kept a copy for Jefferson.
 Soon after Hamilton wrote a piece accusing Jefferson of sleeping with Sally Hemings, his affair leaked to the press (Hamilton blamed---and almost dueled---Monroe).
-Sacrificing his personal reputation to clear his public honor, he compressed a 95-page "Reynolds Pamphlet" detailing his involvement.
+Sacrificing his personal reputation to clear his public honor, he composed a 95-page "Reynolds Pamphlet" detailing his involvement.
 
 -Hamilton sent spies to England to steal blueprints and expertise from their textile mills.
 He wrote a Report on Manufacturers, but it was too abstract for Congress to legislate.
@@ -9271,7 +9295,7 @@ He created Paterson NJ as a "future town" but it ran way over budget.
 In response to Hamilton's friend William Duer who speculated himself into debtor's prison, the Buttonwood Agreement laid the foundations for what would become the New York stock exchange.
 
 -After Louis XIV's execution, Jefferson quickly voiced solidarity with the revolutionaries (abandoning Lafayette and others who fought in the American revolution).
-When France declared war on England, Hamilton pushed neutrality (ultimately the Jay Treaty) which adverted war and led to ten years of economic prosperity.
+When France declared war on England, Hamilton pushed neutrality (ultimately the Jay Treaty) which avoided war and led to ten years of economic prosperity.
 Hamilton drafted Washington's farewell address which called for neutrality in foreign affairs and domestic unity.
 He supported Pinckney over Adams in 1796, which damaged his relationship with the next president.
 
@@ -9283,7 +9307,7 @@ The Federalist Congress passed the horrific Alien and Sedition Acts to target Re
 Hamilton wrote a long screed against Adams, dooming both their 1800 candidacies.
 
 -Burr opened the Manhattan Company under the premise of a water company but as a rival bank to the Bank of NY.
-Perhaps to woo republicans in an effort to win the presidential nomination, he then challenged Hamilton's brother-in-law to a duel which was settled after they both missed.
+Perhaps to woo Republicans in an effort to win the presidential nomination, he then challenged Hamilton's brother-in-law to a duel which was settled after they both missed.
 Hamilton's son Philip got in an argument which resulted in him being killed in a duel.
 
 -Hamilton and the Federalists were doomed by their elitist politics (let the educated make the decisions).
