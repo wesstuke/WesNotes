@@ -21,6 +21,42 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## John W. Whiteside III: Fool’s Mate
+
+In 1991, KGB defector to the UK Vasili Mitrokhin alleged former NSA employee Robert Lipka spied for the KGB from 1965-67. Corroborated by FBI source Aleksey Kulak (Fedora).  In a false flag operation, FBI UCE Dmitri Droujinsky posed as a GRU officer looking to reopen Lipka.  Case Agent John Whiteside (author) drew from research on illegals Peter and Ingeborg Fischer to identify code name "Rook" (derived from Bond film From Russia With Love), which helped Droujinsky to earn Lipka’s trust.  Over several meets, Droujinsky elicited significant intelligence and admissions.  Lipka also claimed to launder money for Colonel Ollie North.  During an interview with Whiteside, Lipka’s first wife Pat admitted she was aware of his espionage.  Through careful diplomacy, Mitrokhin was prepared to testify. FBIHQ delayed arrest for Earl Pitts arrest in Quantico. Choreographed endgame to extract additional evidence: Pat told Lipka FBI was onto him, Whiteside interviewed Lipka directly, and team waited a day to see if Lipka would contact Droujinsky for help.  Arrested after son left for school and searched home all day. Lipka pleaded guilty in 1997 and after refusing to cooperate in a debrief was sentenced to 18 years in prison. He had had at least 50 meets and made at least $27,000, though the full extent of his damage remains unknown.
+
+## John Van Der Kiste: William and Mary
+
+**Background**: Charles I executed in 1648 during the English Civil War (Cromwell’s parliamentarians/roundheads beat the royalists/cavaliers).  Three children exiled:
+
+* Mary Stuart married William II, Prince of Orange of the Duth Republic–part of the Hapsburg Empire–and had son **_William III_**.  William was frail, cold, and phlegmatic, nonetheless held the superior French Army from over-running the Netherlands.
+
+* Charles II was restored to English throne 1660-85.
+
+* James II married Anne Hyde and fathered **_Mary II_** (and reigned 1685-88).  Mary was lonely and sheltered but imaginative.
+
+To align England with Holland against France, Charles II orchestrated the 1677 marriage between **William & Mary** (W&M), cousins who had not yet met and wept throughout the ceremony.  William fought off French invading troops and had affair with one of Mary’s maids of honor.  Mary suffered from depression and miscarried twice (some suspected gynecological infection mistaken for malarial fever led to permanent infertility).  Nonetheless, they fell in love with the politeness, seriousness, and piety of the Dutch and each other, bonding over firm Protestant faith (Calvinist, Anglican, respectively) and high standards of personal conduct.
+
+**Glorious Revolution (1688)**: W&M befriended Charles II’s bastard son Monmoth, who threatened James II’s claim (and was ultimately beheaded after an ill-advised invasion attempt).  French spies tried to sow discord between W&M.  After Charles II’s death, W&M grew increasingly estranged from the newly coronated James as he tried to restore Catholicism in England (prosecuted seven bishops).  James II had a son James Francis Edward (some suspect died and replaced with another baby) who threatened W&M’s claim.  Ultimately, W&M decided James risked England becoming a French satellite state or falling into a second civil war.  James outnumbered William 34K to 15K troops, but William relied on the assurances of his contacts that James’ troops didn’t support him.  He landed in Brixham and marched to Exeter.  60 miles away, James decided to withdraw and fled to France (he was caught and returned to Westminster, but allowed to escape).  Two months of negotiating between the House of Commons (Whig) and Lords (Tory) ultimately decided James had abdicated and the crown should be offered jointly to W&M (coronated 1689).
+
+**Rule (1689-1702)**: Overwork, anxiety, and asthma (worsened by London fog) took a toll on William, who preferred Dutch informality to English ceremony, nobles, and Parliament.  Despite a grazing from a cannonball, William turned back James’ 1690 invasion of Ireland, and then hurried to limit the French advances in the Netherlands.  James/France’s final attempt to invade England failed with a 1691 naval loss.  William faced rivals in England and Holland, numerous accidental palace fires, and several assassination plots (they sometimes boosted his popularity).  Mary despised William’s absences for battle each spring and fell out with her sister Anne.  Using a design from Sir Christopher Wren, she established William & Mary College by royal charter.  She also created a fad of neat, red-brick houses and geometrical gardens with evergreen shrubs.  Mary died December 1694 of smallpox–not until after a massive memorial was her letter found requesting an inexpensive funeral.  Despite many suitors, William had no desire to remarry and broke with his mistress.  Rumors of homosexuality with close advisors were probably unfounded.  William superficially reconciled with his successor Anne, though personal antipathy persisted.  After a Peace Treaty, Parliament slashed his war budget and William’s popularity waned.  William died March 1702 of pneumonia at age 51, succeeded by Anne, George I, and George II.
+
+**Legacy**: Though perceived as dull, cold, and reserved–and remembered for his exhaustive military campaigns–William built the Dutch army into a respectable force and helped establish Parliament’s role in British government.  He was one the last monarchs to lead armies in persona nd one of the first to have a firm grasp of the principle of balance of power.
+
+<!--RESEMBLES GAME OF THRONES.  CONSTANT LINES OF CONFLICT: COUNTRY (ENGLAND, FRANCE, SPAIN), RELIGION (PROTESTANT, CATHOLIC), HOUSE (STUART, ORANGE), POLITICS (ROYALIST, PARLIAMENTARIAN).-->
+
+## Lawrence Wright: Going Clear: Scientology, Hollywood, and the Prison of Belief
+
+-Lafayette Ron Hubbard (LRH) fed his youthful imagination through travel and kept catalogs of plot ideas in his journals.  He befriended "Snake" Thompson, a neurosurgeon who spent his early military career roaming Asia posing as a herpetologist looking for rare snakes while covertly gathering intelligence and charting possible routes of invasion.  Thompson’s maxim was “if it’s not true for you, it’s not true.”  Hubbard married Polly at 22 and found a niche churning out science fiction pulp fiction stories which became popular in Depression-era America.  He failed his military vision test twice, but was admitted in 1941 when FDR declared national emergency.  His only official combat experience was a short command of a ship which launched all its munitions attacking a sonar ping caused by a Pacific magnetic deposit.  After discharge for ulcers, moved in with LA rocket scientist and occultist Jack Parsons.  After joining sexual rituals to produce a “moonchild,” stole Parsons’ girlfriend Sara Northrup and fled to Miami.  “He could easily invent an elaborate, plausible universe.  But it is one thing to make that universe believable, and another to believe it.  That is the difference between art and religion.”
+
+-In 1948, moved back to Hollywood and 1950 book Dianetics, invented extensive vocabulary and acronyms.  General concept: "Thetans" (souls) can go “clear” by reducing the influence “engrams” (past) have over one’s current behavior through “auditing” using “E-meters” and reciting the details of the original incident until it no longer posses an emotional charge. Fed by rum and cokes, continued to write as battled Sara (kidnapped daughter and fled to mafia-run Havana, suggested she kill herself to avoid divorce, wrote letter the Attorney General accusing her of Communist ties).   Dianetics was a NYT bestseller for 28 weeks, but Hubbard cleverly moved away from self-help and towards religion to maintain control and extract profit. Religion ensured his word as “Source” (founder) was law, provided tax benefits, and ensures lifetime engagement through a series of veiled revelations.   Founded Church of Scientology in 1954.  In 1967, set sail on Apollo with a youthful “Sea Org” to sail Europe.  Continued writing, eventually embracing reincarnation and OT III (75m years ago, Galactic commander Xenu foiled a coup by collecting people at population centers, paralyzing them with a lung injection of frozen alcohol, loading the bodies onto space planes, and transporting them to Earth, where they were dropped into volcanos and blown up with hydrogen bombs.  Free-floating “body thetans” remain, attaching themselves to living people because they no longer have free will, and must be eliminated). Hubbard began abusing crew with overboardings, locking children up, and hard labor (created Rehabilitation Project Force, RPF).  Fleeing authorities in France and the US, Hubbard moved from NYC to Caribbean to Clearwater, Florida (“Flag Land Base”) to La Quinta, California. Son Quentin committed suicide.  FBI raided the church in 1977 and indicted 11 executives including Hubbard’s third wife Mary Sue for Operation Snow White (ambitious effort to covertly place Scientologists within US government agencies).  Hubbard viewed celebrities as key to recruitment.  John Travolta, recruited by co-star, credited Scientology with his success.   
+
+-"Wonder Kid" David Miscavige became an auditor at 12 and Chief Cinematographer at 17.  Consolidated his position as conduit to Hubbard (until 1986 death) and positioned Mary Sue as the fall person during a myriad of 1980s scandals (abuse lawsuits, OT III leak, questioning of Hubbard’s biography).  Miscavige eliminated rivals, declared himself Chairman of the Board, and leader of the “religion” (not the “Church,” for legal protections).  He hired a PR firm, used lawsuits to harass enemies, and resumed fight (lost in 1967) for IRS tax-exempt status (eventually won settlement in 1993).  Miscavige, who had bouts of rage since childhood asthma, personally assaulted at least 30 members (including senior executives).  He organized “musical chairs” games in which he claimed any losers would be “offloaded” (kicked out of Sea Org and separated from their families).  Miscavige’s wife has not been seen in public since 2007.  When members “blew” (fled) the church, teams used OSINT, social engineering, PIs, and surveillance to track down.  When members “routed out” (the formal process), they were “disconnected” and billed $150K to see their family again.  
+
+-Tom Cruise’s first wife Mimi Rogers introduced him to Scientology.  Miscavige distrusted second wife Nicole Kidman and labeled her clinical psychologist father a "Suppressive Person."  When heard Cruise was lonely in 2004, Miscavige team found young scientologist actress Nazanin Boniadi, put in special assignment for beauty treatments, staged NYC meet-cute with Cruise.  Two weeks later, after Cruise perceived she disrespected Miscavige, his assistant told Boniadi to pack her things (Cruise was in the gym, too busy to say goodbye), and she was sent to dig ditches and scrub public toilets with a toothbrush.  Cruise received over 200 hours of auditing from Marty Rathbun and Tommy Davis, poured millions into the church, and lived royally while RPF members received prison meals.
+
+<!--HUBBARD UNPARALLELED IN CREATIVITY, OUTPUT, AND PERSUASION, BUT NO GROUNDING WHATSOEVER IN SCIENCE.  FREEDOM OF RELIGION PERMITS BELIEF BUT DOES NOT ABSOLVE WIDESPREAD ABUSE, MANIPULATION, LIES—MORE HARMFUL THAN FLDS OR CHRISTIAN SCIENCE. MEMBERSHIP STAGNATING BUT RICHER THAN EVER.-->
+
 ## Steven Livitsky and Daniel Ziblatt: How Democracies Die
 
 In the Cold War, coups accounted for ~75% of democratic collapses (Argentina, Brazil, Peru, Greece, Turkey, Pakistan, Thailand, etc.).  Since, most democracies have died in the hands of an elected leader, either quickly (e.g. Hitler, ~1 year) or slowly (e.g. Hugo Chavez, ~15 years).
@@ -1266,7 +1302,7 @@ Data-driven approach to pregnancy:
     No more than 2 cups of coffee/day.
     No tobacco or cannabis.
     No raw/rare meat and poultry, unwashed fruits/vegetables, queso and other raw-milk cheeses, or deli meats.
-    Drugs: ask doctor.
+    Medications: ask doctor.
 
 -   Changing cat litter and some airplane travel is fine; avoid gardening and hot tubs.
     General exercise is fine (yoga encouraged); Kegels prevent incontinence and help pushing.
@@ -1861,9 +1897,9 @@ The story of the global Salafi-jihadi movement through its major players:
 
     -   Kunya -- nickname. Nisbah -- toponym (e.g. al-Kuwaiti). Zakat -- charity. Takfiris -- prescribe a certain brand of Islam, and those who do not adhere deserve death. Bayat -- oath of allegiance. Hijrah -- Mohammed's migration into exile in Medina.
 
-CT FOLLOWS CYCLE: INVADE, OCCUPY, WITHDRAW, REPEAT. NEED TO COUNTER THE NARRATIVE THAT US IS AT WAR WITH ISLAM, TAILORED TO EACH COMMUNITY AND TOLD BY LOCAL MESSENGERS. IMPRISONING FOREIGN FIGHTERS HARDENS THEM, MUST TRY REHABILITATION.
+<!--CT FOLLOWS CYCLE: INVADE, OCCUPY, WITHDRAW, REPEAT. NEED TO COUNTER THE NARRATIVE THAT US IS AT WAR WITH ISLAM, TAILORED TO EACH COMMUNITY AND TOLD BY LOCAL MESSENGERS. IMPRISONING FOREIGN FIGHTERS HARDENS THEM, MUST TRY REHABILITATION.
 
-PARALLELS TO DOMESTIC TERRORISM (CRIMINAL BACKGROUNDS, BOOGALOO/ACCELERATIONISM).
+PARALLELS TO DOMESTIC TERRORISM (CRIMINAL BACKGROUNDS, BOOGALOO/ACCELERATIONISM).-->
 
 ## David Grann: Killers of the Flower Moon
 
@@ -4999,7 +5035,7 @@ Standard Meditation ("Take10"):
 
 Integrate into life: Eating (slowly), Walking (slowly), Running, Sleeping (scan, replay, "switch off").
 
-## \*\*\*\*Michelle Obama: Becoming
+## Michelle Obama: Becoming
 
 Grew up with parents and older brother in Great Aunt's second floor in South Shore Chicago.
 Hard-working parents were stern and practical but gave children independence.
@@ -7021,7 +7057,7 @@ AARVN officers had to undergo reeducation.
 Full normalization of relationship in 1995.
 <!-- NEED TO KNOW AND BELIEVE IN WHAT YOU'RE FIGHTING FOR, NOT JUST AGAINST (I.E. COMMUNISM IS BAD BUT WAS SV GOVERNMENT BETTER?).  BEATING GUERILLA MOVEMENTS ALWAYS HARD—BUT ESPECIALLY WHEN USING CONVENTIONAL TACTICS.  BODY COUNT RATIOS NO PROXY FOR SUCCESS. AIR SUPERIORITY NECESSARY BUT NOT SUFFICIENT.  BABY BOOMERS "LAST GENERATION TO BELIEVE THEIR GOVERNMENT WOULD NEVER LIE TO THEM."  ANTI-WAR MOVEMENT CONSTITUTIONAL/JUSTIFIED, BUT TREATMENT OF RETURNING SOLDIERS WAS DESPICABLE. -->
 
-## \*\*Stephen Covey: Seven Habits of Effective People
+## Stephen Covey: Seven Habits of Effective People
 
 1.  Be proactive and take control of your own fate.
 
@@ -7323,7 +7359,7 @@ Introverts sweat more and literally have thinner skin (more prone to false posit
 
 <!-- WE CAN ONLY STRETCH OUR PERSONALITIES TO A POINT.  NO IDEAL; WE ALL NEED BALANCE.  BUT DO ACTIVITIES WHICH LET YOU RECHARGE (e.g. FIND A JOB WHICH LETS YOU READ, STRATEGIZE, WRITE).  PURSUE DEPTH OF RELATIONSHIPS OVER QUANTITY. -->
 
-## \*\*\*\*Steve Coll: Private Empire
+## Steve Coll: Private Empire
 
 The End of the Cold War opened opportunities for global drilling, but Exxon responded to trend toward nationalization of oil by targeting countries which lacked the political or economic stability to manage a competent state-owned company.
 
@@ -7554,7 +7590,7 @@ Offer specific things you can do to help.
 
 <!-- TRIES TO GENERALIZE BUT STILL SPECIFIC TO HER CIRCUMSTANCES (& RESOURCES) -->
 
-## \*\*\*\*Yuval Noah Harari: Homo Deus
+## Yuval Noah Harari: Homo Deus
 
 Humanity is moving from\* Homo Sapiens\* to *Homo Deus*.
 Over its first two millennia, it has largely conquered ***starvation***, ***disease***, and ***war***; it now seeks to achieve:
@@ -7646,7 +7682,7 @@ In describing how the U.S. became the world's largest jailer, we focus on nation
 
 <!-- NUANCED, WELL-RESEARCHED ARGUMENT.  FOR COMPLETENESS SHOULD ALSO CONSIDER PERSPECTIVE OF LAW ENFORCEMENT. -->
 
-## \*\*\*\*Seth Stephens Davidowitz: Everybody Lies
+## Seth Stephens Davidowitz: Everybody Lies
 
 Among the first data scientists to get access to Google Search data.
 
@@ -7976,7 +8012,7 @@ But 2009---the first in the new stadium---they finally won again, taking the pre
 Jeter went to great lengths to keep his personal life secret, only going to VIP clubs and leaving separately from his woman (or women).
 When frustrated with NY tabloid coverage, went directly to Associated Press to give his story.
 
-## \*\*\*\*Jon Meacham: Destiny and Power
+## Jon Meacham: Destiny and Power
 
 BLUF: Bush moved through life torn between an ambition to win and an impulse towards empathy.
 
@@ -10888,7 +10924,7 @@ Jeffco police refused to release report for several years.
 
 <!-- AUTHOR MOCKS PEOPLE TURNING TO RELIGION AFTER TRAGEDY; COULD BE USEFUL COPING MECHANISM. -->
 
-## \*\*\*\*Lawrence Wright: The Looming Tower
+## Lawrence Wright: The Looming Tower
 
 -Sayyid Qutb and Arabs were shocked when the US supported Israel in the 1948 War.
 Qutb was communist but realized the battle wasn't capitalism-communism but materialism-Islam.
@@ -11286,7 +11322,7 @@ Spent the remainder of the war being brutalized in several Japanese POW camps.
 Returned a celebrity, but suffered severe PTSD and became alcoholic.
 Heard Billy Graham, became devout Christian, and forgave prison guards.
 
-## \*\*\*\*David Brooks: The Social Animal
+## David Brooks: The Social Animal
 
 -The unconscious runs all the skills that we have accomplished through practice, as well as more complex problems.
 Morality lives in the unconscious, but can be strengthened with practice.
