@@ -21,6 +21,38 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## David Byrne: How Music Works
+
+Talking Heads lead.  Insights:
+
+* **_Technology_**: Ability to record increased exposure/influences, but audiences now expect live performances to sound like recordings and are less forgiving of mistakes.  78, 45 Records (forced shorter songs) > Tapes (allowed editing, multi-track recording ) > Long-Play Record (1948) > Bell Labs developed digital technology for telephone switchboards in the 1970s, led to harmonizers, samplers, Moog synthesizers, and CDs (1982).  Digital editing software has made pop crisp/clean but pushed it toward a "grid" of 8-bar patterns.  With streaming, music has come full circle and is no longer a material thing (difference now is it is ubiquitous and we take it for granted). 
+
+* **_Recording_**: Byrne preferred live recordings, but most studios "deconstruct and isolate" components so they can tweak each part without “leakage” (e.g. hearing drums on vocals)
+
+* **_Lyrics_**: Music doesn’t have to stem from any autobiographical impulse from the writer, but it should trigger authentic emotions in the listener.  Most artists’ personas are an act.  Study found 69% of "creatives" have mental disorders.
+
+* **_Performing_**: Playing "tight" means together—not necessarily exactly on the beat; good musicians push and pull to convey emotion.  Shows must balance novelty with familiarity; better to tip off audience to surprises (otherwise most miss).
+
+* **_Business_**: Many successful artists (even responsible ones) have gone completely broke at some point in their careers (e.g. Michael Jackson, Seal). Today’s superstars diversify into perfumes, restaurants, shoes, and clothing so they’re not reliant on music. Limited finances posed creative restrictions but also encouraged decisiveness. Historically, labels provided not just capital but musical expertise, contacts, and equipment.  But they’ve largely been consolidated and bought out by corporate giants—at the same time recording and distribution costs have dropped.  
+
+    * 360° Deal: Every aspect of artist handled by producers, promoters, marketing, managers, etc (e.g. Jay-Z)
+
+    * Standard Royalty: Label bankrolls recording, manufacturing, distribution.  Artist gets percent of record sales (e.g. Talking Heads).
+
+    * License Deal: Artist retains copyright and ownership of the master recordings.
+
+    * Profit-Share Deal: All costs divided evenly, ownership is split 50/50.
+
+    * Production & Distribution Deal: Artist pays for everything everything except manufacture and distribution.
+
+    * Self-Distribution: Artist does everything themselves.
+
+* **_Venues_**: A vibrant scene should give artists freedom to play what they want, make good money, and watch others for free. It should also have space for patrons who aren’t there only for the show.
+
+* Music can be a moral good (drives emotions and holds communities together), but its benefits should be spread widely (the NY Metropolitan Opera House spent $325M in 2011, while K-12 arts education budgets are being slashed across the country).
+
+<!--HALF IS TALKING HEADS MEMOIR BUT CLEARLY THOUGHTFUL AND KNOWLEDGEABLE OF THE INDUSTRY.  SOME MISTAKES IN LIVE SHOWS CAN BE HUMANIZING.-->
+
 ## John W. Whiteside III: Fool’s Mate
 
 In 1991, KGB defector to the UK Vasili Mitrokhin alleged former NSA employee Robert Lipka spied for the KGB from 1965-67. Corroborated by FBI source Aleksey Kulak (Fedora).  In a false flag operation, FBI UCE Dmitri Droujinsky posed as a GRU officer looking to reopen Lipka.  Case Agent John Whiteside (author) drew from research on illegals Peter and Ingeborg Fischer to identify code name "Rook" (derived from Bond film From Russia With Love), which helped Droujinsky to earn Lipka’s trust.  Over several meets, Droujinsky elicited significant intelligence and admissions.  Lipka also claimed to launder money for Colonel Ollie North.  During an interview with Whiteside, Lipka’s first wife Pat admitted she was aware of his espionage.  Through careful diplomacy, Mitrokhin was prepared to testify. FBIHQ delayed arrest for Earl Pitts arrest in Quantico. Choreographed endgame to extract additional evidence: Pat told Lipka FBI was onto him, Whiteside interviewed Lipka directly, and team waited a day to see if Lipka would contact Droujinsky for help.  Arrested after son left for school and searched home all day. Lipka pleaded guilty in 1997 and after refusing to cooperate in a debrief was sentenced to 18 years in prison. He had had at least 50 meets and made at least $27,000, though the full extent of his damage remains unknown.
