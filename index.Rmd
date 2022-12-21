@@ -21,6 +21,154 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Jake Adelstein: Tokyo Vice
+
+From Missouri, studied at Sophia University in Tokyo and passed standardized journalism entrance exam to land job at Yomiuri newspaper (conglomerate also owns Yomiuri Giants baseball team) from 1993-2005.  Cardinal rules: one great source beats 100 lousy ones, don’t burn sources, triangulate stories, never put personal opinion in stories.  Japanese press often portrayed as sycophantic lap-dogs, but actually proactively fighting for scoops and (trying) to keep forces in power in check.  
+
+* Almost half the 40,000 yakuza are Korean-Japanese, many the children of Koreans brought over as forced labor during Japan’s colonial period.  There are 22 yakuza groups but dominated by Yamaguchi-gumi.  Many are innovative, less tattooed nine-fingered thugs and more Goldman Sachs with guns.  With close historical ties to the LDP, they are treated as any other corporate entity but make most of their money through real estate and extortion.  
+
+* The National Police Agency is like the FBI with all the bureaucracy and none of the investigative powers (wiretapping, plea bargaining, witness protection).  Cordial with Yakuza, who fed enough information to keep cops off their backs.  
+
+Adelstein threatened local police with leaking a separate active investigation to win his first scoop, and angered them going undercover on another story.  But build impressive source network with police (visited Sekiguchi’s family in evenings, bribed Alien Cop with nights out), Yakuza (tracked down origin of snitch rumors for boss Naoya Kaneko, Shibata sought atonement after cancer diagnosis), and sex workers (frequented hostess clubs—flirting, sex clubs, and love hotels, source/friend/prostitute Helena later raped/killed).  Prostitution (vaginal penetration with penis) technically illegal but loopholes and minimal enforcement.  Adelstein went undercover to investigate 2000 murder of Brit Lucie Blackman.  Helped expose Yakuza Susumu Kajiyama, "Emperor of Loan Sharks," who had laundered millions off predatory lending through US casinos.  Discovered “Slick” was luring foreign women to Japan on promise of $40K/month and luxurious clients but put in dirty dorms and required to backpay airfare/fees—all under threat of arrest and/or deportation.   
+
+Adelstein resigned from Yomiuri in 2005 and joined US State Department study of human trafficking in Japan.  Uncovered FBI helped Tamadama Goto—Yakuza boss tied to 17 murders—get a US visa for liver transplant at UCLA in exchange for comprehensive list of Yamaguchi-gumi members, related front companies/financial institutions, and information on North Korean activities.  Japanese papers were too scared to publish, so wrote in LA Times and a Japanese book/anthology.  
+
+<!--LIKE RED NOTICE, RAPACIOUS CAREERIST DISCOVERS MORAL CALLING.   GRATITUTOUS SEX/EGO, BUT COMPELLING INSIDER ACCOUNT OF NOVEL TOPIC.-->
+
+## William McRaven: Make Your Bed
+
+1. Start your day with a task completed (always make your bed)
+
+2. You can’t go it alone (paddling, care post-parachuting accident)
+
+3. Only the size of your heart matters (skinny tadpoles become decorated SEALs)
+
+4. Life’s not fair—drive on! ("sugar cookie" punishment, freak bike accident)
+
+5. Failure can make you stronger ("circus" punishment, command demotion)
+
+6. You must dare greatly (headfirst obstacle slide, risky Black Hawk raid in Iraq)
+
+7. Stand up to bullies (sharks, Saddam Hussein)
+
+8. Rise to the occasion (technical dive, ramp ceremonies)
+
+9. Give people hope (Tijuana mudflat singing, John Kelly)
+
+10. Never, ever quit! (don’t ring the bell, Ranger Bates)
+
+## Patrick J. McGinnis: The 10% Entrepreneur
+
+Entrepreneurship doesn’t have to be an all-or-nothing proposition.  Your day job must come first, but technology is making work more flexible.  Most fail, so diversify your efforts.  Your day job and "10%" should symbiotically support each other (skills network, knowledge).
+
+Broad types of entrepreneurs: Angel investor (investing for shares), Advisor (also providing knowledge), Founder, Aficionado (passion-driven), 110% Entrepreneur (day job also entrepreneur).
+
+Process:
+
+* Assuming no opportunity cost, brainstorm what you want to do
+
+* Write your professional biography to identify what you do well
+
+* Do your due diligence and build a strong/diverse team
+
+* Craft your elevator pitch, be persistent
+
+<!--FINITE TIME BETWEEN DAY JOB AND FAMILY.  POSSIBLE CONFLICTS OF INTEREST WITH DAY JOB.  MUCH OF IT IS FAMILIAR, BUT GENERIC, CAREER ADVICE (TIME MANAGEMENT, INVESTING, NETWORKING).  TRYING TO TURN PROFIT FROM HOBBIES RISKS KILLING ENJOYMENT.-->
+
+## Erick Larson: The Splendid and the Vile
+
+After Chamberlain’s May 1940 resignation, Lord Halifax effectively declined the position to pass to Winston Churchill.  Churchill’s speeches—ostensibly for British citizens but always intended for FDR as well—offered a sober appraisal of facts tempered with reason for optimism.  Churchill appointed himself minister of defense, and Lord Beaverbrook new Minister of Aircraft Production (he would submit his resignation 14 times, but increased production to 363/week, out pacing losses). 
+
+Bletchley Park had cracked Enigma and—in an effort to create a "death ray" capable of destroying aircraft—the UK discovered radar.  The Luftwaffe used intersecting beams to help bombers identify targets at night.  
+
+Assuming a quick surrender, Hitler built grandstands in Berlin for a victory parade and initially discouraged targeting civilians.  He insisted no ground invasion until air superiority, and felt urgency to engage USSR before built up forces (predicted Stalin would surrender in 6 weeks).  Messerschmitt Me 109s were roughly evenly matched with Hurricanes and Spitfires, though limited by 125-mile range over unfriendly territory.  On average, German pilots were 26 and British 20.  Hermann Göring, Luftwaffe chief and Hitler’s successor, observed raids from the French coast.  
+
+Churchill approved risky mission to destroy French ships to keep out of British hands.  Churchill tried to stifle press coverage on the sinking of the *Lancastria* drowning at least 4,000 Brits—until 2,500 survivors showed up in Britain.  His "finest hour" speech captivated Parliament but was less effective when repeated over radio because he read it with a cigar clenched in his mouth.  Churchill workshopped and wrote down lines, including “Never in the field of human conflict was so much owed by so many to so few.”
+
+Around 700 Germany aircraft struck each day/night, though occasionally launched massive attacks on London and industrial centers (e.g. Coventry, Southampton), causing Brits to disperse production.  FDR, having survived the November 1940 election and with careful political messaging, managed to sell the Lend Lease Act to a reluctant American congress 60-31.  Churchill pulled out all the stops to woo FDR’s representatives Harry Hopkins and Averell Harriman.  Nazi deputy Rudolph Hess managed to fly an Me 109 to try to negotiate peace with the Duke of Hamilton, but had to bail and was imprisoned in the Tower of London.
+
+**_Life in the Battle of Britain_**: The British government issued 35M gas masks to civilians and painted mailbox yellow that would change color in presence of poison gas.  With a tea ration of 3oz/week, people dried used leaves to steep them again.  London was covered with barrage balloons ("silver elephantines") to keep fighters from flying low enough to strafe the city streets.  With most Luftwaffe bombing under the cover of darkness, full moons were a source of dread.  Londoners barely slept amidst the sirens, bombs, anti-aircraft guns, and anxiety.  Many watched from their roofs as if a thunderstorm.  Only about 5% used the Underground for shelter.  The London Zoo killed its poisonous snakes, but one raid set a zebra loose.  Bells meant the invasion had begun—Brits should disable their bicycles and destroy their maps.  Sandbags and machine gun nests (some disguised as book kiosks) surrounded Westminster.  
+
+**_Churchill_**: Spent much of his time in Chequers outside the city (had to be relandscaped to make it a less obvious target from the air).  No matter where he was, Churchill’s two favorite places to work were his bed and bathtub, always with a typist nearby. Worked well into the night but napped frequently.  Carried a cyanide pen and revolver but often misplaced it or brandished it jokingly.  Watched several raids from roof, sitting on the chimney to keep warm until an officer asked him to move to allow smoke below to dissipate.  Was in debt for much of the war, asking friends for loans to cover payments.
+
+<!--FASCINATING TOPIC, WELL-WRITTEN BUT COULD USE LESS ON SOCIAL/DATING LIFE OF DAUGHTER MARY, SECRETARY COLVILLE DATING.-->
+
+## Craig Whitlock: The Afghanistan Papers
+
+-America’s involvement in Afghanistan was longer than WWI, WWII, and Vietnam combined. Over 20 years, 775K troops deployed, 21K were wounded, and 2.3K died.
+
+-Sourcing: Washington Post filed two federal lawsuits to compel the Special Inspector General for Afghanistan Reconstruction (SIGAR) to release Lessons Learned documents.  GWU National Security Archive released Rumsfeld’s snowflakes and UVA Miller Center recorded oral history.
+
+**_False Victory (2001-2002)_**
+
+* Using punishing airpower, CIA-backed warlords, and commandos, the US toppled the Taliban government in under six weeks.  Bush’s initial objectives: disrupt AQ and remove Taliban’s military capability (out of uncertainty what to do next, quickly crept to creating a stable, American-style government with democratic elections, women’s ministry, modernized public schools).
+
+* Bush administration blurred the lines between AQ (Arabs, global outlook) and Taliban (Pashtuns, local focus).  By 2002, the US was predominantly fighting Talib tribesmen who had nothing to do with 9/11.
+
+* US squandered two opportunities in 2001: killing UBL at Tora Bora, and including Taliban into Bonn Agreement. 
+
+**_Great Distraction (2003-2005)_**
+
+* General Franks convinced Bush he could handle both operations, but Iraq diverted many of the US’ best officers as the Taliban regrouped.
+
+* In building the Afghan security forces, the US moved too slowly, then too quickly.  It also tried to impose western rules, customs, and structures despite vast differences in culture and knowledge (80-90% of Afghans cannot read or write but were expected to learn complex weapon systems).  They used "spray and pray," wasting ammunition and forcing US troops to rescue.
+
+* US troops which looked like stormtroopers and had little education in Islam were asked to win hearts and minds (didn’t understand how Afghan men held conservative views of women but flaunted having sex with boys).
+
+* Pakistan was the perfect refuge, protected by sovereign territory and walled by mountains and deserts (smuggler’s paradise).  US tried to pay Musharraf off, but continued playing both sides.
+
+**_Taliban Comes Back (2006-2008)_**
+
+* The unofficial mission was to keep a lid on Afghanistan while the US surged in Iraq.  The chorus of optimism in public defied a yearlong stream of intelligence assessments that the insurgency was gaining strength.
+
+* The US partnered with warlords to disarm them and buy support for the national government, but many Afghans saw the Taliban as less corrupt.
+
+* By 2006, opium was powering one-third of Afghanistan’s economic output.  US efforts to target drug producers were used by Afghans with ties to the government to target competitors in the drug trade.  DoS lacked resources and DoD saw it as outside their mission.
+
+**_Obama’s Overreach (2009-2010)_**
+
+* Despite policy reviews, the plan hardly changed: contain the insurgency and strengthen the government.  McChrystal and Petraeus arrogantly assumed they could make their version of counterinsurgency work.  Obama surged 30,000 more troops (100,000 total) but a strict timeline.
+
+* Reconstruction aid tripled from $6B in 2008 to $17B in 2010 (roughly equivalent to Afghanistan’s own GDP).  But in the rush to spend, the USG drenched Afghanistan with more money than it could absorb (built endless empty schools, Taliban blew them up so Americans would pay sibling to rebuild them).
+
+* Karzai was a Pashtun acceptable to Tajik, Uzbek, and Hazara strongmen who led Northern Alliance.  But schism with US grew over airstrikes and corruption.  His older brother owned much of Kabul Bank, beset by scandal.
+
+**_Things Fall Apart (2011-2016)_**
+
+* As efforts to train Afghans accelerated, the insider threat exploded to 45 attacks in 2012, killing 116 US/NATO troops (fed negative news coverage).  Afghan commanders inflated troop numbers to pocket their salaries (in 2016 US determined at least 30,000 troops didn’t exist—integrated biometrics).  Even when troops existed, they abandoned their posts with alarming frequency.
+
+* In 2014 ceremony, Obama trumpeted total withdrawal by 2016 with 10,800 troops remaining in "non-combat" roles, but the Pentagon carved out exceptions that made the distinctions almost meaningless.  Obama changed his mind, leaving 5,500 troops when he left in 2017.
+
+**_Stalemate (2017-2021)_**
+
+* Trump declared secrecy, increased troops to 14,000, and intensified bombing (including MOAB).  He also demanded direct negotiations with the Taliban (independent of Afghan government) for withdrawal in a way to save face. 
+
+* In 2020, Trump pledged withdrawal by May 2021 and support release of 5,000 Talib prisoners, while Taliban promised direct negotiations with Ghani’s regime and assurances Afghanistan would not be used to launch attacks against the US.
+
+* Biden decided to withdraw all troops by September 11, 2021.
+
+<!--OBVIOUSLY POLITICAL LEADERS SPUN SITUATION OPTIMISTICALLY—THEY DO WITH ALL POLICY AND FELT THEY HAD TO KEEP TROOPS MOTIVATED.  QUOTES ALSO SOMEWHAT CHERRY-PICKED.-->
+
+## G Elliot Morris: Strength In Numbers
+
+On average, polls still do a good job informing public debate and democratic governance.  Can be improved with five reforms:
+
+1. **_Method_**: Pollsters should abandon polls fielded entirely by phone, and incorporate samples from online or SMS messages, which provide more room for experimentation.
+
+2. **_Margins of Error_**: Pollsters should accept the fact that opinion polls are subject to roughly twice the traditional margin of error which only reflects sampling error.
+
+    1. Traditional margin does not account for bias from people not answering a call or filling out an online survey (nonresponse error), issues with question wording and response options (measurement error), or whether or not the list from which samples are drawn includes an entry for each person in the population (coverage error).
+
+3. **_Aggregation and forecasting_**: Election forecasters should revisit their confidence in poll aggregation to remove biases, and their ability to convey those biases to readers.  Forecasting should become an enterprise for exploring uncertainty, not predicting outcomes.
+
+4. **_Transparency_**: The American Association for Public Opinion Research (AAPOR) ought to more aggressively and publicly sanction public pollsters who do not release thorough, transparent reports on their methodologies.
+
+    2. In our modern age of polarization and echo chambers, pollsters are increasingly willing to manipulate data to suit their objectives and receive media coverage.
+
+5. **_Usefulness_**: To better achieve the promises of polls in a republican government, more political interest groups should devote themselves to measuring and advocating for the public’s opinions.
+
+Brief history: Spontaneous counts called straw polls (1824), Literary Digest postcard ballots (1924), Gallup pioneered scientific polling with weighting (1936), Dewey defeats Truman (1948), phone polls, computer models, aggregation (Pollster.com), probabilistic models and Monte Carlo simulations (Nate Silver), response rate sampling / voter turnout models (Erin Hartman/Obama 2012), misses 2016 and 2020.
+
 ## David Byrne: How Music Works
 
 Talking Heads lead.  Insights:
