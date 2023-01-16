@@ -21,6 +21,100 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Sam Jackson: Oath Keepers
+
+Built dataset of thousands of online documents to analyze the group from 2009-2016.  Patriot/Militia movement started after Ruby Ridge (1992) and Waco (1993), received mainstream attention after Oklahoma City bombing (1995), dwindled after 9/11, and surged after financial crisis (2008) and Obama presidency (2009).  Grew in tandem with Tea Party and Three Percenters (founded ~2008 by Mike Vanderboegh).  After election of Trump, enemy shifted from government to Antifa.
+
+National leadership controls primary website and social media, while on-the-ground activity is largely determined by state, county, and local chapters.  Founder/President Stewart Rhodes was army paratrooper, Ron Paul staffer, and Yale Law grad (disbarred in 2015).  Full membership technically requires military/first responder experience (though no substantive difference from associate members).  Despite claims to be nonpartisan and non-bigoted, affiliated with Republican Party and white supremacist/xenophobic/Islamophobic movements.  Also conspiracist (financial elite, gun control, FEMA/UN threats).
+
+Operational History
+
+* 2009: Founding; April 19 "Muster" on Lexington Common.  Local demonstrations and several members arrested for firearms, explosives, and child sexual assault charges.
+
+* 2013: Launched Community Preparedness Teams for neighborhood watch.  Removed barriers to WWII Memorial during government shutdown.
+
+* 2014: Joined Cliven Bunny in Bunkerville, NV standoff against Bureau of Land Management  efforts to seize cattle over unpaid grazing fees.  BLM backed down; though OK left suddenly over fear of a government-authorized drone strike (!).
+
+* 2015: Provided security for four local businesses (three minority-owned) in Ferguson, MO.  Joined other government standoffs at Sugar Pine Mine, OR and Lincoln, MT.  After shooting of military recruiters in Chattanooga, TN, organized armed volunteer security.  Offered to protect homophobic clerk Kim Davis but she declined.  OK leadership opposed standoff at Burns/Malheur National Wildlife Refuge, OR but many members participated anyway.
+
+* 2016: Operation Sabot, incognito intelligence gathering of voter fraud.  Operation HYPO, effort to penetrate anti-Trump protest organization and defend Trump’s inauguration (claim to have prevented a chemical attack on an inaugural ball).
+
+Ideological Elements (draw from each based on target audience)
+
+* Natural Rights: OK believe the Bill of Rights is an incomplete list of natural human rights—but never defines the full list.  Uses this strategic ambiguity to appeal to Americans and make extremist goals seem less extreme.
+
+* American Revolution Redux: OK "Declaration of Orders We Will Not Obey" draws from alleged crimes of 18th Century Britain (efforts to seize guns, conduct warrantless searches, declare martial law, import foreign troops).  Uses faulty parallels to garner moral legitimacy and political support.  
+
+* Waco: Demonstrates over militarization of police, and the government’s worst inclination toward violence and tyranny.  OKs won’t let it happen again ("No More Free Wacos").
+
+* Hurricane Katrina: Rather than mismanagement and incompetence, OKs see government’s readiness to use any justification to violate Americans’ rights.  They allege gun confiscation and blockade of New Orleans.
+
+Besides posing a physical security threat, OK are shifting the Overton Window (limits of acceptable political discourse) to pit the people against the government and accept violence as a legitimate form of resistance to government.  They encourage vigilantism and even discourage voting since electoral politics are broken.
+
+## Matthew McConaughey: Greenlights
+
+Grew up in Uvalde and Longview, TX.  Parents divorced twice, married three times.  Studied abroad in Australia, wanted to attend SMU but choose UT for in-state tuition.  Wanted to be defense attorney but pivoted to film school (father accepted, saying only "don’t half-ass it").  Improvised “alright alright alright” in Dazed and Confused and hit stardom in A Time to Kill.  Escaped fame in cross-country trailer and on trips to Peru and Mali.  Naked arrest in Austin forced move.  Shut down production company and music label to focus on family, foundation, and acting.  Rom-coms paid bills but stopped accepting, holding out for Dallas Buyers Club (lost 50 lbs) and True Detective.  Wolf of Wall St chest-bump tune was prep work until Leo DiCaprio suggested they include it.
+
+Aphorisms: Only three options: persist, pivot, or concede.  Form good habits and become their slave.  Don’t invent drama; it will come on its own.  It’s not about winning arguments, but understanding each other.
+
+## Dr. Bill Bass and Jon Jefferson: Death’s Acre
+
+Born Staunton, VA, attended UVA (BA psychology), U Kentucky (MS), and U Penn (PhD anthropology).  Served in Army Medical Research Lab during Korean War. While teaching at U Kansas-Lawrence; spent 14 summers in South Dakota excavating 4,000-5,000 Native American graves before they were submerged by a manmade lake. Jointed U Tennessee-Knoxville (UT) for anthropology and became Tennessee’s first state forensic anthropologist.  
+
+Medical examiner autopsy finds "cause of death," but anthropologists handle decomposing bodies to determine “manner of death”.  Became proficient at identifying big four: sex, race, age, height, but embarrassed by inability to determine time since death so created Anthropological Research Facility in abandoned barn on UT campus.  Key variable is temperature, so used Accumulated Degree Days metric (body decomposes roughly same in one 100° day as two 50° days).  Also depends on wounds, moisture, light, exposure to elements, and studied particulars in shallow graves, water and fire.  Insects (blowflies/maggots) and surrounding soil also provide valuable insight. 
+
+Shares pithy accounts of murders, grave diggers, life insurance fraud, crematorium malfeasance.  Early on, boiled flesh on home stove to extract bones.  Met Patricia Cornwell at conference and ran experiment to inform her novel The Body Farm, which catapulted Bass to international fame.
+
+## Caitlin Murray: The National Team
+
+**_Part I: 1988-2005_**
+
+US men’s soccer team created 1916, but women’s soccer didn’t catch on until Title IX in 1972.  Following successful 12-team Women’s Invitational Tournament in 1988, FIFA announced first Women’s World Cup for 1991 in China.  To save money, US plane picked up Swedish and Norwegian teams on the way.  US won but it wasn’t televised so barely anyone knew.  After winning the 1996 Atlanta Olympic gold, players publicized US-hosted 1999 World Cup by visiting youth soccer teams and schools.  Unexpected turnout, star-power of Mia Hamm, Brandi Chastain, Brianna Scurry, and an exciting win on PKs (with shirtless celebration) built momentum.   Penny-pinching US Soccer ("the federation") tried to nix victory tour, but backed down when players united in threat to strike.  US Soccer replaced popular coach Tony DiCicco with strict April Heinrichs.  US Soccer also blocked creation of National Soccer Alliance league in 1997, and didn’t fund 2001 creation of Women’s United Soccer Association (WUSA) which crumbled after two years due to lack of sponsors post-9/11.  After 2004 Athens Olympic gold, team requested resignation of Heinrichs but replaced by assistant Greg Ryan.  Amidst fraught negotiations, players wrote US Olympic Committee highlighting unequal treatment including compensation, managers/trainers, accommodations/transportation, marketing, youth academies, support for MLS v. WUSA.  Only in 2005 did women’s soccer finally become a full-time annual salary independent of games ($30-70K).
+
+**_Part II: 2005-2012_**
+
+Hope Solo, conceived on conjugal visit and later kidnapped by father, mourning the death of her father and a friend, was kicked off the team after lashing out following ill-advised 2007 World Cup benching.  Coach Ryan fired and replaced by Swede Pia Sundhage.  Clutch Carli Lloyd scored game-winner for 2008 Beijing Olympic gold.  New Women’s Professional Soccer (WPS) league resolved some WUSA shortcomings but lacked revenue to survive past 2011.  At 2011 World Cup, Abby Wambach scored thrilling header in 121st minute of quarterfinals over Brazil, but lost to Japan in final.  Alex Morgan, Megan Rapinoe, and Carli Lloyd emerged in the 2012 London Olympic gold run with wins over chippy rival Canada and revenge against Japan.   
+
+**_Part III: 2013-2019_**
+
+In 2012, created National Women’s Soccer League (NWSL) which finally received significant US Soccer investment ($10M over first six seasons) and still exists today.  Short-lived coach Tom Sermanni was replaced by longtime USWNT assistant Jill Ellis.  Solo had back-to-back legal incidents related to domestic abuse and DUI.  Two yellow cards prompted Ellis to tweak strategy unleashing Carli Lloyd, who scored a hat trick in the first 15 minutes of the 2015 World Cup Final.  Solo brought in more aggressive counsel for the players association and team filed EEOC wage-discrimination complaint.  2016 Rio Olympics disappointment was first time in 25 years team did not finish in Top 3; Solo was suspended/terminated from team after calling Swedes’ conservative play "cowardly."  2017 Collective Bargaining Agreement gave players licensing and sponsorship rights, as well as larger bonuses in exchange for fewer contracts and less guaranteed.  United team followed EEOC dismissal with legal suit against US Soccer in 2019.  Men/women salary structures totally different (men can rely on clubs), glaring inequities in bonuses, ticket compensation, and travel per diems.  Ellis unpopular for tinkering with lineup but advanced new players like Crystal Dunn, Rose Lavelle, and Kelly O’Hara.  Amidst Twitter-feud with President Trump, Rapinoe posed like a marble statue and carried US through 2019 World Cup.
+
+## Isabel Wilkerson: Caste
+
+The impulse to create hierarchies transcends societies and cultures.  Although race is the visible shorthand in the US, caste is the infrastructure that holds each group in place ("racism" has become emotionally charged).  Three instances of caste systems:
+
+1. India: Based in Hindu religion, castes are (1) Brahmin; (2) Kshatriya; (3) Vaishya; (4) Shudra; and (5) Dalits/Untouchables.  Can tell based on surname (God or dirty job).  Christians, Buddhists, Muslims exist outside caste system.
+
+2. US: Slavery (1619-1865) was uniquely violent and legal in the US (15 hours days, scant food, sadistic torture).  After federal government abandoned Reconstruction in 1877, the various Europeans united as "whites" in contrast to the lower caste “blacks.”
+
+3. Nazi Germany: Hitler studied US segregationist laws for inspiration (actually found definition of black overly inclusive, decided to define Jews at 1/16th blood).  Low caste untermensch ("subhumans") included Jews, Gypsies, blacks, etc.
+
+Eight Pillars of Caste
+
+1. Originates from divine will and laws of nature
+
+2. Inherited (what distinguishes caste from class/wealth, which is changeable)
+
+3. Endogamy (can’t marry or mate outside your caste)
+
+4. Purity versus Pollution (must be 100% pureblood)
+
+5. Occupational Hierarchy (low castes perform menial/subservient work)
+
+6. Dehumanization and Stigma (prerequisite for lynchings and genocide)
+
+7. Terror as Enforcement, Cruelty as Means of Control (force low castes to punish each other)
+
+8. Inherent Superiority versus Inherent Inferiority (constantly reinforced through culture/media)
+
+**Results**: Low castes are scapegoated for society’s ills (e.g. crime); and their contributions unrecognized or successes punished (e.g. Tulsa race riots).  Meanwhile, high castes make assumptions and feel entitled to intrude/patronize (e.g. frivolous 911 calls).  Media papers over with narratives of blacks forgiving whites.  
+
+**Cost**: Studies find harboring/receiving animus raises blood pressure.  It's even a burden to high caste members who constantly fear losing their status. The inherent rivalry erodes empathy, causing policies which reduce standards of living (e.g. incarceration, healthcare).  The Confederacy lost the war but rebranded their cause as noble through thousands of statues, schools/bases named in their honor.
+
+**Resolution**: Germany provides a model to reckon with our past; need a Truth and Reconciliation Commission.  Dominant caste must show radical empathy (humble listening).  None of us control the conditions of our birth or the actions of our predecessors, but all of us are fully responsible for our actions today.
+
+<!--COMPREHENSIVE COLLECTION OF ANECDOTES/VIGNETTES OF CASTE AT PLAY—SOME STATISTICS. VIVID METAPHORS FOR CASTE SYSTEM (E.G. OLD HOUSE, SICK PERSON, SCRIPTED PLAY).  SLAVERY LASTED EXACTLY AS LONG AS THE US IS OLD IN 2022.  SOME EXAMPLES (BAD FLIGHT/RESTAURANT INTERACTIONS) HAPPEN TO ALL (WHEN YOU’RE A RACE ACADEMIC, EVERYTHING LOOKS LIKE RACISM?).  CHALLENGE: WHEN EXPERIENCE REINFORCES STEREOTYPES; THOUGH BLACKS ALSO MORE LIKELY VICTIMS.-->
+
 ## Jake Adelstein: Tokyo Vice
 
 From Missouri, studied at Sophia University in Tokyo and passed standardized journalism entrance exam to land job at Yomiuri newspaper (conglomerate also owns Yomiuri Giants baseball team) from 1993-2005.  Cardinal rules: one great source beats 100 lousy ones, don’t burn sources, triangulate stories, never put personal opinion in stories.  Japanese press often portrayed as sycophantic lap-dogs, but actually proactively fighting for scoops and (trying) to keep forces in power in check.  
