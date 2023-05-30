@@ -13,7 +13,7 @@
 
 <title>BookNotes</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -352,6 +349,342 @@ Since around 2015, he has kept a repository of book notes (plus the
 occasional podcast or documentary). All credit belongs to the authors
 and creators.</em></p>
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
+<div id="daniel-byman-spreading-hate" class="section level2">
+<h2>Daniel Byman: Spreading Hate</h2>
+<p><strong><em>History</em></strong>: Following Reconstruction, the KKK
+lynched around 5,000 blacks—in addition to floggings, cross burnings,
+and bombings. FBI initially deferred to local law enforcement (often
+sympathetic to the KKK) but reversed course in the 1960s. It opened
+local offices, investigated corrupt cops, and by 1964, 6% of KKK members
+were FBI informants (promoted infighting, discredited leaders, and
+steered away from violence). Combined with public opinion, increased
+black voting, and SPLC lawsuits, devastated the KKK.</p>
+<p>In the 1970s, RMVEs switched from formal groups to local networks and
+political activism to terrorism. Vietnam War and societal changes drove
+anger. National Alliance (William Pierce), Aryan Nations (Richard
+Butler). Many traveled to fight for legacy British government in
+Rhodesia (now Zimbabwe). FBI penetrated, arrested, and burned down The
+Order safehouse at Whidbey Island, WA in 1984 after 35-hour standoff. In
+the 1990s, white nationalism converged with the surging militia movement
+following Ruby Ridge and Waco.</p>
+<p><strong><em>Contemporary</em></strong>: On 22 July 2011, Anders
+Breivik detonated a car bomb in Oslo killing 8 and went to an island
+hosting a summer camp affiliated with the leftist Labor Party and killed
+69 while disguised as a policeman. On 15 March 2019, Brenton Tarrant
+calmly murdered 51 people at two mosques in New Zealand. Both were
+active online but lone wolves, planning carefully for years and leaving
+manifestos (Tarrant used drones and online footage to scout
+mosques).</p>
+<p>From 9/11 to 2021, RMVEs killed almost 100 people in the US (5/year);
+on par with HVE. The number of white nationalist groups increased by 50%
+from 2017 to 2019, though this may reflect weakness rather than
+strength. Modern conspiracies: FEMA is building camps to imprison
+patriots who resist government; UN troops are hiding in national parks,
+waiting to seize power; European elites are Islamizing European culture
+in exchange for oil (“Eurabia”).</p>
+<p>Today, the government and public opinion oppose white supremacy, but
+the movement today is more global and often more deadly, and it has a
+longer list of enemies (USG, LGBTQ). Groups are limited by poor quality
+recruits (70% of those who have engaged in white supremacist violence
+have at least one prior arrest), lack of funding, infighting, pressure
+from law enforcement, and lack of popular support.</p>
+<p><strong><em>Counterterrorism</em></strong>: A federal domestic
+terrorism statute is unlikely to significantly change operations and
+could be misused against political opponents. Despite a patchwork of
+terrorism laws, prosecutors generally charge the most easily provable
+charges like illegal gun possession, drug trafficking, fraud, and
+assault—sometimes with hate crime enhancements. Seditious conspiracy
+charges usually failed (e.g. Fort Smith acquittals) until
+Oathkeepers/Proud Boys. Lesson from Ruby Ridge and Waco showed that
+de-escalation and isolation are more effective than aggressive
+confrontation.</p>
+<p>US is understandably reluctant to share USPER information with
+international partners, but should designate more foreign RMVE groups as
+FTOs, thus increasing the risk for those at home who support them. Civil
+society groups (e.g. SPLC) also support law enforcement with their own
+informants and civil lawsuits.</p>
+<p>Emily Oster: Cribsheet</p>
+<p>Data-driven approach to parenting:</p>
+<ul>
+<li><p>Delayed cord clamping, Vitamin K supplements, and skin-to-skin
+contact are good. Circumcision has small benefits (reduces
+UTIs/phimosis/HIV/cancer) and tiny risks (infection, meatal
+stenosis).</p></li>
+<li><p>Skin-to-skin contact is good. Swaddling reduces crying and
+improves sleep. Avoid exposure to germs for at least the first three
+months (most vulnerable). Breastfeeding has some benefits (fewer
+allergies/gastrointestinal disorders/NEC/ear infections, lower risk of
+breast cancer for mom).</p></li>
+<li><p>Back sleep reduces SIDS, but the benefits to room sharing die out
+in the first few months. Bed sharing is risky and sleeping on a sofa
+with an infant is extremely dangerous. “Crying it out” methods are safe,
+encourage sleep and improve mental health (key to sleep training is
+consistency). Earlier bedtime = longer sleep (most consistent feature is
+wake up 6-8am). Common development:</p>
+<ul>
+<li><p>Longer nighttime sleep develops around two months</p></li>
+<li><p>Move to three regular naps around four months</p></li>
+<li><p>Move to two regular naps around nine months</p></li>
+<li><p>Move to one regular nap around 15-18 months</p></li>
+<li><p>Drop napping around age three</p></li>
+</ul></li>
+<li><p>Babies benefit from early maternity leave, but no evidence beyond
+parental leave period. Day-care leads to slightly better cognitive and
+slightly worse behavior outcomes. Sick more often but develop more
+immunity. Judge day-care on safety (no exposed outlets, emergency plan,
+disposable towels), fun (floor space, types of toys/activities), and
+individualization (each kid has own crib/assigned teacher).</p></li>
+<li><p>Early food introduction reduces allergies. Trust your doctor on
+physical milestones. Girls speak faster than boys. Minimize screen time
+before age 3, and after that pay attention to what they’re watching.
+Starting potty training earlier (beyond at least 27 months) leads to
+earlier completion, although it generally takes longer. Keys to
+discipline are consistency, follow-through, and avoiding anger (spanking
+is counterproductive). There is value to reading from infancy but child
+will not be able to read before about three.</p></li>
+<li><p>Martial satisfaction declines, on average, after children
+(marriage counseling/checkup programs can help).</p></li>
+</ul>
+<p>David McCullough: 1776</p>
+<p>War started on April 19 1775, with first blood shed at Lexington and
+Concord, then savagely on June 17 at Breed’s Hill and Bunker Hill. King
+George III declared America in rebellion in October 1775; despite some
+opposition, the House of Lords supported war 69-29.</p>
+<p>Most founding fathers were in their late 30s/early 40s. Washington,
+41, had fully retired from military life for 15 years and never led an
+army into battle (only led regiment during disastrous, back-woods, 1755
+Braddock campaign). Ostensibly had 20K men but at most 14K fit for duty.
+Faced intra-service rivalries (90% New Englanders but Pennsylvania
+mutiny), equipment shortages (only two rounds per soldier), illness, and
+traitors (Benjamin Church).</p>
+<ul>
+<li><p><strong><em>Boston</em></strong>: British held downtown but
+neither side dared seize Dorchester Heights in South Boston.
+Washington’s secret army to seize Quebec failed badly, but Henry Knox
+heroically seized and transported ~60 canons from Fort Ticonderoga, NY.
+War Council repeatedly denied Washington’s ill-advised plan for direct
+attack, so under cover of darkness, snuck the guns up the 112ft
+elevation (and Washington keen on filling barrels for defense). By March
+20, 11,000 red coats and loyalists left town on 120 ships for Halifax,
+Canada then New York.</p></li>
+<li><p><strong><em>New York</em></strong>: Now on the defense and with
+more loyalists in New York, Washington’s intelligence advantage turned
+against him. Canons, earthworks, and signalers monitored the bay.
+British landed 32K troops on Staten Island in July. Washington, paranoid
+and indecisive, split his army and placed a string of inexperienced
+soldiers in dense woods at the Battle of Brooklyn (but didn’t cover
+Jamaica Pass). Despite a Dunkirk-esque retreat of 9K men across the
+Hudson, the patriots suffered continued defeats at Kips Bay, Fort
+Washington, and Fort Lee into November. Washington retreated to
+Trenton.</p></li>
+<li><p><strong><em>New Jersey</em></strong>: To defend Philadelphia,
+Washington ordered all boats on the east bank of the river destroyed for
+60 miles. Congress moved to Baltimore anyway. The reckless and
+hyper-critical General Lee was captured in a tavern by a British patrol.
+Thomas Paine joined Nathanial Greene’s staff and wrote The Crisis
+(“these are the times that try men’s souls”). On Christmas Day, around
+5K troops crossed the icy Delaware River in Durham boats during a
+full-blown northeaster. The Americans surprised the vicious Hessians
+(German mercenaries) and took Trenton, followed by Princeton,
+representing a turning point.</p></li>
+</ul>
+<p>“The year 1776, celebrated as the birth year of the nation and for
+the signing of the Declaration of Independence, was for those who
+carried the fight for independence forward a year of all-too-few
+victories, of sustained suffering, disease, hunger, desertion,
+cowardice, disillusionment, defeat, terrible discouragement, and fear,
+as they would never forget, but also of phenomenal courage and bedrock
+devotion to country, and that, too, they would never forget.” Financial
+and military support from France and the Netherlands would play a key
+role, but ultimately Washington and the army would be the ones to win
+the war for American independence in 1783.</p>
+</div>
+<div id="seamus-hughes-et-al-homegrown-isis-in-america"
+class="section level2">
+<h2>Seamus Hughes et al: Homegrown: ISIS in America</h2>
+<p>Whereas Europe contains networks in direct contact with Middle
+East-based FTOs, US jihadis tend to be loosely inspired (“homegrown”).
+Starting in 2014, ISIS surpassed al-Qa’ida because it (1) occupied
+territory, indicating ability to join caliphate; (2) effectively
+leveraged social media and encrypted communications. ISIS targeted
+Muslims poorly integrated to their communities and emphasized more,
+smaller/less lethal attacks.</p>
+<p>Dataset of court records and PoE research, from 2014-2019:</p>
+<ul>
+<li><p>US charged 204 individuals on ISIS-related counts. 90% male; 85%
+USPER; mostly 20-25yo. 69% material support/2339(b); 73% convicted. More
+travel (39%) than attacks (31%).</p></li>
+<li><p>US disrupted 58+ attacks and suffered 23 (only two killed 5+).
+Cases: FBI WF disrupted Mohamed Bailor Jalloh 7/4/2017 shooting; CV UCE
+followed attackers to 5/3/2015 shooting at Texas Muhammad Art
+Show.</p></li>
+<li><p>~300 Americans traveled to Syria; ~13 returned successfully. USG
+seeks repatriation (only two officially rejected), but interviews (intel
++ Mirandized) and extradition very time consuming. Case: “Mo” traveled
+to start new life, bought time before suicide mission by promising to
+build EMP, emailed FBI and taxi driver smuggled out to Turkey.</p></li>
+</ul>
+<p>ISIS prioritized a range of professional, English-language, tailored
+propaganda to push recruits from mainstream (e.g. Twitter, Facebook) to
+secure platforms (e.g. Telegram, WhatsApp, Kik; Archive.org,
+Justpaste.it, YouTube). Gruesome videos (“propaganda of the deed”)
+actually uncommon on mainstream platforms. Junaid Hussain (killed 2015)
+doxed 1,300 US military members. Ali Amin blogs promoted BitCoin. US
+ideologues largely protected by First Amendment; digital proliferation
+even after arrest/death. Historical (Taymiyyah, Wahhab) and Contemporary
+(Awlaki, Jibril, Bengharsa). US often seeks to disrupt with smaller
+charges (“Al Capone tactics”).</p>
+<p>Counterterrorism: US benefits from broad material support statute but
+is unique in lacking national countering extremism program. Efforts:</p>
+<ul>
+<li><p>2011: Obama Administration coined “Countering Violent Extremism,”
+developed Community Awareness Briefings (CAB) and Three-City Pilots
+(Boston focused on individual intervention, LA on community engagement,
+Minneapolis on society root-causes). Triggered heavy blowback from CAIR
+and other Muslim groups.</p></li>
+<li><p>2016: UN founded Tech Against Terrorism. 2017: Facebook,
+Microsoft, Twitter, and YouTube founded the Global Internet Forum to
+Counter Terrorism (GIFCT).</p></li>
+<li><p>2019: Trump Administration created DHS Office for Targeted
+Violence and Terrorism Prevention (TVTP), but most activity shifted to
+local (e.g. SDNY created Disruption &amp; Early Engagement Project,
+DEEP).</p></li>
+</ul>
+</div>
+<div id="neil-degrasse-tyson-astrophysics-for-people-in-a-hurry"
+class="section level2">
+<h2>Neil DeGrasse Tyson: Astrophysics for People in a Hurry</h2>
+<p><strong>History</strong>: 14B years ago, all space/matter/energy of
+the known universe was contained in a pinpoint which exploded into a hot
+soup of quarks, leptons, and bosons. After one second, the
+quark-to-hadron transition resulted in the emergence of protons and
+neutrons and further cooling allowed fusing of protons to create atomic
+nuclei (90% H; 10% He). For the first billion years, the universe
+continued to expand and cool as matter gravitated into a hundred billion
+concentrations called galaxies. Each contained hundreds of billions of
+stars undergoing thermonuclear fusion in their cores. High-mass stars
+manufactured dozens of elements heavier than hydrogen and exploded,
+scattering their chemically enriched guts throughout the galaxy. After
+9B years of such enrichment, in an undistinguished part of the universe
+(the outskirts of the Virgo Supercluster) in an undistinguished galaxy
+(the Milky Way) in an undistinguished region (the Orion Arm), an
+undistinguished star (the Sun) was born. Within the chemically rich
+liquid oceans, by a mechanism yet to be discovered, carbon-based organic
+molecules transitioned to self-replicating life. A mere sixty-five
+million years ago (less than two percent of Earth’s past), a
+ten-trillion-ton asteroid hit what is now the Yucatan Peninsula and
+obliterated more than seventy percent of Earth’s flora and
+fauna—including dinosaurs. Energy and gravity turn cosmic objects into
+spheres, and from a distance the earth is as round as a cue ball—though
+the Himalayas’ crustal rock resists gravity. The Milky Way probably
+began as a sphere but flattened to a disk as the gas collapsed. Today,
+the universe has expanded by a factor of 1,000 from the time photons
+were set free, and so all the visible light photons from that epoch have
+become 1/1,000th as energetic. They’re now microwaves, which is where we
+derive the modern moniker “cosmic microwave background” (CMB).</p>
+<ul>
+<li><p>Supernovas are stars that have blown themselves to smithereens
+and, in the process, have temporarily (over several weeks) increased
+their luminosity a billion-fold, making them visible across the
+universe.</p></li>
+<li><p>Quasars are super-luminous galaxy cores whose light has typically
+been traveling for billions of years across space before reaching our
+telescopes.</p></li>
+</ul>
+<p><strong>Dark Matter</strong>: Largely empty volume of space in each
+galaxy contain too little visible matter to explain anomalously high
+orbital speeds of tracers, hence the moniker “dark matter,” a stand-in
+for a new matter waiting to be discovered. Dark matter does not interact
+with light in any known way.</p>
+<p><strong>Dark Energy</strong>: Hubble discovered the universe is
+expanding, and the more distant a galaxy, the fester it recedes from the
+Milky Way. A repulsive force opposing gravity (previously hypothesized
+by Einstein as lambda) is known as dark energy, forcing the universe to
+expand faster than it otherwise would. Current estimates for percentage
+of mass-energy in the universe: Dark energy 68%; dark matter 27%;
+regular matter 5%. One possible explanation is the quantum
+effect—instead of being empty, the vacuum of space actually seethes with
+particles and their antimatter counterparts. They pop in and out of
+existence in pairs, and don’t last long enough to be measured.</p>
+<p><strong>Between the Planets</strong>: The Moon most likely burst
+forth from Earth’s iron-poor crust and mantle after a glancing collision
+with a wayward Mars-sized protoplanet. Earth’s Moon is about 1/400th the
+diameter of the Sun, but it is also 1/400th as far from us, making the
+Sun and the Moon the same size in the sky. Jupiter’s massive
+gravitational field bats out of harm’s way many comets that would
+otherwise threaten the inner solar system.</p>
+<p>The main asteroid belt is a roughly flat zone between the orbits of
+Mars and Jupiter. The Kuiper belt is a comet-strewn swath of circular
+real estate that begins just beyond the orbit of Neptune, includes
+Pluto, and extends perhaps as far again from Neptune as Neptune is from
+the Sun.</p>
+<p><strong>Telescopes</strong>: Because light takes time to reach us
+from distant places in the universe, if we look out in deep space we
+actually see eons back in time. Like the geologist’s stratified
+sediments, which serve as a timeline of earthly events, the farther away
+we look in space, the further back in time we see. The universality of
+physical laws (gravity, conservation of mass) ensures all planets run on
+the same laws discovered and tested on Earth. Modern telescopes operate
+in every part of the electromagnetic spectrum: radio waves (best for gas
+in other galaxies), microwaves (cosmic background), infrared (stellar
+nurseries), ROYGBIV, ultraviolet (black hole emissions), X-rays, and
+gamma rays (explosion of star). Radio telescopes were invented in 1930
+and now can be as large as 500m across. Most now operate in space,
+unimpeded by the Earth’s absorptive atmosphere.</p>
+<p><strong>Exoplanets</strong>: Planets not orbiting our sun. First
+discovered 1995; currently 3,000 known; nearest is four light-years.
+NASA Kepler Telescope looks for them measuring brightness of stars; can
+also use cosmochemistry to study atmospheres. Estimated 40B Earth-like
+planets in the Milky Way alone.</p>
+</div>
+<div id="annette-gordon-reed-juneteenth" class="section level2">
+<h2>Annette Gordon-Reed: Juneteenth</h2>
+<p>Historical and personal essays from historian and law professor who
+grew up in Livingston, Texas. Mother taught at black high school but
+sent to white school–drawing resentment from other blacks. Integration
+ended Jim Crow segregation, but didn’t erase prejudice. Father felt
+kinship with Native Americans over shared mistreatment by whites but
+tribes actually enslaved blacks too.</p>
+<p>Heroes at the Alamo were fighting for a Texas Constitution which
+denied any right to slaves. William Travis came to Texas on the run from
+the law. “Six Flags over Texas” referred to flags of countries that
+rules Texas (including confederate flag). The more time you spend with a
+hero, the more complex they become (eg Dumas Malone’s first volume on
+Jefferson is much more hagiography than his last). On 19 June 1965 in
+Galveston, TX, Major General Gordon Granger announced General Order 3,
+the end to slavery which explicitly granted equal personal and property
+rights.</p>
+</div>
+<div id="jon-krakauer-classic-krakauer" class="section level2">
+<h2>Jon Krakauer: Classic Krakauer</h2>
+<p>Ten of his best essays for The New Yorker, Outside, and
+Smithonian.</p>
+<ol style="list-style-type: decimal">
+<li><p>First expert surfer to die in big waves since 1943 (Mark Foo in
+Mavericks, CA)</p></li>
+<li><p>Dire aftermath of mudflows (lahars) from an eruption of Mt
+Rainier, WA (worse than Mt. St Helens, 1980)</p></li>
+<li><p>Everest: From 1921-1996, one death per four successful ascents;
+from 1996-2014, one death per 60 (but more dangerous for sherpas, who
+don’t have as much oxygen, dexamethasone, and do the heavy
+lifting).</p></li>
+<li><p>Lechuguilla Caves: 80+ miles; 67°F but 100% humidity. NASA
+studying microbes to understand potential life on Mars.</p></li>
+<li><p>Following 1987 rock climbing accident, climbers became more
+litigious and put Chouinard Equipment out of business (now Black
+Diamond).</p></li>
+<li><p>Visit to Gates of the Arctic in Alaska, the northernmost, least
+developed, and second largest National Park.</p></li>
+<li><p>At least three deaths at “wilderness therapy” camps in
+Utah/Arizona for troubled youth raise questions about their
+effectiveness.</p></li>
+<li><p>Iconoclastic architect/contractor Christopher Andrew eschews
+detailed designs in favor of building as the project progresses</p></li>
+<li><p>Storied career of climber Fred Beckey, who was snubbed spot on
+first US team to climb Everest 1963 (history of abandoning
+partners).</p></li>
+</ol>
+</div>
 <div id="robert-cialdini-influence-the-psychology-of-persuasion"
 class="section level2">
 <h2>Robert Cialdini: Influence: The Psychology of Persuasion</h2>
