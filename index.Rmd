@@ -37,7 +37,7 @@ Today, the government and public opinion oppose white supremacy, but the movemen
 
 US is understandably reluctant to share USPER information with international partners, but should designate more foreign RMVE groups as FTOs, thus increasing the risk for those at home who support them.  Civil society groups (e.g. SPLC) also support law enforcement with their own informants and civil lawsuits.
 
-Emily Oster: Cribsheet
+## Emily Oster: Cribsheet
 
 Data-driven approach to parenting:
 
@@ -63,7 +63,7 @@ Data-driven approach to parenting:
 
 * Martial satisfaction declines, on average, after children (marriage counseling/checkup programs can help).
 
-David McCullough: 1776
+## David McCullough: 1776
 
 War started on April 19 1775, with first blood shed at Lexington and Concord, then savagely on June 17 at Breed’s Hill and Bunker Hill.  King George III declared America in rebellion in October 1775; despite some opposition, the House of Lords supported war 69-29.  
 
