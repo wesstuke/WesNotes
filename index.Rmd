@@ -21,6 +21,212 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Henepola Gunaratana: Mindfulness in Plain English
+
+The Judeo-Christian tradition focuses on prayer (direct address to spiritual entity) and contemplation (prolonged period of conscious thought about a specific topic).  The Hindu tradition’s yogic meditation is purely concentrative on a single object (e.g. stone or candle flame).  The **Buddhist** tradition, as much psychological as religious, values concentration but adds the element of awareness.  **Tantra** seeks to obtain pure awareness by destroying your ego image through a process of visualization.  **Vipassana** is a direct and gradual cultivation of mindfulness or awareness.
+
+The essence of our experience is **change**. Each moment life flows by and is never the same. We perceive the universe as a great flowing river of experience.
+
+**Meditation** is less about relaxation than awareness.  Meditation is intended to purify the mind. It cleanses the thought process of psychic irritants like greed, hatred, and jealousy, which keep you snarled up in emotional bondage. Meditation brings the mind to a state of tranquility and awareness, a state of concentration and insight. Our minds are like cups of muddy water. The object of meditation is to clarify this sludge so that we can see what is going on in there. The best way to do that is just let it sit. Give it enough time and it will settle down.
+
+**Mindfulness** is nonjudgmental observation; the observance of the basic nature of each passing phenomenon; the ability to see reality exactly as it is.  It is watching the thing arising and passing away. It is seeing how that thing makes us feel and how we react to it. It is observing how it affects others. We tend to see life through a screen of thoughts and concepts, and mistake those mental objects for reality. We get so caught up in this endless thought-stream that reality flows by unnoticed.  Through vipassana meditation, we learn to watch the arising of thought and perception with a feeling of serene detachment. We learn to view our own reactions to stimuli with calmness and clarity. We begin to see ourselves reacting without getting caught up in the reactions themselves. The obsessive nature of thought slowly dies.  We may notice unpleasant things about ourselves but must be 100% honest. 
+
+**Mechanics**: Try sitting cross-legged on the front of a cushion in a special spot reserved for meditation and nothing else. You soon come to associate that spot with the tranquility of deep concentration.  Don’t strain or expect anything. Most beginners start with twenty or thirty minutes.  Every spare moment can be used for meditation. Sitting anxiously in the dentist’s office, meditate on your anxiety.  Can also meditate on walking, activities in slow motion, or posture throughout the day.
+
+It helps to give our mind an object that is readily available every present moment (so-called "unstructured meditation" is extremely difficult). One such object is our **breath**.  It serves as that vital reference point from which the mind wanders and is drawn back (counting breaths can help).
+
+The purpose of meditation is not problem-solving so try to resolve your immediate daily conflicts before meditation when you can.  When you first begin to practice this technique, you will probably have to do it with words, but try to avoid having conversations with yourself inside your head. Eventually, you can dispense with the formality of words altogether. Once the mental habits are in place, you simply note the distraction, note the qualities of the distraction, and return to the breath. It’s a totally nonconceptual process, and it’s very quick.  During meditation we are seeking to experience the mind at the preconceptual level.  You’ve got to cruise along right here in the present, picking things up and letting them drop with no delays. It takes a very light touch.
+
+Common obstacles:
+
+* **Pain**: Make the pain your object of meditation.  You will discover both the pain itself and your resistance to that sensation. Resistance reaction is partly mental and partly physical. The physical part consists of tensing the muscles in and around the painful area. Relax those muscles. Then go after the psychological tensing. You are clamping down mentally on the sensation of pain, trying to screen it off and reject it from consciousness.
+
+* **Drowsiness**: The inquisitive awareness is the opposite of drowsiness, and will evaporate it. If you are very sleepy, take a deep breath and hold it as long as you can. Then breathe out slowly. Repeat this exercise until your body warms up and sleepiness fades away.
+
+* **Strong feelings**: If a particular sort of obsession is troubling you, you can cancel it out by generating its opposite. For example, if you absolutely hate Charlie, and his scowling face keeps popping into your mind, try directing a stream of love and friendliness toward Charlie, or contemplating his good qualities.
+
+There are setbacks and difficulties in meditation, but there is no failure unless you give up entirely. If you learn nothing else, you will learn patience.  Mindfulness grows only one way: by continuous practice of mindfulness, by simply trying to be mindful, and that means being patient. The process cannot be forced and proceeds at its own pace.
+
+Seated meditation itself is not the game. It’s the practice. The game in which those basic skills are to be applied is the rest of one’s experiential existence.  When your meditation becomes really powerful, it also becomes constant.  Once your mind is free from thought, it becomes clearly wakeful and at rest in an utterly simple awareness.
+
+## Pamela Druckerman: Bringing up Bebe
+
+Observe and talk to your baby.  Give time in a safe space without stimulation. Beyond a few months, establish a schedule; working towards adult meal times (8am, 12pm, 4pm, 8pm).  Epidural and formula are normal.  Establish bedtime rituals and teach babies to put themselves to sleep.  Pause before intervening for the first four months, then use cry-it-out to train.
+
+Serve food in courses; vegetables first.  Everyone eats the same thing (you choose foods; they choose quantity).  If don’t like; try again later prepared a different way.  Only one snack per day (4pm).  
+
+Talk to kids like adults; be polite.  Enforce the use of please, thank you, hello, goodbye (gets them talking; acknowledging others).  Give free time and space to play; let kids socialize.  Teach patience through practice by making wait (slow response, don’t let them interrupt you and vice versa).  Give meaningful chores and privacy.
+
+Set consistent, firmly enforced boundaries (parent always in charge). But give freedom within those rules.  Stay calm during tantrums.  Children have rational motives that parents must try to understand.  Say yes as much as possible but say no with confident conviction (or "we don’t do that"). Explain reason behind the rule (try to teach, not police).
+
+Don't rush developmental milestones or get competitive about activities.  Keep risks in perspective (early sleep-away camps build independence/self-esteem). Don't overuse praise
+
+Don't let being a parent overshadow your identity (e.g. go back to work). Make parenting easy on yourself without guilt: playdates/birthdays are drop-offs. Lose baby weight; don’t dress like a mom.  Your bedroom is your castle (kids ask permission to enter).  Take annual week+ vacation without kids.  Don't contradict your partner in front of kids; don’t harp on husband’s mistakes lest he be demoralized.
+
+## Andrew Marantz: Antisocial
+
+New Yorker reporter profiles years of reporting on various "deplorables," including Cassandra Fairbanks (Sputnik, DeploraBall, Big League Politics, Gateway Pundit), Jim Holt (Gateway Pundit), Lucian Wintrich (Gateway Pundit), Mike Cernovich (alt-lite blogger), Mike Enoch Peinovich (TRS/The Daily Shoah), Gavin McGinnis (Proud Boys, Gavin McGinnis Show), Jack Posobiec (OAN, Turning Point USA), Laura Loomer (Project Veritas, Rebel Media, InfoWars), Will Chamberlain
+
+Gatekeepers (platforms) have more power than they were initially willing to admit.  People particularly susceptible to extremist online propaganda include those with weak real-world social ties, unstable senses of self, too much verbal intelligence and not enough emotional intelligence, and those who prize idiosyncrasies over logical consistency or flashy contrarianism over moral dignity. Some bear unique trauma, invisible even to themselves, some are desperately lonely, and others just want to watch the world burn. Nature and nurture both matter. 
+
+## Michael Gannon: Operation Drumbeat
+
+After Pearl Harbor, Hitler should’ve let the US exhaust itself in the Pacific, but without consulting his advisors, on 9 December released Admiral Karl Donitz from restrictions on naval warfare against US ships. The Tripartite Alliance required only defense against allies' aggression, and Japan had declined to attack USSR in Vladivostok, but Hitler (perhaps to pre-empt inevitability or guarantee Japan's loyalty) declared war against US on 11 December. Hitler wanted to bomb American coastal cities with long-range bombers from the Azores but the plane wasn’t completed until late 1942 and only one was ever built.  Admiral Donitz wanted to hit coast harder with the resource-strapped Ubootwaffe but Hitler was focused on land war.  In Operation Drumbeat (Paukenschlag) from Jan-Feb 1942, five U-boats sunk at least 25 commercial ships killing hundreds and sinking hundreds of thousands of pounds of equipment.
+
+U-boats preferred to work in packs, at night, at the surface, diving only to avoid enemy attacks or bad weather. British sonar (ASDIC) couldn’t detect non-submerged objects. Germans painted pictures on masts (instead of numbers) for OPSEC. U-boats had single toilet for 50 people; only shared ("hot") bunks. Wore more comfortable captured British uniforms. Nobody shaved to preserve fresh water. Many crew members never actually saw water or had any idea where they were in the world for the full deployment. Some UBoats experienced as high as 50% torpedo (“eel”) dud rates. Uboats bottomed out on the mud during the day where could hear propellers around.  U-boats built in pens with 7-meter-thick roofs, never penetrated by allied bombs. 
+
+U-123 (Eins Zwei Drei) Captain Hardegen ("Old Man") was Kriegsmarine pilot forced into UBoats after a crash and Luftwaffe seized control of all air assets. Hardegen received a 2-hour lead time for deployment, was under allied fire within 24 hours. U-123 completed two patrols in 1942 targeting ships from New York City to Cape Canaveral. On second tour, after torpedoing and shelling a tanker near St Augustine, was pinned down by a destroyer and initially abandoned ship (even beginning to let water in), but Destroyer allowed to escape.
+
+British intelligence monitored all ship communications traffic and 1941 capture of ship led to Enigma breakthroughs at Bletchley Park. US naval intelligence much more nascent (better at Purple code in Pacific) but Royal Navy shared lessons learned. Admirals Ernest King and Adolphous Andrews oversaw coastal protection, had 20 ragtag ships ("gun lobby" biased toward large battleships), 103 aircraft (although 75% unsuited for antisubmarine patrols).  Only flew in daytime and pilots had no training in ship identification. US Coast Guard and coastal cities were slow to embrace total blackout on the shore, allowing Uboats to silhouette targets.  The "loose lips sink ships" campaign to prevent leaking routes/times to the enemy was probably misguided as UBoats had continuous stream of unescorted ships steaming past brightly lit coasts. Mounting loses created PR/political debacle for the Navy, which appeared absent. Eventually, King began to accept advice from the British, reassign destroyers and utilize smaller/civilian yachts for the ASW mission.
+
+## Harvey Karp: Happiest Baby on the Block
+
+In many ways, babies are born three months too soon ("fourth trimester").  All babies whimper, cry, and shriek. Near impossible to identify problem from type of cry alone; use context:
+
+* Before feeding: hunger, thirst, challenging temperament 
+
+* During feeding: the gastro-colic reflex, the milk flow is too slow or too fast, the milk has a strange taste, stomach acid reflux
+
+* After feeding: continued hunger, the gastro-colic reflex, needing to burp, needing to poop, wanting to suck more, food allergy, stomach acid reflux 
+
+Letting your baby "cry it out" makes as little sense as closing your ears to your screeching car alarm while you wait for the battery to die.  Sometimes babies cry because they’re crying and unable to self-sooth.
+
+**_Colic_**: When baby cries three hours a day, three days a week, three weeks in a row. Usually starts at two weeks, peaks at six weeks, and ends by three to four months of age. Often much worse in the evening ("witching hour").  Separate from…
+
+**_Stomach issues_**: Babies often double up, grunt, strain, and seem relieved by passing gas or pooping. Make sure your infant isn’t overeating (try feeding a little less and see if the spitting stops and the crying improves).  Burp your baby every five to ten minutes during a feeding.  If reflux (GER), try drugs (e.g. Pepcid, Prilosec, Prevacid). Mothers’ diet rarely causes baby’s discomfort. 
+
+Three ancient colic cures:
+
+1. Massage: 15 minutes/day reduces crying/stress and increases alertness/social engagement.
+
+2. Walk Outside: a parade of calming out-of-focus images and jiggly, soothing rhythms. 
+
+3. Warm things: Warm bath, warm blanket, warm bodies.
+
+The 5 "S’s": How to turn on your baby’s calming reflex 
+
+1. Swaddling—tight wrapping
+
+2. Side/Stomach—laying a baby on her side or stomach
+
+3. Shushing—loud white noise
+
+4. Swinging—rhythmic, jiggly motion
+
+5. Sucking—sucking on anything from your nipple or finger to a pacifier 
+
+To help sleep, start a nighttime routine (e.g. low lights toasty bath loving massage with heated oil some warm milk cozy swaddle a lullaby … softly sung and gentle white noise playing in the background).
+
+## David Blight: Frederick Douglass: Prophet of Freedom 
+
+Born 1818 in Maryland to slave mother and unknown white father (possibly master, Hugh Auld).  Orphaned and moved to Baltimore where Sophia Auld illicitly taught to read.  In 1838, free black woman Anna Murray helped Douglass escape in sailor’s uniform with fraudulent papers by three trains/three steamboats.  They started a family in Rochester, NY where he honed oratorical skill as preacher.  With a compelling story, joined William Lloyd Garrison’s abolitionist movement (Garrisonians) and wrote first of three best-selling autobiographies.  Now famous, traveled as a fugitive slave to Ireland and Britain.  Returned in 1847 seething at American slavery and started a rival North Star newspaper, incisively attacking slavery in the south and racism in the north.  Lectured broadly and was the only black attendee at the 1848 Seneca Falls Convention for women’s rights.  Widely viewed as "radical" and met John Brown, but declined to participate in the Harper’s Ferry raid (though nearly arrested for it).  Critical of Lincoln for openness to “colonization” of blacks elsewhere until 1863 Emancipation Proclamation changed the meaning of the war and allowed blacks to serve.  Recruited troops and Stanton/Lincoln’s warm 1864 reception at White House regarding treatment of black troops converted him to advisor/advocate for black America.  After war, sparred with Johnson and advocated for black rights during Reconstruction including as President of the Freedman’s Savings Bank.  Moved to DC (U St) and became active in Republican politics including appointment as US Marshal for DC in 1874.  In 1877, reconciled with former enslaver Thomas Auld on deathbed and bought Cedar Hill (Anacostia) home. Following Anna’s 1882 death, married white women Helen Pitts and traveled Europe.  In 1888 became the first African American to receive a vote for President of the United States in a major party's roll call vote. Consul General to Haiti, vocal in response to the lynching crisis. Died of heart attack in 1895 and buried in Rochester.
+
+"Old Man Eloquent".  Knew how to appeal to the mind but through emotions. For example, won over audience with praise of founding fathers, shocked with horrors of slavery, inspired by ending on hopeful note.  Personal story added authenticity. Laid groundwork for WEB DuBois and Booker Washington. Spirituality drove through trials. Wrote millions of words but never about his wife/difficult personal life.  
+
+## Michael Lewis: Home Game
+
+Set out to write about living in Paris, but Paris was overshadowed by the fatherhood of a seven-month-old baby. Insights:
+
+* "Remember that life you thought you had?" he wrote. “Guess what. It’s not yours anymore.”
+
+* What I’ve learned waiting for my children to be born: (1) arrive sober; (2) do not attempt to be interesting, as it makes the nurses uneasy; (3) never underestimate your own insignificance; and (4) try to get some sleep, as no one else can. Up until the moment the child is born, the husband in the delivery room is in an odd predicament. He’s been admitted to the scene of the crisis but given no serious purpose.
+
+* Once they wheel mom from the delivery room to the recovery room, Stage 1 ends and Stage 2 begins. For the whole of Stage 1, a father performs no task more onerous than seeming busy when he isn’t. Nothing in Stage 1 prepares him for Stage 2, when he becomes–in a heartbeat–chauffeur, cook, nurse, gofer, personal shopper, Mr. Fixit, sole provider, and single parent.
+
+* To the immense irritation first of her obstetrician and then of herself, she hired a doula, who was meant to use said oils to massage her feet during the delivery, but instead went out for turkey sandwiches and never came back.
+
+* Clutching Quinn after she exited the womb, was able to generate tenderness and a bit of theoretical affection, but after that, for a good six weeks, the best could manage was detached amusement. The worst was hatred.
+
+* If you want to feel the way you’re meant to feel about the new baby, you need to do the grunt work. It’s only in caring for a thing that you become attached to it.
+
+* On top of the risk that you might actually screw up your child is the risk that, even if you don’t, she’ll think you did and blame you for it.  New parents are not rational; they worry about all sorts of things that it makes no sense to worry about.  It’s unnatural to leave a baby to cry alone in its crib; it makes you feel about as humane as a serial killer.
+
+* The American deal is that unless you can prove you are out making money, you had better at least pretend to be caring for your child.
+
+* The domestic policy handbook clearly states that when anything goes seriously wrong with our child, am to holler for her mother and then take my place at her elbow and await further instructions. The American father is really just a second-string mother.
+
+* A family is only as happy as its unhappiest member.  If you don’t know who your wife is pissed off at, it’s you.
+
+* You don’t see a lot of adults who wake up hollering at the ceiling every forty-five minutes, just as you don’t see a lot of adults who crawl around on all fours, or who crap their pants twice a day. So it stands to reason that the problem will solve itself.
+
+* Postpartum panic attacks: There’s no point in asking what’s the matter—you might as well ask a flat tire why it doesn’t have air. She’s enduring this strange hormonal postpartum deflation that has nothing, really, to do with her.
+
+* School-aged children are the rats of our time. After a day of happily swapping germs with their peers, my children apparently returned home with what probably felt to them like a mild cold, and kissed their baby brother—who promptly lost his ability to breathe (RSV).  Many species eat their siblings: Sand-shark siblings eat each other in their mother’s oviducts; hyena siblings eat each other the minute they get out. 
+
+## Jennifer Aaker & Naomi Bagdonas: Humor, Seriously
+
+Humor makes you appear smart/confident, strengthens relationships, unlocks creativity, and boosts emotional resilience. Styles:
+
+1. Standup (expressive & aggressive): Natural entertainers who come alive in front of crowds. (Eddie Murphy)
+
+2. Sweetheart (subtle & affiliative): Earnest, honest, fly under the radar.  Prefer to plan out their humor. (Demetri Martin)
+
+3. Magnet (expressive & affiliative): Unwavering good cheer, use positive, animated, slapstick humor. (Conan O’Brien)
+
+4. Sniper (subtle & aggressive): Sarcastic, edgy, dark, silently planning their next zinger (Daniel Tosh)
+
+Humor is built around truths but contains surprise and misdirection.  Writing tips: exaggerate/hyperbole, create contrast, use specifics, make analogies, use the rule of three, and use callbacks.  Delivery tips: pause before punch, act it out, be emotive/dramatic, land with confidence, repeat funny lines.
+
+Framework for judging appropriateness: 
+
+1. Truth (if you removed humor, would you still say it?)
+
+2. Pain (is the pain still raw?)
+
+3. Distance (does it hit too close to home? temporal/geographic).
+
+Also, don’t use somebody else’s identity as a prop or punchline.  And don’t punch downward (as you rise up in an organization, self-deprecation works best).
+
+## Daniel Kahneman, Olivier Sibony, Cass Sunstein: Noise: A Flaw in Human Judgment
+
+* Judgment is a form of measurement in which the instrument is the human mind.  Errors in judgment include:
+
+    * *Bias*: difference between average judgment and corresponding true value, particularly when most errors are in the same direction.  Receives the most attention.  Heuristics are simplifying operations to replace a difficult question with an easier one.  Categories:
+
+        * Substitution biases: misweighting evidence
+
+        * Conclusion biases: bypass or distort evidence (e.g. anchoring effect)
+
+        * Excessive coherence: Magnifies the effect of initial impressions (e.g. halo effect)
+
+    * *Noise*: undesirable variability in judgments by multiple individuals.  Can be measured even without knowing ground truth; usually identified through noise audit experiments (multiple individuals judge the same problems).
+
+        * L*evel noise: *variability in the average level of judgments by different individuals (e.g. some judges are stricter than others)
+
+        * *Pattern noise*: variability in individuals’ own responses to particular cases
+
+            * *Stable pattern noise*: difference in personal, idiosyncratic responses of judges to the same case (e.g. some judges are severe on shoplifters and lenient on traffic offenders)
+
+            * *Occasion noise*: inconsistency; effect of an irrelevant feature of the context on judgements (e.g. judges more lenient after their football team wins)
+
+* No single individual is fully consistent in decisionmaking (judicial sentences, physician diagnoses, wine tester scores).  Weather, mood, hunger, time pressure all affect decisionmaking, as does an intrinsic variability in the functioning of the brain (like shooting free throws).  When prompted to make a second guess, the average of the two is usually closer to truth. Averaging judgments across large numbers of individuals is also closer to truth, although if not made independently then subject to social influence.
+
+* Even very simple mechanical prediction techniques outperform human judgment because they are noise-free.  And very sophisticated AI techniques have can exploit much more information than the human mind can compute.  Broadly, our sense of understanding the world depends on our ability to construct narratives that explain the events we observe (causal thinking, System I).  Only when our model of the world cannot be tweaked to generate an observed outcome do we tag it as surprising and start to search for a more elaborate explanation (statistical thinking, System II). 
+
+* *Decision hygiene* strategies for reducing bias and noise:
+
+    * Select the best possible human judges (and teach them statistical literacy)
+
+    * Sequence information (e.g. fingerprint examiners make judgments independently of each other and superfluous facts of the case)
+
+    * Aggregate multiple independent judgment (e.g. prediction markets, delphi method)
+
+    * Use judgment guidelines which decompose complex decision into easier sub-judgements on predefined dimensions (e.g. APGAR score)
+
+    * Use a shared scale grounded in an outside view and structure complex judgements (e.g. Google job interviews use predefined questions to score against predetermined rating scale using a unified rubric).
+
+    * Ask a designated decision observer to search for diagnostic signs that could indicate, in real time, that a group’s work is being affected by biases
+
+* Caveats: Variability is desirable in some cases: diversity of opinions generates ideas/options; contrarian thinking drives innovation.  Differences become problematic when professionals operate within a system that assumes consistency.  Eliminating noise can be expensive, create new biases, permit gaming of the system, and deprive individuals of individuality–but is still worth pursuing.
+
+## Ron Chernow: Washington: A Life
+
+Born 1732, lost father at 11, held fraught but loyal relationship with tetchy mother.  Lifelong friend of the local Fairfax family, including youthful infatuation with married Sally Fairfax.  Training as surveyor led to selection to approach the French Canadians with British demands.  After French & Indian War, married wealthy (but unattractive) Martha Custis and inherited brother’s property at Mt Vernon.  Never had children of his own and grieved loss of both step children.  Imported fine British furniture, and plagued by debt throughout his life. Though saw abolition as the ultimate goal and freed his slaves in his will, he maintained over 500 slaves, pursued them when they fled, and believed they should be thankful for his provision of food and shelter.  Notables included Billy Lee, Hercules, Caesar.  Rode overwhelming popularity to presidency at the Constitutional Convention (1787) and Presidency (1789).  But by his second term, fell under attack from Jefferson/Madison and their press for federalism and foreign policy.  Because he abhorred political parties, he set his own Federalists up poorly against the Democratic-Republicans after he left—refusing to get involved in party organization.  Earned international respect (including from King George III) for stepping down after two terms.  After presidency, fell out with Jefferson over partisan attacks and the envious Adams over the possible creation of an Army. With Pierre L’Enfant, played an active role in designing the city of Washington DC (including ionic columns for the Senate chamber); though built by slaves and unfinished until Civil War.  Died following ill-advised bloodletting in 1799.  Immediately took on mythic status (honest about chopping down cherry tree, hurling silver dollar across Delaware river).  Martha burned private letters.
+
+**_Traits_**: Unquestionably courageous in battle, but no grand strategist and lost more battles than won.  Deeply ambitious (carefully concerned with public image), but a gifted statesman with strong vision who learned to subordinate his own pride to the national interest.  Strongly principled, brought maturity and integrity to a political experiment that resonated around the globe.  While a stoic "man of marble," was also emotional (cried when leaving office).
+
+**_Capitals_**: Philadelphia (1776-85); NYC (1785-89); Philadelphia (1790-1800); Washington DC (1800-Present)
+
 ## Daniel Byman: Spreading Hate
 
 **_History_**: Following Reconstruction, the KKK lynched around 5,000 blacks—in addition to floggings, cross burnings, and bombings.  FBI initially deferred to local law enforcement (often sympathetic to the KKK) but reversed course in the 1960s.  It opened local offices, investigated corrupt cops, and by 1964, 6% of KKK members were FBI informants (promoted infighting, discredited leaders, and steered away from violence).  Combined with public opinion, increased black voting, and SPLC lawsuits, devastated the KKK.
