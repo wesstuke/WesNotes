@@ -21,6 +21,226 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Peter Attia: Outlive: The Science & Art of Longevity
+
+Longevity Components
+
+* Lifespan: How long you live (i.e. years alive)
+
+* Healthspan: How well you live (i.e. physical, mental, and emotional well-being)
+
+Four Horsemen (all have come to prominence in the modern era)
+
+1. Heart Disease.  We understand (LDL -> foam cell -> "fatty streak" -> calcification -> clot).  Use statins and monitor apoB.
+
+2. Cancer.  We don’t understand (cancerous cells don’t stop growing, metastasize).  Kill rate steady for past half century (maxed out our ability to treat with chemotherapy, surgery, and/or radiation).  Use early, aggressive screening and immunotherapy (enhanced T cells).
+
+3. Neurodegenerative Disease (e.g. Alzheimer’s, Parkinson’s, Lewy body dementia, ALS, Huntington’s). We don’t understand.  Leading hypothesis: amyloid -> tau, tangles brain (others: restricted blood flow, abnormal glucose metabolism).  Build "cognitive reserve" networks by speaking foreign language or playing a musical instrument.  Exercise, sleep, check APOE e4.
+
+4. Metabolic dysfunction (e.g. diabetes).  Type 1: Body attacks beta cells which produce insulin to process glucose–need pump.  Type 2: Body doesn’t produce enough insulin (11% population).
+
+Whereas "medicine 2.0" is great at reactive treatment of disorders (diagnose, prescribe, bill), “Medicine 3.0” can provide proactive, personalized, long-time horizon care to delay or prevent the horsemen and preserve healthspan.  Challenges: it demands more from the patient, and there are few insurance reimbursement codes for preventive interventions.
+
+Toolkit:
+
+1. Exercise
+
+    1. Cardio - maintain body efficiency.  Zone 2 (137-148 bpm): Professionals spend 80% of time training here; foundation.  VO2 Max (the speed at which you can turn oxygen into ATP energy).  Dabble here.
+
+    2. Strength - maintain muscle mass.  Focus on: Grip, Concentric + Eccentric loading, Pulling (pullups and rows), and Hip hinging (step-up) movements.
+
+    3. Stability - Yoga, stretching.  Film yourself working out to assess.
+
+2. Nutrition
+
+    4. Two-thirds of us are over-nourished (never before have humans had access to nearly unlimited calories and our body’s can’t adjust).  Use one or more of:
+
+        1. Total Caloric Restriction: Effective for weightloss but unwanted side effects (hunger, muscle loss, infections).
+
+        2. Dietary Restriction: Mediterranean (EVOO, nuts) most compelling; high-fructose drinks most damaging.  Macronutrients:
+
+            1. Alcohol: No nutritional value.  Limit 2 drinks/day.  Studies noting benefits tainted by healthy user bias (old people drink because healthy not healthy because drink).
+
+            2. Carbohydrates (sugar): Continuous Glucose Monitoring can help creates Hawthorne Effect (changed behavior from sense of being watched).  Timing matters (donuts before run better than before bed).
+
+            3. Proteins: Critical, especially as you get older and harder to maintain muscle mass.  Try to get twice the FDA recommendation.
+
+            4. Fats: Complicated but particularly important for cardiovascular concerns.
+
+        3. Time Restriction (Intermittent Fasting): Trendy but inconclusive.  Risks protein deficiency.
+
+3. Sleep
+
+    5. Quality sleep reduces risk of cardiovascular incident and dementia. 
+
+    6. Half life of caffeine is up to 6 hours (though some metabolize faster); though alcohol disrupts even more.  Daylight/exercise best to stay awake.  During winddown, avoid screens and LED lights (TV is better than computer/phone), eating, and anxiety activities (reading news). 
+
+    7. Give yourself a large opportunity window to sleep. Don't vary wakeup times, even on weekends.  Insomniac episodes: do some relaxing; if you do work your body will wake you up again. 
+
+4. Emotional Health (relationships, meditation, therapy to process trauma).  Eulogy virtues > resume virtues.  Happiness reaches nadir in 40s.
+
+5. Pharmacology (drugs, hormones, supplements)
+
+## Philip Coggan: Surviving the Grind
+
+* *History of Work*: Hunter-gatherers could garner all the necessary food, water, and firewood in 15 hours/week; leaving the remainder for "leisure."  Even as specialized trades emerged, it wasn’t until the Industrial Revolution workers were required to show up for shifts (9am-5pm, 5 days/week emerged in the early 1900s).  Work gives our lives purpose; one study found 50% of long-term unemployed suffered from depression (although the threshold may be just one day/week).
+
+* *Hiring*: Mirror language from the job posting in your resume.  Structured interviews are significantly more useful than unstructured.  Taller and more attractive men earn more.  
+
+* *Meetings*: Video calls are unnatural because they require people to stare at a fixed point, they speak 15% louder, and it’s easy to be distracted (by your own image or email).  To prevent meeting fatigue, schedule for 20/50 min to leave 10 minutes after.  Bezos begins each meeting with all participants silently reading a 6-page memo (writing is more concise than speech).  Jargon exists to fill holes and make any insight sound sophisticated, but ultimately creates word salad.  "Better to keep your mouth shut and be thought a fool than to speak and remove all doubt."
+
+* *Office Culture*: Open-plan designs paradoxically reduce face-to-face interactions because people don’t want to be overheard.  Presenteeism: Workers feel pressure to stay at the office even when they don’t have much work to do.  Working at home means some are anxious to show they are busy.  Breaks (including vacations longer than a week-end) improve efficiency and increase creativity.  Schedule social events toward the end of the work day so employees with other responsibilities can take part (alcohol can be available but shouldn’t be the main focus).  
+
+* *Management*: CEO pay has skyrocketed since 1978 due to share options/long bull market, fierce competition, and tech founders.  One researcher found 2-21% of CEOs could be considered psychopaths.  A dictatorial approach incentivizes employees to cover up problems.  Feedback should be transparent and continuous.  Ranking feedback creates competition which undermines cooperation.
+
+* *External Advisors*: Rarely worth their cost.  Management consultants’ advice is bland.  Investment bankers will always recommend M&A.  PR generates pointless press releases.  Academics produce fragile, unverified results.
+
+* *Future of Work*: Automation will replace jobs, but not those involving manual dexterity or nuanced judgment.  History suggests economies tend to keep creating jobs (democracies will react), and demographics (declining birthrate) benefits workers.  
+
+Rules of Thumb
+
+* Parkinson’s Law: Work expands so as to fill the time available for its completion.
+
+* Peter Principle: People are promoted to their level of incompetence.
+
+    * Bartleby Curse: People get promoted until they reach a level when they stop enjoying their job.
+
+* Bartleby’s Law: 80% of the time of the 80% of people in meetings is wasted.
+
+* OSS’ Simple Sabotage Field Manual suggests: See that three people have to approve everything when one would do.  Talk as frequently as possible and at great length.  Give inefficient workers undeserved promotions.
+
+## Jonathan Freedland: The Escape Artist
+
+-Walter Rosenberg (later Rudi Vrba) was among the first Jews to escape from Auschwitz-Birkenau.  Born 1924 in Slovakia, escaped to Hungary before returning to Slovakia.  Caught on the border and sent to Novaky, before being transferred to Majdanek and Auschwitz.  Prisoner 44070 worked a litany of jobs, from the back-breaking gravel pits, to making skis at the German Equipment Works, to "Kanada" where he collected luggage from the victims after they made their way down the Judenrampe (bench of women squeezed toothpaste tubes looking for hidden diamonds). As assistant to the register for the mortuary, had mobility to see gas chamber and fire pit grave and knew the precise layout of the camp.  Carefully monitored the number of trains, wagons, and point of origin, repeating each day to remember.  Miraculously survived typhus outbreak because young, lucky, and well connected.
+
+-Auschwitz was selected for his proximity to the railroads; it was later expanded to Birkenau.  Jews who received letters for "resettlement" would arrive by train in cattle cars, where SS men would apologize for the poor conditions and act interested in their professions.  During “selection,” promising workers (about 20%) would go to camp and the remainder were directed to march the mile or so to the “baths,” accompanied by a fake Red Cross truck.  The gas chambers, tucked underneath a flower bed in a bucolic area, had fake shower heads, but once the doors closed was filled with odorless cyanide gas.  Breathing or not, bodies were tossed into a truck to go the crematorium before being bulldozed and buried.  The lies were designed carefully to ensure no commotion among the prisoners, who outnumbered guards 10:1.  Kept conditions great in some sections of the camp to mislead Red Cross inspectors.
+
+-Escapology: Bring knife, matches, salt, watch.  No money, no meat.  Tell no one.  No movement in daylight, don’t try to run away.  Specific security procedures meant SS would only search outer camp 72 hours following an absence at roll-call before returning to the inner perimeter at night.  Walter and fellow Slovak Fred Wetzler hid in hiding spot under wood pile, covered in petrol-soaked tobacco to mislead dogs.  Broke out April 1944 into the ‘Zone of Interest’ and guided around predictable Nazi patrols by two locals.
+
+-Provided account Jewish leaders in Slovakia who compiled into a no-nonsense 32-page report.   Tried spreading through Jewish and Catholic channels, eventually made it into Swiss newspaper and diplomatic channels.  Allies declined to bomb Auschwitz (RAF refused day-time targets, US focused on military targets).  Vrba focused on trying to save the 600,000 Jews of Hungary (for whom Nazis were expanding the camp); accused Kasztner of muffling report to not disrupt his own negotiations witih Nazis (paid $1.6M to free 1,700 well-off Jews). Still, the report did likely save the 200,000 Jews of Budapest.  Rudi also participated in missions with the Slovak Resistance.
+
+-After the war, became an academic in Prague, Israel, London, and Vancouver (US declined visa because of affiliation with the Czech Communist Party).  Testified as a witness in several trials of Nazi war criminals, and served as a source for historians.  Married a childhood friend (whose life he saved), but struggled with family life (daughter committed suicide).  Became increasingly bitter, not just at Nazis but the "Zionists" and “Communists” who he felt complicit. Later in life, came to realize Allies knew of the atrocities earlier (non-Jewish Pole Jan Karski went undercover in camps and spoke to FDR in 1943) and even many Jews who “knew” refused to believe.  Died 2006.
+
+## Steven Pinker: The Sense of Style
+
+A writing guide for the 21st Century.  Each generation perceives the next as degrading the language–and civilization with it.  There is no governing body for usage (even lexicographers are intended to be responsive to societal usage), many arcane rules derived from obsolete Latin grammar and rivalries between historical poets.  Good writers are avid readers.
+
+* Simple words are usually best although varied vocabulary can brighten mushy prose.  An entity’s wording should not be varied when contrasting things, but is helpful when referred to multiple times in quick succession.
+
+* Fewer words is usually better, although the geometry of the sentence matters more than word count.
+
+* Good writing makes the reader feel smart, and takes advantage of their expectations of where to go next.  Best to assume the reader knows less.
+
+* Good writing takes many drafts.  The form in which thoughts occur to a writer is rarely the same form in which they can be absorbed by a reader.
+
+* The amount of verbage one devotes to a point should not be too far out of line with how central it is to the argument.
+
+* Avoid cliches, abstractions, jargon.  Heavy phrases fit best at the end of a sentence (e.g. longest item on list goes last).
+
+* Passive tense is proven useful in certain cases because it lets the writer direct the reader’s gaze–like a cinematographer choosing the best camera angle.
+
+* When it sounds better, there is nothing wrote with: beginning a sentence with a conjunction, ending a sentence with a preposition, splitting an infinitive, using the "singular they," or embracing former nouns as verbs (e.g. author, contact, gift, impact).
+
+Hanlon’s Razor: Never attribute to malice that which is adequately explained by stupidity.
+
+## Jon Krakauer: Eiger Dreams
+
+Collection of essays on mountaineering.  In his own exquisite words:
+
+EIGER DREAMS (Switzerland)
+
+* "The trickiest moves on any climb are the mental ones, the psychological gymnastics that keep terror in check"
+
+* "One of the differences between us was that Marc wanted very badly to climb the Eiger, while I wanted very badly only to have climbed the Eiger."
+
+* "an intermittent roar that sounded like someone goosing the throttle of a Boeing 747."
+
+* GILL (Colorado)
+
+* John Gill, mathematic professor who popularized bouldering as a sport in and of itself.
+
+* "He trained intensively on gymnastic apparatus when he wasn't on the rocks, building strength to the point where he could chin himself while hanging from a single finger."
+
+VALDEZ ICE (Alaskan waterfall climbing)
+
+* "of the estimated 150,000 Americans who would call themselves serious mountaineers, at most one per cent of them climb frozen waterfalls on a regular basis."
+
+* "my arms were called upon to support approximately eighty percent of my body weight for most of the thirty or forty minutes it took to ascend the pillar. The physical effort was roughly comparable to doing pull-ups from a chinning bar for half an hour straight, pausing at the top of each pull-up to hang from one arm and swing a two-pound hammer a couple of times with the other."
+
+* At fifteen feet above a screw placement, Shelton could expect to fall about forty feet before his downward flight was arrested (15+15+10)
+
+ON BEING TENTBOUND
+
+* "you risk finding yourself incarcerated in a tent, a hostage of the elements, for days and perhaps weeks at a time."
+
+* "Boredom presents a very real, if insidious, peril….the human being, by and large, is a very bad companion for himself."
+
+* "Survivors of grim wilderness trips overwhelmingly recommend avoiding hyperactive personalities."
+
+* THE FLYBOYS OP TALKEETNA (Alaskan Glacier Flying)
+
+* "Alaska without airplanes would be as unthinkable as Iowa without corn."
+
+* Work long hours for minimal pay to deliver or rescue climbers on planes with special wheel-ski landing gear.
+
+CLUB DENALI (Alaska)
+
+* "only halfway up the 20,320-foot peak he could expect to find conditions more severe than those at the North Pole, with temperatures of forty below zero and winds that howled at 80 to 100 miles per hour for days and sometimes weeks at a stretch…one of the most hostile climates on Earth."
+
+* Every summer the world's foremost authority on high-altitude pathology sets up shop at 14,300 feet to conduct research into the mysterious ailments that afflict humans at altitude
+
+* "The West Buttress of McKinley, it is often said, has all the technical challenges of a long walk in the snow. That is more or less true, but it's also true that if you should, say, trip on a bootlace at the wrong moment during that walk, you will probably die."
+
+CHAMONIX (France)
+
+* Charms of a French climbing commune.
+
+CANYONEERING (Slot canyons like the Zion Narrows)
+
+* "This [commercialized, crowded] canyon is plenty wild, I decided, but wilderness it ain't."
+
+* "Salome Jug ran for just half a mile from end to end, but what it lacked in scope was more than made up for by the intimacy and intensity of its wildness. The canyon was an utterly spellbinding slice of earth, like no place I had ever seen: The creek burbled by in a chain of long, skinny pools—tinted an astonishing shade of emerald by dissolved minerals—linked by a series of cascades ranging in height from mere inches to more than seventy feet; above this tableau shot walls of rose-colored granite sculpted into striking curves and sensuous angles, and polished smooth as a bowling ball."
+
+* Fisher invented a tiny inflatable raft to float a pack in front of a swimmer.
+
+A MOUNTAIN HIGHER THAN EVEREST? (Various debunked claims)
+
+* To calculate a mountain's elevation by triangulation, a surveyor uses a theodolite to "shoot" the angle of the peak's rise from two different stations with a known altitude. After measuring the distance between the two stations, he knows the dimensions of two angles and one side of a huge imaginary triangle delineated by the mountain's summit and the two stations. Must then correct for the curvature of the earth, atmospheric refraction, and plumb-line deflection (tendency for immense mass of a range to tug the liquid leveling bubbles towards the mountains). Now use satellites readings.
+
+THE BURGESS BOYS (Twin Brothers)
+
+* "Aside from a few momentary lapses, the twins proudly point out, neither has held an honest job since 1975."
+
+* Haven’t actually summited very often: "If climbers kept track of batting averages, Adrian would be hitting about .200 in the Himalayan Leagues, Alan a lowly .167."  They say because conservative climbers (those who die usually are pushing to meet outside pressure), others say they haven't a clue how to organize an expedition.
+
+A BAD SUMMER ON K2 (Pakistan/China)
+
+* "The most coveted prize on K2 was its striking South Pillar, huge and unclimbed, a "last great problem" that Messner had nicknamed "the Magic Line." Soaring two vertical miles from glacier to summit, it demanded more steep, technical climbing at extreme altitude than anything previously done in the Himalaya."
+
+* Four teams attempted in 1986, brutal weather meant one-in-five died (typically 1-in-30 people die in 8,000-meter peak attempts).  Had to abandon a comatose leader in a tent at 26,000 feet.
+
+* "as the season wore on and the mountain prevailed, a number of these climbers quietly abandoned their previously ballyhooed principles and made free use of the ladder of ropes and tents the Koreans had erected on the Abruzzi."
+
+THE DEVILS THUMB (Alaska)
+
+* At age 23, quit construction job in Boulder to drive to Alaska and attempt the peak which captured his imagination since reading a mountaineering guide at age 8.  Took 20 days and several tries before summiting.
+
+* Because soloing, tied perpendicular curtain rods to hopefully prevent falling through snow, but "My ten-foot curtain rods seemed a poor defense against crevasses that were forty feet across and two hundred fifty feet deep."
+
+* "If we had some ham, we could have ham and eggs, if we had some eggs."
+
+* "A madrigal of creaks and sharp reports—the sort of protests a large fir limb makes when it's slowly bent to the breaking point—served as a reminder that it is the nature of glaciers to move, the habit of seracs to topple….Early on a difficult climb, especially a difficult solo climb, you're hyperaware of the abyss pulling at your back. You constantly feel its call, its immense hunger. To resist takes a tremendous conscious effort; you don't dare let your guard down for an instant. The siren song of the void puts you on edge, it makes your movements tentative, clumsy, herky-jerky. But as the climb goes on, you grow accustomed to the exposure, you get used to rubbing shoulders with doom, you come to believe in the reliability of your hands and feet and head. You learn to trust your self-control….The accrued guilt and clutter of day-to-day existence—the lapses of conscience, the unpaid bills, the bungled opportunities, the dust under the couch, the festering familial sores, the inescapable prison of your genes—all of it is temporarily forgotten, crowded from your thoughts by an overpowering clarity of purpose, and by the seriousness of the task at hand."
+
+## John Dickerson: The Hardest Job in the World
+
+Today’s presidency looks nothing like the framer’s vision of a humble executive who was above the fray, did not campaign for the job, was restrained in power, and managed a neat set of issues.  It is now the most powerful and overburdened job on the planet.
+
+* Presidents must fight tooth and nail to win the job (even the famously restrained George HW Bush acknowledged the first step of leadership was winning power).  Electoral College was a messy compromise of the Constitutional Convention; JFK among the first to benefit from primaries.  Voters should assess character, policy, and how candidates would approach job, but instead focus on sound bites, controversy, and momentum shifts.  
+
+* Executive power has grown steadily over time—as early as Jefferson’s Louisiana Purchase, though particularly under FDR’s New Deal. Congress has allowed this to happen as complex crises demand rapid responses.  Still, presidents are usually unsuccessful at championing policies without pre-existing broad public support (even Lincoln and FDR understood the importance of patience).
+
+* Presidents have a broad and interminable list of matters to attend to, many arising on short notice ("if half your meetings are planned, that’s a good day").  Once elected, candidates quickly learn governing is nothing like campaigning, though today the “campaigning” never really stops. Reagan: “How could the president NOT be an actor?”  LBJ started now compulsory visits to natural disaster sites after visiting Louisiana to win votes.  Building an emotional bond with citizenry is an important aspect of the job.  Eisenhower matrix useful for prioritization (urgent v. important; act, plan, delegate, delete).
+
 ## Ronald Rosbottom: When Paris Went Dark
 
 **_Capture_**: Paris saw Madrid and Warsaw suffer aerial bombing and began securing Louvre artifacts in 1930s. Wehrmacht’s western advance was so fast it triggered mass civilian exodus south. They took 1.5M French POWs in just over a month (most sent to Germany and released in dribbles over the next few years as bargaining chips). To avert French surrender, Churchill offered to combine countries into a "Franco-British Union."  WWI hero Philippe Petain's armistice with Germany was a political decision seen as temporary (until UK surrendered) and supported by some right-wing (anti-Communist) French.  Hitler was intentionally conciliatory to prevent French leaders/Navy from fleeing to UK (as Charles de Gaulle did). Luftwaffe bombed industrial facilities in suburbs but left Paris mostly untouched. But insisted French government move 4hr south to Vichy (denied request for Versailles). Took Paris with no counterattacks, street fighting, or resistance (though purported sabotage of the Eiffel Tower's elevator meant the Nazi flag had to carried up by hand). German spies had a detailed understanding of Paris and quickly occupied hotels and homes of the wealthy Jews. Picasso chose to stay in his left bank studio through the occupation. 
