@@ -21,6 +21,64 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Jack Bogle: The Little Book of Common Sense Investing
+
+Since 1929, the correlation between growth in GDP and corporate profits is almost perfect (0.98).  Since 1900, stocks have returned 9.5%.  Most (9.0%) of that is from investment return (dividend yield and earnings growth), the rest (0.5%) is from speculative return (impact of P/E change).  While stock prices frequently lose touch with the reality of corporate values—causing swings and corrections—in the long run they always revert to the mean.
+
+*Actively Managed Mutual Funds*
+
+* *Costs*: Active managed expense ratios (management fees and operating expenses) average 1.3%/year, which cancels returns and compounds over time.  And this does not include turnover costs from purchase and sale of securities, which average 0.5%/year.  Active turnover around 78% (versus 3% in an index fund) generates a ton of tax liability.
+
+* *Performance*: Over the past 25 years, average mutual fund returned 7.8%/year (versus the 9.1% of the S&P 500).  Since 1970, almost 80% of mutual funds have gone out of business and less than 3% beat the market by more than 1%/year.  Over time, their performance always reverts to the mean.
+
+*History of Indexing*: Standard & Poor created the 500 stock index in 1926; Dow Jones created the Wilshire 5000 in 1970; Vanguard created 500 Index in 1976, Total Stock Market Index in 1992.  ETFs are ok if total market, but beware of "smart beta ETFs" that try to beat the market.  
+
+*Recommendations*: Don’t look for the needle; buy the haystack.  Financial advisors are best used for asset allocation, tax considerations, retirement spending—not picking stocks (most are trying to sell something).  In investing, past is rarely prologue (in fact, reversion to the mean suggests the opposite).  Benjamin Graham, who pioneered "value" investing the and the search for undervalued securities, recommends 50/50 stock/bond allocation, never surpassing 75/25 either way.  Bogle suggests starting and 80/20 and gradually working down to 50/50.  Target Date Funds are convenient, just watch out for fees.  Since 1993, US has outperformed international 9.1% to 5.1%.
+
+## Jonathan Clements: How to Think About Money
+
+Wall Street Journal personal finance columnist.  Studies have found:
+
+* We place too high a value on possessions and not enough on experiences
+
+* Spending money on others can deliver greater happiness than spending it on ourselves.
+
+* We get more pleasure from frequent small purchases than occasional big ones
+
+* We get more pleasure when we delay purchases, because delay brings an enjoyable stretch of anticipation
+
+* We’re often happier when we have less choice, not more
+
+* We’re happier and more enthused about our daily life if we are engaged in activities we feel like we are good at (competence), we are doing them because we want to rather than forced to (autonomy), and we aren’t socially isolated (relatedness).
+
+* We make financial decisions not for utilitarian (what it does for me) reasons but expressive (what it says about me) and emotional (how it makes me feel) reasons.
+
+* Satisfaction through life declines in our 20s and 30s, bottoms out in our 40s (struggling to raise kids, forge ahead in career, and care for parents), and rebounds from there.
+
+*Saving*: Having a big house or nice car doesn’t mean someone has a lot of money, it means they spend a lot of money. Living far below our means ensures we need a smaller nest egg to retire in comfort (and that we can enjoy the pleasure of a gradually rising standard of living).
+
+*Index Funds*: Problems of active management became apparent after  1974 bear market, closer scrutiny of their performance, and improved technology enabling market funds.  Vanguard founded 1976.  Historically, stocks have earned 7% above inflation (money doubles every seven years).
+
+## Bill Bryson: One Summer America 1927
+
+*Charles Lindbergh*: A little known stunt pilot, Atlantic crossing was an impressive feat of navigation and endurance. 4-5M attended his ticker tape parades in NYC and his summer tour visited 82 cities in 3 months. Still, he was awkward and did not enjoy the fame (he would sometimes make detours in the air to extend solitary bliss). Dogged by the press (during honeymoon and following the murder of his son), he moved to Europe where developed admiration for Hitler. Upon return, broadcast America First speech assaulting British, Jews, and FDR and never recovered popularity. 
+
+*Baseball*: 1919 Black Sox were found not guilty in federal court but banned nonetheless. Though much about the ballpark experience has stayed the same, 1920s parks were unique shapes, poorly maintained and lacked a public address system.  There were more fights (including with fans) and being a player wasn’t glamorous (carried own bags, sometimes played in dirty uniforms).  Although popular, few teams made money because most people were at work during day games.  In 1923, a Philadelphia judge ruled fans were allowed to keep foul balls.  Gehrig was strong and handsome, but suffered from no personality and crippling shyness. Ruth made $70K/year, more than the next five teammates but less than than the radio announcer. The dominant 1927 Yankees won 110 games on the strength of 60 and 47 HRs by Ruth and Gherig, respectively. Once inseparable, Gherig stopped speaking to Ruth after he allegedly slept with his wife. 
+
+*Prohibition*: A shambolic experiment. Dept of Treasury was tasked with enforcing but lacked funding or zeal.  US lost ~$500M/year in liquor taxes.  Speakeasies with unregulated drinks proliferated.  Because alcohol has legitimate purposes beyond drinking, the USG intentionally poisoned a random assortment of it to deter drinking (poisoned as many as 60K).  Lost momentum when zealot Wayne Wheeler's wife burnt to death in a kitchen accident and he subsequently died of a heart attack. 
+
+*Al Capone*: Gangsters enjoyed near total immunity in Chicago. When a mobster died in 1921, 8K people attended the funeral and his pallbearers included a prosecutor. Alphonse "Scarface" Capone's reign really only lasted 1925-1927 and many of the stories are myth. Still, he generated and estimated $105M producing illicit (and tax-free) booze, paying off scores of law enforcement before arrests for weapons and tax evasion. 
+
+*Presidents*: Ohio Senator Harding’s unexpected election was largely premised on being handsome.  He was ineffective and crass, appointing corrupt friends, though he died right before Teapot Dome scandal broke.  The unknown and eccentric "Silent Cal" Coolidge administration was "dedicated to inactivity," working 4.5hrs/day. Depressed and unmotivated, Coolidge held a press conference where he handed out sheets saying "I do not choose to run." Sec Commerce Herbert Hoover took a hand in everything and tirelessly self-promotion (Was also a proponent of eugenics). Hoover both won the 1928 election and lost the 1932 election by record margins. 
+
+*Stock Market Crash*: Adherence to gold standard resulted in buildup of gold in NYC Fed—which reduced interest rate from 4% to 3.5% to encourage trade.  However, this led to Great Market Bubble of 1928 and subsequent crash in October 1929.
+
+*Henry Ford*: For a man who changed the world with his assembly line, Ford was narrow-minded (never lived far outside Dearborn, MI) and unintelligent (insisted the earth could not support the weight of skyscrapers and cities would collapse in on themselves). The Model T was rudimentary with no speedometer or gas gauge (had to tip back driver's seat to check dipstick). But it was adaptable and indestructible, and pioneered putting the driver on the left-hand side. Fordlandia was a 20-year misguided plan to build a model American community in the jungles of Brazil and from it run the greatest rubber producing estate in the world. Pushed anti-Semitism in Dearborn Independent. 
+
+*Anarchists*: JEH started Great Red Scare started after 1919 AG Palmer bombing. Many Americans believed the nation had flung open its doors to the tired and poor of Europe only to have that generosity repaid with strikes, bombs, and rebellions. Two Italian immigrants were convicted and executed for a robbery/double homicide, with minimal evidence (though they were likely involved in bomb making). 
+
+*Other*: Top-billed boxing matches attracted as many as 150K spectators at Soldier Field. On Mt Rushmore, a crack on Jefferson's nose meant the face was reset many feet deeper into the stone. WWI masterpiece Wings won first best picture in 1929. The KKK re-emerged in the 1920s strategically focusing on hatred of Catholics in the midwest, Orientals in the West, Jews in the east, and Blacks everywhere. Supreme Court ruled 8-1 state could sterilize women who scored poorly on IQ tests.
+
 ## Peter Attia: Outlive: The Science & Art of Longevity
 
 Longevity Components
