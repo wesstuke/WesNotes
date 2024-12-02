@@ -21,6 +21,58 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Daniel Siegel and Tina Payne Bryson: The Whole-Brain Child
+
+Talk about experiences and feelings; support their exploration.  Even difficult moments are opportunities to not just survive but thrive.  First, assess HALT (hungry, angry, lonely, tired).
+
+* Integrating LEFT (logical) and RIGHT (artistic) Brain
+
+    * Connect and Redirect: When child is upset, connect first emotionally in the right brain (e.g. acknowledge feelings).  Once they are calmer, bring in left brain lessons/discipline.
+
+    * Name it to tame it: When big, right-brain emotions are raging out of control, help your kids understand what’s  upsetting them by telling their own story, so their left brain can help make sense of their experience and they feel more control.
+
+* Integrating UPSTAIRS (sophisticated) and DOWNSTAIRS (emotional, amygdala) Brain
+
+    * Engage, don’t enrage: An upstairs tantrum is when your toddler decides to throw a fit—don’t negotiate with terrorists.  But in a downstairs tantrum, start with a loving touch and soothing tone, then engage upstairs by asking questions, requesting alternatives, or negotiating, rather than saying "Because I said so!"
+
+    * Use it or lose it: Exercise their developing upstairs brain by playing "What would you do?" games, and letting them make as many decisions as possible (what to wear, resolving schedule conflicts, giving allowance).
+
+* Integrating Memory: Help kids make their implicit memories explicit, so past experiences don’t affect them in debilitating ways.
+
+    * Remember to remember: Exercise your kid’s memory by asking them specific questions about events (game: "tell me two things that did happen and one that didn’t").
+
+* Integrating Many Parts of Myself: Kids tend to fixate on worries on their "wheel of awareness."
+
+    * SIFT Check-ins: Go through Sensations, Images, Feelings, and Thoughts with them on car rides.  Ask why they think they feel that way.  As get older, introduce to more sophisticated feelings.
+
+    * Let the clouds of emotion roll by.  Average feeling lasts 90 seconds.
+
+    * Try deep breaths, counting to ten, journaling.  Movement and exercise can help resume balance.
+
+* Integrating Self and Other: Create positive mental models of relationships and capitalize on the brain’s need for social interaction.
+
+    * Enjoy each other: Build fun (e.g. improv games) into family, so your kids have secure attachment and positive experiences to draw from.  We soak up the emotions around us.  Shyness largely genetic but practice builds confidence.
+
+    * Connect through conflict: View conflict as an opportunity to teach your kids essential relationship skills, like seeing other people’s perspectives, reading non-verbal cues, and making authentic apologies.
+
+## Tim Alberta: The Kingdom, The Power, and The Glory
+
+Most of the founders believed in some deity and drew some revolutionary inspiration from the scriptures, but they wanted nothing to do with theocracy.  
+
+* "America’s pastor" Billy Graham grew suspicious of partisans throughout his career and helped establish evangelicals as a joyful and civic-minded alliance of: (1) Pentecostals, with an emphasis on charismatic expressions; (2) Fundamentalists, with old-fashioned rituals; (3) Southern Baptists, with cultural etiquette; and (4) Protestants, with social awareness.
+
+* Jerry Falwell Sr. originally criticized MLK for entangling religion and politics, but railed against President Carter for giving an interview with Playboy magazine in which he admitted to having "looked on a lot of women with lust."  Notre Dame’s Catholics were too dignified and BYU too genial to battle the left, so he created Liberty University.  Others now include Bob Jones University, Oral Roberts University, and Wheaton.  With Heritage co-founder Paul Weyrich, Falwell created the “Moral Majority” which spiked during the Reagan years.  Falwell Jr. fancied himself a businessman with an affinity for Trump and cracked down on the student newspaper and turned the school into a satellite location for CPAC, and draconian enforcement of the Liberty honor code (e.g. no dancing) all while he found himself in a love triangle with a pool boy.
+
+* Pat Robertson was a televangelist who ran unsuccessfully for President in 1988 and went on to create the "Christian Coalition."
+
+* Trump developed a cocktail of discontent—one part cultural displacement, one part religious persecution, and one part nationalist fervor.  
+
+Pastors are struggling to insulate their congregations from COVID (lockdowns, masks, vaccines), Critical Race Theory, 2020 election, wokeness (abortion, homosexuality, transgenderism).  Members complain about a sermon or social media post and ignite a rebellion, often flocking to firebrand megachurches.  First Baptist Dallas has escalators, a coffee shop, bookstore, and fountains which spray a hundred feet.  Many pastors are now regulars on Fox News and at political rallies.  On tours (e.g. American Restoration, ReAwaken America, Saving America, Kingdom to the Capitol), they promote their websites (e.g. Faith Wins), publishers (e.g. Charisma Media), events (e.g. Pastors Summit, Freedom Night in America) and organizations (e.g. Faith and Freedom Coalition, TPUSA Faith).  As gatekeepers have fallen, extremism has normalized (61% of Republicans support a formal USG declaration that America is a "Christian Nation").
+
+The Bible teaches that fear is just as powerful as faith.  These Christian-right speakers proclaim deep-state Democrats, corporate elites, Hollywood fiends, and traitorous Republicans (even Mike Pence!) are targeting Christianity in America and God’s people need to strike back (by way of giving money to a wide spread of ventures).  But many of Christ’s teachings (help the poor, avoid fame, love your enemies) are totally lost.  To many evangelicals, America has become an idol, a new Israel, and believe they must fight for their vision of America as if salvation itself hangs in the balance.  
+
+While the Catholic Church has effectively offset its scandals with bountiful, centralized, highly visible social programs for the hungry, disabled, and sick, the evangelical brand has become disassociated from the teachings of Christ and obsessed with social and political power.  This comes at a time when Americans increasingly distrust the Church and are abandoning religion at a historic pace.
+
 ## Jack Bogle: The Little Book of Common Sense Investing
 
 Since 1929, the correlation between growth in GDP and corporate profits is almost perfect (0.98).  Since 1900, stocks have returned 9.5%.  Most (9.0%) of that is from investment return (dividend yield and earnings growth), the rest (0.5%) is from speculative return (impact of P/E change).  While stock prices frequently lose touch with the reality of corporate values—causing swings and corrections—in the long run they always revert to the mean.
