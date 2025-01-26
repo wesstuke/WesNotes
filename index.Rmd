@@ -21,6 +21,96 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+## Captivating History: Nikola Tesla
+
+Thomas Edison’s direct current (D/C) system involved a current running in only one direction, and required generators every mile or so for industrial lighting.  Tesla’s alternating current (A/C) solved many of these problems, although he lacked Edison’s business savvy.  Edison went so far as to electrocute animals (dogs, cats, and an elephant) to portray A/C as dangerous, which resulted in his patenting of the electrical chair.  Tesla’s break came through a partnership with Westinghouse which paid a lucrative salary and licensed his patents.  He also invented the Tesla Coil, a refashioned transformer, and made contributions to vertical lift and radio transmission.  Tesla’s many quirks included celibacy, obsession with food portions, a belief he detected signals from Mars, and the doomed construction of a 187-foot tower with a 55 ton steel sphere on the top.
+
+## James Bradley: Flags of Our Fathers
+
+*Pacific War*: While Europeans fought the brunt of the Atlantic theater, America stood virtually alone in the Pacific.  Japan, like Nazi Germany, used a master-race mentality and highly mechanized war machine to subjugate those it claimed to be freeing (raped/killed 350K in Nanjing).  Japanese fought to the death and regularly violated rules of war (killed 37% of US POWs compared to 1% in Europe).  USMC was created as a subset of the Navy in 1775, but had never played a significant role until they became the preeminent amphibious warriors in the world.  
+
+*Training*: At Camp Pendleton, CA, trained in dry-land mock-ups for climbing over the rail and down the side of a sky-scraper sized transport ship and into small landing vehicles.  More training in Hawaii and full-scale rehearsal in Tinian before heading for their top secret destination.  Iwo Jima is a dry wasteland of black volcanic ash (means "sulfur island"), but also part of the Tokyo prefecture.  It was bombed a record 72 consecutive days prior to the invasion but naval shelling was limited.
+
+*Landing*: Rather than Normandy-style beach defenses, Japanese fortified the interior of the island with 1500 honeycombed underground defensive positions, making it a killing field.  70,000 Marines would land on a narrow 2 mile beach on the island defended by 22,000 Japanese.  Marines tried to identify "fire lanes" and get to the periphery of a shooter’s range to get grenades or flamethrowers in the pillboxes, but many were hit by crossfire.  Unlike Normandy, which fell quiet after 24 hours, the Iwo Jima shoreline continued to absorb casualties for days.
+
+*Suribachi*: On the second day, the 28th Regiment took on Mount Suribachi, "the most fortified mountain in the history of the world," taking 33% casualties.  At the direction of the Colonel, 40 men climbed to the top to raise a small flag to the cheering of men down on the beach.  Soon after, it was replaced with a larger flag, generating the instantly famous picture.
+
+*Battle*: Unbeknownst to most Marines, the real Battle of Iwo Jima was just beginning, a 36-day battle of attrition with no front lines.  Three of the six "flag raisers" died in the following days (snipers, friendly shells).  Few armies with front-line losses over 50% are ordered to keep attacking, especially in the face of heavy fortifications.  The only battle in the Pacific where invaders suffered higher casualties than defenders (most medals of valor of any battle).  But control of Iwo Jima’s airstrip allowed the B-29s to begin firebombing Tokyo.  
+
+*Post-War*: The three surviving "flag raisers" headlined the wildly successful 7th Bonds Tour to raise money, and continued as public figures through the dedication of the USMC Memorial in 1954 before going their separate ways. Today, Iwo Jima is a Japanese Naval Base closed to all civilians.
+
+*Afterward*: Two years after book’s publishing, USMC released new photos indicating Bradley was involved in the first flag and/or attaching the replacement but not in the iconic photo.  In 2016, author finally conceded as much, explaining his father was told it was him so he assumed it was him.
+
+## Chris van Tulleken: Ultra-Processed People
+
+Sugars and fats aren’t responsible for increased obesity and mortality—it’s processing, particularly the addition of stabilizers, emulsifiers, flavorings, sweeteners, and other compounds  artificially synthesized.  The profit-driven food industry is incentivized to produce food cheaply by minimizing grown/harvested ingredients, using common ones (e.g. corn syrups), and using waste products from other industries as additives.  They also maximize addiction and promote overconsumption (very sweet/salty, soft).  Foods form matters, and UPF’s softness may be driving shrinkage of jaws, making overbites more common.  Our perceptions of taste are easily manipulated by smell, or using flavorings to cover inedible products (UPF is more edible mush than real food).  FDA has minimal clout and much of the contradictory "research" is funded by food companies.  NOVA Classification System:
+
+1. Minimally processed and natural foods (fresh fruit, granola)
+
+2. Culinary ingredients (oils, butter)
+
+3. Processed foods (canned or bottled vegetables)
+
+4. ULTRA-PROCESSED FOODS (cereals, energy bars, packaged snacks)
+
+## Charles Duhigg: Supercommunicators
+
+Three conversations (can move between as dialogue unfolds):
+
+1. Practical, decision-making conversations that focus on What’s This Really About?
+
+2. Emotional conversations, which ask How Do We Feel?
+
+3. Social conversations that explore Who Are We?
+
+Know which one you’re having to know whether to "hug, help, or hear." When people “click,” their brains and bodies synchronize (breathing, eye dilation, goosebumps).  Over 80% of laughing results not from humor but rather an attempt to connect.
+
+*Recommendations*:
+
+* *Matching Principle*: Adjust to others’ moods, focus areas, and emotional states to foster mutual understanding.
+
+* *Looping for Understanding*: Repeat back what the other person has said in one’s own words to ensure understanding and demonstrate active listening. It is particularly useful in conflict resolution and building trust.
+
+* Ask deeper questions about feelings to connect. Instead of where did you go to college? What was your favorite part of college?  When someone’s family member dies, ask what were they like?  Ask follow ups and share your feelings own where appropriate.  
+
+* Consider the role of identities.  Draw out your conversational partner’s multiple identities, look for social similarities.
+
+* Prepare for difficult conversations in advance, thinking through goals and potential obstacles.  Underlying most marital fights are deeper emotional insecurities (happy couples slow down the fight).
+
+## Daniel Siegel and Tina Payne Bryson: No-Drama Discipline
+
+**_First, CONNECT_**
+
+When a child is furious, that’s when they need parents the most.  Connection moves them from reactivity (emotional dysregulation) to receptivity, builds the child’s brain, and deepens your relationship.  Young kids don’t yet have the capacity to regulate their emotional states (intentional or "strategic tantrums" are rare and parents can learn to identify them).  
+
+Steps: Be rational (let go of past experiences and future fears).  Figure out why child is acting out.  Focus on how you deliver the message.
+
+1. Communicate Comfort: touch them, get below their eye level.
+
+2. Validate: Tell or ask how they’re feeling.
+
+3. Stop Talking and Listen: They won’t hear you while they’re flooded anyway.
+
+4. Reflect What You Hear: Demonstrate you’re listening to them.
+
+**_Then, REDIRECT_**
+
+Effective discipline is not about punishment, but TEACHING our kids to make better decisions in the future.  Be consistent (reliable philosophy) but not rigid (ok to make exceptions in special circumstances).  Do-overs give a child a second chance to handle a situation well.  Try to address an issues as soon as possible, but only when you and child are both calm (for older kids, can be next day).  When possible, avoid discipline in front of an audience, as embarrassment is a distraction.  Make a compromise to give kids an out from a power struggle.  Switching parents can help shake up dynamic.  If you lose your temper, repair as quickly as possible.
+
+Guidelines: Reduce words, embrace emotions don’t minimize feelings, describe don’t preach (or jump to conclusions), involve your child (ask for suggestions), reframe a no into a yes with conditions, emphasize the positive (the behavior you do want), be creative (use humor or silliness), teach mindset tools.  
+
+Benefits: Child builds personal insight, empathy for how their actions impact others, and learns to repair bad situations.
+
+**_Other:_**
+
+* Angry threats (in tone or posture) activate the defensive circuits of the child’s reactive reptilian brain.  Spanking is counterproductive to building respectful relationships with our children, who look to their parents as their protectors.  
+
+* Timeouts in a "calm zone" can be used occasionally as an intentional strategy where the parent, who has discussed the idea with the child beforehand, pauses a difficult interaction for 3-5 minutes (but isolation rarely helps a child learn).
+
+* Read your child’s cues and take proactive steps to avoid meltdowns (e.g. give 5-minute warnings before leaving the park).  Avoid taking sides in "sibling chess."
+
+* You can connect while still setting boundaries ("I’m not going to change my mind").  You spoil your child by buying them things they don’t need or shielding them from all bad consequences, but you can’t spoil your child with too much time or attention.
+
 ## Daniel Siegel and Tina Payne Bryson: The Whole-Brain Child
 
 Talk about experiences and feelings; support their exploration.  Even difficult moments are opportunities to not just survive but thrive.  First, assess HALT (hungry, angry, lonely, tired).
@@ -9536,9 +9626,9 @@ Economics is the science of recognizing secondary and general consequences of ac
 
 ## Sheryl Sandberg: Lean In
 
-Focus on barriers internal to women, but adds generalized statements about "male" behaviors creating external barriers based on sparse research.
+<!-- Focus on barriers internal to women, but adds generalized statements about "male" behaviors creating external barriers based on sparse research.
 Acknowledges the conversation can't start with "I deserve a higher title because I'm a woman." Crying at work maybe be a fact of life but is still not productive.
-<!-- I TOO EXPERIENCE: IMPOSTER SYNDROME, HESITATION TO ASK FOR THINGS, DEFAULT TO BACK BENCHING MEETINGS, WORK-LIFE BALANCE CHALLENGES. -->
+I TOO EXPERIENCE: IMPOSTER SYNDROME, HESITATION TO ASK FOR THINGS, DEFAULT TO BACK BENCHING MEETINGS, WORK-LIFE BALANCE CHALLENGES. -->
 
 -   Fake confidence until you feel it; overcorrect for weaknesses.
 
