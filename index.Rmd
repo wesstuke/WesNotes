@@ -21,6 +21,232 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Paste New Markdown text (from GMail preview) below and delete **s before & after titles -->
 
+
+
+## Annie Jacobson: Nuclear War: A Scenario
+
+The world could end in a few hours.  Imagines a DPRK "bolt in the blue" strike on the US:
+
+* A SBIRS satellite picks up a DPRK ICBM launch, (all nations notify of launches except DPRK).  The Clear Space Force Station in Alaska confirms its path over the horizon and notifies the Missile Warning Center in Cheyenne Mountain and the National Military Center under the Pentagon.  In the GLobal Operations Center beneath Offutt Air Force Base in Nebraska, commander of STRATCOM reports directly to the President in the PEOC under the White House.  
+
+* At Fort Belvoir, the Missile Defense Agency tries Ground-Based Midcourse Defense, but it has only 44 interceptors and a 55% success rate.  From the "football" (satchel), the President reviews the Black Book list of nuclear strike options.  He is briefed by a nuclear strike advisor (who studies the contents on a daily basis) and weather officer (who briefs on casualties from wind-blown radiation).  He launches B-2s from Guam (the only leg of the triad which can be recalled).  US has “Launch on Warning” policy, meaning we won’t wait for impact.  Secret Service’s Counter Assault Team carry the President to a helicopter.  In the Mount Weather Emergency Operations Center, FEMA focuses on government officials (civilians will be on their own).
+
+* All US THAAD systems are deployed overseas, but Seoul is overwhelmed anyway by thousands of chemical weapons rockets.  The ICBM hits the Pentagon, obliterating the Washington DC area and shifting data flows to "Site R" under Raven Rock mountain.  DPRK follows with a SLBM which hits a nuclear power plant in California.  Because the US’s ICBMs are fixed, the President launches all 400 to “use them or lose them.”  They do not have enough range to hit DPRK without overflying Russia. Before the internet crashes, a farmer posts a picture of the impact on Twitter.
+
+* STRATCOM commander hops on his pro-powered Doomsday Plane with AEHF communications.  Ohio-class submarines launch 80 SLBMs from 150 feet under water (an explosive charge vaporizes water at the base of the missile tube) which are guided by the stars. DPRK satellite explodes high-altitude "super EMP" which  knocks out all three US power grids, cars, non-747 planes, and SCADA systems (water, gas, mechanical systems).  
+
+* The President’s helicopter was taken by the electromagnetic pulse and he has lost contact.  WIthout contact, the Russian President is told hundreds of warheads are headed to RUssia and decides to launch 1,000 ICBMs.  Sworn in as acting President, the SecDef exhausts his own supply launching B-52 nuclear bombers from North Dakota and Louisiana.  Pilots for the 100 gravity bombs on loan to NATO partners begin suicide missions toward Russia, flying low to avoid radar.
+
+* After a 21 minute barrage of nuclear explosions, nuclear winter begins.  With almost no sunlight, temperatures plunge, and survivors become sick with radiation poisoning.  Rainfall is reduced by 50%, and there isn’t enough uncontaminated food and water.  After many months, there is now harsh sunlight, pathogens, and plague (insects swarm).
+
+## Linda Flanagan: Take Back the Game
+
+Once a healthy outlet for children’s development and fun, youth athletics have become a high-pressure, adult-driven industry fueled by money, status, and unrealistic ambitions.  The youth sports industrial complex negatively affects kids’ mental and physical health, marginalizes lower-income families, and distorts the true purpose of play.
+
+College is more expensive and competitive, and athletics is an attractive way for parents to improve their kids’ lots.  Meanwhile, private travel leagues, camps, brands, hotels, and media have all found ways to profit.  Some travel baseball coaches earn $200K/year.  Little League World Series dominates airtime.  Parents also derive too much pride from their kids’ athletic performances.  And the lengths families go to accommodate sporting tournaments/camps teaches the kids that sports matters above all else, draining fun from the experience.
+
+**_Recommendations_**:
+
+**_Parents_**: Follow your child's lead (their athletic status does not reflect the quality of your parenting). Don’t compare your child to the other kids; maturation rates vary. Encourage a variety of sports (each offers different benefits).  Don’t outsource your child’s developments to coaches and specialists.  Stay attuned for signs of abuse and let them quit.  Keep your family whole. Stay local as long as possible. Strive to keep perspective and balance. Be willing to miss exhibition games to go hiking, camping, or take a vacation. Model the behavior you want them to learn. Respect coaches and referees. Attend most games but miss some (reduces dependency).
+
+**_Coaches_**: Be a positive role model. Remember the definition of the word play. Foster an inclusive culture. 
+
+**_Society_**: To tame the youth sports industry, eliminate athletic scholarships/admissions. Could even fully replace varsity teams with club/intramural.  Create department of sports to monitor trends and set standards, including a "bill of rights" for children's sports.  Divorce sports from schools and return them to communities. More public funds for parks and facilities (NY uses a portion of sports gambling revenue).  Require coaches who use public facilities to be trainer/certified.
+
+## Annie Duke: Thinking in Bets
+
+Outcomes are always a combination of luck and decision quality.  We tend to discount the elements of luck, see outcomes as inevitable, and assume causation.  Poker is a better metaphor than chess because it’s a game of incomplete information.  
+
+We tend to believe what we hear, and instead of altering our beliefs to fit new information, we alter our interpretation of new information to fit our beliefs (intelligence makes bias worse because we are better at constructing narratives to support our beliefs).  Being asked to bet money forces us to examine how confident we are and reduces bias.  Expressing uncertainty in our beliefs makes us more credible communicators.  
+
+We are bad at learning from experience, claiming credit for successes and blaming failure on luck.  Need to learn to focus on things you can control (your decisions), let go of the things you can’t (luck) and learn to tell the difference between the two.  Deconstruct decisions before the outcome is known (e.g. evaluate trial strategy before the verdict comes in).  Watching others closely and consulting others with diverse perspectives helps. 
+
+The way we interpret outcomes is path dependent (if win 100 and lose 90, sadder than lose 100 and win 90).  Try to take the long view and fight short-term bias by committing to framework (e.g. a budget for a house).  Avoid words like "wrong" as nearly nothing is 0% or 100%.  Scenario planning helps us consider possible futures.  Backcasting (assume win) and premortums (assume loss) help.
+
+## **Jonathan Haidt: The Anxious Generation**
+
+Overprotection in the real world and underproduction in the virtual world have made Generation Z (born after 1995) the Anxious Generation.  Relationships in the real world are embodied, synchronous, one-to-one/several, one at a time, and take place in communities with a high bar for entry and exit (virtual relationships are just the opposite).
+
+**_PART 1: Tidal Wave of Adolescent Mental Illness_**
+
+Fear is the emotional response to a real or perceived imminent threat, where anxiety is the anticipation of a future threat.  It often manifests as tensions or tightness or discomfort in the chest cavity.  Major Depressive Disorder involves two weeks of feeling hopeless or loss of interest in activities.  These disorders are caused by genes, thought patterns, and social or environmental conditions.  All have gone up (mostly self-reported, though also self-harm and suicide).
+
+**_PART 2: Decline of Play-Based Childhood_**
+
+Kids grow rapidly from 0-2 and ~9-15 (puberty).  Free play, outdoors with other children of mixed ages develops conflict resolution and physical skills.  Experience, not information is the key to emotional development.  Kids oscillate between "discover" and “defend” modes, but parents should seek to maximize the former.  Every child needs a secure base, but they are also thrill-seeking and antifragile (kids that fall out of trees are least likely to be afraid of climbing trees).  Just as the immune system must be exposed to germs, children require exposure to setbacks, failures, shocks, and stumbles to develop strength and self-reliance.  “We want to see bruises, not scars.”  “Safetyism” and smartphones are experience blockers.  In the past 40 years, parenting has become less collaborative and less trusting.
+
+**_PART 3: Harms of Phone-Based Childhood_**
+
+The early iPhone (2007) was a Swiss Army knife for productivity but the "like" button (2009) and front-facing camera (2010) kicked off the “Great Rewiring of Childhood.” Primary harms:
+
+1. Social Deprivation (teens average 7 hours screen-based leisure per day)
+
+2. Sleep Deprivation (melatonin suppression)
+
+3. Attention Fragmentation (hundreds of notification per day)
+
+4. Addiction (apps are designed for this purpose)
+
+Social media is asynchronous and performative, appealing to a child’s conformist and prestige biases.  On the internet, everyone is the same age (no thresholds of permissions).  Girls are most impacted because they’re heavy users more prone to visual social comparison, emotional sharing, and predation/harassment.  Boys are more complicated but immersion in video games and porn have led to an increase in "failure to launch." With friendships, quality trumps quantity.
+
+**_PART 4: Recommendations_**
+
+Challenges are collective action problems: (1) as more parents relent to giving phones, pressure grows on the remaining; (2) any company that truly verifies ages will lose preteens to their competitors.  To avoid privacy concerns with uploading IDs, need to "mark" adolescent devices to tell companies to apply age restrictions.  Foundational reforms:
+
+1. More unsupervised play (revise supervisory neglect laws, more "adventure playgrounds", longer recess with fewer rules)
+
+2. All schools phone-free all day (lockers or locked bags)
+
+3. No smartphones before high school (~14).
+
+4. No social media before 16.
+
+For parents:
+
+* Maximize outdoor playtime with age diversity (e.g. "Free Play Fridays").  Provide kids responsibilities around the house.  Practice letting kids of sight (drop off five minute walk from school).  Encourage to find a job; gap year.
+
+* Minimize screen time except for FaceTime (no more than ~0/1/2 hours/day for toddlers/children/adolescents).  Provide clear structure and model good behavior with your phone.  Talk with kids about risks of posting information and learn parental controls for all digital devices.  Consider camping trip and/or screen-free week each year.
+
+## Renee DiRiesta: Invisible Rulers
+
+-We no longer live in a consensus reality, but we’re experiencing a Cambrian explosion of subjective, bespoke realities.  A deluge of content, sorted by profit-incentivized algorithms has enabled us to immerse ourselves in environments tailored to our own beliefs and populated with our own preferred facts.  Platforms built to connect the world have severed our ability to find common ground.
+
+*-History*: Media began to centralize with newspapers in the 1700s and continued with radio and TV. With a professional media class came journalistic standards, but their job was to manufacture consensus.  Distrust of the establishment began with the Vietnam War.  The old system wasn’t perfect, but the new one is chaos.
+
+-Social media has resulted in a collision of the *rumor mill *(ever-turning wheel of speculation and innuendo and fascination with the unverified) and the *propaganda machine* (agenda-driven machinery designed to push carefully constructed narratives for power or profit).  
+
+*-Influencers*, which originated from marketing, are measured by they reach (followers), relevance (focus), and resonance (influence).  *Algorithms*—the opaque processes that curate, suggest, and rank content—are designed to maximizer user engagement in service to advertising revenue.  The *crowd* follows like a flock of starlings, demanding short "news" cycles and “synthetic media moments” which strip incidents of critical context (e.g. 2019 Lincoln Memorial confrontation).
+
+*-Influencers* combine an ability to tell stories, use platforms, click with an audience around a mutual passion, and react quickly to the fast-moving world of information.  Monitoring metrics carefully, they act as gatekeepers who move ideas from fringe to center of conversation (often hedged with language like "big if true").  Categories include: entertainers, explorers, besties, idols, gurus, generals, reflexive contrarians, propagandists, and the perpetually aggrieved.  They seek clout and money (ads, merch, subscriptions, sponsorships), but there’s very little transparency (FTC has disclosure guidance but rarely enforced).  
+
+-*Crisis of Trust*: People are overwhelmed and they trust personable, pithy, entertaining influencers more than dry experts.  Compounding this, the internet allows people to "do their own research" and diminishes the perceived value of expertise.  Personal anecdotes and “friend-of-a-friend” rumors (e.g. Nicki Minaj’s cousin took vaccine and testicles swelled) are hard to fact check but still influence.
+
+-*Tribalism*: Shared values hold movements together (become part of members’ identities), but nothing is as strong as a shared enemy.  Within a group, some are recruiters, some "intellectualize" the issues, and some are shitposting agitators.  Momentary viral narratives swell up and recede like waves.  Rumors are collaborative and improvisational, passed back and forth like a melody between jazz musicians (DNC hack led to Pizzagate led to QAnon).  When election and pandemic ran out of steam, right-wing influencers shifted to culture war topics (young adult literature, green M&M’s shoes, kids identifying as cats).  Cycle of rage: incitement post retweeted, amateur sleuths start doxxing, pulling connections to other enemies, media coverage and Substack posts emerge.  Chills constructive discussion.
+
+-"*Censorship*": Building on October 2020 Hunter Biden laptop story, after December 2022 Twitter Files release, Matt Taibbi, Michael Benz, and Michael Shellenberger cherrypicked quotes to imply Stanford Internet Observatory’s Election Integrity Project and Virality Projects were coordinating with government and platforms to censor true stories (and the FBI had sent payments to Twitter—which they are required to do for legal process).  Jim Jordan’s SSC on Weaponization of Gov’t used subpoenas, testimony, and selective leaks to further discredit.  Despite claims of censorship, studies show conservatives tend to dominate social media.  Parler, Gettr, and Truth Social have done less well primarily because there are no “libs to own.”  
+
+-*State propaganda* has been used throughout history and can be white (overt), grey (plausible deniability), or black (actively misattributed).  KSA used with Kashoggi, China used with COVID origins, but most sophisticated are Russians, who use bots and agents of influence to amplify existing schisms in US society (triggered an actual brawl in Houston by creating fake competing rallies).  In 2021, Russia and China agreed to cooperate on propaganda narratives.
+
+-Social media reflects sample bias in which those with the most extreme views post the most and reach the most (only 15% of population is anti-vax and 18% supported defund the police).  Denials of rumors don’t receive the same reach because they are boring and expected (and could spread original rumor to an even broader audience).  Defamation lawsuits (e.g. Dominion Voting Systems) have proven most effective.
+
+-AI (text and images) makes it easy to mass produce unreality; and also case doubt on things that are real ("liar’s dividend").  
+
+*Notable Conspiracies [Originator, Amplifier]*
+
+* 2014 #ColumbianChemicals - ISIS attack on Louisiana black carbon factory killed horses. [Russian Internet Research Agency]
+
+* 2014 Sandy Hook faked [Alex Jones]
+
+* QAnon Family
+
+    * 2016 Democrats ran a child-trafficking ring out of a basement in DC pizzeria. [Posobiec]
+
+    * 2020 Wayfair traffics children (#SaveTheChildren) [Amazing Polly]
+
+    * 2022 Russia invaded to shut down US biolabs in Ukraine [WarClandestine,  Russian IRA]
+
+* 2016 Seth Rich murder orchestrated by the Clintons [Posobiec, IRA]
+
+* 2020 Pandemic
+
+    * "Plandemic" CDC portrayed as both incompetent and tyrannical [Mikki Willis / Judy Mikovits]
+
+    * Vaccines: sudden deaths, Bill Gates, microchips, 5G towers, magnetic [Peter McCullough / RFK Jr]
+
+* 2020 Election was stolen
+
+    * MaidenGate: Democrats registered female voters twice under their maiden names.
+
+    * SharpieGate: Maricopa County gave sharpies to Trump supporters so the machine wouldn’t tally their votes.
+
+    * Dominion: Voting machine company was flipping Trump votes.
+
+    * Hammer and Scorecard: Pertains to a government-run supercomputer called "Hammer" and a software program called “Scorecard.”
+
+    * Bussing in votes: 2000 Mules [Dinesh D’Souza]
+
+    * January 6 Attack: Antifa breached and/or Deep State planned and/or planted agitators in the crowd
+
+* 2023 "Large Explosion Near Pentagon" with AI-generated image [IRA]
+
+General comments:
+
+* Conspiracists lay the groundwork early (Trump claimed voter fraud well before election, anti-vaxxers well before COVID).
+
+* Left doesn’t help itself by rejecting legitimate concerns (e.g. calling legitimate questions about COVID origins racist spurred narratives that public health had gone "woke" with masks, lockdowns, and vaccines).
+
+*Recommendations*:
+
+* Policy
+
+    * Regulation: Help FTC and FEC enforce rules which let consumers be informed about the financial incentives of the people who promote products and politicians.
+
+    * Deterrence: Call out foreign influence campaigns to the public.
+
+    * Transparency: Provide data to researchers, make communications between government and platforms transparent.
+
+* Design
+
+    * Content Moderation (majority of Americans support)
+
+        * Avoid deplatforming, focus on throttling spread (freedom of reach, not freedom of speech)
+
+        * Create moderation frameworks guided by international human rights
+
+        * Ensure politics are informed by empirical research into harms
+
+        * Prioritize transparent enforcement with an appeals process (bad calls are inevitable)
+
+    * If follow content proactively, permit, but don’t recommend extreme.  
+
+    * Let users define their feed, moderation, and recommendation preferences.
+
+    * Friction isn’t bad (e.g. blurring out offensive memes, pop-ups asking users who go to reshare an article if they want to read it first).
+
+    * Crowd-source fact-checking.  Community-led moderation (e.g. Reddit) has higher legitimacy than top-down centralized.
+
+* Education
+
+    * Educate the public on how to recognize manipulative rhetoric.  
+
+    * Promote norms of decency online; influencers can set a good example.
+
+## Marisa Franco: Platonic
+
+The greatest indicator of happiness is level of social connection.  For life to feel significant, we crave people to witness it.  Unlike family, we get to choose our friends.  Our culture trivializes friendships (esp. versus romantic partners), and surveys indicate friendship is in decline.  Friends broaden your perspective by "advertising the kaleidoscope of ways we can live." Don’t take friendships for granted.
+
+-Attachment is what we project onto ambiguity in relationships: 
+
+1. Secure (assume worthy of love and trust others)
+
+2. Anxious (fear abandonment so clingy)
+
+3. Avoidant (also fear abandonment so keep others at a distance)
+
+-School settings have the ingredients essential for connection: continuous unplanned interaction and shared vulnerability.  But friendships are especially important in old age.  As an adult, you can rekindle old friends or put yourself out there and be present.  
+
+-Vulnerability is the deepest form of authenticity and courage.  Contrary to popular belief, people like vulnerable people (even men, though don’t overshare).  Empathy from friends cures shame.  The surest way to be consumed by our thoughts is to try to suppress them.  
+
+-To be authentic, lower your defense mechanisms and be mindful.  De-couple rejection and self-condemnation by keeping enough distance between your self-worth and others’ judgment.  The litmus test for whether an issue is worth addressing is if it continues to bother you.  Conflict is one of the only times we get honest feedback about ourselves.  Respond to concerns with understanding, validation, and care.
+
+-Being generous is key, but don’t fawn over people you don’t like, lest you become The Giving Tree.  Look for win-wins to make your generosity sustainable. 
+
+-Affection is important because people like people who like them.  We feel platonic (appreciation and liking toward someone), romantic (heady passion and idealization of someone), or sexual (desire to have sex with someone) love separately.  Homophobia has ravaged straight men’s willingness to show affection.
+
+## Sarah Ogilvie: The Dictionary People
+
+Australian former lexicographer for Oxford English Dictionary (OED) came across James Murray’s address book/records to build a big data set. Murray, the longest-serving OED editor (1879-1915), helped build the first dictionary that described language as it was used (Samuel Johnson’s 1700s dictionary prescribed how to use language).  To this end, the OED became a massive crowdsourcing project in which volunteer ‘readers’ mailed in hundreds of thousands of slips describing how particular words were used in their source materials.  ‘Subeditors’ received bundles of slips for pre-sorting and ‘specialists’ provided advice on etymology and meaning. Murray left school at 14 but used his prodigious memory to teach himself 25 languages.  Similarly, his readers were not intellectual elites but autodidact outsiders from around the world seeking to contribute to something meaningful.  They included three murderers, cocaine addict, pornography collector, mummy collector, Karl Marx’s daughter, countless vicars, an astronomer, a President of Yale, inventors (pipes, electric tricycle, green ink for printing money).  Murray died on the letter ’T,’ but the dictionary was published in 1928 in 10 volumes containing 414,825 entires. OED maintains a similar (online) process today, collecting new words, researching etymologies, and reviewed by editors. Facts:  
+
+* The number of letters in the English Alphabet was only settled in the 1600s.  Fuck has been used since the 1500s.  
+
+* Noah Webster created the American Dictionary (1828), changing spellings like "humour" and “defence.”  Other changes like “groop” and “bred” did not catch on.  Led “Dictionary War” against rival Joseph Worcester who was a superior philologist but failed the crowdsource.
+
+* Brothers Grimm (authors of Snow White, Sleeping Beauty, Little Red Riding Hood, Cinderella) tried to write their own dictionary but died before the letter G.  
+
+* English spelling is notoriously difficult, Linguists today joke that the word fish could be spelled ‘ghoti’ (using the ‘gh’ spelling for /f/ in rough, the ‘o’ spelling for /i/ in women, and the ‘ti’ spelling for the /sh/ sound in the middle of nation).  1870s saw experiments with more phonetic "Spelling Reform" or “Simplified Spelling.” 
+
+* Also over 150 new languages created as standards including Volapuk, Spleen, Spokil, Mindolingue, Ido, and Esperanto—which still has 2 million speakers today.
+
 ## Captivating History: Nikola Tesla
 
 Thomas Edison’s direct current (D/C) system involved a current running in only one direction, and required generators every mile or so for industrial lighting.  Tesla’s alternating current (A/C) solved many of these problems, although he lacked Edison’s business savvy.  Edison went so far as to electrocute animals (dogs, cats, and an elephant) to portray A/C as dangerous, which resulted in his patenting of the electrical chair.  Tesla’s break came through a partnership with Westinghouse which paid a lucrative salary and licensed his patents.  He also invented the Tesla Coil, a refashioned transformer, and made contributions to vertical lift and radio transmission.  Tesla’s many quirks included celibacy, obsession with food portions, a belief he detected signals from Mars, and the doomed construction of a 187-foot tower with a 55 ton steel sphere on the top.
